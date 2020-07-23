@@ -1,0 +1,3 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,1,Universitaetsklinikum Leipzig,Liebigstrasse 18,Leipzig,SN,04103,SN,0341 97109,"Universitätsklinikum",Government,Yes,5,51.331405,12.386384
+1,2,Universitaetsklinikum Carl Gustav Carus Dresden,Fetscherstrasse 74,Dresden,SN,01307,SN,0351 4580,"Universitätsklinikum",Government,Yes,5,51.054884,13.777698
