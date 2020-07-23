@@ -5,7 +5,7 @@ Der Synthea_DE Ordner enthält die Konfigurationsdateien um mit Synthea deutsche
 
 Da diese Anpassungen im Rahmen meiner Bachelorarbeit stattfanden, stelle ich die Arbeit hier ebenfalls zur Verfügung.  
 
-Im Output Ordner befinden sich bereits testweise 100 Patienten die im Fhir R4 Standard erzeugt wurden.  
+Im Output/Fhir Ordner befinden sich bereits ca. 100 Patienten die testweise im Fhir R4 Standard erzeugt wurden.  
 
 
 ## Nutzung ##
