@@ -1,0 +1,279 @@
+Mathilde Schütte
+============ü===
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 20
+Birth Date:          1999-09-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-04-26[STOPPED] : Yaz 28 Day Pack
+  2013-09-14[STOPPED] : Levora 0.15/30 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-11-26 - 2016-12-03 : Viral sinusitis (disorder)
+  2016-08-13 - 2017-03-18 : Normal pregnancy
+  2013-01-18 - 2013-01-28 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-08-13[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-10-31 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+           - MCV [Entitic volume] by Automated count  82.6 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+           - Platelets [#/volume] in Blood by Automated count 379.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 183.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2010-10-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+           - MCV [Entitic volume] by Automated count  89.2 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+           - Platelets [#/volume] in Blood by Automated count 265.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 315.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-11-17 : Tobacco smoking status NHIS              Never smoker 
+  2018-11-17 : Respiratory rate                         15.0 /min
+  2018-11-17 : Heart rate                               64.0 /min
+  2018-11-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2018-11-17 : Body mass index (BMI) [Percentile] Per age and gender 67.5 %
+  2018-11-17 : Body Mass Index                          23.2 kg/m2
+  2018-11-17 : Body Weight                              58.9 kg
+  2018-11-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-11-17 : Body Height                              159.3 cm
+  2017-11-11 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-11 : Respiratory rate                         12.0 /min
+  2017-11-11 : Heart rate                               82.0 /min
+  2017-11-11 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2017-11-11 : Body mass index (BMI) [Percentile] Per age and gender 73.8 %
+  2017-11-11 : Body Mass Index                          23.7 kg/m2
+  2017-11-11 : Body Weight                              60.0 kg
+  2017-11-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-11-11 : Body Height                              159.2 cm
+  2016-11-05 : Tobacco smoking status NHIS              Never smoker 
+  2016-11-05 : Respiratory rate                         13.0 /min
+  2016-11-05 : Heart rate                               78.0 /min
+  2016-11-05 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2016-11-05 : Body mass index (BMI) [Percentile] Per age and gender 78.1 %
+  2016-11-05 : Body Mass Index                          23.9 kg/m2
+  2016-11-05 : Body Weight                              60.4 kg
+  2016-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-11-05 : Body Height                              159.0 cm
+  2015-10-31 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-31 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2015-10-31 : Platelet distribution width [Entitic volume] in Blood by Automated count 183.9 fL
+  2015-10-31 : Platelets [#/volume] in Blood by Automated count 379.5 10*3/uL
+  2015-10-31 : Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+  2015-10-31 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2015-10-31 : MCH [Entitic mass] by Automated count    31.7 pg
+  2015-10-31 : MCV [Entitic volume] by Automated count  82.6 fL
+  2015-10-31 : Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+  2015-10-31 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2015-10-31 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2015-10-31 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  2015-10-31 : Respiratory rate                         13.0 /min
+  2015-10-31 : Heart rate                               69.0 /min
+  2015-10-31 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2015-10-31 : Body mass index (BMI) [Percentile] Per age and gender 78.7 %
+  2015-10-31 : Body Mass Index                          23.5 kg/m2
+  2015-10-31 : Body Weight                              59.1 kg
+  2015-10-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-10-31 : Body Height                              158.6 cm
+  2014-10-25 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-25 : Respiratory rate                         15.0 /min
+  2014-10-25 : Heart rate                               93.0 /min
+  2014-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2014-10-25 : Body mass index (BMI) [Percentile] Per age and gender 85.6 %
+  2014-10-25 : Body Mass Index                          24.2 kg/m2
+  2014-10-25 : Body Weight                              60.5 kg
+  2014-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-10-25 : Body Height                              158.0 cm
+  2013-10-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-19 : Respiratory rate                         14.0 /min
+  2013-10-19 : Heart rate                               73.0 /min
+  2013-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2013-10-19 : Body mass index (BMI) [Percentile] Per age and gender 87.4 %
+  2013-10-19 : Body Mass Index                          24.0 kg/m2
+  2013-10-19 : Body Weight                              58.9 kg
+  2013-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-10-19 : Body Height                              156.6 cm
+  2013-01-18 : Body temperature                         37.3 Cel
+  2012-10-13 : Tobacco smoking status NHIS              Never smoker 
+  2012-10-13 : Respiratory rate                         15.0 /min
+  2012-10-13 : Heart rate                               76.0 /min
+  2012-10-13 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2012-10-13 : Body mass index (BMI) [Percentile] Per age and gender 76.4 %
+  2012-10-13 : Body Mass Index                          21.2 kg/m2
+  2012-10-13 : Body Weight                              49.6 kg
+  2012-10-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-10-13 : Body Height                              153.1 cm
+  2011-10-08 : Tobacco smoking status NHIS              Never smoker 
+  2011-10-08 : Respiratory rate                         15.0 /min
+  2011-10-08 : Heart rate                               97.0 /min
+  2011-10-08 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2011-10-08 : Body mass index (BMI) [Percentile] Per age and gender 65.8 %
+  2011-10-08 : Body Mass Index                          19.3 kg/m2
+  2011-10-08 : Body Weight                              41.7 kg
+  2011-10-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-10-08 : Body Height                              147.0 cm
+  2010-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2010-10-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 315.7 fL
+  2010-10-02 : Platelets [#/volume] in Blood by Automated count 265.7 10*3/uL
+  2010-10-02 : Erythrocyte distribution width [Entitic volume] by Automated count 41.4 fL
+  2010-10-02 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2010-10-02 : MCH [Entitic mass] by Automated count    27.1 pg
+  2010-10-02 : MCV [Entitic volume] by Automated count  89.2 fL
+  2010-10-02 : Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+  2010-10-02 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2010-10-02 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2010-10-02 : Leukocytes [#/volume] in Blood by Automated count 4.7 10*3/uL
+  2010-10-02 : Respiratory rate                         15.0 /min
+  2010-10-02 : Heart rate                               93.0 /min
+  2010-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2010-10-02 : Body mass index (BMI) [Percentile] Per age and gender 78.5 %
+  2010-10-02 : Body Mass Index                          19.9 kg/m2
+  2010-10-02 : Body Weight                              38.8 kg
+  2010-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-10-02 : Body Height                              139.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-11-11 : Medication Reconciliation (procedure)
+  2017-05-01 : Insertion of intrauterine contraceptive device
+  2017-04-29 : Depression screening
+  2017-04-29 : Physical examination following birth
+  2017-03-18 : Childbirth for Normal pregnancy
+  2017-03-18 : Episiotomy for Normal pregnancy
+  2017-03-11 : Auscultation of the fetal heart for Normal pregnancy
+  2017-03-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-25 : Auscultation of the fetal heart for Normal pregnancy
+  2017-02-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-02-25 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-01-28 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-12-31 : Auscultation of the fetal heart for Normal pregnancy
+  2016-12-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-12-31 : Urine screening for glucose for Normal pregnancy
+  2016-12-31 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-12-31 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-12-03 : Auscultation of the fetal heart for Normal pregnancy
+  2016-12-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-05 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-10-08 : Auscultation of the fetal heart for Normal pregnancy
+  2016-10-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-10-08 : Alpha-fetoprotein test for Normal pregnancy
+  2016-10-08 : Fetal anatomy study for Normal pregnancy
+  2016-09-10 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-09-10 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-08-13 : Physical examination of mother for Normal pregnancy
+  2016-08-13 : Urine protein test for Normal pregnancy
+  2016-08-13 : Skin test for tuberculosis for Normal pregnancy
+  2016-08-13 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-08-13 : Rubella screening for Normal pregnancy
+  2016-08-13 : Hepatitis C antibody test for Normal pregnancy
+  2016-08-13 : Urine screening test for diabetes for Normal pregnancy
+  2016-08-13 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-08-13 : Urine culture for Normal pregnancy
+  2016-08-13 : Syphilis infection test for Normal pregnancy
+  2016-08-13 : Gonorrhea infection test for Normal pregnancy
+  2016-08-13 : Chlamydia antigen test for Normal pregnancy
+  2016-08-13 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-08-13 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-08-13 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-08-13 : Blood typing, RH typing for Normal pregnancy
+  2016-08-13 : Auscultation of the fetal heart for Normal pregnancy
+  2016-08-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-08-13 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-08-13 : Standard pregnancy test for Normal pregnancy
+  2013-10-19 : Medication Reconciliation (procedure)
+  2013-01-18 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2012-10-13 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-11-17 : Influenza, seasonal, injectable, preservative free
+  2017-11-11 : Influenza, seasonal, injectable, preservative free
+  2016-11-05 : Influenza, seasonal, injectable, preservative free
+  2015-10-31 : meningococcal MCV4P
+  2015-10-31 : Influenza, seasonal, injectable, preservative free
+  2014-10-25 : Influenza, seasonal, injectable, preservative free
+  2013-10-19 : Influenza, seasonal, injectable, preservative free
+  2012-10-13 : HPV, quadrivalent
+  2012-10-13 : Influenza, seasonal, injectable, preservative free
+  2011-10-08 : HPV, quadrivalent
+  2011-10-08 : Influenza, seasonal, injectable, preservative free
+  2010-10-02 : meningococcal MCV4P
+  2010-10-02 : HPV, quadrivalent
+  2010-10-02 : Influenza, seasonal, injectable, preservative free
+  2010-10-02 : Tdap
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-04-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-11-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-11-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-05-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-04-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-04-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-03-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-03-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-02-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-01-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-12-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-12-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-11-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2016-11-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-11-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-10-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-09-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-08-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-10-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-10-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-10-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-09-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-01-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2012-10-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-10-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-10-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

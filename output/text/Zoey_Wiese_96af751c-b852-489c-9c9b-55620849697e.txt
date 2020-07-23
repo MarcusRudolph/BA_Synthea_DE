@@ -1,0 +1,281 @@
+Zoey Wiese
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 37
+Birth Date:          1982-11-12
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-03-12[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2020-01-17[CURRENT] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  2020-01-10[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  2020-01-10[STOPPED] : 60 ACTUAT Fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler for Pulmonary emphysema (disorder)
+  2019-03-18[STOPPED] : 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+  2018-03-15[STOPPED] : Liletta 52 MG Intrauterine System
+  2017-03-20[STOPPED] : Jolivette 28 Day Pack
+  2016-03-17[STOPPED] : Kyleena 19.5 MG Intrauterine System
+  2011-10-06[STOPPED] : Yaz 28 Day Pack
+  2010-10-11[STOPPED] : Trinessa 28 Day Pack
+  2010-07-29[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-01-07 - 2020-01-28 : Viral sinusitis (disorder)
+  2017-01-27 -            : Pulmonary emphysema (disorder)
+  2014-01-10 - 2014-02-07 : Antepartum eclampsia
+  2013-06-28 - 2014-02-07 : Normal pregnancy
+  2012-10-25 - 2012-11-06 : Acute viral pharyngitis (disorder)
+  2011-11-07 -            : History of appendectomy
+  2011-11-07 -            : Appendicitis
+  2011-11-07 -            : Rupture of appendix
+  2010-07-29 - 2010-08-19 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-01-27[CURRENT] : Chronic obstructive pulmonary disease clinical management plan
+                         Reason: Pulmonary emphysema (disorder)
+                         Activity: Exercise therapy
+                         Activity: Pulmonary rehabilitation (regime/therapy)
+  2013-06-28[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2017-01-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.7 %
+           - MCV [Entitic volume] by Automated count  92.0 fL
+           - MCH [Entitic mass] by Automated count    32.5 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 165.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 339.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2017-01-27 : Lipid Panel
+           - Total Cholesterol                        183.9 mg/dL
+           - Triglycerides                            140.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.7 mg/dL
+           - High Density Lipoprotein Cholesterol     73.3 mg/dL
+  2014-01-24 : Lipid Panel
+           - Total Cholesterol                        170.9 mg/dL
+           - Triglycerides                            141.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.6 mg/dL
+           - High Density Lipoprotein Cholesterol     68.0 mg/dL
+  2011-01-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+           - MCV [Entitic volume] by Automated count  89.6 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 439.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 354.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-01-17 : Tobacco smoking status NHIS              Never smoker 
+  2020-01-17 : Respiratory rate                         15.0 /min
+  2020-01-17 : Heart rate                               81.0 /min
+  2020-01-17 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2020-01-17 : Body Mass Index                          28.5 kg/m2
+  2020-01-17 : Body Weight                              82.6 kg
+  2020-01-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-01-17 : Body Height                              170.3 cm
+  2020-01-17 : FEV1/FVC                                 59.5 %
+  2020-01-10 : Tobacco smoking status NHIS              Never smoker 
+  2020-01-10 : Respiratory rate                         15.0 /min
+  2020-01-10 : Heart rate                               69.0 /min
+  2020-01-10 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2020-01-10 : Body Mass Index                          28.5 kg/m2
+  2020-01-10 : Body Weight                              82.6 kg
+  2020-01-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-01-10 : Body Height                              170.3 cm
+  2020-01-10 : FEV1/FVC                                 67.6 %
+  2017-01-27 : Tobacco smoking status NHIS              Never smoker 
+  2017-01-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2017-01-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 339.3 fL
+  2017-01-27 : Platelets [#/volume] in Blood by Automated count 165.1 10*3/uL
+  2017-01-27 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2017-01-27 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2017-01-27 : MCH [Entitic mass] by Automated count    32.5 pg
+  2017-01-27 : MCV [Entitic volume] by Automated count  92.0 fL
+  2017-01-27 : Hematocrit [Volume Fraction] of Blood by Automated count 40.7 %
+  2017-01-27 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2017-01-27 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2017-01-27 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2017-01-27 : High Density Lipoprotein Cholesterol     73.3 mg/dL
+  2017-01-27 : Low Density Lipoprotein Cholesterol      82.7 mg/dL
+  2017-01-27 : Triglycerides                            140.0 mg/dL
+  2017-01-27 : Total Cholesterol                        183.9 mg/dL
+  2017-01-27 : Respiratory rate                         13.0 /min
+  2017-01-27 : Heart rate                               89.0 /min
+  2017-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2017-01-27 : Body Mass Index                          26.7 kg/m2
+  2017-01-27 : Body Weight                              77.4 kg
+  2017-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-01-27 : Body Height                              170.3 cm
+  2017-01-27 : FEV1/FVC                                 65.5 %
+  2014-01-24 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-24 : High Density Lipoprotein Cholesterol     68.0 mg/dL
+  2014-01-24 : Low Density Lipoprotein Cholesterol      74.6 mg/dL
+  2014-01-24 : Triglycerides                            141.4 mg/dL
+  2014-01-24 : Total Cholesterol                        170.9 mg/dL
+  2014-01-24 : Respiratory rate                         14.0 /min
+  2014-01-24 : Heart rate                               81.0 /min
+  2014-01-24 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2014-01-24 : Body Mass Index                          25.3 kg/m2
+  2014-01-24 : Body Weight                              73.4 kg
+  2014-01-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-01-24 : Body Height                              170.3 cm
+  2012-10-25 : Body temperature                         37.9 Cel
+  2011-01-21 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2011-01-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 354.2 fL
+  2011-01-21 : Platelets [#/volume] in Blood by Automated count 439.4 10*3/uL
+  2011-01-21 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2011-01-21 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2011-01-21 : MCH [Entitic mass] by Automated count    27.8 pg
+  2011-01-21 : MCV [Entitic volume] by Automated count  89.6 fL
+  2011-01-21 : Hematocrit [Volume Fraction] of Blood by Automated count 42.0 %
+  2011-01-21 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2011-01-21 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2011-01-21 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2011-01-21 : Respiratory rate                         15.0 /min
+  2011-01-21 : Heart rate                               80.0 /min
+  2011-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2011-01-21 : Body Mass Index                          23.8 kg/m2
+  2011-01-21 : Body Weight                              68.9 kg
+  2011-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-01-21 : Body Height                              170.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-03-12 : Insertion of subcutaneous contraceptive
+  2020-01-17 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2020-01-10 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2019-03-29 : Replacement of contraceptive intrauterine device
+  2018-03-18 : Insertion of intrauterine contraceptive device
+  2017-01-27 : Medication Reconciliation (procedure)
+  2017-01-27 : Spirometry (procedure) for Pulmonary emphysema (disorder)
+  2016-03-20 : Insertion of intrauterine contraceptive device
+  2014-03-23 : Insertion of intrauterine contraceptive device
+  2014-03-21 : Depression screening
+  2014-03-21 : Physical examination following birth
+  2014-03-21 : RhD passive immunization
+  2014-02-07 : Childbirth for Normal pregnancy
+  2014-02-07 : Epidural anesthesia for Normal pregnancy
+  2014-01-31 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-24 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-10 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-10 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2013-12-13 : Auscultation of the fetal heart for Normal pregnancy
+  2013-12-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-15 : Auscultation of the fetal heart for Normal pregnancy
+  2013-11-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-15 : Urine screening for glucose for Normal pregnancy
+  2013-11-15 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2013-11-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-11-15 : RhD passive immunization for Normal pregnancy
+  2013-11-15 : Antenatal RhD antibody screening for Normal pregnancy
+  2013-10-18 : Auscultation of the fetal heart for Normal pregnancy
+  2013-10-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-09-20 : Auscultation of the fetal heart for Normal pregnancy
+  2013-09-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-08-23 : Auscultation of the fetal heart for Normal pregnancy
+  2013-08-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-08-23 : Alpha-fetoprotein test for Normal pregnancy
+  2013-08-23 : Fetal anatomy study for Normal pregnancy
+  2013-07-26 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-07-26 : Auscultation of the fetal heart for Normal pregnancy
+  2013-07-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-06-28 : Physical examination of mother for Normal pregnancy
+  2013-06-28 : Urine protein test for Normal pregnancy
+  2013-06-28 : Skin test for tuberculosis for Normal pregnancy
+  2013-06-28 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-06-28 : Rubella screening for Normal pregnancy
+  2013-06-28 : Hepatitis C antibody test for Normal pregnancy
+  2013-06-28 : Urine screening test for diabetes for Normal pregnancy
+  2013-06-28 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-06-28 : Urine culture for Normal pregnancy
+  2013-06-28 : Syphilis infection test for Normal pregnancy
+  2013-06-28 : Gonorrhea infection test for Normal pregnancy
+  2013-06-28 : Chlamydia antigen test for Normal pregnancy
+  2013-06-28 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-06-28 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-06-28 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-06-28 : Blood typing, RH typing for Normal pregnancy
+  2013-06-28 : Auscultation of the fetal heart for Normal pregnancy
+  2013-06-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-06-28 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-06-28 : Standard pregnancy test for Normal pregnancy
+  2011-11-07 : Appendectomy for Appendicitis
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-01-17 : Influenza, seasonal, injectable, preservative free
+  2020-01-10 : Influenza, seasonal, injectable, preservative free
+  2017-01-27 : Influenza, seasonal, injectable, preservative free
+  2015-11-27 : Influenza, seasonal, injectable, preservative free
+  2014-01-24 : Td (adult) preservative free
+  2014-01-24 : Influenza, seasonal, injectable, preservative free
+  2011-01-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-03-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-01-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-01-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2020-01-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-03-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-03-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-03-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-03-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-03-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-01-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-03-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-03-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-11-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-03-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-03-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-03-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-02-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-01-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-01-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-01-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-01-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-12-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-11-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-10-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-09-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-08-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-07-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-06-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-10-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2011-11-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Appendicitis
+2011-11-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Appendicitis
+2011-10-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-01-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-10-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-07-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,441 @@
+Ruth Bruns
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1989-08-17
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-12-26[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2019-12-19[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-12-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-11-29[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-06-11[STOPPED] : Seasonique 91 Day Pack
+  2017-12-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-10-19[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2017-10-19[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2016-12-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2016-06-21[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2015-11-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2015-05-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-11-20[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-07-02[STOPPED] : Yaz 28 Day Pack
+  2013-11-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2013-10-24[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2013-07-07[STOPPED] : Seasonique 91 Day Pack
+  2012-11-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-07-12[STOPPED] : Yaz 28 Day Pack
+  2011-11-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-10-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-07-12[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2010-07-12[STOPPED] : Meperidine Hydrochloride 50 MG Oral Tablet
+  2009-10-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-10-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-10-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1997-08-15[CURRENT] : clonazePAM 0.25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-03-25 - 2020-04-02 : Acute viral pharyngitis (disorder)
+  2019-12-26 - 2020-01-09 : Viral sinusitis (disorder)
+  2019-09-19 - 2020-04-30 : Normal pregnancy
+  2018-11-21 - 2018-11-28 : Acute viral pharyngitis (disorder)
+  2017-10-19 - 2017-12-07 : Otitis media
+  2015-09-03 - 2016-03-31 : Normal pregnancy
+  2015-04-28 - 2015-05-07 : Acute viral pharyngitis (disorder)
+  2013-10-24 - 2013-11-14 : Laceration of thigh
+  2010-07-12 - 2010-10-10 : Fracture of forearm
+  2007-10-11 -            : Hypertension
+  1997-08-15 -            : History of single seizure (situation)
+  1997-08-15 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-09-19[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-09-03[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-10-24[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2010-07-12[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2007-10-11[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-12-19 : Lipid Panel
+           - Total Cholesterol                        181.5 mg/dL
+           - Triglycerides                            123.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.4 mg/dL
+           - High Density Lipoprotein Cholesterol     69.5 mg/dL
+  2015-11-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.1 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    33.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.5 fL
+           - Platelets [#/volume] in Blood by Automated count 190.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 345.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2010-10-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+           - MCV [Entitic volume] by Automated count  82.1 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 332.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 401.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-03-25 : Body temperature                         37.2 Cel
+  2019-12-19 : Tobacco smoking status NHIS              Never smoker 
+  2019-12-19 : High Density Lipoprotein Cholesterol     69.5 mg/dL
+  2019-12-19 : Low Density Lipoprotein Cholesterol      87.4 mg/dL
+  2019-12-19 : Triglycerides                            123.1 mg/dL
+  2019-12-19 : Total Cholesterol                        181.5 mg/dL
+  2019-12-19 : Respiratory rate                         14.0 /min
+  2019-12-19 : Heart rate                               93.0 /min
+  2019-12-19 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2019-12-19 : Body Mass Index                          29.1 kg/m2
+  2019-12-19 : Body Weight                              76.2 kg
+  2019-12-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-12-19 : Body Height                              161.9 cm
+  2018-12-13 : Tobacco smoking status NHIS              Never smoker 
+  2018-12-13 : Respiratory rate                         14.0 /min
+  2018-12-13 : Heart rate                               93.0 /min
+  2018-12-13 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2018-12-13 : Body Mass Index                          28.6 kg/m2
+  2018-12-13 : Body Weight                              74.9 kg
+  2018-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-12-13 : Body Height                              161.9 cm
+  2018-11-29 : Tobacco smoking status NHIS              Never smoker 
+  2018-11-29 : Respiratory rate                         13.0 /min
+  2018-11-29 : Heart rate                               69.0 /min
+  2018-11-29 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2018-11-29 : Body Mass Index                          28.6 kg/m2
+  2018-11-29 : Body Weight                              74.9 kg
+  2018-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-11-29 : Body Height                              161.9 cm
+  2018-11-21 : Body temperature                         37.2 Cel
+  2017-12-07 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-07 : Respiratory rate                         13.0 /min
+  2017-12-07 : Heart rate                               70.0 /min
+  2017-12-07 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2017-12-07 : Body Mass Index                          28.0 kg/m2
+  2017-12-07 : Body Weight                              73.3 kg
+  2017-12-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-12-07 : Body Height                              161.9 cm
+  2016-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-01 : Respiratory rate                         16.0 /min
+  2016-12-01 : Heart rate                               65.0 /min
+  2016-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2016-12-01 : Body Mass Index                          27.3 kg/m2
+  2016-12-01 : Body Weight                              71.6 kg
+  2016-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-12-01 : Body Height                              161.9 cm
+  2015-11-26 : Tobacco smoking status NHIS              Never smoker 
+  2015-11-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2015-11-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 345.8 fL
+  2015-11-26 : Platelets [#/volume] in Blood by Automated count 190.4 10*3/uL
+  2015-11-26 : Erythrocyte distribution width [Entitic volume] by Automated count 41.5 fL
+  2015-11-26 : MCHC [Mass/volume] by Automated count    33.9 g/dL
+  2015-11-26 : MCH [Entitic mass] by Automated count    29.8 pg
+  2015-11-26 : MCV [Entitic volume] by Automated count  81.7 fL
+  2015-11-26 : Hematocrit [Volume Fraction] of Blood by Automated count 38.1 %
+  2015-11-26 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2015-11-26 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2015-11-26 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2015-11-26 : Respiratory rate                         15.0 /min
+  2015-11-26 : Heart rate                               62.0 /min
+  2015-11-26 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2015-11-26 : Body Mass Index                          26.6 kg/m2
+  2015-11-26 : Body Weight                              69.6 kg
+  2015-11-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-11-26 : Body Height                              161.9 cm
+  2015-05-07 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-07 : Respiratory rate                         14.0 /min
+  2015-05-07 : Heart rate                               67.0 /min
+  2015-05-07 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2015-05-07 : Body Mass Index                          26.0 kg/m2
+  2015-05-07 : Body Weight                              68.2 kg
+  2015-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-05-07 : Body Height                              161.9 cm
+  2015-04-28 : Body temperature                         37.1 Cel
+  2014-11-20 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-20 : Respiratory rate                         15.0 /min
+  2014-11-20 : Heart rate                               83.0 /min
+  2014-11-20 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2014-11-20 : Body Mass Index                          26.0 kg/m2
+  2014-11-20 : Body Weight                              68.2 kg
+  2014-11-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-11-20 : Body Height                              161.9 cm
+  2013-11-14 : Tobacco smoking status NHIS              Never smoker 
+  2013-11-14 : Respiratory rate                         16.0 /min
+  2013-11-14 : Heart rate                               82.0 /min
+  2013-11-14 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2013-11-14 : Body Mass Index                          25.4 kg/m2
+  2013-11-14 : Body Weight                              66.5 kg
+  2013-11-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-11-14 : Body Height                              161.9 cm
+  2012-11-08 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-08 : Respiratory rate                         13.0 /min
+  2012-11-08 : Heart rate                               92.0 /min
+  2012-11-08 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2012-11-08 : Body Mass Index                          25.0 kg/m2
+  2012-11-08 : Body Weight                              65.5 kg
+  2012-11-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-11-08 : Body Height                              161.9 cm
+  2011-11-03 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-03 : Respiratory rate                         16.0 /min
+  2011-11-03 : Heart rate                               91.0 /min
+  2011-11-03 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2011-11-03 : Body Mass Index                          24.4 kg/m2
+  2011-11-03 : Body Weight                              63.9 kg
+  2011-11-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-11-03 : Body Height                              161.9 cm
+  2010-10-28 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  2010-10-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 401.0 fL
+  2010-10-28 : Platelets [#/volume] in Blood by Automated count 332.0 10*3/uL
+  2010-10-28 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2010-10-28 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2010-10-28 : MCH [Entitic mass] by Automated count    27.3 pg
+  2010-10-28 : MCV [Entitic volume] by Automated count  82.1 fL
+  2010-10-28 : Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+  2010-10-28 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2010-10-28 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2010-10-28 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  2010-10-28 : Respiratory rate                         15.0 /min
+  2010-10-28 : Heart rate                               66.0 /min
+  2010-10-28 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2010-10-28 : Body Mass Index                          23.9 kg/m2
+  2010-10-28 : Body Weight                              62.7 kg
+  2010-10-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2010-10-28 : Body Height                              161.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-06-11 : Depression screening
+  2020-06-11 : Physical examination following birth
+  2020-04-30 : Childbirth for Normal pregnancy
+  2020-04-30 : Epidural anesthesia for Normal pregnancy
+  2020-04-23 : Auscultation of the fetal heart for Normal pregnancy
+  2020-04-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-04-16 : Auscultation of the fetal heart for Normal pregnancy
+  2020-04-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-04-02 : Auscultation of the fetal heart for Normal pregnancy
+  2020-04-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-04-02 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2020-03-25 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2020-03-05 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-06 : Auscultation of the fetal heart for Normal pregnancy
+  2020-02-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-06 : Urine screening for glucose for Normal pregnancy
+  2020-02-06 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2020-02-06 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-01-09 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-19 : Medication Reconciliation (procedure)
+  2019-12-12 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-14 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-14 : Alpha-fetoprotein test for Normal pregnancy
+  2019-11-14 : Fetal anatomy study for Normal pregnancy
+  2019-10-17 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2019-10-17 : Auscultation of the fetal heart for Normal pregnancy
+  2019-10-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-09-19 : Physical examination of mother for Normal pregnancy
+  2019-09-19 : Urine protein test for Normal pregnancy
+  2019-09-19 : Skin test for tuberculosis for Normal pregnancy
+  2019-09-19 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-09-19 : Rubella screening for Normal pregnancy
+  2019-09-19 : Hepatitis C antibody test for Normal pregnancy
+  2019-09-19 : Urine screening test for diabetes for Normal pregnancy
+  2019-09-19 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-09-19 : Urine culture for Normal pregnancy
+  2019-09-19 : Syphilis infection test for Normal pregnancy
+  2019-09-19 : Gonorrhea infection test for Normal pregnancy
+  2019-09-19 : Chlamydia antigen test for Normal pregnancy
+  2019-09-19 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-09-19 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-09-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-09-19 : Blood typing, RH typing for Normal pregnancy
+  2019-09-19 : Auscultation of the fetal heart for Normal pregnancy
+  2019-09-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-09-19 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-09-19 : Standard pregnancy test for Normal pregnancy
+  2019-07-25 : Removal of subcutaneous contraceptive
+  2016-06-21 : Insertion of subcutaneous contraceptive
+  2016-05-12 : Depression screening
+  2016-05-12 : Physical examination following birth
+  2016-03-31 : Childbirth for Normal pregnancy
+  2016-03-17 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-03-17 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-02-18 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-21 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-21 : Urine screening for glucose for Normal pregnancy
+  2016-01-21 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-01-21 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-12-24 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-26 : Medication Reconciliation (procedure)
+  2015-11-26 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-29 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-29 : Alpha-fetoprotein test for Normal pregnancy
+  2015-10-29 : Fetal anatomy study for Normal pregnancy
+  2015-10-01 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-10-01 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-09-03 : Physical examination of mother for Normal pregnancy
+  2015-09-03 : Urine protein test for Normal pregnancy
+  2015-09-03 : Skin test for tuberculosis for Normal pregnancy
+  2015-09-03 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-09-03 : Rubella screening for Normal pregnancy
+  2015-09-03 : Hepatitis C antibody test for Normal pregnancy
+  2015-09-03 : Urine screening test for diabetes for Normal pregnancy
+  2015-09-03 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-09-03 : Urine culture for Normal pregnancy
+  2015-09-03 : Syphilis infection test for Normal pregnancy
+  2015-09-03 : Gonorrhea infection test for Normal pregnancy
+  2015-09-03 : Chlamydia antigen test for Normal pregnancy
+  2015-09-03 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-09-03 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-09-03 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-09-03 : Blood typing, RH typing for Normal pregnancy
+  2015-09-03 : Auscultation of the fetal heart for Normal pregnancy
+  2015-09-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-09-03 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-09-03 : Standard pregnancy test for Normal pregnancy
+  2015-04-28 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2014-11-20 : Medication Reconciliation (procedure)
+  2013-10-24 : Suture open wound for Laceration of thigh
+  2012-11-08 : Medication Reconciliation (procedure)
+  2011-11-03 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-12-19 : Influenza, seasonal, injectable, preservative free
+  2018-11-29 : Influenza, seasonal, injectable, preservative free
+  2017-12-07 : Influenza, seasonal, injectable, preservative free
+  2016-12-01 : Influenza, seasonal, injectable, preservative free
+  2015-05-07 : Influenza, seasonal, injectable, preservative free
+  2014-11-20 : Influenza, seasonal, injectable, preservative free
+  2013-11-14 : Influenza, seasonal, injectable, preservative free
+  2012-11-08 : Influenza, seasonal, injectable, preservative free
+  2011-11-03 : Hep B, adult
+  2011-11-03 : Influenza, seasonal, injectable, preservative free
+  2010-10-28 : meningococcal MCV4P
+  2010-10-28 : Hep B, adult
+  2010-10-28 : Td (adult) preservative free
+  2010-10-28 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-06-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-04-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-04-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-04-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-04-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-03-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2020-03-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-02-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-01-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-12-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2019-12-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-12-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-11-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-10-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-09-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-07-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-12-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-11-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-11-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2018-06-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-12-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-10-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Otitis media
+2016-12-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-06-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-05-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-03-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-03-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-02-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-01-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-12-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-11-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-11-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-10-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-10-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-09-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-05-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-04-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2014-11-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-07-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-11-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-10-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-07-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-11-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-07-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-11-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-10-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-10-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Fracture of forearm
+2010-07-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2009-10-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2008-10-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2007-10-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1997-08-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Seizure disorder
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2010-07-12 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

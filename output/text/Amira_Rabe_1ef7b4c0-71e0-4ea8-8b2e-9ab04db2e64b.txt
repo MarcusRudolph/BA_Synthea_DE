@@ -1,0 +1,254 @@
+Amira Rabe
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1958-01-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1958-06-15 -            : Dander (animal) allergy
+  1958-06-15 -            : Allergy to mould
+  1958-06-15 -            : Allergy to bee venom
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1975-01-25[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1974-03-18[STOPPED] : Hydrocortisone 10 MG/ML Topical Cream for Atopic dermatitis
+  1974-03-07[CURRENT] : clonazePAM 0.25 MG Oral Tablet
+  1973-03-01[STOPPED] : Carbamazepine[Tegretol]
+  1972-01-20[STOPPED] : Mestranol / Norethynodrel [Enovid]
+  1972-01-20[STOPPED] : clonazePAM 0.25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1975-01-25 - 1975-02-01 : Acute bronchitis (disorder)
+  1974-06-06 -            : Epilepsy
+  1972-01-20 -            : History of single seizure (situation)
+  1972-01-20 -            : Seizure disorder
+  1971-03-30 - 1971-04-10 : Acute viral pharyngitis (disorder)
+  1969-02-06 -            : Body mass index 30+ - obesity (finding)
+  1966-10-12 - 1966-10-20 : Acute viral pharyngitis (disorder)
+  1958-05-30 -            : Atopic dermatitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1975-01-25[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1958-06-15[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+  1958-05-30[CURRENT] : Skin condition care
+                         Reason: Atopic dermatitis
+                         Activity: Application of moisturizer to skin
+--------------------------------------------------------------------------------
+REPORTS:
+  1975-03-06 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1974-03-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.3 %
+           - MCV [Entitic volume] by Automated count  86.3 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 271.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 182.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  1969-02-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+           - MCV [Entitic volume] by Automated count  85.8 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 188.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 273.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1975-03-06 : Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1975-02-06 : Tobacco smoking status NHIS              Never smoker 
+  1975-02-06 : Respiratory rate                         14.0 /min
+  1975-02-06 : Heart rate                               83.0 /min
+  1975-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  1975-02-06 : Body mass index (BMI) [Percentile] Per age and gender 99.0 %
+  1975-02-06 : Body Mass Index                          39.9 kg/m2
+  1975-02-06 : Body Weight                              94.3 kg
+  1975-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1975-02-06 : Body Height                              153.8 cm
+  1974-03-07 : Tobacco smoking status NHIS              Never smoker 
+  1974-03-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  1974-03-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 182.5 fL
+  1974-03-07 : Platelets [#/volume] in Blood by Automated count 271.4 10*3/uL
+  1974-03-07 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  1974-03-07 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  1974-03-07 : MCH [Entitic mass] by Automated count    27.4 pg
+  1974-03-07 : MCV [Entitic volume] by Automated count  86.3 fL
+  1974-03-07 : Hematocrit [Volume Fraction] of Blood by Automated count 45.3 %
+  1974-03-07 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  1974-03-07 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  1974-03-07 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  1974-03-07 : Respiratory rate                         13.0 /min
+  1974-03-07 : Heart rate                               70.0 /min
+  1974-03-07 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  1974-03-07 : Body mass index (BMI) [Percentile] Per age and gender 99.2 %
+  1974-03-07 : Body Mass Index                          40.0 kg/m2
+  1974-03-07 : Body Weight                              94.2 kg
+  1974-03-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1974-03-07 : Body Height                              153.5 cm
+  1973-03-01 : Tobacco smoking status NHIS              Never smoker 
+  1973-03-01 : Respiratory rate                         13.0 /min
+  1973-03-01 : Heart rate                               85.0 /min
+  1973-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  1973-03-01 : Body mass index (BMI) [Percentile] Per age and gender 99.1 %
+  1973-03-01 : Body Mass Index                          37.7 kg/m2
+  1973-03-01 : Body Weight                              88.1 kg
+  1973-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1973-03-01 : Body Height                              152.9 cm
+  1972-02-24 : Tobacco smoking status NHIS              Never smoker 
+  1972-02-24 : Respiratory rate                         12.0 /min
+  1972-02-24 : Heart rate                               70.0 /min
+  1972-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  1972-02-24 : Body mass index (BMI) [Percentile] Per age and gender 99.1 %
+  1972-02-24 : Body Mass Index                          36.6 kg/m2
+  1972-02-24 : Body Weight                              83.8 kg
+  1972-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1972-02-24 : Body Height                              151.4 cm
+  1971-03-30 : Body temperature                         37.0 Cel
+  1971-02-18 : Tobacco smoking status NHIS              Never smoker 
+  1971-02-18 : Respiratory rate                         13.0 /min
+  1971-02-18 : Heart rate                               82.0 /min
+  1971-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  1971-02-18 : Body mass index (BMI) [Percentile] Per age and gender 99.5 %
+  1971-02-18 : Body Mass Index                          38.8 kg/m2
+  1971-02-18 : Body Weight                              84.5 kg
+  1971-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1971-02-18 : Body Height                              147.6 cm
+  1970-02-12 : Tobacco smoking status NHIS              Never smoker 
+  1970-02-12 : Respiratory rate                         14.0 /min
+  1970-02-12 : Heart rate                               81.0 /min
+  1970-02-12 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  1970-02-12 : Body mass index (BMI) [Percentile] Per age and gender 99.3 %
+  1970-02-12 : Body Mass Index                          34.3 kg/m2
+  1970-02-12 : Body Weight                              68.2 kg
+  1970-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1970-02-12 : Body Height                              141.0 cm
+  1969-02-06 : Tobacco smoking status NHIS              Never smoker 
+  1969-02-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  1969-02-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 273.0 fL
+  1969-02-06 : Platelets [#/volume] in Blood by Automated count 188.6 10*3/uL
+  1969-02-06 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  1969-02-06 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  1969-02-06 : MCH [Entitic mass] by Automated count    28.7 pg
+  1969-02-06 : MCV [Entitic volume] by Automated count  85.8 fL
+  1969-02-06 : Hematocrit [Volume Fraction] of Blood by Automated count 47.4 %
+  1969-02-06 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  1969-02-06 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  1969-02-06 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  1969-02-06 : Respiratory rate                         16.0 /min
+  1969-02-06 : Heart rate                               87.0 /min
+  1969-02-06 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  1969-02-06 : Body mass index (BMI) [Percentile] Per age and gender 98.9 %
+  1969-02-06 : Body Mass Index                          30.1 kg/m2
+  1969-02-06 : Body Weight                              54.1 kg
+  1969-02-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1969-02-06 : Body Height                              134.1 cm
+  1968-02-01 : Tobacco smoking status NHIS              Never smoker 
+  1968-02-01 : Respiratory rate                         14.0 /min
+  1968-02-01 : Heart rate                               79.0 /min
+  1968-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  1968-02-01 : Body mass index (BMI) [Percentile] Per age and gender 98.5 %
+  1968-02-01 : Body Mass Index                          27.1 kg/m2
+  1968-02-01 : Body Weight                              45.1 kg
+  1968-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1968-02-01 : Body Height                              129.0 cm
+  1967-01-26 : Tobacco smoking status NHIS              Never smoker 
+  1967-01-26 : Respiratory rate                         14.0 /min
+  1967-01-26 : Heart rate                               66.0 /min
+  1967-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 67.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  1967-01-26 : Body mass index (BMI) [Percentile] Per age and gender 96.5 %
+  1967-01-26 : Body Mass Index                          22.8 kg/m2
+  1967-01-26 : Body Weight                              35.4 kg
+  1967-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1967-01-26 : Body Height                              124.6 cm
+  1966-10-12 : Body temperature                         37.4 Cel
+  1966-01-20 : Tobacco smoking status NHIS              Never smoker 
+  1966-01-20 : Respiratory rate                         13.0 /min
+  1966-01-20 : Heart rate                               80.0 /min
+  1966-01-20 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  1966-01-20 : Body mass index (BMI) [Percentile] Per age and gender 92.0 %
+  1966-01-20 : Body Mass Index                          19.6 kg/m2
+  1966-01-20 : Body Weight                              27.9 kg
+  1966-01-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1966-01-20 : Body Height                              119.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1975-01-25 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  1974-06-06 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+  1972-01-20 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+  1971-03-30 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  1969-02-06 : Medication Reconciliation (procedure)
+  1968-02-01 : Medication Reconciliation (procedure)
+  1966-10-12 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  1966-01-20 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1975-02-06 : Influenza, seasonal, injectable, preservative free
+  1974-03-07 : Influenza, seasonal, injectable, preservative free
+  1973-03-01 : Influenza, seasonal, injectable, preservative free
+  1972-02-24 : Influenza, seasonal, injectable, preservative free
+  1971-02-18 : Influenza, seasonal, injectable, preservative free
+  1970-02-12 : Influenza, seasonal, injectable, preservative free
+  1969-02-06 : Influenza, seasonal, injectable, preservative free
+  1968-02-01 : Influenza, seasonal, injectable, preservative free
+  1967-01-26 : Influenza, seasonal, injectable, preservative free
+  1966-01-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1975-03-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1975-02-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1975-01-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+1974-06-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Seizure disorder
+1974-03-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Atopic dermatitis
+1974-03-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1973-03-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1972-02-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1972-01-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1972-01-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Seizure disorder
+1971-03-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+1971-02-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1970-02-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1969-02-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1968-02-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1967-01-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1966-10-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+1966-01-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1958-06-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1958-05-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Atopic dermatitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

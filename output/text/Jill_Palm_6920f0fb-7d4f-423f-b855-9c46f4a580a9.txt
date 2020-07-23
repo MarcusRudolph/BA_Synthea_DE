@@ -1,0 +1,453 @@
+Jill Palm
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 22
+Birth Date:          1998-06-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-06-14[CURRENT] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-06-14[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-12-07[CURRENT] : Levora 0.15/30 28 Day Pack
+  2019-11-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-11-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-11-06[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2019-09-08[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-09-08[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-12-12[STOPPED] : Trinessa 28 Day Pack
+  2018-09-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-09-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-01-28[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-01-28[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-12-17[STOPPED] : 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+  2017-11-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-11-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-08-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-08-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-08-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-08-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-08-16[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-08-16[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-08-10[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-08-10[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-08-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-08-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-07-29[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-07-29[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-07-24[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-07-24[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-07-18[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-07-18[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2009-07-12[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2009-07-12[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2008-07-06[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2008-07-06[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-07-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-07-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2006-06-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2006-06-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-06-19[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-06-19[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-06-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-06-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2003-06-08[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2003-06-08[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2002-06-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2002-06-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2001-12-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2001-12-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2001-07-04[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2001-07-04[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-06-05 - 2020-06-12 : Acute viral pharyngitis (disorder)
+  2019-11-06 - 2019-11-20 : Acute bronchitis (disorder)
+  2018-05-07 - 2018-06-11 : Acute bacterial sinusitis (disorder)
+  2017-12-12 - 2018-02-27 : Chronic sinusitis (disorder)
+  2017-10-24 - 2018-02-27 : Acute bacterial sinusitis (disorder)
+  2017-04-02 - 2017-11-05 : Normal pregnancy
+  2001-07-04 - 2017-10-08 : Childhood asthma
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-11-06[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2017-04-02[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2001-07-04[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-09-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.9 %
+           - MCV [Entitic volume] by Automated count  90.6 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 413.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 512.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2014-08-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.7 %
+           - MCV [Entitic volume] by Automated count  94.9 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 401.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 171.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-06-14 : Tobacco smoking status NHIS              Never smoker 
+  2020-06-14 : Respiratory rate                         14.0 /min
+  2020-06-14 : Heart rate                               65.0 /min
+  2020-06-14 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2020-06-14 : Body Mass Index                          18.8 kg/m2
+  2020-06-14 : Body Weight                              49.8 kg
+  2020-06-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-06-14 : Body Height                              162.7 cm
+  2020-06-05 : Body temperature                         37.0 Cel
+  2019-11-24 : Tobacco smoking status NHIS              Never smoker 
+  2019-11-24 : Respiratory rate                         14.0 /min
+  2019-11-24 : Heart rate                               67.0 /min
+  2019-11-24 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2019-11-24 : Body Mass Index                          18.8 kg/m2
+  2019-11-24 : Body Weight                              49.8 kg
+  2019-11-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-11-24 : Body Height                              162.7 cm
+  2019-09-08 : Tobacco smoking status NHIS              Never smoker 
+  2019-09-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2019-09-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 512.0 fL
+  2019-09-08 : Platelets [#/volume] in Blood by Automated count 413.1 10*3/uL
+  2019-09-08 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2019-09-08 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2019-09-08 : MCH [Entitic mass] by Automated count    29.4 pg
+  2019-09-08 : MCV [Entitic volume] by Automated count  90.6 fL
+  2019-09-08 : Hematocrit [Volume Fraction] of Blood by Automated count 49.9 %
+  2019-09-08 : Hemoglobin [Mass/volume] in Blood        16.6 g/dL
+  2019-09-08 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2019-09-08 : Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+  2019-09-08 : Respiratory rate                         15.0 /min
+  2019-09-08 : Heart rate                               99.0 /min
+  2019-09-08 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2019-09-08 : Body Mass Index                          18.8 kg/m2
+  2019-09-08 : Body Weight                              49.8 kg
+  2019-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-09-08 : Body Height                              162.7 cm
+  2018-09-02 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-02 : Respiratory rate                         15.0 /min
+  2018-09-02 : Heart rate                               81.0 /min
+  2018-09-02 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2018-09-02 : Body Mass Index                          18.2 kg/m2
+  2018-09-02 : Body Weight                              48.2 kg
+  2018-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-09-02 : Body Height                              162.7 cm
+  2018-01-28 : Tobacco smoking status NHIS              Never smoker 
+  2018-01-28 : Respiratory rate                         14.0 /min
+  2018-01-28 : Heart rate                               70.0 /min
+  2018-01-28 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2018-01-28 : Body mass index (BMI) [Percentile] Per age and gender 5.2 %
+  2018-01-28 : Body Mass Index                          17.9 kg/m2
+  2018-01-28 : Body Weight                              47.2 kg
+  2018-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-01-28 : Body Height                              162.7 cm
+  2017-11-05 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-05 : Respiratory rate                         15.0 /min
+  2017-11-05 : Heart rate                               92.0 /min
+  2017-11-05 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2017-11-05 : Body mass index (BMI) [Percentile] Per age and gender 5.3 %
+  2017-11-05 : Body Mass Index                          17.9 kg/m2
+  2017-11-05 : Body Weight                              47.2 kg
+  2017-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-11-05 : Body Height                              162.6 cm
+  2017-08-27 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-27 : Respiratory rate                         15.0 /min
+  2017-08-27 : Heart rate                               97.0 /min
+  2017-08-27 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2017-08-27 : Body mass index (BMI) [Percentile] Per age and gender 5.9 %
+  2017-08-27 : Body Mass Index                          17.9 kg/m2
+  2017-08-27 : Body Weight                              47.4 kg
+  2017-08-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-08-27 : Body Height                              162.6 cm
+  2016-08-21 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-21 : Respiratory rate                         16.0 /min
+  2016-08-21 : Heart rate                               81.0 /min
+  2016-08-21 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2016-08-21 : Body mass index (BMI) [Percentile] Per age and gender 10.1 %
+  2016-08-21 : Body Mass Index                          18.2 kg/m2
+  2016-08-21 : Body Weight                              48.1 kg
+  2016-08-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-08-21 : Body Height                              162.5 cm
+  2015-08-16 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-16 : Respiratory rate                         16.0 /min
+  2015-08-16 : Heart rate                               67.0 /min
+  2015-08-16 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2015-08-16 : Body mass index (BMI) [Percentile] Per age and gender 13.1 %
+  2015-08-16 : Body Mass Index                          18.2 kg/m2
+  2015-08-16 : Body Weight                              47.9 kg
+  2015-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2015-08-16 : Body Height                              162.3 cm
+  2014-08-10 : Tobacco smoking status NHIS              Never smoker 
+  2014-08-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2014-08-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 171.9 fL
+  2014-08-10 : Platelets [#/volume] in Blood by Automated count 401.5 10*3/uL
+  2014-08-10 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2014-08-10 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2014-08-10 : MCH [Entitic mass] by Automated count    32.1 pg
+  2014-08-10 : MCV [Entitic volume] by Automated count  94.9 fL
+  2014-08-10 : Hematocrit [Volume Fraction] of Blood by Automated count 45.7 %
+  2014-08-10 : Hemoglobin [Mass/volume] in Blood        17.1 g/dL
+  2014-08-10 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2014-08-10 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2014-08-10 : Respiratory rate                         14.0 /min
+  2014-08-10 : Heart rate                               62.0 /min
+  2014-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2014-08-10 : Body mass index (BMI) [Percentile] Per age and gender 10.4 %
+  2014-08-10 : Body Mass Index                          17.5 kg/m2
+  2014-08-10 : Body Weight                              45.9 kg
+  2014-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-08-10 : Body Height                              162.0 cm
+  2013-08-04 : Tobacco smoking status NHIS              Never smoker 
+  2013-08-04 : Respiratory rate                         14.0 /min
+  2013-08-04 : Heart rate                               82.0 /min
+  2013-08-04 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2013-08-04 : Body mass index (BMI) [Percentile] Per age and gender 6.7 %
+  2013-08-04 : Body Mass Index                          16.6 kg/m2
+  2013-08-04 : Body Weight                              43.2 kg
+  2013-08-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-08-04 : Body Height                              161.3 cm
+  2012-07-29 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-29 : Respiratory rate                         12.0 /min
+  2012-07-29 : Heart rate                               82.0 /min
+  2012-07-29 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2012-07-29 : Body mass index (BMI) [Percentile] Per age and gender 10.1 %
+  2012-07-29 : Body Mass Index                          16.5 kg/m2
+  2012-07-29 : Body Weight                              42.2 kg
+  2012-07-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-07-29 : Body Height                              160.0 cm
+  2011-07-24 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-24 : Respiratory rate                         13.0 /min
+  2011-07-24 : Heart rate                               85.0 /min
+  2011-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2011-07-24 : Body mass index (BMI) [Percentile] Per age and gender 33.0 %
+  2011-07-24 : Body Mass Index                          17.6 kg/m2
+  2011-07-24 : Body Weight                              43.2 kg
+  2011-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-07-24 : Body Height                              156.7 cm
+  2010-07-18 : Tobacco smoking status NHIS              Never smoker 
+  2010-07-18 : Respiratory rate                         14.0 /min
+  2010-07-18 : Heart rate                               84.0 /min
+  2010-07-18 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2010-07-18 : Body mass index (BMI) [Percentile] Per age and gender 44.2 %
+  2010-07-18 : Body Mass Index                          17.7 kg/m2
+  2010-07-18 : Body Weight                              40.3 kg
+  2010-07-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2010-07-18 : Body Height                              150.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-06-21 : Intramuscular injection
+  2020-03-22 : Intramuscular injection
+  2019-12-22 : Intramuscular injection
+  2019-11-24 : Medication Reconciliation (procedure)
+  2019-09-22 : Intramuscular injection
+  2019-09-08 : Medication Reconciliation (procedure)
+  2019-06-23 : Intramuscular injection
+  2019-03-24 : Intramuscular injection
+  2018-12-23 : Intramuscular injection
+  2018-09-23 : Intramuscular injection
+  2018-06-24 : Intramuscular injection
+  2018-03-25 : Intramuscular injection
+  2018-02-27 : Nasal sinus endoscopy (procedure)
+  2018-01-28 : Medication Reconciliation (procedure)
+  2017-12-17 : Intramuscular injection
+  2017-12-17 : Depression screening
+  2017-12-17 : Physical examination following birth
+  2017-11-05 : Medication Reconciliation (procedure)
+  2017-11-05 : Childbirth for Normal pregnancy
+  2017-11-05 : Epidural anesthesia for Normal pregnancy
+  2017-10-29 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-15 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-15 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-09-17 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-27 : Medication Reconciliation (procedure)
+  2017-08-20 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-20 : Urine screening for glucose for Normal pregnancy
+  2017-08-20 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-08-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-07-23 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-25 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-05-28 : Auscultation of the fetal heart for Normal pregnancy
+  2017-05-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-05-28 : Alpha-fetoprotein test for Normal pregnancy
+  2017-05-28 : Fetal anatomy study for Normal pregnancy
+  2017-04-30 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-04-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-02 : Physical examination of mother for Normal pregnancy
+  2017-04-02 : Urine protein test for Normal pregnancy
+  2017-04-02 : Skin test for tuberculosis for Normal pregnancy
+  2017-04-02 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-04-02 : Rubella screening for Normal pregnancy
+  2017-04-02 : Hepatitis C antibody test for Normal pregnancy
+  2017-04-02 : Urine screening test for diabetes for Normal pregnancy
+  2017-04-02 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-04-02 : Urine culture for Normal pregnancy
+  2017-04-02 : Syphilis infection test for Normal pregnancy
+  2017-04-02 : Gonorrhea infection test for Normal pregnancy
+  2017-04-02 : Chlamydia antigen test for Normal pregnancy
+  2017-04-02 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-04-02 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-04-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-04-02 : Blood typing, RH typing for Normal pregnancy
+  2017-04-02 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-04-02 : Standard pregnancy test for Normal pregnancy
+  2016-08-21 : Medication Reconciliation (procedure)
+  2012-07-29 : Medication Reconciliation (procedure)
+  2011-07-24 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-06-14 : Influenza, seasonal, injectable, preservative free
+  2019-11-17 : Hep B, adult
+  2019-09-08 : meningococcal MCV4P
+  2019-09-08 : Hep B, adult
+  2019-09-08 : Td (adult) preservative free
+  2019-09-08 : Influenza, seasonal, injectable, preservative free
+  2018-09-02 : Hep B, adult
+  2018-01-21 : Influenza, seasonal, injectable, preservative free
+  2017-08-27 : Influenza, seasonal, injectable, preservative free
+  2016-08-21 : Influenza, seasonal, injectable, preservative free
+  2015-08-16 : Influenza, seasonal, injectable, preservative free
+  2014-08-10 : meningococcal MCV4P
+  2014-08-10 : Influenza, seasonal, injectable, preservative free
+  2013-08-04 : Influenza, seasonal, injectable, preservative free
+  2012-07-29 : Influenza, seasonal, injectable, preservative free
+  2011-07-24 : HPV, quadrivalent
+  2011-07-24 : Influenza, seasonal, injectable, preservative free
+  2010-07-18 : HPV, quadrivalent
+  2010-07-18 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-06-21 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2020-06-14 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2020-06-05 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2020-03-22 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2019-12-22 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2019-12-07 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2019-11-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2019-11-17 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2019-11-06 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2019-10-26 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2019-09-22 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2019-09-08 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2019-06-23 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2019-03-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-12-23 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-12-12 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-10-31 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2018-09-23 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-09-02 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-06-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-05-07 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bacterial sinusitis (disorder)
+2018-03-25 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-02-27 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bacterial sinusitis (disorder)
+2018-03-04 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-02-20 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bacterial sinusitis (disorder)
+2018-01-28 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-01-16 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bacterial sinusitis (disorder)
+2018-01-21 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2018-01-09 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bacterial sinusitis (disorder)
+2017-12-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2017-12-17 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2017-12-12 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bacterial sinusitis (disorder)
+2017-12-17 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2017-11-05 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-11-05 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2017-10-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bacterial sinusitis (disorder)
+2017-10-29 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-10-29 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2017-10-15 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-09-17 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-08-27 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2017-08-20 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-07-23 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-06-25 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-05-28 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-04-30 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-04-02 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2016-08-21 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2015-08-16 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2014-08-10 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2013-10-29 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Childhood asthma
+2013-08-04 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2012-07-29 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2011-11-09 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Childhood asthma
+2011-07-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2010-11-14 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Childhood asthma
+2010-07-18 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2009-07-12 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2008-07-06 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2007-07-01 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2006-06-25 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2005-06-13 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Childhood asthma
+2004-06-13 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2003-06-08 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2002-06-02 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2001-12-02 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2001-07-04 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Childhood asthma
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

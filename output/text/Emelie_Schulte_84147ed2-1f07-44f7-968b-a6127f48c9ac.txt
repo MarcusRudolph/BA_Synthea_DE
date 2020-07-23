@@ -1,0 +1,747 @@
+Emelie Schulte
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 56
+Birth Date:          1963-08-31
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-05-30[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-05-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-05-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-06-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-05-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2016-10-15[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2016-08-17[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of knee
+  2016-05-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2016-02-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2015-10-22[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2015-05-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-04-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2013-04-20[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-08-27[STOPPED] : Levora 0.15/30 28 Day Pack
+  2012-04-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-04-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-09-02[STOPPED] : Natazia 28 Day Pack
+  2011-04-09[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-09-07[STOPPED] : Yaz 28 Day Pack
+  2010-04-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-09-05[STOPPED] : Mirena 52 MG Intrauterine System
+  2009-03-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-03-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-02-09[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-03-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2006-03-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-03-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-02-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2004-02-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2004-01-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2003-02-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2002-04-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2002-02-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2001-02-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2000-02-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2000-01-15[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1999-01-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1998-01-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1997-01-18[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1996-01-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1995-01-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1994-01-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1992-12-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1991-12-21[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1990-12-15[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1989-12-09[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1988-12-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1987-11-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1986-11-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1985-11-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1984-11-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1983-11-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1982-10-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1981-10-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-08-31 - 2017-09-21 : Viral sinusitis (disorder)
+  2017-06-02 - 2017-06-23 : Viral sinusitis (disorder)
+  2016-10-05 - 2016-10-17 : Acute viral pharyngitis (disorder)
+  2016-08-17 -            : Osteoarthritis of knee
+  2016-02-08 - 2016-02-29 : Viral sinusitis (disorder)
+  2015-10-22 - 2015-11-05 : Acute bronchitis (disorder)
+  2014-08-30 - 2014-09-06 : Blighted ovum
+  2014-08-30 - 2014-09-06 : Normal pregnancy
+  2013-12-07 - 2013-12-28 : Normal pregnancy
+  2013-03-23 - 2013-04-06 : Fetus with unknown complication
+  2013-03-23 -            : Miscarriage in first trimester
+  2013-03-23 - 2013-04-06 : Normal pregnancy
+  2012-04-14 -            : Anemia (disorder)
+  2009-03-28 -            : Prediabetes
+  2005-02-22 -            : Chronic sinusitis (disorder)
+  2002-12-29 -            : Drug overdose
+  1991-11-06 -            : Chronic intractable migraine without aura
+  1990-07-06 -            : Impacted molars
+  1990-02-05 -            : Chronic pain
+  1981-10-24 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-08-17[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of knee
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+  2015-10-22[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2009-03-28[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2002-12-29[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1981-10-24[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-05-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.7 %
+           - MCV [Entitic volume] by Automated count  83.0 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+           - Platelets [#/volume] in Blood by Automated count 421.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 429.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2020-05-30 : Basic Metabolic Panel
+           - Glucose                                  82.0 mg/dL
+           - Urea Nitrogen                            18.8 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   141.6 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 105.2 mmol/L
+           - Carbon Dioxide                           24.4 mmol/L
+  2019-05-25 : Basic Metabolic Panel
+           - Glucose                                  94.3 mg/dL
+           - Urea Nitrogen                            14.1 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   143.4 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 107.8 mmol/L
+           - Carbon Dioxide                           25.5 mmol/L
+  2018-05-19 : Lipid Panel
+           - Total Cholesterol                        194.9 mg/dL
+           - Triglycerides                            137.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.9 mg/dL
+           - High Density Lipoprotein Cholesterol     69.4 mg/dL
+  2018-05-19 : Basic Metabolic Panel
+           - Glucose                                  73.2 mg/dL
+           - Urea Nitrogen                            8.7 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   140.0 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 108.8 mmol/L
+           - Carbon Dioxide                           24.3 mmol/L
+  2017-06-03 : Basic Metabolic Panel
+           - Glucose                                  87.7 mg/dL
+           - Urea Nitrogen                            12.2 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.5 mg/dL
+           - Sodium                                   140.8 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 101.7 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2017-05-13 : Basic Metabolic Panel
+           - Glucose                                  71.7 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   139.4 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 104.5 mmol/L
+           - Carbon Dioxide                           20.8 mmol/L
+  2016-10-15 : Basic Metabolic Panel
+           - Glucose                                  99.4 mg/dL
+           - Urea Nitrogen                            14.4 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 104.7 mmol/L
+           - Carbon Dioxide                           20.4 mmol/L
+  2016-05-07 : Basic Metabolic Panel
+           - Glucose                                  82.4 mg/dL
+           - Urea Nitrogen                            18.4 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   136.7 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 106.3 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+  2016-02-13 : Basic Metabolic Panel
+           - Glucose                                  93.3 mg/dL
+           - Urea Nitrogen                            8.9 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   141.6 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 104.1 mmol/L
+           - Carbon Dioxide                           22.1 mmol/L
+  2015-05-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.8 %
+           - MCV [Entitic volume] by Automated count  83.0 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 437.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 249.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2015-05-02 : Lipid Panel
+           - Total Cholesterol                        188.0 mg/dL
+           - Triglycerides                            132.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.2 mg/dL
+           - High Density Lipoprotein Cholesterol     65.3 mg/dL
+  2015-05-02 : Basic Metabolic Panel
+           - Glucose                                  92.0 mg/dL
+           - Urea Nitrogen                            12.0 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 105.6 mmol/L
+           - Carbon Dioxide                           20.6 mmol/L
+  2014-04-26 : Basic Metabolic Panel
+           - Glucose                                  68.5 mg/dL
+           - Urea Nitrogen                            13.0 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   139.4 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 107.6 mmol/L
+           - Carbon Dioxide                           20.7 mmol/L
+  2013-04-20 : Basic Metabolic Panel
+           - Glucose                                  72.8 mg/dL
+           - Urea Nitrogen                            7.4 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   143.9 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 107.7 mmol/L
+           - Carbon Dioxide                           21.1 mmol/L
+  2012-04-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood    35.9 %
+           - WBC Auto (Bld) [#/Vol]                   9.8 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   5.0 10*6/uL
+           - MCV [Entitic volume] by Automated count  81.0 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 425.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 259.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-04-14 : Lipid Panel
+           - Total Cholesterol                        188.7 mg/dL
+           - Triglycerides                            102.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      103.9 mg/dL
+           - High Density Lipoprotein Cholesterol     64.2 mg/dL
+  2012-04-14 : Basic Metabolic Panel
+           - Glucose                                  95.2 mg/dL
+           - Urea Nitrogen                            15.0 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   141.0 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 107.3 mmol/L
+           - Carbon Dioxide                           24.2 mmol/L
+  2011-04-09 : Basic Metabolic Panel
+           - Glucose                                  89.3 mg/dL
+           - Urea Nitrogen                            7.6 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   140.8 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 108.9 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-05-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2020-05-30 : Tobacco smoking status NHIS              Never smoker 
+  2020-05-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2020-05-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 429.3 fL
+  2020-05-30 : Platelets [#/volume] in Blood by Automated count 421.2 10*3/uL
+  2020-05-30 : Erythrocyte distribution width [Entitic volume] by Automated count 43.4 fL
+  2020-05-30 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2020-05-30 : MCH [Entitic mass] by Automated count    31.7 pg
+  2020-05-30 : MCV [Entitic volume] by Automated count  83.0 fL
+  2020-05-30 : Hematocrit [Volume Fraction] of Blood by Automated count 45.7 %
+  2020-05-30 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2020-05-30 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2020-05-30 : Leukocytes [#/volume] in Blood by Automated count 4.3 10*3/uL
+  2020-05-30 : Carbon Dioxide                           24.4 mmol/L
+  2020-05-30 : Chloride                                 105.2 mmol/L
+  2020-05-30 : Potassium                                4.6 mmol/L
+  2020-05-30 : Sodium                                   141.6 mmol/L
+  2020-05-30 : Calcium                                  8.9 mg/dL
+  2020-05-30 : Creatinine                               0.8 mg/dL
+  2020-05-30 : Urea Nitrogen                            18.8 mg/dL
+  2020-05-30 : Glucose                                  82.0 mg/dL
+  2020-05-30 : Respiratory rate                         15.0 /min
+  2020-05-30 : Heart rate                               94.0 /min
+  2020-05-30 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2020-05-30 : Body Mass Index                          27.5 kg/m2
+  2020-05-30 : Body Weight                              76.7 kg
+  2020-05-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-05-30 : Body Height                              167.1 cm
+  2019-11-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2019-05-25 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2019-05-25 : Tobacco smoking status NHIS              Never smoker 
+  2019-05-25 : Carbon Dioxide                           25.5 mmol/L
+  2019-05-25 : Chloride                                 107.8 mmol/L
+  2019-05-25 : Potassium                                4.3 mmol/L
+  2019-05-25 : Sodium                                   143.4 mmol/L
+  2019-05-25 : Calcium                                  8.5 mg/dL
+  2019-05-25 : Creatinine                               0.8 mg/dL
+  2019-05-25 : Urea Nitrogen                            14.1 mg/dL
+  2019-05-25 : Glucose                                  94.3 mg/dL
+  2019-05-25 : Respiratory rate                         14.0 /min
+  2019-05-25 : Heart rate                               82.0 /min
+  2019-05-25 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  2019-05-25 : Body Mass Index                          27.5 kg/m2
+  2019-05-25 : Body Weight                              76.7 kg
+  2019-05-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-05-25 : Body Height                              167.1 cm
+  2018-05-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2018-05-19 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-19 : High Density Lipoprotein Cholesterol     69.4 mg/dL
+  2018-05-19 : Low Density Lipoprotein Cholesterol      97.9 mg/dL
+  2018-05-19 : Triglycerides                            137.9 mg/dL
+  2018-05-19 : Total Cholesterol                        194.9 mg/dL
+  2018-05-19 : Carbon Dioxide                           24.3 mmol/L
+  2018-05-19 : Chloride                                 108.8 mmol/L
+  2018-05-19 : Potassium                                5.1 mmol/L
+  2018-05-19 : Sodium                                   140.0 mmol/L
+  2018-05-19 : Calcium                                  9.2 mg/dL
+  2018-05-19 : Creatinine                               0.8 mg/dL
+  2018-05-19 : Urea Nitrogen                            8.7 mg/dL
+  2018-05-19 : Glucose                                  73.2 mg/dL
+  2018-05-19 : Respiratory rate                         13.0 /min
+  2018-05-19 : Heart rate                               82.0 /min
+  2018-05-19 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2018-05-19 : Body Mass Index                          27.5 kg/m2
+  2018-05-19 : Body Weight                              76.7 kg
+  2018-05-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-05-19 : Body Height                              167.1 cm
+  2017-06-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2017-06-03 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-03 : Carbon Dioxide                           26.5 mmol/L
+  2017-06-03 : Chloride                                 101.7 mmol/L
+  2017-06-03 : Potassium                                5.2 mmol/L
+  2017-06-03 : Sodium                                   140.8 mmol/L
+  2017-06-03 : Calcium                                  8.5 mg/dL
+  2017-06-03 : Creatinine                               0.8 mg/dL
+  2017-06-03 : Urea Nitrogen                            12.2 mg/dL
+  2017-06-03 : Glucose                                  87.7 mg/dL
+  2017-06-03 : Respiratory rate                         13.0 /min
+  2017-06-03 : Heart rate                               89.0 /min
+  2017-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2017-06-03 : Body Mass Index                          27.5 kg/m2
+  2017-06-03 : Body Weight                              76.7 kg
+  2017-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-06-03 : Body Height                              167.1 cm
+  2017-05-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2017-05-13 : Tobacco smoking status NHIS              Never smoker 
+  2017-05-13 : Carbon Dioxide                           20.8 mmol/L
+  2017-05-13 : Chloride                                 104.5 mmol/L
+  2017-05-13 : Potassium                                4.4 mmol/L
+  2017-05-13 : Sodium                                   139.4 mmol/L
+  2017-05-13 : Calcium                                  9.2 mg/dL
+  2017-05-13 : Creatinine                               0.8 mg/dL
+  2017-05-13 : Urea Nitrogen                            16.6 mg/dL
+  2017-05-13 : Glucose                                  71.7 mg/dL
+  2017-05-13 : Respiratory rate                         14.0 /min
+  2017-05-13 : Heart rate                               71.0 /min
+  2017-05-13 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2017-05-13 : Body Mass Index                          27.5 kg/m2
+  2017-05-13 : Body Weight                              76.7 kg
+  2017-05-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-05-13 : Body Height                              167.1 cm
+  2016-10-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2016-10-15 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-15 : Carbon Dioxide                           20.4 mmol/L
+  2016-10-15 : Chloride                                 104.7 mmol/L
+  2016-10-15 : Potassium                                4.6 mmol/L
+  2016-10-15 : Sodium                                   142.4 mmol/L
+  2016-10-15 : Calcium                                  8.8 mg/dL
+  2016-10-15 : Creatinine                               0.8 mg/dL
+  2016-10-15 : Urea Nitrogen                            14.4 mg/dL
+  2016-10-15 : Glucose                                  99.4 mg/dL
+  2016-10-15 : Respiratory rate                         15.0 /min
+  2016-10-15 : Heart rate                               98.0 /min
+  2016-10-15 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2016-10-15 : Body Mass Index                          27.5 kg/m2
+  2016-10-15 : Body Weight                              76.7 kg
+  2016-10-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-10-15 : Body Height                              167.1 cm
+  2016-10-05 : Body temperature                         37.4 Cel
+  2016-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-05-07 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-05-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-07 : Carbon Dioxide                           22.0 mmol/L
+  2016-05-07 : Chloride                                 106.3 mmol/L
+  2016-05-07 : Potassium                                4.3 mmol/L
+  2016-05-07 : Sodium                                   136.7 mmol/L
+  2016-05-07 : Calcium                                  9.5 mg/dL
+  2016-05-07 : Creatinine                               0.9 mg/dL
+  2016-05-07 : Urea Nitrogen                            18.4 mg/dL
+  2016-05-07 : Glucose                                  82.4 mg/dL
+  2016-05-07 : Respiratory rate                         14.0 /min
+  2016-05-07 : Heart rate                               89.0 /min
+  2016-05-07 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2016-05-07 : Body Mass Index                          27.5 kg/m2
+  2016-05-07 : Body Weight                              76.7 kg
+  2016-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-05-07 : Body Height                              167.1 cm
+  2016-02-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2016-02-13 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-13 : Carbon Dioxide                           22.1 mmol/L
+  2016-02-13 : Chloride                                 104.1 mmol/L
+  2016-02-13 : Potassium                                4.6 mmol/L
+  2016-02-13 : Sodium                                   141.6 mmol/L
+  2016-02-13 : Calcium                                  8.6 mg/dL
+  2016-02-13 : Creatinine                               0.8 mg/dL
+  2016-02-13 : Urea Nitrogen                            8.9 mg/dL
+  2016-02-13 : Glucose                                  93.3 mg/dL
+  2016-02-13 : Respiratory rate                         15.0 /min
+  2016-02-13 : Heart rate                               95.0 /min
+  2016-02-13 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2016-02-13 : Body Mass Index                          27.5 kg/m2
+  2016-02-13 : Body Weight                              76.7 kg
+  2016-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-02-13 : Body Height                              167.1 cm
+  2015-06-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-05-02 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-05-02 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2015-05-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 249.4 fL
+  2015-05-02 : Platelets [#/volume] in Blood by Automated count 437.1 10*3/uL
+  2015-05-02 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2015-05-02 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2015-05-02 : MCH [Entitic mass] by Automated count    30.7 pg
+  2015-05-02 : MCV [Entitic volume] by Automated count  83.0 fL
+  2015-05-02 : Hematocrit [Volume Fraction] of Blood by Automated count 46.8 %
+  2015-05-02 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2015-05-02 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2015-05-02 : Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL
+  2015-05-02 : High Density Lipoprotein Cholesterol     65.3 mg/dL
+  2015-05-02 : Low Density Lipoprotein Cholesterol      96.2 mg/dL
+  2015-05-02 : Triglycerides                            132.2 mg/dL
+  2015-05-02 : Total Cholesterol                        188.0 mg/dL
+  2015-05-02 : Carbon Dioxide                           20.6 mmol/L
+  2015-05-02 : Chloride                                 105.6 mmol/L
+  2015-05-02 : Potassium                                3.9 mmol/L
+  2015-05-02 : Sodium                                   141.5 mmol/L
+  2015-05-02 : Calcium                                  9.0 mg/dL
+  2015-05-02 : Creatinine                               1.3 mg/dL
+  2015-05-02 : Urea Nitrogen                            12.0 mg/dL
+  2015-05-02 : Glucose                                  92.0 mg/dL
+  2015-05-02 : Respiratory rate                         14.0 /min
+  2015-05-02 : Heart rate                               94.0 /min
+  2015-05-02 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2015-05-02 : Body Mass Index                          27.5 kg/m2
+  2015-05-02 : Body Weight                              76.7 kg
+  2015-05-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-05-02 : Body Height                              167.1 cm
+  2014-04-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2014-04-26 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-26 : Carbon Dioxide                           20.7 mmol/L
+  2014-04-26 : Chloride                                 107.6 mmol/L
+  2014-04-26 : Potassium                                4.0 mmol/L
+  2014-04-26 : Sodium                                   139.4 mmol/L
+  2014-04-26 : Calcium                                  9.2 mg/dL
+  2014-04-26 : Creatinine                               1.3 mg/dL
+  2014-04-26 : Urea Nitrogen                            13.0 mg/dL
+  2014-04-26 : Glucose                                  68.5 mg/dL
+  2014-04-26 : Respiratory rate                         14.0 /min
+  2014-04-26 : Heart rate                               85.0 /min
+  2014-04-26 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2014-04-26 : Body Mass Index                          27.5 kg/m2
+  2014-04-26 : Body Weight                              76.7 kg
+  2014-04-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-04-26 : Body Height                              167.1 cm
+  2013-04-20 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2013-04-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-20 : Carbon Dioxide                           21.1 mmol/L
+  2013-04-20 : Chloride                                 107.7 mmol/L
+  2013-04-20 : Potassium                                5.0 mmol/L
+  2013-04-20 : Sodium                                   143.9 mmol/L
+  2013-04-20 : Calcium                                  9.8 mg/dL
+  2013-04-20 : Creatinine                               0.9 mg/dL
+  2013-04-20 : Urea Nitrogen                            7.4 mg/dL
+  2013-04-20 : Glucose                                  72.8 mg/dL
+  2013-04-20 : Respiratory rate                         13.0 /min
+  2013-04-20 : Heart rate                               84.0 /min
+  2013-04-20 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2013-04-20 : Body Mass Index                          27.5 kg/m2
+  2013-04-20 : Body Weight                              76.7 kg
+  2013-04-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-04-20 : Body Height                              167.1 cm
+  2012-04-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-04-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 259.8 fL
+  2012-04-14 : Platelets [#/volume] in Blood by Automated count 425.1 10*3/uL
+  2012-04-14 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.1 fL
+  2012-04-14 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2012-04-14 : MCH [Entitic mass] by Automated count    28.2 pg
+  2012-04-14 : MCV [Entitic volume] by Automated count  81.0 fL
+  2012-04-14 : RBC Auto (Bld) [#/Vol]                   5.0 10*6/uL
+  2012-04-14 : WBC Auto (Bld) [#/Vol]                   9.8 10*3/uL
+  2012-04-14 : Hematocrit [Volume Fraction] of Blood    35.9 %
+  2012-04-14 : Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+  2012-04-14 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2012-04-14 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-14 : High Density Lipoprotein Cholesterol     64.2 mg/dL
+  2012-04-14 : Low Density Lipoprotein Cholesterol      103.9 mg/dL
+  2012-04-14 : Triglycerides                            102.9 mg/dL
+  2012-04-14 : Total Cholesterol                        188.7 mg/dL
+  2012-04-14 : Carbon Dioxide                           24.2 mmol/L
+  2012-04-14 : Chloride                                 107.3 mmol/L
+  2012-04-14 : Potassium                                4.9 mmol/L
+  2012-04-14 : Sodium                                   141.0 mmol/L
+  2012-04-14 : Calcium                                  8.8 mg/dL
+  2012-04-14 : Creatinine                               0.9 mg/dL
+  2012-04-14 : Urea Nitrogen                            15.0 mg/dL
+  2012-04-14 : Glucose                                  95.2 mg/dL
+  2012-04-14 : Respiratory rate                         13.0 /min
+  2012-04-14 : Heart rate                               62.0 /min
+  2012-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2012-04-14 : Body Mass Index                          27.5 kg/m2
+  2012-04-14 : Body Weight                              76.7 kg
+  2012-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-04-14 : Body Height                              167.1 cm
+  2011-04-09 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2011-04-09 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-09 : Carbon Dioxide                           21.7 mmol/L
+  2011-04-09 : Chloride                                 108.9 mmol/L
+  2011-04-09 : Potassium                                4.0 mmol/L
+  2011-04-09 : Sodium                                   140.8 mmol/L
+  2011-04-09 : Calcium                                  9.5 mg/dL
+  2011-04-09 : Creatinine                               0.8 mg/dL
+  2011-04-09 : Urea Nitrogen                            7.6 mg/dL
+  2011-04-09 : Glucose                                  89.3 mg/dL
+  2011-04-09 : Respiratory rate                         16.0 /min
+  2011-04-09 : Heart rate                               78.0 /min
+  2011-04-09 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2011-04-09 : Body Mass Index                          27.5 kg/m2
+  2011-04-09 : Body Weight                              76.7 kg
+  2011-04-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-04-09 : Body Height                              167.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-05-25 : Medication Reconciliation (procedure)
+  2017-06-03 : Medication Reconciliation (procedure)
+  2016-10-15 : Medication Reconciliation (procedure)
+  2016-05-07 : Medication Reconciliation (procedure)
+  2015-10-22 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2014-09-06 : Depression screening for Normal pregnancy
+  2014-09-06 : Physical examination for Normal pregnancy
+  2014-08-30 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-08-30 : Standard pregnancy test for Normal pregnancy
+  2013-12-28 : Depression screening for Normal pregnancy
+  2013-12-28 : Physical exam following abortion for Normal pregnancy
+  2013-12-28 : Pregnancy termination care for Normal pregnancy
+  2013-12-14 : Induced termination of pregnancy for Normal pregnancy
+  2013-12-14 : Counseling for termination of pregnancy for Normal pregnancy
+  2013-12-07 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-12-07 : Standard pregnancy test for Normal pregnancy
+  2013-04-06 : Depression screening for Normal pregnancy
+  2013-04-06 : Physical examination for Normal pregnancy
+  2013-03-23 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-03-23 : Standard pregnancy test for Normal pregnancy
+  2013-01-26 : Removal of intrauterine device
+  2012-04-14 : Brief general examination (procedure)
+  2012-04-14 : Medication Reconciliation (procedure)
+  2012-04-14 : Review of systems (procedure)
+  2012-04-14 : Peripheral blood smear interpretation
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-05-30 : Influenza, seasonal, injectable, preservative free
+  2019-05-25 : Influenza, seasonal, injectable, preservative free
+  2018-05-19 : Influenza, seasonal, injectable, preservative free
+  2017-05-13 : Influenza, seasonal, injectable, preservative free
+  2016-05-07 : Influenza, seasonal, injectable, preservative free
+  2015-05-02 : Td (adult) preservative free
+  2015-05-02 : Influenza, seasonal, injectable, preservative free
+  2015-05-02 : zoster
+  2014-04-26 : Influenza, seasonal, injectable, preservative free
+  2014-04-26 : zoster
+  2013-04-20 : Influenza, seasonal, injectable, preservative free
+  2012-04-14 : Influenza, seasonal, injectable, preservative free
+  2011-04-09 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-05-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-04-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-11-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-05-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-03-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-02-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-07-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-06-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-05-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-12-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-11-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-10-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-09-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-08-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2017-08-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-07-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-06-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-06-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2017-06-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-05-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-01-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-12-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-11-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-10-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-10-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2016-10-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-10-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-09-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-08-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Osteoarthritis of knee
+2016-08-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-05-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-02-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2016-02-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-01-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-12-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-11-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-11-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-10-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-10-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2015-06-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-05-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-01-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-12-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-11-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-10-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-09-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-09-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Blighted ovum
+2014-08-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-08-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-04-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-03-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-03-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-01-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-12-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-12-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-12-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-12-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-04-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-04-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Fetus with unknown complication
+2013-03-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-03-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2013-03-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-01-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-01-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-12-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-08-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-04-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Anemia (disorder)
+2012-04-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-12-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Drug overdose
+2011-09-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-04-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-01-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-12-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-11-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-10-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-09-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-09-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-08-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-04-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2009-09-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2009-03-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2008-03-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2008-02-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2007-03-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2006-03-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2005-03-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2005-02-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Sinusitis (disorder)
+2005-02-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Sinusitis (disorder)
+2004-02-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2004-01-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2003-02-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2002-12-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Drug overdose
+2002-04-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2002-02-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2001-02-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2000-02-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2000-01-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1999-01-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1998-01-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+1997-01-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1996-01-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1995-01-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1994-01-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1992-12-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-12-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-11-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+1990-12-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1990-07-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+1990-02-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+1989-12-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1988-12-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1987-11-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1986-11-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1985-11-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1984-11-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1983-11-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1982-10-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1981-10-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

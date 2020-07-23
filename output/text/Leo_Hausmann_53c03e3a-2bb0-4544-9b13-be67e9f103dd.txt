@@ -1,0 +1,298 @@
+Leo Hausmann
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1938-01-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1991-06-23[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  1991-05-17[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  1991-03-11[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  1991-01-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1990-11-29[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1990-08-24[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  1990-07-11[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  1990-02-04[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  1989-06-29[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1994-03-08 -            : Drug overdose
+  1993-01-13 - 1994-05-08 : Polyp of colon
+  1990-08-24 -            : Chronic pain
+  1990-07-11 -            : Impacted molars
+  1990-02-04 -            : Chronic intractable migraine without aura
+  1989-06-29 - 1989-07-13 : Viral sinusitis (disorder)
+  1972-03-31 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1994-03-08[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  1997-03-07 : Lipid Panel
+           - Total Cholesterol                        175.9 mg/dL
+           - Triglycerides                            130.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      90.3 mg/dL
+           - High Density Lipoprotein Cholesterol     59.4 mg/dL
+  1995-02-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.4 %
+           - MCV [Entitic volume] by Automated count  91.1 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+           - Platelets [#/volume] in Blood by Automated count 301.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 461.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  1994-02-18 : Lipid Panel
+           - Total Cholesterol                        179.4 mg/dL
+           - Triglycerides                            137.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      89.5 mg/dL
+           - High Density Lipoprotein Cholesterol     62.4 mg/dL
+  1991-02-01 : Lipid Panel
+           - Total Cholesterol                        191.1 mg/dL
+           - Triglycerides                            143.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.2 mg/dL
+           - High Density Lipoprotein Cholesterol     75.1 mg/dL
+  1990-01-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.2 %
+           - MCV [Entitic volume] by Automated count  88.3 fL
+           - MCH [Entitic mass] by Automated count    30.9 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+           - Platelets [#/volume] in Blood by Automated count 344.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 357.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1998-03-13 : Tobacco smoking status NHIS              Never smoker 
+  1998-03-13 : Respiratory rate                         12.0 /min
+  1998-03-13 : Heart rate                               67.0 /min
+  1998-03-13 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  1998-03-13 : Body Mass Index                          27.8 kg/m2
+  1998-03-13 : Body Weight                              94.9 kg
+  1998-03-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1998-03-13 : Body Height                              184.9 cm
+  1997-12-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1997-03-07 : Tobacco smoking status NHIS              Never smoker 
+  1997-03-07 : High Density Lipoprotein Cholesterol     59.4 mg/dL
+  1997-03-07 : Low Density Lipoprotein Cholesterol      90.3 mg/dL
+  1997-03-07 : Triglycerides                            130.8 mg/dL
+  1997-03-07 : Total Cholesterol                        175.9 mg/dL
+  1997-03-07 : Respiratory rate                         12.0 /min
+  1997-03-07 : Heart rate                               69.0 /min
+  1997-03-07 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  1997-03-07 : Body Mass Index                          27.8 kg/m2
+  1997-03-07 : Body Weight                              94.9 kg
+  1997-03-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1997-03-07 : Body Height                              184.9 cm
+  1996-03-01 : Tobacco smoking status NHIS              Never smoker 
+  1996-03-01 : Respiratory rate                         14.0 /min
+  1996-03-01 : Heart rate                               64.0 /min
+  1996-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  1996-03-01 : Body Mass Index                          27.8 kg/m2
+  1996-03-01 : Body Weight                              94.9 kg
+  1996-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1996-03-01 : Body Height                              184.9 cm
+  1995-12-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1995-06-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  1995-02-24 : Tobacco smoking status NHIS              Never smoker 
+  1995-02-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  1995-02-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 461.6 fL
+  1995-02-24 : Platelets [#/volume] in Blood by Automated count 301.5 10*3/uL
+  1995-02-24 : Erythrocyte distribution width [Entitic volume] by Automated count 39.8 fL
+  1995-02-24 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  1995-02-24 : MCH [Entitic mass] by Automated count    32.3 pg
+  1995-02-24 : MCV [Entitic volume] by Automated count  91.1 fL
+  1995-02-24 : Hematocrit [Volume Fraction] of Blood by Automated count 49.4 %
+  1995-02-24 : Hemoglobin [Mass/volume] in Blood        12.2 g/dL
+  1995-02-24 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  1995-02-24 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  1995-02-24 : Respiratory rate                         14.0 /min
+  1995-02-24 : Heart rate                               95.0 /min
+  1995-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  1995-02-24 : Body Mass Index                          27.8 kg/m2
+  1995-02-24 : Body Weight                              94.9 kg
+  1995-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1995-02-24 : Body Height                              184.9 cm
+  1994-02-18 : Tobacco smoking status NHIS              Never smoker 
+  1994-02-18 : High Density Lipoprotein Cholesterol     62.4 mg/dL
+  1994-02-18 : Low Density Lipoprotein Cholesterol      89.5 mg/dL
+  1994-02-18 : Triglycerides                            137.5 mg/dL
+  1994-02-18 : Total Cholesterol                        179.4 mg/dL
+  1994-02-18 : Respiratory rate                         12.0 /min
+  1994-02-18 : Heart rate                               77.0 /min
+  1994-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  1994-02-18 : Body Mass Index                          27.8 kg/m2
+  1994-02-18 : Body Weight                              94.9 kg
+  1994-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1994-02-18 : Body Height                              184.9 cm
+  1993-02-12 : Tobacco smoking status NHIS              Never smoker 
+  1993-02-12 : Respiratory rate                         15.0 /min
+  1993-02-12 : Heart rate                               70.0 /min
+  1993-02-12 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  1993-02-12 : Body Mass Index                          27.8 kg/m2
+  1993-02-12 : Body Weight                              94.9 kg
+  1993-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1993-02-12 : Body Height                              184.9 cm
+  1993-01-13 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 7.7 ng/mL
+  1993-01-13 : Polyp size greatest dimension by CAP cancer protocols 5.6 mm
+  1992-02-07 : Tobacco smoking status NHIS              Never smoker 
+  1992-02-07 : Respiratory rate                         14.0 /min
+  1992-02-07 : Heart rate                               66.0 /min
+  1992-02-07 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  1992-02-07 : Body Mass Index                          27.8 kg/m2
+  1992-02-07 : Body Weight                              94.9 kg
+  1992-02-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1992-02-07 : Body Height                              184.9 cm
+  1991-06-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  1991-05-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  1991-03-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  1991-02-01 : Tobacco smoking status NHIS              Never smoker 
+  1991-02-01 : High Density Lipoprotein Cholesterol     75.1 mg/dL
+  1991-02-01 : Low Density Lipoprotein Cholesterol      87.2 mg/dL
+  1991-02-01 : Triglycerides                            143.9 mg/dL
+  1991-02-01 : Total Cholesterol                        191.1 mg/dL
+  1991-02-01 : Respiratory rate                         15.0 /min
+  1991-02-01 : Heart rate                               95.0 /min
+  1991-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  100.0 mm[Hg]
+  1991-02-01 : Body Mass Index                          27.8 kg/m2
+  1991-02-01 : Body Weight                              94.9 kg
+  1991-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1991-02-01 : Body Height                              184.9 cm
+  1991-01-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  1990-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  1990-08-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  1990-07-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1990-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  1990-01-26 : Tobacco smoking status NHIS              Never smoker 
+  1990-01-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  1990-01-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 357.3 fL
+  1990-01-26 : Platelets [#/volume] in Blood by Automated count 344.2 10*3/uL
+  1990-01-26 : Erythrocyte distribution width [Entitic volume] by Automated count 45.3 fL
+  1990-01-26 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  1990-01-26 : MCH [Entitic mass] by Automated count    30.9 pg
+  1990-01-26 : MCV [Entitic volume] by Automated count  88.3 fL
+  1990-01-26 : Hematocrit [Volume Fraction] of Blood by Automated count 36.2 %
+  1990-01-26 : Hemoglobin [Mass/volume] in Blood        12.1 g/dL
+  1990-01-26 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  1990-01-26 : Leukocytes [#/volume] in Blood by Automated count 7.1 10*3/uL
+  1990-01-26 : Respiratory rate                         16.0 /min
+  1990-01-26 : Heart rate                               68.0 /min
+  1990-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  1990-01-26 : Body Mass Index                          27.8 kg/m2
+  1990-01-26 : Body Weight                              94.9 kg
+  1990-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1990-01-26 : Body Height                              184.9 cm
+  1989-01-20 : Tobacco smoking status NHIS              Never smoker 
+  1989-01-20 : Respiratory rate                         16.0 /min
+  1989-01-20 : Heart rate                               61.0 /min
+  1989-01-20 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  1989-01-20 : Body Mass Index                          27.8 kg/m2
+  1989-01-20 : Body Weight                              94.9 kg
+  1989-01-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1989-01-20 : Body Height                              184.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1997-03-07 : Medication Reconciliation (procedure)
+  1996-03-01 : Medication Reconciliation (procedure)
+  1994-05-08 : Colonoscopy
+  1993-01-13 : Rectal polypectomy for Polyp of colon
+  1993-01-13 : Screening for occult blood in feces (procedure) for Polyp of colon
+  1993-01-13 : Colonoscopy
+  1992-02-07 : Medication Reconciliation (procedure)
+  1991-01-05 : Extraction of wisdom tooth
+  1990-11-29 : Extraction of wisdom tooth
+  1990-07-11 : Extraction of wisdom tooth
+  1989-01-20 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1998-03-13 : Influenza, seasonal, injectable, preservative free
+  1997-03-07 : Influenza, seasonal, injectable, preservative free
+  1996-03-01 : Influenza, seasonal, injectable, preservative free
+  1995-02-24 : Influenza, seasonal, injectable, preservative free
+  1994-02-18 : Influenza, seasonal, injectable, preservative free
+  1993-02-12 : Influenza, seasonal, injectable, preservative free
+  1992-02-07 : Td (adult) preservative free
+  1992-02-07 : Influenza, seasonal, injectable, preservative free
+  1991-02-01 : Influenza, seasonal, injectable, preservative free
+  1990-01-26 : Influenza, seasonal, injectable, preservative free
+  1989-01-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1998-11-11 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+1998-06-15 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1998-05-16 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1998-03-13 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1997-12-27 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1997-05-15 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1997-03-11 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1997-03-07 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1996-03-01 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1995-12-26 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1995-06-20 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1995-02-24 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1994-05-08 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1994-03-08 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+1994-02-18 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1993-02-12 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1993-01-13 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-08-09 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-07-10 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-06-10 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-05-11 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-04-11 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-03-12 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-02-11 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-02-07 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1992-01-12 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1991-06-23 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+1991-05-17 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+1991-03-11 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+1991-02-01 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1991-01-05 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+1990-11-29 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+1990-08-24 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+1990-07-11 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+1990-02-04 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+1990-01-26 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1989-06-29 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+1989-01-20 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+1972-03-31 (Dr. Moritz Schmitz) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

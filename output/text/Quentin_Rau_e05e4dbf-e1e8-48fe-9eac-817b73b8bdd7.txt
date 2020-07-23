@@ -1,0 +1,355 @@
+Quentin Rau
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 64
+Birth Date:          1955-12-18
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-10-27[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-10-21[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-11-15[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2017-10-15[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2016-10-09[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2015-10-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-09-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2013-09-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-09-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-09-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-09-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-08-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-08-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-08-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2006-08-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-08-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2004-08-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2003-07-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2002-07-21[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2001-07-15[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2000-07-09[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1999-07-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1998-06-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1997-06-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1996-06-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1995-06-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1994-06-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1993-05-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1992-05-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1991-05-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1990-05-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1989-07-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1989-05-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1989-03-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1988-05-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1987-04-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1986-04-20[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1985-04-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1984-04-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1983-04-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1982-03-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1981-03-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1980-03-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1979-07-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1979-03-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1978-03-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1977-02-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1976-02-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1975-02-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1974-02-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-11-15 - 2017-11-28 : Streptococcal sore throat (disorder)
+  2016-04-09 - 2016-04-22 : Acute viral pharyngitis (disorder)
+  2015-03-13 - 2015-05-12 : Concussion with no loss of consciousness
+  2011-09-06 - 2011-09-13 : Viral sinusitis (disorder)
+  1995-06-11 -            : Body mass index 30+ - obesity (finding)
+  1974-02-10 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-03-13[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  1974-02-10[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-10-27 : Lipid Panel
+           - Total Cholesterol                        177.4 mg/dL
+           - Triglycerides                            145.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.3 mg/dL
+           - High Density Lipoprotein Cholesterol     75.9 mg/dL
+  2017-10-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.0 %
+           - MCV [Entitic volume] by Automated count  85.9 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+           - Platelets [#/volume] in Blood by Automated count 166.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 189.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2016-10-09 : Lipid Panel
+           - Total Cholesterol                        192.3 mg/dL
+           - Triglycerides                            130.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.8 mg/dL
+           - High Density Lipoprotein Cholesterol     78.5 mg/dL
+  2013-09-22 : Lipid Panel
+           - Total Cholesterol                        179.7 mg/dL
+           - Triglycerides                            140.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.3 mg/dL
+           - High Density Lipoprotein Cholesterol     72.3 mg/dL
+  2012-09-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 432.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 214.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2010-09-05 : Lipid Panel
+           - Total Cholesterol                        192.4 mg/dL
+           - Triglycerides                            107.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      110.7 mg/dL
+           - High Density Lipoprotein Cholesterol     60.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-10-27 : Tobacco smoking status NHIS              Former smoker 
+  2019-10-27 : High Density Lipoprotein Cholesterol     75.9 mg/dL
+  2019-10-27 : Low Density Lipoprotein Cholesterol      72.3 mg/dL
+  2019-10-27 : Triglycerides                            145.5 mg/dL
+  2019-10-27 : Total Cholesterol                        177.4 mg/dL
+  2019-10-27 : Respiratory rate                         14.0 /min
+  2019-10-27 : Heart rate                               74.0 /min
+  2019-10-27 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2019-10-27 : Body Mass Index                          30.1 kg/m2
+  2019-10-27 : Body Weight                              85.8 kg
+  2019-10-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-10-27 : Body Height                              168.8 cm
+  2018-10-21 : Tobacco smoking status NHIS              Former smoker 
+  2018-10-21 : Respiratory rate                         12.0 /min
+  2018-10-21 : Heart rate                               91.0 /min
+  2018-10-21 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2018-10-21 : Body Mass Index                          29.4 kg/m2
+  2018-10-21 : Body Weight                              83.9 kg
+  2018-10-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-10-21 : Body Height                              168.8 cm
+  2017-11-15 : Body temperature                         38.8 Cel
+  2017-10-15 : Tobacco smoking status NHIS              Former smoker 
+  2017-10-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2017-10-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 189.5 fL
+  2017-10-15 : Platelets [#/volume] in Blood by Automated count 166.7 10*3/uL
+  2017-10-15 : Erythrocyte distribution width [Entitic volume] by Automated count 39.5 fL
+  2017-10-15 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2017-10-15 : MCH [Entitic mass] by Automated count    30.0 pg
+  2017-10-15 : MCV [Entitic volume] by Automated count  85.9 fL
+  2017-10-15 : Hematocrit [Volume Fraction] of Blood by Automated count 46.0 %
+  2017-10-15 : Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+  2017-10-15 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2017-10-15 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2017-10-15 : Respiratory rate                         14.0 /min
+  2017-10-15 : Heart rate                               70.0 /min
+  2017-10-15 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2017-10-15 : Body Mass Index                          28.8 kg/m2
+  2017-10-15 : Body Weight                              81.9 kg
+  2017-10-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-10-15 : Body Height                              168.8 cm
+  2016-10-09 : Tobacco smoking status NHIS              Former smoker 
+  2016-10-09 : High Density Lipoprotein Cholesterol     78.5 mg/dL
+  2016-10-09 : Low Density Lipoprotein Cholesterol      87.8 mg/dL
+  2016-10-09 : Triglycerides                            130.1 mg/dL
+  2016-10-09 : Total Cholesterol                        192.3 mg/dL
+  2016-10-09 : Respiratory rate                         15.0 /min
+  2016-10-09 : Heart rate                               66.0 /min
+  2016-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2016-10-09 : Body Mass Index                          28.1 kg/m2
+  2016-10-09 : Body Weight                              80.0 kg
+  2016-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-10-09 : Body Height                              168.8 cm
+  2016-04-09 : Body temperature                         37.6 Cel
+  2015-10-04 : Tobacco smoking status NHIS              Former smoker 
+  2015-10-04 : Respiratory rate                         14.0 /min
+  2015-10-04 : Heart rate                               92.0 /min
+  2015-10-04 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2015-10-04 : Body Mass Index                          28.8 kg/m2
+  2015-10-04 : Body Weight                              82.1 kg
+  2015-10-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-10-04 : Body Height                              168.8 cm
+  2014-09-28 : Tobacco smoking status NHIS              Former smoker 
+  2014-09-28 : Respiratory rate                         15.0 /min
+  2014-09-28 : Heart rate                               73.0 /min
+  2014-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2014-09-28 : Body Mass Index                          30.1 kg/m2
+  2014-09-28 : Body Weight                              85.8 kg
+  2014-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-09-28 : Body Height                              168.8 cm
+  2013-09-22 : Tobacco smoking status NHIS              Former smoker 
+  2013-09-22 : High Density Lipoprotein Cholesterol     72.3 mg/dL
+  2013-09-22 : Low Density Lipoprotein Cholesterol      79.3 mg/dL
+  2013-09-22 : Triglycerides                            140.7 mg/dL
+  2013-09-22 : Total Cholesterol                        179.7 mg/dL
+  2013-09-22 : Respiratory rate                         15.0 /min
+  2013-09-22 : Heart rate                               71.0 /min
+  2013-09-22 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2013-09-22 : Body Mass Index                          29.4 kg/m2
+  2013-09-22 : Body Weight                              83.9 kg
+  2013-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-09-22 : Body Height                              168.8 cm
+  2012-09-16 : Tobacco smoking status NHIS              Former smoker 
+  2012-09-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2012-09-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 214.5 fL
+  2012-09-16 : Platelets [#/volume] in Blood by Automated count 432.7 10*3/uL
+  2012-09-16 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  2012-09-16 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2012-09-16 : MCH [Entitic mass] by Automated count    27.6 pg
+  2012-09-16 : MCV [Entitic volume] by Automated count  82.3 fL
+  2012-09-16 : Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+  2012-09-16 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2012-09-16 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2012-09-16 : Leukocytes [#/volume] in Blood by Automated count 8.1 10*3/uL
+  2012-09-16 : Respiratory rate                         13.0 /min
+  2012-09-16 : Heart rate                               62.0 /min
+  2012-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2012-09-16 : Body Mass Index                          28.8 kg/m2
+  2012-09-16 : Body Weight                              82.0 kg
+  2012-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-09-16 : Body Height                              168.8 cm
+  2011-09-11 : Tobacco smoking status NHIS              Former smoker 
+  2011-09-11 : Respiratory rate                         15.0 /min
+  2011-09-11 : Heart rate                               74.0 /min
+  2011-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2011-09-11 : Body Mass Index                          28.1 kg/m2
+  2011-09-11 : Body Weight                              80.1 kg
+  2011-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-09-11 : Body Height                              168.8 cm
+  2010-09-05 : Tobacco smoking status NHIS              Former smoker 
+  2010-09-05 : High Density Lipoprotein Cholesterol     60.3 mg/dL
+  2010-09-05 : Low Density Lipoprotein Cholesterol      110.7 mg/dL
+  2010-09-05 : Triglycerides                            107.0 mg/dL
+  2010-09-05 : Total Cholesterol                        192.4 mg/dL
+  2010-09-05 : Respiratory rate                         16.0 /min
+  2010-09-05 : Heart rate                               65.0 /min
+  2010-09-05 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2010-09-05 : Body Mass Index                          29.0 kg/m2
+  2010-09-05 : Body Weight                              82.5 kg
+  2010-09-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2010-09-05 : Body Height                              168.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-10-27 : Medication Reconciliation (procedure)
+  2017-11-15 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2017-10-15 : Medication Reconciliation (procedure)
+  2016-10-09 : Medication Reconciliation (procedure)
+  2015-12-16 : Colonoscopy
+  2015-10-04 : Medication Reconciliation (procedure)
+  2012-09-16 : Medication Reconciliation (procedure)
+  2010-12-17 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-10-27 : Influenza, seasonal, injectable, preservative free
+  2018-10-21 : Influenza, seasonal, injectable, preservative free
+  2017-10-15 : Td (adult) preservative free
+  2017-10-15 : Influenza, seasonal, injectable, preservative free
+  2016-10-09 : Influenza, seasonal, injectable, preservative free
+  2015-10-04 : Influenza, seasonal, injectable, preservative free
+  2014-09-28 : Influenza, seasonal, injectable, preservative free
+  2013-09-22 : Influenza, seasonal, injectable, preservative free
+  2012-09-16 : Influenza, seasonal, injectable, preservative free
+  2011-09-11 : Influenza, seasonal, injectable, preservative free
+  2010-09-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-10-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-10-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-11-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Streptococcal sore throat (disorder)
+2017-10-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-10-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-04-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2015-12-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-10-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-05-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Concussion with no loss of consciousness
+2015-03-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-09-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-09-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-09-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-09-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2011-09-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-12-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-09-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2009-08-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2008-08-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2007-08-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2006-08-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2005-08-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2004-08-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2003-07-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2002-07-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2001-07-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2000-07-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1999-07-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1998-06-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1997-06-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1996-06-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1995-06-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1994-06-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1993-05-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1992-05-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-05-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1990-05-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1989-07-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1989-05-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1989-03-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1988-05-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1987-04-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1986-04-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1985-04-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1984-04-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1983-04-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1982-03-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1981-03-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1980-03-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1979-07-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1979-03-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1978-03-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1977-02-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1976-02-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1975-02-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1974-02-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

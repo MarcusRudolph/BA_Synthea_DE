@@ -1,0 +1,575 @@
+Letizia Klee
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1910-10-02
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-03-30[CURRENT] : 10 ML Furosemide 10 MG/ML Injection for Chronic congestive heart failure (disorder)
+  2013-07-28[CURRENT] : Warfarin Sodium 5 MG Oral Tablet
+  2013-07-28[CURRENT] : Digoxin 0.125 MG Oral Tablet
+  2013-07-28[CURRENT] : Verapamil Hydrochloride 40 MG
+  2012-08-09[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2012-07-22[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2012-07-22[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2012-07-22[STOPPED] : Verapamil Hydrochloride 40 MG
+  2011-07-17[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2011-07-17[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2011-07-17[STOPPED] : Verapamil Hydrochloride 40 MG
+  2010-12-26[STOPPED] : Alteplase 100 MG Injection
+  2010-12-26[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2010-10-17[CURRENT] : Furosemide 40 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  2010-10-17[CURRENT] : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol] for Chronic congestive heart failure (disorder)
+  2010-07-11[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2010-07-11[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2010-07-11[STOPPED] : Verapamil Hydrochloride 40 MG
+  2009-07-05[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2009-07-05[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2009-07-05[STOPPED] : Verapamil Hydrochloride 40 MG
+  2008-06-29[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2008-06-29[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2008-06-29[STOPPED] : Verapamil Hydrochloride 40 MG
+  2008-04-06[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2008-04-06[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2008-04-06[STOPPED] : Verapamil Hydrochloride 40 MG
+  2008-03-31[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2008-04-06[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2008-04-06[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2008-04-06[STOPPED] : Verapamil Hydrochloride 40 MG
+  2007-06-24[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2007-06-24[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2007-06-24[STOPPED] : Verapamil Hydrochloride 40 MG
+  2007-04-08[STOPPED] : Alteplase 100 MG Injection
+  2007-04-08[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2006-06-18[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2006-06-18[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2006-06-18[STOPPED] : Verapamil Hydrochloride 40 MG
+  2005-06-12[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2005-06-12[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2005-06-12[STOPPED] : Verapamil Hydrochloride 40 MG
+  2004-12-11[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2004-12-11[STOPPED] : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+  2004-09-19[STOPPED] : Alteplase 100 MG Injection
+  2004-09-19[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2004-06-06[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2004-06-06[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2004-06-06[STOPPED] : Verapamil Hydrochloride 40 MG
+  2003-06-01[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2003-06-01[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2003-06-01[STOPPED] : Verapamil Hydrochloride 40 MG
+  2002-05-26[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2002-05-26[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2002-05-26[STOPPED] : Verapamil Hydrochloride 40 MG
+  2001-05-20[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2001-05-20[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2001-05-20[STOPPED] : Verapamil Hydrochloride 40 MG
+  2000-10-08[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2000-10-08[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2000-10-08[STOPPED] : Verapamil Hydrochloride 40 MG
+  2000-05-14[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  2000-05-14[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  2000-05-14[STOPPED] : Verapamil Hydrochloride 40 MG
+  1999-05-09[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1999-05-09[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1999-05-09[STOPPED] : Verapamil Hydrochloride 40 MG
+  1998-05-03[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1998-05-03[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1998-05-03[STOPPED] : Verapamil Hydrochloride 40 MG
+  1997-04-27[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1997-04-27[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1997-04-27[STOPPED] : Verapamil Hydrochloride 40 MG
+  1996-04-21[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1996-04-21[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1996-04-21[STOPPED] : Verapamil Hydrochloride 40 MG
+  1995-04-16[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1995-04-16[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1995-04-16[STOPPED] : Verapamil Hydrochloride 40 MG
+  1994-04-10[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1994-04-10[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1994-04-10[STOPPED] : Verapamil Hydrochloride 40 MG
+  1993-04-04[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1993-04-04[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1993-04-04[STOPPED] : Verapamil Hydrochloride 40 MG
+  1992-03-29[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1992-03-29[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1992-03-29[STOPPED] : Verapamil Hydrochloride 40 MG
+  1991-03-24[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1991-03-24[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1991-03-24[STOPPED] : Verapamil Hydrochloride 40 MG
+  1990-03-18[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1990-03-18[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1990-03-18[STOPPED] : Verapamil Hydrochloride 40 MG
+  1989-03-12[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1989-03-12[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1989-03-12[STOPPED] : Verapamil Hydrochloride 40 MG
+  1988-03-06[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1988-03-06[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1988-03-06[STOPPED] : Verapamil Hydrochloride 40 MG
+  1987-03-01[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1987-03-01[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1987-03-01[STOPPED] : Verapamil Hydrochloride 40 MG
+  1986-02-23[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1986-02-23[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1986-02-23[STOPPED] : Verapamil Hydrochloride 40 MG
+  1985-02-17[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1985-02-17[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1985-02-17[STOPPED] : Verapamil Hydrochloride 40 MG
+  1984-02-12[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1984-02-12[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1984-02-12[STOPPED] : Verapamil Hydrochloride 40 MG
+  1983-02-06[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1983-02-06[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1983-02-06[STOPPED] : Verapamil Hydrochloride 40 MG
+  1982-01-31[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1982-01-31[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1982-01-31[STOPPED] : Verapamil Hydrochloride 40 MG
+  1981-01-25[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1981-01-25[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1981-01-25[STOPPED] : Verapamil Hydrochloride 40 MG
+  1981-01-25[STOPPED] : Verapamil Hydrochloride 40 MG
+  1980-01-20[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1980-01-20[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1979-01-14[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1979-01-14[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1978-10-22[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1978-10-22[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1978-01-08[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1978-01-08[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1977-01-02[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1977-01-02[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1975-12-28[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1975-12-28[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1974-12-22[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1974-12-22[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1973-12-16[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+  1973-12-16[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1973-12-16[STOPPED] : Digoxin 0.125 MG Oral Tablet
+  1973-12-16[STOPPED] : Warfarin Sodium 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2012-08-09 - 2012-08-23 : Acute bronchitis (disorder)
+  2010-09-26 -            : Chronic congestive heart failure (disorder)
+  2010-05-21 - 2010-05-28 : Acute viral pharyngitis (disorder)
+  2008-03-31 - 2008-04-07 : Acute bronchitis (disorder)
+  2006-06-08 - 2006-06-22 : Viral sinusitis (disorder)
+  2004-12-11 - 2005-02-09 : Pathological fracture due to osteoporosis (disorder)
+  2004-12-11 - 2005-02-09 : Fracture of rib
+  1991-03-24 -            : Osteoporosis (disorder)
+  1983-04-10 -            : Stroke
+  1973-12-16 -            : Atrial Fibrillation
+  1941-12-14 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-03-30[CURRENT] : Inpatient care plan (record artifact)
+                         Activity: Cardiac care (regime/therapy)
+                         Activity: Low sodium diet (finding)
+  2012-08-09[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2010-10-17[CURRENT] : Heart failure self management plan
+                         Reason: Chronic congestive heart failure (disorder)
+                         Reason: Chronic congestive heart failure (disorder)
+                         Reason: Chronic congestive heart failure (disorder)
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  2008-03-31[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2004-12-11[STOPPED] : Fracture care
+                         Reason: Fracture of rib
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-03-30 : Basic Metabolic Panel
+           - Glucose                                  90.2 mg/dL
+           - Urea Nitrogen                            13.9 mg/dL
+           - Creatinine                               0.5 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   139.3 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 102.9 mmol/L
+           - Carbon Dioxide                           23.6 mmol/L
+  2014-03-30 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  90.2 mg/dL
+           - Urea Nitrogen                            13.9 mg/dL
+           - Creatinine                               0.5 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   139.3 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 102.9 mmol/L
+           - Carbon Dioxide                           23.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 23.0 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 77.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.4 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 77.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.6 U/L
+  2013-10-01 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       43.5 %
+  2013-07-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.5 %
+           - MCV [Entitic volume] by Automated count  81.2 fL
+           - MCH [Entitic mass] by Automated count    31.6 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+           - Platelets [#/volume] in Blood by Automated count 339.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 318.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2012-07-22 : Lipid Panel
+           - Total Cholesterol                        175.5 mg/dL
+           - Triglycerides                            139.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.6 mg/dL
+           - High Density Lipoprotein Cholesterol     76.9 mg/dL
+  2012-04-09 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       35.2 %
+  2010-10-17 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       44.4 %
+  2010-09-26 : Basic Metabolic Panel
+           - Glucose                                  79.0 mg/dL
+           - Urea Nitrogen                            10.4 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 107.9 mmol/L
+           - Carbon Dioxide                           23.3 mmol/L
+  2009-07-05 : Lipid Panel
+           - Total Cholesterol                        171.6 mg/dL
+           - Triglycerides                            111.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.3 mg/dL
+           - High Density Lipoprotein Cholesterol     66.2 mg/dL
+  2008-06-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+           - MCV [Entitic volume] by Automated count  83.6 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    33.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+           - Platelets [#/volume] in Blood by Automated count 438.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 250.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2006-06-18 : Lipid Panel
+           - Total Cholesterol                        187.9 mg/dL
+           - Triglycerides                            132.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.6 mg/dL
+           - High Density Lipoprotein Cholesterol     66.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2014-03-30 : Carbon Dioxide                           23.6 mmol/L
+  2014-03-30 : Chloride                                 102.9 mmol/L
+  2014-03-30 : Potassium                                3.9 mmol/L
+  2014-03-30 : Sodium                                   139.3 mmol/L
+  2014-03-30 : Calcium                                  9.0 mg/dL
+  2014-03-30 : Creatinine                               0.5 mg/dL
+  2014-03-30 : Urea Nitrogen                            13.9 mg/dL
+  2014-03-30 : Glucose                                  90.2 mg/dL
+  2014-03-30 : Oxygen saturation in Arterial blood      76.5 %
+  2014-03-30 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 9.6 U/L
+  2014-03-30 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 25.7 U/L
+  2014-03-30 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 77.3 U/L
+  2014-03-30 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.6 mg/dL
+  2014-03-30 : Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+  2014-03-30 : Albumin [Mass/volume] in Serum or Plasma 5.4 g/dL
+  2014-03-30 : Protein [Mass/volume] in Serum or Plasma 77.8 g/dL
+  2014-03-30 : Glomerular filtration rate/1.73 sq M.predicted 23.0 mL/min
+  2014-03-30 : Carbon Dioxide                           23.6 mmol/L
+  2014-03-30 : Chloride                                 102.9 mmol/L
+  2014-03-30 : Potassium                                3.9 mmol/L
+  2014-03-30 : Sodium                                   139.3 mmol/L
+  2014-03-30 : Calcium                                  9.0 mg/dL
+  2014-03-30 : Creatinine                               0.5 mg/dL
+  2014-03-30 : Urea Nitrogen                            13.9 mg/dL
+  2014-03-30 : Glucose                                  90.2 mg/dL
+  2013-10-01 : Left ventricular Ejection fraction       43.5 %
+  2013-10-01 : Left ventricular Ejection fraction       33.9 %
+  2013-07-28 : Tobacco smoking status NHIS              Former smoker 
+  2013-07-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2013-07-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 318.6 fL
+  2013-07-28 : Platelets [#/volume] in Blood by Automated count 339.9 10*3/uL
+  2013-07-28 : Erythrocyte distribution width [Entitic volume] by Automated count 43.6 fL
+  2013-07-28 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2013-07-28 : MCH [Entitic mass] by Automated count    31.6 pg
+  2013-07-28 : MCV [Entitic volume] by Automated count  81.2 fL
+  2013-07-28 : Hematocrit [Volume Fraction] of Blood by Automated count 46.5 %
+  2013-07-28 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2013-07-28 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2013-07-28 : Leukocytes [#/volume] in Blood by Automated count 5.5 10*3/uL
+  2013-07-28 : Respiratory rate                         13.0 /min
+  2013-07-28 : Heart rate                               70.0 /min
+  2013-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2013-07-28 : Body Mass Index                          27.7 kg/m2
+  2013-07-28 : Body Weight                              80.7 kg
+  2013-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-07-28 : Body Height                              170.6 cm
+  2012-07-22 : Tobacco smoking status NHIS              Former smoker 
+  2012-07-22 : High Density Lipoprotein Cholesterol     76.9 mg/dL
+  2012-07-22 : Low Density Lipoprotein Cholesterol      70.6 mg/dL
+  2012-07-22 : Triglycerides                            139.8 mg/dL
+  2012-07-22 : Total Cholesterol                        175.5 mg/dL
+  2012-07-22 : Respiratory rate                         15.0 /min
+  2012-07-22 : Heart rate                               70.0 /min
+  2012-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  139.0 mm[Hg]
+  2012-07-22 : Body Mass Index                          27.7 kg/m2
+  2012-07-22 : Body Weight                              80.7 kg
+  2012-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-07-22 : Body Height                              170.6 cm
+  2012-04-09 : Left ventricular Ejection fraction       35.2 %
+  2012-04-09 : Left ventricular Ejection fraction       43.9 %
+  2011-07-17 : Tobacco smoking status NHIS              Former smoker 
+  2011-07-17 : Respiratory rate                         13.0 /min
+  2011-07-17 : Heart rate                               64.0 /min
+  2011-07-17 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2011-07-17 : Body Mass Index                          27.7 kg/m2
+  2011-07-17 : Body Weight                              80.7 kg
+  2011-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-07-17 : Body Height                              170.6 cm
+  2010-10-17 : Left ventricular Ejection fraction       44.4 %
+  2010-10-17 : Left ventricular Ejection fraction       35.4 %
+  2010-09-26 : Carbon Dioxide                           23.3 mmol/L
+  2010-09-26 : Chloride                                 107.9 mmol/L
+  2010-09-26 : Potassium                                4.5 mmol/L
+  2010-09-26 : Sodium                                   137.0 mmol/L
+  2010-09-26 : Calcium                                  9.9 mg/dL
+  2010-09-26 : Creatinine                               0.6 mg/dL
+  2010-09-26 : Urea Nitrogen                            10.4 mg/dL
+  2010-09-26 : Glucose                                  79.0 mg/dL
+  2010-09-26 : NT-proBNP                                1322.5 pg/mL
+  2010-07-11 : Tobacco smoking status NHIS              Former smoker 
+  2010-07-11 : Respiratory rate                         16.0 /min
+  2010-07-11 : Heart rate                               95.0 /min
+  2010-07-11 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2010-07-11 : Body Mass Index                          27.7 kg/m2
+  2010-07-11 : Body Weight                              80.7 kg
+  2010-07-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2010-07-11 : Body Height                              170.6 cm
+  2010-05-21 : Body temperature                         37.6 Cel
+  2009-07-05 : Tobacco smoking status NHIS              Former smoker 
+  2009-07-05 : High Density Lipoprotein Cholesterol     66.2 mg/dL
+  2009-07-05 : Low Density Lipoprotein Cholesterol      83.3 mg/dL
+  2009-07-05 : Triglycerides                            111.0 mg/dL
+  2009-07-05 : Total Cholesterol                        171.6 mg/dL
+  2009-07-05 : Respiratory rate                         13.0 /min
+  2009-07-05 : Heart rate                               94.0 /min
+  2009-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2009-07-05 : Body Mass Index                          27.7 kg/m2
+  2009-07-05 : Body Weight                              80.7 kg
+  2009-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2009-07-05 : Body Height                              170.6 cm
+  2008-06-29 : Tobacco smoking status NHIS              Former smoker 
+  2008-06-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2008-06-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 250.9 fL
+  2008-06-29 : Platelets [#/volume] in Blood by Automated count 438.2 10*3/uL
+  2008-06-29 : Erythrocyte distribution width [Entitic volume] by Automated count 43.0 fL
+  2008-06-29 : MCHC [Mass/volume] by Automated count    33.4 g/dL
+  2008-06-29 : MCH [Entitic mass] by Automated count    31.4 pg
+  2008-06-29 : MCV [Entitic volume] by Automated count  83.6 fL
+  2008-06-29 : Hematocrit [Volume Fraction] of Blood by Automated count 35.9 %
+  2008-06-29 : Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+  2008-06-29 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2008-06-29 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2008-06-29 : Respiratory rate                         13.0 /min
+  2008-06-29 : Heart rate                               80.0 /min
+  2008-06-29 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2008-06-29 : Body Mass Index                          27.7 kg/m2
+  2008-06-29 : Body Weight                              80.7 kg
+  2008-06-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2008-06-29 : Body Height                              170.6 cm
+  2008-04-06 : Tobacco smoking status NHIS              Former smoker 
+  2008-04-06 : Respiratory rate                         13.0 /min
+  2008-04-06 : Heart rate                               86.0 /min
+  2008-04-06 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2008-04-06 : Body Mass Index                          27.7 kg/m2
+  2008-04-06 : Body Weight                              80.7 kg
+  2008-04-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2008-04-06 : Body Height                              170.6 cm
+  2007-06-24 : Tobacco smoking status NHIS              Former smoker 
+  2007-06-24 : Respiratory rate                         14.0 /min
+  2007-06-24 : Heart rate                               63.0 /min
+  2007-06-24 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2007-06-24 : Body Mass Index                          27.7 kg/m2
+  2007-06-24 : Body Weight                              80.7 kg
+  2007-06-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2007-06-24 : Body Height                              170.6 cm
+  2006-06-18 : Tobacco smoking status NHIS              Former smoker 
+  2006-06-18 : High Density Lipoprotein Cholesterol     66.8 mg/dL
+  2006-06-18 : Low Density Lipoprotein Cholesterol      94.6 mg/dL
+  2006-06-18 : Triglycerides                            132.7 mg/dL
+  2006-06-18 : Total Cholesterol                        187.9 mg/dL
+  2006-06-18 : Respiratory rate                         12.0 /min
+  2006-06-18 : Heart rate                               97.0 /min
+  2006-06-18 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2006-06-18 : Body Mass Index                          27.7 kg/m2
+  2006-06-18 : Body Weight                              80.7 kg
+  2006-06-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2006-06-18 : Body Height                              170.6 cm
+  2005-06-12 : Tobacco smoking status NHIS              Former smoker 
+  2005-06-12 : Respiratory rate                         14.0 /min
+  2005-06-12 : Heart rate                               97.0 /min
+  2005-06-12 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2005-06-12 : Body Mass Index                          27.7 kg/m2
+  2005-06-12 : Body Weight                              80.7 kg
+  2005-06-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2005-06-12 : Body Height                              170.6 cm
+  2004-06-06 : Tobacco smoking status NHIS              Former smoker 
+  2004-06-06 : Respiratory rate                         14.0 /min
+  2004-06-06 : Heart rate                               83.0 /min
+  2004-06-06 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2004-06-06 : Body Mass Index                          27.7 kg/m2
+  2004-06-06 : Body Weight                              80.7 kg
+  2004-06-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2004-06-06 : Body Height                              170.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-03-30 : Plain chest X-ray
+  2014-03-30 : Transthoracic echocardiography
+  2014-03-30 : Plain chest X-ray (procedure)
+  2013-10-01 : Transthoracic three dimensional ultrasonography of heart (procedure)
+  2013-07-28 : Electrical cardioversion for Atrial Fibrillation
+  2012-08-19 : Electrical cardioversion for Atrial Fibrillation
+  2012-08-09 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2012-07-22 : Electrical cardioversion for Atrial Fibrillation
+  2012-04-09 : Transthoracic three dimensional ultrasonography of heart (procedure)
+  2011-07-17 : Electrical cardioversion for Atrial Fibrillation
+  2010-12-26 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  2010-12-26 : Echocardiography (procedure) for Stroke
+  2010-10-17 : Transthoracic three dimensional ultrasonography of heart (procedure)
+  2010-07-11 : Electrical cardioversion for Atrial Fibrillation
+  2009-07-05 : Medication Reconciliation (procedure)
+  2009-07-05 : Electrical cardioversion for Atrial Fibrillation
+  2008-06-29 : Medication Reconciliation (procedure)
+  2008-06-29 : Electrical cardioversion for Atrial Fibrillation
+  2008-04-06 : Medication Reconciliation (procedure)
+  2008-03-31 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2008-04-06 : Electrical cardioversion for Atrial Fibrillation
+  2007-06-24 : Medication Reconciliation (procedure)
+  2007-06-24 : Electrical cardioversion for Atrial Fibrillation
+  2007-04-08 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  2007-04-08 : Echocardiography (procedure) for Stroke
+  2006-06-18 : Electrical cardioversion for Atrial Fibrillation
+  2005-06-12 : Electrical cardioversion for Atrial Fibrillation
+  2004-12-11 : Bone immobilization for Fracture of rib
+  2004-12-11 : Chest X-ray
+  2004-09-19 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  2004-09-19 : Echocardiography (procedure) for Stroke
+  2004-06-06 : Electrical cardioversion for Atrial Fibrillation
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2011-07-17 : Influenza, seasonal, injectable, preservative free
+  2010-07-11 : Influenza, seasonal, injectable, preservative free
+  2009-07-05 : Influenza, seasonal, injectable, preservative free
+  2008-04-06 : Influenza, seasonal, injectable, preservative free
+  2007-06-24 : Influenza, seasonal, injectable, preservative free
+  2006-06-18 : Influenza, seasonal, injectable, preservative free
+  2005-06-12 : Influenza, seasonal, injectable, preservative free
+  2004-06-06 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2014-03-30 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic congestive heart failure (disorder)
+2014-03-30 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic congestive heart failure (disorder)
+2013-10-01 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic congestive heart failure (disorder)
+2013-07-28 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2012-08-19 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2012-08-09 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2012-07-22 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2012-04-09 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic congestive heart failure (disorder)
+2011-07-17 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2010-12-26 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2010-10-17 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic congestive heart failure (disorder)
+2010-09-26 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic congestive heart failure (disorder)
+2010-07-11 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2010-05-21 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2009-07-05 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2008-06-29 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2008-03-31 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2008-04-06 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2007-06-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2007-04-08 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2006-06-18 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2006-06-08 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2005-06-12 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2005-02-09 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Fracture of rib
+2004-12-11 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2004-09-19 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2004-06-06 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2003-06-01 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2002-05-26 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2001-05-20 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2000-10-08 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2000-05-14 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1999-05-09 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1998-05-03 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1997-04-27 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1996-04-21 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1995-04-16 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1994-04-10 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1993-04-04 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1992-03-29 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1991-03-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1990-03-18 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1989-03-12 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1988-03-06 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1987-03-01 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1986-02-23 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1985-02-17 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1984-02-12 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1983-04-10 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1983-02-06 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1982-01-31 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1981-01-25 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1980-01-20 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1979-01-14 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1978-10-22 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1978-01-08 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1977-01-02 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1975-12-28 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1974-12-22 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1973-12-16 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1941-12-14 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2014-03-30 : Digital Radiography, Thoracic structure
+  2014-03-30 : Ultrasound, Thoracic
+  2014-03-30 : Computed Radiography, Thoracic structure (body structure)
+  2013-10-01 : Ultrasound, thoracic
+  2012-04-09 : Ultrasound, thoracic
+  2010-10-17 : Ultrasound, thoracic
+  2004-12-11 : Digital Radiography, Chest
+--------------------------------------------------------------------------------

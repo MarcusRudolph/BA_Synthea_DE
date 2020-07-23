@@ -1,0 +1,328 @@
+Agnes Lang
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1990-04-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-12-27[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2018-06-16[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2015-01-02[STOPPED] : Trinessa 28 Day Pack
+  2013-04-10[STOPPED] : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+  2013-04-10[STOPPED] : remifentanil 2 MG Injection
+  2013-04-10[STOPPED] : Isoflurane 999 MG/ML Inhalant Solution
+  2013-04-10[STOPPED] : Rocuronium bromide 10 MG/ML Injectable Solution
+  2013-04-10[STOPPED] : 100 ML Propofol 10 MG/ML Injection
+  2013-04-10[STOPPED] : Midazolam 1 MG/ML Injectable Solution
+  2013-04-10[STOPPED] : 2 ML Ondansetron 2 MG/ML Injection
+  2013-04-10[STOPPED] : Piperacillin 4000 MG / tazobactam 500 MG Injection
+  2013-04-10[STOPPED] : 1 ML Morphine Sulfate 5 MG/ML Injection
+  2013-04-10[STOPPED] : 2 ML Ondansetron 2 MG/ML Injection
+  2013-04-10[STOPPED] : Sodium Chloride 9 MG/ML Injectable Solution
+  2013-04-10[STOPPED] : 1 ML heparin sodium, porcine 5000 UNT/ML Injection
+  2010-03-15[STOPPED] : Camila 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-12-27 - 2019-01-10 : Viral sinusitis (disorder)
+  2018-09-23 - 2018-10-04 : Acute viral pharyngitis (disorder)
+  2018-06-16 - 2018-06-24 : Streptococcal sore throat (disorder)
+  2017-05-07 - 2017-05-28 : Viral sinusitis (disorder)
+  2013-04-10 - 2013-04-10 : Cholelithiasis
+  2013-04-10 - 2013-04-10 : Acute Cholecystitis
+  2012-04-22 - 2012-12-01 : Anemia (disorder)
+  2012-04-22 - 2012-12-01 : Normal pregnancy
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-01-11[STOPPED] : Minor surgery care management (procedure)
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+  2013-04-10[STOPPED] : Postoperative care
+                         Activity: Decreased fat diet
+                         Activity: Restriction of movement
+                         Activity: Wound care
+  2012-04-22[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-06-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %
+           - MCV [Entitic volume] by Automated count  92.3 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 168.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 348.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2013-04-10 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Total Bilirubin (Elevated)               1.4 mg/dL
+           - ALT (Elevated)                           124.8 IU/L
+           - AST (Elevated)                           102.7 IU/L
+           - Glucose                                  95.9 mg/dL
+           - Urea Nitrogen                            14.3 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 101.6 mmol/L
+           - Carbon Dioxide                           23.3 mmol/L
+           - Anion Gap                                8.3 mmol/L
+           - Protein                                  6.2 g/dL
+           - Albumin                                  5.2 g/dL
+           - Globulin                                 2.1 g/dL
+           - Alkaline Phosphatase                     37.1 IU/L
+  2013-04-10 : CBC W Differential panel, method unspecified - Blood
+           - White Blood Cell (Elevated)              12.4 K/uL
+           - Red Blood Cell                           5.2 M/uL
+           - Hemoglobin                               15.7 g/dL
+           - Hematocrit                               42.3 %
+           - MCV                                      90.6 fL
+           - RBC Distribution Width                   11.9 %
+           - Platelet Count                           348.9 K/uL
+  2012-06-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.9 %
+           - MCV [Entitic volume] by Automated count  83.7 fL
+           - MCH [Entitic mass] by Automated count    31.1 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+           - Platelets [#/volume] in Blood by Automated count 296.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 493.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2012-04-23 : Hemoglobin and Hematocrit panel - Blood
+           - Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood    33.6 %
+  2012-04-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        7.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood    22.3 %
+           - WBC Auto (Bld) [#/Vol]                   10.3 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   5.3 10*6/uL
+           - MCV [Entitic volume] by Automated count  93.0 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 335.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 282.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-30 : Respiratory rate                         14.0 /min
+  2018-09-30 : Heart rate                               78.0 /min
+  2018-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2018-09-30 : Body Mass Index                          24.4 kg/m2
+  2018-09-30 : Body Weight                              71.0 kg
+  2018-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-09-30 : Body Height                              170.6 cm
+  2018-09-23 : Body temperature                         37.0 Cel
+  2018-06-24 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2018-06-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 348.5 fL
+  2018-06-24 : Platelets [#/volume] in Blood by Automated count 168.2 10*3/uL
+  2018-06-24 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2018-06-24 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2018-06-24 : MCH [Entitic mass] by Automated count    28.8 pg
+  2018-06-24 : MCV [Entitic volume] by Automated count  92.3 fL
+  2018-06-24 : Hematocrit [Volume Fraction] of Blood by Automated count 43.0 %
+  2018-06-24 : Hemoglobin [Mass/volume] in Blood        12.0 g/dL
+  2018-06-24 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2018-06-24 : Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+  2018-06-24 : Respiratory rate                         15.0 /min
+  2018-06-24 : Heart rate                               61.0 /min
+  2018-06-24 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2018-06-24 : Body Mass Index                          24.4 kg/m2
+  2018-06-24 : Body Weight                              71.0 kg
+  2018-06-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-06-24 : Body Height                              170.6 cm
+  2018-06-16 : Body temperature                         39.1 Cel
+  2015-06-21 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-21 : Respiratory rate                         12.0 /min
+  2015-06-21 : Heart rate                               79.0 /min
+  2015-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2015-06-21 : Body Mass Index                          22.9 kg/m2
+  2015-06-21 : Body Weight                              66.6 kg
+  2015-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-06-21 : Body Height                              170.6 cm
+  2013-04-10 : Physical findings of Abdomen by Palpation Positive Murphy's Sign 
+  2013-04-10 : Alkaline Phosphatase                     37.1 IU/L
+  2013-04-10 : Globulin                                 2.1 g/dL
+  2013-04-10 : Albumin                                  5.2 g/dL
+  2013-04-10 : Protein                                  6.2 g/dL
+  2013-04-10 : Anion Gap                                8.3 mmol/L
+  2013-04-10 : Carbon Dioxide                           23.3 mmol/L
+  2013-04-10 : Chloride                                 101.6 mmol/L
+  2013-04-10 : Potassium                                4.9 mmol/L
+  2013-04-10 : Sodium                                   137.6 mmol/L
+  2013-04-10 : Calcium                                  10.1 mg/dL
+  2013-04-10 : Creatinine                               0.9 mg/dL
+  2013-04-10 : Urea Nitrogen                            14.3 mg/dL
+  2013-04-10 : Glucose                                  95.9 mg/dL
+  2013-04-10 : AST (Elevated)                           102.7 IU/L
+  2013-04-10 : ALT (Elevated)                           124.8 IU/L
+  2013-04-10 : Total Bilirubin (Elevated)               1.4 mg/dL
+  2013-04-10 : Platelet Count                           348.9 K/uL
+  2013-04-10 : RBC Distribution Width                   11.9 %
+  2013-04-10 : MCV                                      90.6 fL
+  2013-04-10 : Hematocrit                               42.3 %
+  2013-04-10 : Hemoglobin                               15.7 g/dL
+  2013-04-10 : Red Blood Cell                           5.2 M/uL
+  2013-04-10 : White Blood Cell (Elevated)              12.4 K/uL
+  2012-06-17 : Tobacco smoking status NHIS              Never smoker 
+  2012-06-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2012-06-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 493.1 fL
+  2012-06-17 : Platelets [#/volume] in Blood by Automated count 296.8 10*3/uL
+  2012-06-17 : Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+  2012-06-17 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2012-06-17 : MCH [Entitic mass] by Automated count    31.1 pg
+  2012-06-17 : MCV [Entitic volume] by Automated count  83.7 fL
+  2012-06-17 : Hematocrit [Volume Fraction] of Blood by Automated count 48.9 %
+  2012-06-17 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2012-06-17 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2012-06-17 : Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+  2012-06-17 : Respiratory rate                         16.0 /min
+  2012-06-17 : Heart rate                               68.0 /min
+  2012-06-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2012-06-17 : Body Mass Index                          21.2 kg/m2
+  2012-06-17 : Body Weight                              61.7 kg
+  2012-06-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-06-17 : Body Height                              170.6 cm
+  2012-04-23 : Hematocrit [Volume Fraction] of Blood    33.6 %
+  2012-04-23 : Hemoglobin [Mass/volume] in Blood        11.4 g/dL
+  2012-04-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2012-04-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 282.4 fL
+  2012-04-22 : Platelets [#/volume] in Blood by Automated count 335.5 10*3/uL
+  2012-04-22 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 43.3 fL
+  2012-04-22 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2012-04-22 : MCH [Entitic mass] by Automated count    29.3 pg
+  2012-04-22 : MCV [Entitic volume] by Automated count  93.0 fL
+  2012-04-22 : RBC Auto (Bld) [#/Vol]                   5.3 10*6/uL
+  2012-04-22 : WBC Auto (Bld) [#/Vol]                   10.3 10*3/uL
+  2012-04-22 : Hematocrit [Volume Fraction] of Blood    22.3 %
+  2012-04-22 : Hemoglobin [Mass/volume] in Blood        7.3 g/dL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-09-23 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2016-01-11 : Bilateral tubal ligation
+  2013-04-10 : Laparoscopic Removal of Gall Bladder
+  2013-04-10 : Intubation
+  2013-04-10 : Ultrasonography of abdomen, right upper quadrant and epigastrium
+  2013-04-10 : Electrocardiographic procedure
+  2013-01-12 : Depression screening
+  2013-01-12 : Physical examination following birth
+  2012-12-01 : Childbirth for Normal pregnancy
+  2012-12-01 : Episiotomy for Normal pregnancy
+  2012-11-24 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-11-10 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-11-10 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-10-14 : Auscultation of the fetal heart for Normal pregnancy
+  2012-10-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-16 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-16 : Urine screening for glucose for Normal pregnancy
+  2012-09-16 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-09-16 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-08-19 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-22 : Auscultation of the fetal heart for Normal pregnancy
+  2012-07-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-24 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-24 : Alpha-fetoprotein test for Normal pregnancy
+  2012-06-24 : Fetal anatomy study for Normal pregnancy
+  2012-06-17 : Medication Reconciliation (procedure)
+  2012-05-27 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-05-27 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-22 : Intravenous blood transfusion of packed cells (procedure)
+  2012-04-22 : Brief general examination (procedure)
+  2012-04-22 : Medication Reconciliation (procedure)
+  2012-04-22 : Review of systems (procedure)
+  2012-04-22 : Peripheral blood smear interpretation
+  2012-04-22 : Physical examination of mother for Normal pregnancy
+  2012-04-22 : Urine protein test for Normal pregnancy
+  2012-04-22 : Skin test for tuberculosis for Normal pregnancy
+  2012-04-22 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-04-22 : Rubella screening for Normal pregnancy
+  2012-04-22 : Hepatitis C antibody test for Normal pregnancy
+  2012-04-22 : Urine screening test for diabetes for Normal pregnancy
+  2012-04-22 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-04-22 : Urine culture for Normal pregnancy
+  2012-04-22 : Syphilis infection test for Normal pregnancy
+  2012-04-22 : Gonorrhea infection test for Normal pregnancy
+  2012-04-22 : Chlamydia antigen test for Normal pregnancy
+  2012-04-22 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-04-22 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-04-22 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-04-22 : Blood typing, RH typing for Normal pregnancy
+  2012-04-22 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-04-22 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-04-22 : Standard pregnancy test for Normal pregnancy
+  2012-02-25 : Removal of intrauterine device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-09-30 : Influenza, seasonal, injectable, preservative free
+  2018-06-24 : Influenza, seasonal, injectable, preservative free
+  2015-06-21 : Influenza, seasonal, injectable, preservative free
+  2012-06-17 : meningococcal MCV4P
+  2012-06-17 : Hep B, adult
+  2012-06-17 : Td (adult) preservative free
+  2012-06-17 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-12-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2018-09-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-09-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2018-06-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-06-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Streptococcal sore throat (disorder)
+2017-05-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2016-01-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-12-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-06-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-01-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-04-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Laparoscopic Removal of Gall Bladder
+2013-04-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute Cholecystitis
+2013-01-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-12-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-11-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-11-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-10-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-09-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-08-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-07-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-06-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-06-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-05-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-04-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Anemia (disorder)
+2012-04-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Anemia (disorder)
+2012-04-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Anemia (disorder)
+2012-04-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-02-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-03-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2013-04-10 : Ultrasound, Structure of right upper quadrant of abdomen
+--------------------------------------------------------------------------------

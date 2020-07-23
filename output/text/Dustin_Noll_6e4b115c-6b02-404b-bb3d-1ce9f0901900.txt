@@ -1,0 +1,178 @@
+Dustin Noll
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1949-01-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1996-07-20[STOPPED] : Alteplase 100 MG Injection
+  1994-08-13[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1996-07-20 -            : Stroke
+  1994-08-13 - 1994-08-23 : Streptococcal sore throat (disorder)
+  1989-11-25 - 1989-12-16 : Viral sinusitis (disorder)
+  1986-04-05 -            : Body mass index 30+ - obesity (finding)
+  1983-01-08 -            : History of appendectomy
+  1983-01-08 -            : Appendicitis
+  1956-12-25 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  1994-08-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  89.7 fL
+           - MCH [Entitic mass] by Automated count    32.7 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 430.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 317.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  1994-08-20 : Lipid Panel
+           - Total Cholesterol                        179.5 mg/dL
+           - Triglycerides                            144.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.2 mg/dL
+           - High Density Lipoprotein Cholesterol     73.5 mg/dL
+  1991-01-26 : Lipid Panel
+           - Total Cholesterol                        195.9 mg/dL
+           - Triglycerides                            132.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      98.8 mg/dL
+           - High Density Lipoprotein Cholesterol     70.5 mg/dL
+  1989-01-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+           - MCV [Entitic volume] by Automated count  93.8 fL
+           - MCH [Entitic mass] by Automated count    32.7 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 167.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 332.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1995-02-04 : Tobacco smoking status NHIS              Former smoker 
+  1995-02-04 : Respiratory rate                         15.0 /min
+  1995-02-04 : Heart rate                               89.0 /min
+  1995-02-04 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  1995-02-04 : Body Mass Index                          29.5 kg/m2
+  1995-02-04 : Body Weight                              99.5 kg
+  1995-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1995-02-04 : Body Height                              183.6 cm
+  1994-08-20 : Tobacco smoking status NHIS              Former smoker 
+  1994-08-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  1994-08-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 317.0 fL
+  1994-08-20 : Platelets [#/volume] in Blood by Automated count 430.6 10*3/uL
+  1994-08-20 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  1994-08-20 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  1994-08-20 : MCH [Entitic mass] by Automated count    32.7 pg
+  1994-08-20 : MCV [Entitic volume] by Automated count  89.7 fL
+  1994-08-20 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  1994-08-20 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  1994-08-20 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  1994-08-20 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  1994-08-20 : High Density Lipoprotein Cholesterol     73.5 mg/dL
+  1994-08-20 : Low Density Lipoprotein Cholesterol      77.2 mg/dL
+  1994-08-20 : Triglycerides                            144.0 mg/dL
+  1994-08-20 : Total Cholesterol                        179.5 mg/dL
+  1994-08-20 : Respiratory rate                         13.0 /min
+  1994-08-20 : Heart rate                               68.0 /min
+  1994-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  1994-08-20 : Body Mass Index                          29.2 kg/m2
+  1994-08-20 : Body Weight                              98.4 kg
+  1994-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1994-08-20 : Body Height                              183.6 cm
+  1994-08-13 : Body temperature                         39.0 Cel
+  1993-01-30 : Tobacco smoking status NHIS              Former smoker 
+  1993-01-30 : Respiratory rate                         16.0 /min
+  1993-01-30 : Heart rate                               73.0 /min
+  1993-01-30 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  1993-01-30 : Body Mass Index                          28.2 kg/m2
+  1993-01-30 : Body Weight                              95.0 kg
+  1993-01-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1993-01-30 : Body Height                              183.6 cm
+  1991-01-26 : Tobacco smoking status NHIS              Former smoker 
+  1991-01-26 : High Density Lipoprotein Cholesterol     70.5 mg/dL
+  1991-01-26 : Low Density Lipoprotein Cholesterol      98.8 mg/dL
+  1991-01-26 : Triglycerides                            132.9 mg/dL
+  1991-01-26 : Total Cholesterol                        195.9 mg/dL
+  1991-01-26 : Respiratory rate                         14.0 /min
+  1991-01-26 : Heart rate                               78.0 /min
+  1991-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  1991-01-26 : Body Mass Index                          30.2 kg/m2
+  1991-01-26 : Body Weight                              101.8 kg
+  1991-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1991-01-26 : Body Height                              183.6 cm
+  1989-01-21 : Tobacco smoking status NHIS              Former smoker 
+  1989-01-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  1989-01-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 332.5 fL
+  1989-01-21 : Platelets [#/volume] in Blood by Automated count 167.0 10*3/uL
+  1989-01-21 : Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+  1989-01-21 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  1989-01-21 : MCH [Entitic mass] by Automated count    32.7 pg
+  1989-01-21 : MCV [Entitic volume] by Automated count  93.8 fL
+  1989-01-21 : Hematocrit [Volume Fraction] of Blood by Automated count 37.9 %
+  1989-01-21 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  1989-01-21 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  1989-01-21 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  1989-01-21 : Respiratory rate                         14.0 /min
+  1989-01-21 : Heart rate                               66.0 /min
+  1989-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  1989-01-21 : Body Mass Index                          30.2 kg/m2
+  1989-01-21 : Body Weight                              101.8 kg
+  1989-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1989-01-21 : Body Height                              183.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1996-07-20 : Percutaneous mechanical thrombectomy of portal vein using fluoroscopic guidance for Stroke
+  1996-07-20 : Echocardiography (procedure) for Stroke
+  1995-02-04 : Medication Reconciliation (procedure)
+  1994-08-20 : Medication Reconciliation (procedure)
+  1994-08-13 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  1993-01-30 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1995-02-04 : Influenza, seasonal, injectable, preservative free
+  1994-08-20 : Influenza, seasonal, injectable, preservative free
+  1993-01-30 : Td (adult) preservative free
+  1993-01-30 : Influenza, seasonal, injectable, preservative free
+  1991-01-26 : Influenza, seasonal, injectable, preservative free
+  1989-01-21 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1996-07-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1995-02-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1994-08-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1994-08-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Streptococcal sore throat (disorder)
+1993-01-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1991-01-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1989-11-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+1989-01-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1986-04-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1983-01-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Appendicitis
+1983-01-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Appendicitis
+1956-12-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

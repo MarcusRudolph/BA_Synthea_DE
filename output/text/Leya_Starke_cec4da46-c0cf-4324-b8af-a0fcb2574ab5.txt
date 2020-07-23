@@ -1,0 +1,291 @@
+Leya Starke
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 24
+Birth Date:          1996-03-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-07-27[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2014-08-29[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2014-02-09[STOPPED] : Camila 28 Day Pack
+  2011-02-25[STOPPED] : Natazia 28 Day Pack
+  2010-07-27[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-06-23 -            : Normal pregnancy
+  2019-03-05 - 2019-03-16 : Acute viral pharyngitis (disorder)
+  2018-07-27 - 2018-08-04 : Streptococcal sore throat (disorder)
+  2014-08-29 - 2014-09-12 : Acute bronchitis (disorder)
+  2014-05-20 - 2014-12-23 : Normal pregnancy
+  2010-12-20 - 2011-01-02 : Acute viral pharyngitis (disorder)
+  2010-07-27 - 2010-08-03 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-06-23[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2014-08-29[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2014-05-20[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-05-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+           - MCV [Entitic volume] by Automated count  89.2 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+           - Platelets [#/volume] in Blood by Automated count 234.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 355.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2012-04-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+           - MCV [Entitic volume] by Automated count  80.7 fL
+           - MCH [Entitic mass] by Automated count    31.2 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.5 fL
+           - Platelets [#/volume] in Blood by Automated count 234.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 439.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-03-05 : Body temperature                         37.8 Cel
+  2018-07-27 : Body temperature                         39.0 Cel
+  2018-05-08 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2018-05-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 355.2 fL
+  2018-05-08 : Platelets [#/volume] in Blood by Automated count 234.3 10*3/uL
+  2018-05-08 : Erythrocyte distribution width [Entitic volume] by Automated count 41.6 fL
+  2018-05-08 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2018-05-08 : MCH [Entitic mass] by Automated count    27.4 pg
+  2018-05-08 : MCV [Entitic volume] by Automated count  89.2 fL
+  2018-05-08 : Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+  2018-05-08 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  2018-05-08 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2018-05-08 : Leukocytes [#/volume] in Blood by Automated count 8.7 10*3/uL
+  2018-05-08 : Respiratory rate                         12.0 /min
+  2018-05-08 : Heart rate                               63.0 /min
+  2018-05-08 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2018-05-08 : Body Mass Index                          28.6 kg/m2
+  2018-05-08 : Body Weight                              65.3 kg
+  2018-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-05-08 : Body Height                              151.1 cm
+  2015-05-05 : Tobacco smoking status NHIS              Never smoker 
+  2015-05-05 : Respiratory rate                         12.0 /min
+  2015-05-05 : Heart rate                               78.0 /min
+  2015-05-05 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2015-05-05 : Body mass index (BMI) [Percentile] Per age and gender 93.2 %
+  2015-05-05 : Body Mass Index                          29.6 kg/m2
+  2015-05-05 : Body Weight                              67.6 kg
+  2015-05-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-05-05 : Body Height                              151.1 cm
+  2014-09-09 : Tobacco smoking status NHIS              Never smoker 
+  2014-09-09 : Respiratory rate                         13.0 /min
+  2014-09-09 : Heart rate                               85.0 /min
+  2014-09-09 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2014-09-09 : Body mass index (BMI) [Percentile] Per age and gender 93.8 %
+  2014-09-09 : Body Mass Index                          29.7 kg/m2
+  2014-09-09 : Body Weight                              67.6 kg
+  2014-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-09-09 : Body Height                              151.0 cm
+  2014-04-29 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-29 : Respiratory rate                         15.0 /min
+  2014-04-29 : Heart rate                               68.0 /min
+  2014-04-29 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2014-04-29 : Body mass index (BMI) [Percentile] Per age and gender 94.4 %
+  2014-04-29 : Body Mass Index                          29.8 kg/m2
+  2014-04-29 : Body Weight                              67.9 kg
+  2014-04-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-04-29 : Body Height                              150.9 cm
+  2013-04-23 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-23 : Respiratory rate                         16.0 /min
+  2013-04-23 : Heart rate                               81.0 /min
+  2013-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2013-04-23 : Body mass index (BMI) [Percentile] Per age and gender 94.6 %
+  2013-04-23 : Body Mass Index                          29.3 kg/m2
+  2013-04-23 : Body Weight                              66.7 kg
+  2013-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-04-23 : Body Height                              150.8 cm
+  2012-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2012-04-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 439.0 fL
+  2012-04-17 : Platelets [#/volume] in Blood by Automated count 234.1 10*3/uL
+  2012-04-17 : Erythrocyte distribution width [Entitic volume] by Automated count 41.5 fL
+  2012-04-17 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2012-04-17 : MCH [Entitic mass] by Automated count    31.2 pg
+  2012-04-17 : MCV [Entitic volume] by Automated count  80.7 fL
+  2012-04-17 : Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+  2012-04-17 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2012-04-17 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2012-04-17 : Leukocytes [#/volume] in Blood by Automated count 8.2 10*3/uL
+  2012-04-17 : Respiratory rate                         13.0 /min
+  2012-04-17 : Heart rate                               79.0 /min
+  2012-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2012-04-17 : Body mass index (BMI) [Percentile] Per age and gender 93.7 %
+  2012-04-17 : Body Mass Index                          28.0 kg/m2
+  2012-04-17 : Body Weight                              63.4 kg
+  2012-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-04-17 : Body Height                              150.5 cm
+  2011-04-12 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-12 : Respiratory rate                         16.0 /min
+  2011-04-12 : Heart rate                               70.0 /min
+  2011-04-12 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2011-04-12 : Body mass index (BMI) [Percentile] Per age and gender 92.6 %
+  2011-04-12 : Body Mass Index                          26.7 kg/m2
+  2011-04-12 : Body Weight                              59.8 kg
+  2011-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2011-04-12 : Body Height                              149.8 cm
+  2010-12-20 : Body temperature                         37.7 Cel
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-06-23 : Physical examination of mother for Normal pregnancy
+  2020-06-23 : Urine protein test for Normal pregnancy
+  2020-06-23 : Skin test for tuberculosis for Normal pregnancy
+  2020-06-23 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2020-06-23 : Rubella screening for Normal pregnancy
+  2020-06-23 : Hepatitis C antibody test for Normal pregnancy
+  2020-06-23 : Urine screening test for diabetes for Normal pregnancy
+  2020-06-23 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2020-06-23 : Urine culture for Normal pregnancy
+  2020-06-23 : Syphilis infection test for Normal pregnancy
+  2020-06-23 : Gonorrhea infection test for Normal pregnancy
+  2020-06-23 : Chlamydia antigen test for Normal pregnancy
+  2020-06-23 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2020-06-23 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2020-06-23 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-06-23 : Blood typing, RH typing for Normal pregnancy
+  2020-06-23 : Auscultation of the fetal heart for Normal pregnancy
+  2020-06-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-06-23 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-06-23 : Standard pregnancy test for Normal pregnancy
+  2019-03-05 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2018-05-08 : Medication Reconciliation (procedure)
+  2015-02-03 : Depression screening
+  2015-02-03 : Physical examination following birth
+  2014-12-23 : Childbirth for Normal pregnancy
+  2014-12-23 : Episiotomy for Normal pregnancy
+  2014-12-16 : Auscultation of the fetal heart for Normal pregnancy
+  2014-12-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-12-02 : Auscultation of the fetal heart for Normal pregnancy
+  2014-12-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-12-02 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-11-04 : Auscultation of the fetal heart for Normal pregnancy
+  2014-11-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-07 : Auscultation of the fetal heart for Normal pregnancy
+  2014-10-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-07 : Urine screening for glucose for Normal pregnancy
+  2014-10-07 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-10-07 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-09-09 : Medication Reconciliation (procedure)
+  2014-09-09 : Auscultation of the fetal heart for Normal pregnancy
+  2014-09-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-08-29 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2014-08-12 : Auscultation of the fetal heart for Normal pregnancy
+  2014-08-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-07-15 : Auscultation of the fetal heart for Normal pregnancy
+  2014-07-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-07-15 : Alpha-fetoprotein test for Normal pregnancy
+  2014-07-15 : Fetal anatomy study for Normal pregnancy
+  2014-06-17 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2014-06-17 : Auscultation of the fetal heart for Normal pregnancy
+  2014-06-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-05-20 : Physical examination of mother for Normal pregnancy
+  2014-05-20 : Urine protein test for Normal pregnancy
+  2014-05-20 : Skin test for tuberculosis for Normal pregnancy
+  2014-05-20 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2014-05-20 : Rubella screening for Normal pregnancy
+  2014-05-20 : Hepatitis C antibody test for Normal pregnancy
+  2014-05-20 : Urine screening test for diabetes for Normal pregnancy
+  2014-05-20 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2014-05-20 : Urine culture for Normal pregnancy
+  2014-05-20 : Syphilis infection test for Normal pregnancy
+  2014-05-20 : Gonorrhea infection test for Normal pregnancy
+  2014-05-20 : Chlamydia antigen test for Normal pregnancy
+  2014-05-20 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2014-05-20 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2014-05-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-05-20 : Blood typing, RH typing for Normal pregnancy
+  2014-05-20 : Auscultation of the fetal heart for Normal pregnancy
+  2014-05-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-05-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-05-20 : Standard pregnancy test for Normal pregnancy
+  2012-04-17 : Medication Reconciliation (procedure)
+  2011-04-12 : Medication Reconciliation (procedure)
+  2010-12-20 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-05-08 : meningococcal MCV4P
+  2018-05-08 : Hep B, adult
+  2018-05-08 : Td (adult) preservative free
+  2018-05-08 : Influenza, seasonal, injectable, preservative free
+  2014-09-09 : Influenza, seasonal, injectable, preservative free
+  2014-04-29 : Influenza, seasonal, injectable, preservative free
+  2013-04-23 : Influenza, seasonal, injectable, preservative free
+  2012-04-17 : meningococcal MCV4P
+  2012-04-17 : Influenza, seasonal, injectable, preservative free
+  2011-04-12 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-06-23 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2019-03-05 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2018-07-27 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Streptococcal sore throat (disorder)
+2018-05-08 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2015-05-05 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2015-02-03 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2014-12-23 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-12-16 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-12-02 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-11-04 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-10-07 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-09-09 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-09-09 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2014-08-29 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2014-08-12 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-07-15 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-06-17 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-05-20 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-04-29 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2014-02-09 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2013-04-23 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2012-04-17 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2011-04-12 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2011-02-25 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig
+2010-12-20 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2010-07-27 (Dr. Ilyas Köhn) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

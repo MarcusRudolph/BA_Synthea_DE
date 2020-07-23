@@ -1,0 +1,245 @@
+Martin Ruppert
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1938-05-29
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1976-02-29[STOPPED] : Atropine Sulfate 1 MG/ML Injectable Solution
+  1976-02-29[STOPPED] : 3 ML Amiodarone hydrocholoride 50 MG/ML Prefilled Syringe
+  1976-02-29[STOPPED] : 1 ML Epinephrine 1 MG/ML Injection
+  1975-09-14[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1974-09-08[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1973-09-02[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1972-08-27[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1971-08-22[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1970-08-16[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1969-08-10[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1969-08-10[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  1967-09-16[STOPPED] : Acetaminophen 325 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1976-02-29 -            : History of cardiac arrest (situation)
+  1976-02-29 -            : Cardiac Arrest
+  1969-08-10 -            : Coronary Heart Disease
+  1967-09-16 - 1967-09-30 : Laceration of hand
+  1967-01-23 - 1967-02-05 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1970-05-28[STOPPED] : Minor surgery care management (procedure)
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+  1967-09-16[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1939-10-22[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  1975-09-14 : Lipid Panel
+           - Total Cholesterol                        192.8 mg/dL
+           - Triglycerides                            122.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      109.1 mg/dL
+           - High Density Lipoprotein Cholesterol     59.1 mg/dL
+  1972-08-27 : Lipid Panel
+           - Total Cholesterol                        190.3 mg/dL
+           - Triglycerides                            111.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      95.9 mg/dL
+           - High Density Lipoprotein Cholesterol     72.1 mg/dL
+  1971-08-22 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+           - MCV [Entitic volume] by Automated count  84.2 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 154.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 395.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  1969-08-10 : Lipid Panel
+           - Total Cholesterol                        197.7 mg/dL
+           - Triglycerides                            126.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      100.3 mg/dL
+           - High Density Lipoprotein Cholesterol     72.1 mg/dL
+  1966-08-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.3 %
+           - MCV [Entitic volume] by Automated count  88.6 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+           - Platelets [#/volume] in Blood by Automated count 169.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 401.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1975-09-14 : Tobacco smoking status NHIS              Never smoker 
+  1975-09-14 : High Density Lipoprotein Cholesterol     59.1 mg/dL
+  1975-09-14 : Low Density Lipoprotein Cholesterol      109.1 mg/dL
+  1975-09-14 : Triglycerides                            122.8 mg/dL
+  1975-09-14 : Total Cholesterol                        192.8 mg/dL
+  1975-09-14 : Respiratory rate                         14.0 /min
+  1975-09-14 : Heart rate                               96.0 /min
+  1975-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  1975-09-14 : Body Mass Index                          29.7 kg/m2
+  1975-09-14 : Body Weight                              98.3 kg
+  1975-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1975-09-14 : Body Height                              181.9 cm
+  1974-09-08 : Tobacco smoking status NHIS              Never smoker 
+  1974-09-08 : Respiratory rate                         12.0 /min
+  1974-09-08 : Heart rate                               97.0 /min
+  1974-09-08 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  1974-09-08 : Body Mass Index                          29.2 kg/m2
+  1974-09-08 : Body Weight                              96.7 kg
+  1974-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1974-09-08 : Body Height                              181.9 cm
+  1973-09-02 : Tobacco smoking status NHIS              Never smoker 
+  1973-09-02 : Respiratory rate                         15.0 /min
+  1973-09-02 : Heart rate                               85.0 /min
+  1973-09-02 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  1973-09-02 : Body Mass Index                          28.9 kg/m2
+  1973-09-02 : Body Weight                              95.7 kg
+  1973-09-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1973-09-02 : Body Height                              181.9 cm
+  1972-08-27 : Tobacco smoking status NHIS              Never smoker 
+  1972-08-27 : High Density Lipoprotein Cholesterol     72.1 mg/dL
+  1972-08-27 : Low Density Lipoprotein Cholesterol      95.9 mg/dL
+  1972-08-27 : Triglycerides                            111.7 mg/dL
+  1972-08-27 : Total Cholesterol                        190.3 mg/dL
+  1972-08-27 : Respiratory rate                         14.0 /min
+  1972-08-27 : Heart rate                               70.0 /min
+  1972-08-27 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  1972-08-27 : Body Mass Index                          28.4 kg/m2
+  1972-08-27 : Body Weight                              93.8 kg
+  1972-08-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1972-08-27 : Body Height                              181.9 cm
+  1971-08-22 : Tobacco smoking status NHIS              Never smoker 
+  1971-08-22 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  1971-08-22 : Platelet distribution width [Entitic volume] in Blood by Automated count 395.8 fL
+  1971-08-22 : Platelets [#/volume] in Blood by Automated count 154.2 10*3/uL
+  1971-08-22 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  1971-08-22 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  1971-08-22 : MCH [Entitic mass] by Automated count    29.3 pg
+  1971-08-22 : MCV [Entitic volume] by Automated count  84.2 fL
+  1971-08-22 : Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+  1971-08-22 : Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+  1971-08-22 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  1971-08-22 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  1971-08-22 : Respiratory rate                         14.0 /min
+  1971-08-22 : Heart rate                               95.0 /min
+  1971-08-22 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  1971-08-22 : Body Mass Index                          27.9 kg/m2
+  1971-08-22 : Body Weight                              92.3 kg
+  1971-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1971-08-22 : Body Height                              181.9 cm
+  1970-08-16 : Tobacco smoking status NHIS              Never smoker 
+  1970-08-16 : Respiratory rate                         12.0 /min
+  1970-08-16 : Heart rate                               71.0 /min
+  1970-08-16 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  1970-08-16 : Body Mass Index                          27.4 kg/m2
+  1970-08-16 : Body Weight                              90.7 kg
+  1970-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1970-08-16 : Body Height                              181.9 cm
+  1969-08-10 : Tobacco smoking status NHIS              Never smoker 
+  1969-08-10 : High Density Lipoprotein Cholesterol     72.1 mg/dL
+  1969-08-10 : Low Density Lipoprotein Cholesterol      100.3 mg/dL
+  1969-08-10 : Triglycerides                            126.1 mg/dL
+  1969-08-10 : Total Cholesterol                        197.7 mg/dL
+  1969-08-10 : Respiratory rate                         13.0 /min
+  1969-08-10 : Heart rate                               70.0 /min
+  1969-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  1969-08-10 : Body Mass Index                          26.9 kg/m2
+  1969-08-10 : Body Weight                              89.0 kg
+  1969-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1969-08-10 : Body Height                              181.9 cm
+  1967-01-23 : Body temperature                         37.8 Cel
+  1966-08-07 : Tobacco smoking status NHIS              Never smoker 
+  1966-08-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  1966-08-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 401.1 fL
+  1966-08-07 : Platelets [#/volume] in Blood by Automated count 169.5 10*3/uL
+  1966-08-07 : Erythrocyte distribution width [Entitic volume] by Automated count 44.6 fL
+  1966-08-07 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  1966-08-07 : MCH [Entitic mass] by Automated count    27.3 pg
+  1966-08-07 : MCV [Entitic volume] by Automated count  88.6 fL
+  1966-08-07 : Hematocrit [Volume Fraction] of Blood by Automated count 39.3 %
+  1966-08-07 : Hemoglobin [Mass/volume] in Blood        15.0 g/dL
+  1966-08-07 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  1966-08-07 : Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+  1966-08-07 : Respiratory rate                         13.0 /min
+  1966-08-07 : Heart rate                               77.0 /min
+  1966-08-07 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  1966-08-07 : Body Mass Index                          25.5 kg/m2
+  1966-08-07 : Body Weight                              84.3 kg
+  1966-08-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1966-08-07 : Body Height                              181.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1976-02-29 : Catheter ablation of tissue of heart for Cardiac Arrest
+  1976-02-29 : Insertion of biventricular implantable cardioverter defibrillator for Cardiac Arrest
+  1976-02-29 : Echocardiography (procedure) for Cardiac Arrest
+  1974-09-08 : Medication Reconciliation (procedure)
+  1973-09-02 : Medication Reconciliation (procedure)
+  1972-08-27 : Medication Reconciliation (procedure)
+  1970-05-28 : Vasectomy
+  1969-08-10 : Medication Reconciliation (procedure)
+  1967-09-16 : Suture open wound for Laceration of hand
+  1967-01-23 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  1966-08-07 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1975-09-14 : Influenza, seasonal, injectable, preservative free
+  1974-09-08 : Influenza, seasonal, injectable, preservative free
+  1973-09-02 : Influenza, seasonal, injectable, preservative free
+  1972-08-27 : Influenza, seasonal, injectable, preservative free
+  1971-08-22 : Influenza, seasonal, injectable, preservative free
+  1970-08-16 : Influenza, seasonal, injectable, preservative free
+  1969-08-10 : Influenza, seasonal, injectable, preservative free
+  1966-08-07 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1976-02-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1975-09-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1974-09-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1973-09-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1972-08-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1971-08-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1970-08-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1970-05-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1970-05-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1969-08-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1967-09-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1967-01-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+1966-08-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1939-10-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,318 @@
+Ramona Fröhlich
+=========ö=====
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 44
+Birth Date:          1976-02-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-10-26[CURRENT] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2018-10-31[STOPPED] : Yaz 28 Day Pack
+  2018-03-04[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Cystitis
+  2018-03-04[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Cystitis
+  2017-11-05[STOPPED] : 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+  2017-09-27[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2017-01-16[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2015-11-07[STOPPED] : Yaz 28 Day Pack
+  2013-11-17[STOPPED] : 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+  2010-03-11[STOPPED] : Natazia 28 Day Pack
+  1998-12-31[CURRENT] : Vitamin B 12 5 MG/ML Injectable Solution
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-01-25 - 2018-03-11 : Cystitis
+  2017-09-27 - 2017-10-25 : Sprain of wrist
+  2017-01-16 - 2017-01-30 : Acute bronchitis (disorder)
+  2015-07-30 - 2015-09-24 : Preeclampsia
+  2015-02-12 - 2015-09-24 : Normal pregnancy
+  2012-09-27 - 2012-10-11 : Antepartum eclampsia
+  2012-03-15 - 2012-10-11 : Normal pregnancy
+  2011-07-14 - 2011-07-28 : Fetus with unknown complication
+  2011-07-14 - 2011-07-28 : Normal pregnancy
+  2007-05-17 -            : Miscarriage in first trimester
+  2004-04-15 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-03-04[STOPPED] : Urinary tract infection care
+                         Reason: Cystitis
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2017-09-27[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2017-01-16[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2015-02-12[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2012-03-15[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-15 : Lipid Panel
+           - Total Cholesterol                        179.9 mg/dL
+           - Triglycerides                            119.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.7 mg/dL
+           - High Density Lipoprotein Cholesterol     73.3 mg/dL
+  2016-02-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.4 %
+           - MCV [Entitic volume] by Automated count  82.3 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 350.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 180.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2013-04-25 : Lipid Panel
+           - Total Cholesterol                        172.2 mg/dL
+           - Triglycerides                            119.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      77.8 mg/dL
+           - High Density Lipoprotein Cholesterol     70.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-02-20 : Tobacco smoking status NHIS              Never smoker 
+  2020-02-20 : Respiratory rate                         16.0 /min
+  2020-02-20 : Heart rate                               91.0 /min
+  2020-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2020-02-20 : Body Mass Index                          28.1 kg/m2
+  2020-02-20 : Body Weight                              74.1 kg
+  2020-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-02-20 : Body Height                              162.5 cm
+  2018-02-15 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-15 : High Density Lipoprotein Cholesterol     73.3 mg/dL
+  2018-02-15 : Low Density Lipoprotein Cholesterol      82.7 mg/dL
+  2018-02-15 : Triglycerides                            119.8 mg/dL
+  2018-02-15 : Total Cholesterol                        179.9 mg/dL
+  2018-02-15 : Respiratory rate                         16.0 /min
+  2018-02-15 : Heart rate                               64.0 /min
+  2018-02-15 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2018-02-15 : Body Mass Index                          28.1 kg/m2
+  2018-02-15 : Body Weight                              74.1 kg
+  2018-02-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-02-15 : Body Height                              162.5 cm
+  2016-02-11 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2016-02-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 180.5 fL
+  2016-02-11 : Platelets [#/volume] in Blood by Automated count 350.0 10*3/uL
+  2016-02-11 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  2016-02-11 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2016-02-11 : MCH [Entitic mass] by Automated count    27.6 pg
+  2016-02-11 : MCV [Entitic volume] by Automated count  82.3 fL
+  2016-02-11 : Hematocrit [Volume Fraction] of Blood by Automated count 36.4 %
+  2016-02-11 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2016-02-11 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2016-02-11 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2016-02-11 : Respiratory rate                         12.0 /min
+  2016-02-11 : Heart rate                               74.0 /min
+  2016-02-11 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2016-02-11 : Body Mass Index                          28.1 kg/m2
+  2016-02-11 : Body Weight                              74.1 kg
+  2016-02-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-02-11 : Body Height                              162.5 cm
+  2013-04-25 : Tobacco smoking status NHIS              Never smoker 
+  2013-04-25 : High Density Lipoprotein Cholesterol     70.7 mg/dL
+  2013-04-25 : Low Density Lipoprotein Cholesterol      77.8 mg/dL
+  2013-04-25 : Triglycerides                            119.0 mg/dL
+  2013-04-25 : Total Cholesterol                        172.2 mg/dL
+  2013-04-25 : Respiratory rate                         14.0 /min
+  2013-04-25 : Heart rate                               98.0 /min
+  2013-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2013-04-25 : Body Mass Index                          30.1 kg/m2
+  2013-04-25 : Body Weight                              79.4 kg
+  2013-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-04-25 : Body Height                              162.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-02-15 : Medication Reconciliation (procedure)
+  2017-11-05 : Intramuscular injection
+  2016-11-04 : Insertion of intrauterine contraceptive device
+  2016-02-11 : Medication Reconciliation (procedure)
+  2015-11-05 : Depression screening
+  2015-11-05 : Physical examination following birth
+  2015-09-24 : Childbirth for Normal pregnancy
+  2015-09-24 : Episiotomy for Normal pregnancy
+  2015-09-17 : Auscultation of the fetal heart for Normal pregnancy
+  2015-09-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-09-10 : Auscultation of the fetal heart for Normal pregnancy
+  2015-09-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-08-27 : Auscultation of the fetal heart for Normal pregnancy
+  2015-08-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-08-27 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2015-07-30 : Auscultation of the fetal heart for Normal pregnancy
+  2015-07-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-07-02 : Auscultation of the fetal heart for Normal pregnancy
+  2015-07-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-07-02 : Urine screening for glucose for Normal pregnancy
+  2015-07-02 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2015-07-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-06-04 : Auscultation of the fetal heart for Normal pregnancy
+  2015-06-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-05-07 : Auscultation of the fetal heart for Normal pregnancy
+  2015-05-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-04-09 : Auscultation of the fetal heart for Normal pregnancy
+  2015-04-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-04-09 : Alpha-fetoprotein test for Normal pregnancy
+  2015-04-09 : Fetal anatomy study for Normal pregnancy
+  2015-03-12 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-03-12 : Auscultation of the fetal heart for Normal pregnancy
+  2015-03-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-02-12 : Physical examination of mother for Normal pregnancy
+  2015-02-12 : Urine protein test for Normal pregnancy
+  2015-02-12 : Skin test for tuberculosis for Normal pregnancy
+  2015-02-12 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-02-12 : Rubella screening for Normal pregnancy
+  2015-02-12 : Hepatitis C antibody test for Normal pregnancy
+  2015-02-12 : Urine screening test for diabetes for Normal pregnancy
+  2015-02-12 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-02-12 : Urine culture for Normal pregnancy
+  2015-02-12 : Syphilis infection test for Normal pregnancy
+  2015-02-12 : Gonorrhea infection test for Normal pregnancy
+  2015-02-12 : Chlamydia antigen test for Normal pregnancy
+  2015-02-12 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-02-12 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-02-12 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-02-12 : Blood typing, RH typing for Normal pregnancy
+  2015-02-12 : Auscultation of the fetal heart for Normal pregnancy
+  2015-02-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-02-12 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-02-12 : Standard pregnancy test for Normal pregnancy
+  2014-11-27 : Intramuscular injection
+  2014-08-28 : Intramuscular injection
+  2014-05-29 : Intramuscular injection
+  2014-02-27 : Intramuscular injection
+  2013-11-17 : Intramuscular injection
+  2013-04-25 : Medication Reconciliation (procedure)
+  2012-11-22 : Depression screening
+  2012-11-22 : Physical examination following birth
+  2012-10-11 : Childbirth for Normal pregnancy
+  2012-10-11 : Augmentation of labor for Normal pregnancy
+  2012-09-27 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-09-27 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-08-30 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-08-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-08-02 : Urine screening for glucose for Normal pregnancy
+  2012-08-02 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-08-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-07-05 : Auscultation of the fetal heart for Normal pregnancy
+  2012-07-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-07 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-10 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-10 : Alpha-fetoprotein test for Normal pregnancy
+  2012-05-10 : Fetal anatomy study for Normal pregnancy
+  2012-04-12 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-04-12 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-15 : Physical examination of mother for Normal pregnancy
+  2012-03-15 : Urine protein test for Normal pregnancy
+  2012-03-15 : Skin test for tuberculosis for Normal pregnancy
+  2012-03-15 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-03-15 : Rubella screening for Normal pregnancy
+  2012-03-15 : Hepatitis C antibody test for Normal pregnancy
+  2012-03-15 : Urine screening test for diabetes for Normal pregnancy
+  2012-03-15 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-03-15 : Urine culture for Normal pregnancy
+  2012-03-15 : Syphilis infection test for Normal pregnancy
+  2012-03-15 : Gonorrhea infection test for Normal pregnancy
+  2012-03-15 : Chlamydia antigen test for Normal pregnancy
+  2012-03-15 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-03-15 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-03-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-03-15 : Blood typing, RH typing for Normal pregnancy
+  2012-03-15 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-15 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-03-15 : Standard pregnancy test for Normal pregnancy
+  2011-07-28 : Depression screening for Normal pregnancy
+  2011-07-28 : Physical examination for Normal pregnancy
+  2011-07-14 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-07-14 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-02-20 : Influenza, seasonal, injectable, preservative free
+  2018-02-15 : Td (adult) preservative free
+  2018-02-15 : Influenza, seasonal, injectable, preservative free
+  2017-01-26 : Hep A, adult
+  2017-01-26 : Influenza, seasonal, injectable, preservative free
+  2016-02-11 : Hep A, adult
+  2016-02-11 : Influenza, seasonal, injectable, preservative free
+  2013-04-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-02-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-10-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-10-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-02-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-01-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Cystitis
+2017-11-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-09-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-01-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-01-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2016-11-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-11-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-02-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-11-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-11-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-09-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-09-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-09-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-08-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-07-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-07-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-06-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-05-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-04-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-03-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2015-02-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2014-11-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-08-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-05-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-02-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-11-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-04-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-11-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-10-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-09-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-08-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-08-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-07-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-06-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-05-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-04-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2012-03-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2011-07-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Fetus with unknown complication
+2011-07-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2010-03-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2007-05-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2004-04-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1998-12-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Anemia (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

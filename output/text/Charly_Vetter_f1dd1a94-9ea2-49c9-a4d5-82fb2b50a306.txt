@@ -1,0 +1,195 @@
+Charly Vetter
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 55
+Birth Date:          1965-07-03
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-03-18[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-03-18 - 2016-03-25 : Viral sinusitis (disorder)
+  1984-09-02 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-07-22 : Lipid Panel
+           - Total Cholesterol                        179.2 mg/dL
+           - Triglycerides                            115.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      94.9 mg/dL
+           - High Density Lipoprotein Cholesterol     61.2 mg/dL
+  2017-07-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+           - MCV [Entitic volume] by Automated count  81.4 fL
+           - MCH [Entitic mass] by Automated count    32.7 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+           - Platelets [#/volume] in Blood by Automated count 242.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 368.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2015-07-05 : Lipid Panel
+           - Total Cholesterol                        164.2 mg/dL
+           - Triglycerides                            148.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      72.2 mg/dL
+           - High Density Lipoprotein Cholesterol     62.4 mg/dL
+  2011-07-17 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+           - MCV [Entitic volume] by Automated count  85.5 fL
+           - MCH [Entitic mass] by Automated count    28.2 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+           - Platelets [#/volume] in Blood by Automated count 424.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 484.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2011-07-17 : Lipid Panel
+           - Total Cholesterol                        183.0 mg/dL
+           - Triglycerides                            144.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.1 mg/dL
+           - High Density Lipoprotein Cholesterol     70.1 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-07-28 : Tobacco smoking status NHIS              Former smoker 
+  2019-07-28 : Respiratory rate                         16.0 /min
+  2019-07-28 : Heart rate                               78.0 /min
+  2019-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2019-07-28 : Body Mass Index                          33.6 kg/m2
+  2019-07-28 : Body Weight                              102.3 kg
+  2019-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-07-28 : Body Height                              174.5 cm
+  2018-07-22 : Tobacco smoking status NHIS              Former smoker 
+  2018-07-22 : High Density Lipoprotein Cholesterol     61.2 mg/dL
+  2018-07-22 : Low Density Lipoprotein Cholesterol      94.9 mg/dL
+  2018-07-22 : Triglycerides                            115.1 mg/dL
+  2018-07-22 : Total Cholesterol                        179.2 mg/dL
+  2018-07-22 : Respiratory rate                         13.0 /min
+  2018-07-22 : Heart rate                               94.0 /min
+  2018-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2018-07-22 : Body Mass Index                          33.6 kg/m2
+  2018-07-22 : Body Weight                              102.3 kg
+  2018-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-07-22 : Body Height                              174.5 cm
+  2017-07-16 : Tobacco smoking status NHIS              Former smoker 
+  2017-07-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2017-07-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 368.6 fL
+  2017-07-16 : Platelets [#/volume] in Blood by Automated count 242.5 10*3/uL
+  2017-07-16 : Erythrocyte distribution width [Entitic volume] by Automated count 43.8 fL
+  2017-07-16 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2017-07-16 : MCH [Entitic mass] by Automated count    32.7 pg
+  2017-07-16 : MCV [Entitic volume] by Automated count  81.4 fL
+  2017-07-16 : Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+  2017-07-16 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2017-07-16 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2017-07-16 : Leukocytes [#/volume] in Blood by Automated count 6.1 10*3/uL
+  2017-07-16 : Respiratory rate                         15.0 /min
+  2017-07-16 : Heart rate                               94.0 /min
+  2017-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2017-07-16 : Body Mass Index                          33.6 kg/m2
+  2017-07-16 : Body Weight                              102.3 kg
+  2017-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-07-16 : Body Height                              174.5 cm
+  2016-07-10 : Tobacco smoking status NHIS              Former smoker 
+  2016-07-10 : Respiratory rate                         14.0 /min
+  2016-07-10 : Heart rate                               67.0 /min
+  2016-07-10 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2016-07-10 : Body Mass Index                          33.6 kg/m2
+  2016-07-10 : Body Weight                              102.3 kg
+  2016-07-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-07-10 : Body Height                              174.5 cm
+  2015-07-05 : Tobacco smoking status NHIS              Former smoker 
+  2015-07-05 : High Density Lipoprotein Cholesterol     62.4 mg/dL
+  2015-07-05 : Low Density Lipoprotein Cholesterol      72.2 mg/dL
+  2015-07-05 : Triglycerides                            148.1 mg/dL
+  2015-07-05 : Total Cholesterol                        164.2 mg/dL
+  2015-07-05 : Respiratory rate                         15.0 /min
+  2015-07-05 : Heart rate                               91.0 /min
+  2015-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2015-07-05 : Body Mass Index                          33.6 kg/m2
+  2015-07-05 : Body Weight                              102.3 kg
+  2015-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-07-05 : Body Height                              174.5 cm
+  2013-07-21 : Tobacco smoking status NHIS              Former smoker 
+  2013-07-21 : Respiratory rate                         12.0 /min
+  2013-07-21 : Heart rate                               89.0 /min
+  2013-07-21 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2013-07-21 : Body Mass Index                          33.6 kg/m2
+  2013-07-21 : Body Weight                              102.3 kg
+  2013-07-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-07-21 : Body Height                              174.5 cm
+  2011-07-17 : Tobacco smoking status NHIS              Former smoker 
+  2011-07-17 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2011-07-17 : Platelet distribution width [Entitic volume] in Blood by Automated count 484.3 fL
+  2011-07-17 : Platelets [#/volume] in Blood by Automated count 424.6 10*3/uL
+  2011-07-17 : Erythrocyte distribution width [Entitic volume] by Automated count 41.7 fL
+  2011-07-17 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2011-07-17 : MCH [Entitic mass] by Automated count    28.2 pg
+  2011-07-17 : MCV [Entitic volume] by Automated count  85.5 fL
+  2011-07-17 : Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+  2011-07-17 : Hemoglobin [Mass/volume] in Blood        16.2 g/dL
+  2011-07-17 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2011-07-17 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2011-07-17 : High Density Lipoprotein Cholesterol     70.1 mg/dL
+  2011-07-17 : Low Density Lipoprotein Cholesterol      84.1 mg/dL
+  2011-07-17 : Triglycerides                            144.0 mg/dL
+  2011-07-17 : Total Cholesterol                        183.0 mg/dL
+  2011-07-17 : Respiratory rate                         14.0 /min
+  2011-07-17 : Heart rate                               97.0 /min
+  2011-07-17 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2011-07-17 : Body Mass Index                          33.6 kg/m2
+  2011-07-17 : Body Weight                              102.3 kg
+  2011-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-07-17 : Body Height                              174.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-07-28 : Influenza, seasonal, injectable, preservative free
+  2018-07-22 : Influenza, seasonal, injectable, preservative free
+  2017-07-16 : Influenza, seasonal, injectable, preservative free
+  2016-07-10 : Td (adult) preservative free
+  2016-07-10 : Influenza, seasonal, injectable, preservative free
+  2016-07-10 : zoster
+  2015-07-05 : Influenza, seasonal, injectable, preservative free
+  2015-07-05 : zoster
+  2013-07-21 : Influenza, seasonal, injectable, preservative free
+  2011-07-17 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-07-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-07-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-07-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-07-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-03-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2015-07-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-07-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-07-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1984-09-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,109 @@
+Jeremy Schirmer
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 28
+Birth Date:          1992-07-02
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2014-09-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.2 %
+           - MCV [Entitic volume] by Automated count  84.9 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+           - Platelets [#/volume] in Blood by Automated count 374.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 487.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2017-09-07 : Tobacco smoking status NHIS              Never smoker 
+  2017-09-07 : Respiratory rate                         12.0 /min
+  2017-09-07 : Heart rate                               62.0 /min
+  2017-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2017-09-07 : Body Mass Index                          26.3 kg/m2
+  2017-09-07 : Body Weight                              87.1 kg
+  2017-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-09-07 : Body Height                              182.1 cm
+  2014-09-04 : Tobacco smoking status NHIS              Never smoker 
+  2014-09-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2014-09-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 487.8 fL
+  2014-09-04 : Platelets [#/volume] in Blood by Automated count 374.8 10*3/uL
+  2014-09-04 : Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+  2014-09-04 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2014-09-04 : MCH [Entitic mass] by Automated count    29.0 pg
+  2014-09-04 : MCV [Entitic volume] by Automated count  84.9 fL
+  2014-09-04 : Hematocrit [Volume Fraction] of Blood by Automated count 39.2 %
+  2014-09-04 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2014-09-04 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2014-09-04 : Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+  2014-09-04 : Respiratory rate                         14.0 /min
+  2014-09-04 : Heart rate                               83.0 /min
+  2014-09-04 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2014-09-04 : Body Mass Index                          25.0 kg/m2
+  2014-09-04 : Body Weight                              82.9 kg
+  2014-09-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-09-04 : Body Height                              182.1 cm
+  2011-09-01 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-01 : Respiratory rate                         13.0 /min
+  2011-09-01 : Heart rate                               86.0 /min
+  2011-09-01 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2011-09-01 : Body mass index (BMI) [Percentile] Per age and gender 66.7 %
+  2011-09-01 : Body Mass Index                          24.0 kg/m2
+  2011-09-01 : Body Weight                              79.3 kg
+  2011-09-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-09-01 : Body Height                              181.9 cm
+  2010-08-26 : Tobacco smoking status NHIS              Never smoker 
+  2010-08-26 : Respiratory rate                         12.0 /min
+  2010-08-26 : Heart rate                               63.0 /min
+  2010-08-26 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2010-08-26 : Body mass index (BMI) [Percentile] Per age and gender 76.0 %
+  2010-08-26 : Body Mass Index                          24.3 kg/m2
+  2010-08-26 : Body Weight                              80.1 kg
+  2010-08-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2010-08-26 : Body Height                              181.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2014-09-04 : Medication Reconciliation (procedure)
+  2011-09-01 : Medication Reconciliation (procedure)
+  2010-08-26 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2017-09-07 : Influenza, seasonal, injectable, preservative free
+  2014-09-04 : meningococcal MCV4P
+  2014-09-04 : Hep B, adult
+  2014-09-04 : Td (adult) preservative free
+  2014-09-04 : Influenza, seasonal, injectable, preservative free
+  2011-09-01 : Influenza, seasonal, injectable, preservative free
+  2010-08-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2017-09-07 (Dr. Abby Eggers) : Encounter at Universitaetsklinikum Leipzig
+2014-09-04 (Dr. Abby Eggers) : Encounter at Universitaetsklinikum Leipzig
+2011-09-01 (Dr. Abby Eggers) : Encounter at Universitaetsklinikum Leipzig
+2010-08-26 (Dr. Abby Eggers) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

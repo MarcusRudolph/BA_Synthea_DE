@@ -1,0 +1,221 @@
+Lenn Pohl
+=========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1962-01-08
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1995-06-03[STOPPED] : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+  1995-05-27[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  1994-06-20[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1993-07-06[STOPPED] : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+  1993-06-29[STOPPED] : Ibuprofen 200 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1999-04-13 -            : Burn injury(morphologic abnormality)
+  1998-04-09 - 1998-04-20 : Acute viral pharyngitis (disorder)
+  1997-04-23 - 1997-06-22 : Concussion with no loss of consciousness
+  1995-05-27 - 1995-08-02 : Injury of medial collateral ligament of knee
+  1994-06-20 - 1994-06-27 : Acute bronchitis (disorder)
+  1993-06-29 - 1993-08-05 : Injury of anterior cruciate ligament
+  1989-01-03 -            : History of appendectomy
+  1989-01-03 -            : Appendicitis
+  1989-01-03 -            : Rupture of appendix
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1997-04-23[STOPPED] : Head injury rehabilitation
+                         Reason: Concussion with no loss of consciousness
+                         Activity: Recommendation to rest
+                         Activity: Alcohol-free diet
+  1995-05-27[STOPPED] : Physical therapy procedure
+                         Reason: Injury of medial collateral ligament of knee
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1994-06-20[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1993-06-29[STOPPED] : Physical therapy procedure
+                         Reason: Injury of anterior cruciate ligament
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1993-01-14[STOPPED] : Minor surgery care management (procedure)
+                         Activity: Recommendation to rest
+                         Activity: Recommendation to limit sexual activity
+--------------------------------------------------------------------------------
+REPORTS:
+  1999-03-29 : Lipid Panel
+           - Total Cholesterol                        164.8 mg/dL
+           - Triglycerides                            116.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.6 mg/dL
+           - High Density Lipoprotein Cholesterol     66.9 mg/dL
+  1996-03-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+           - Platelets [#/volume] in Blood by Automated count 261.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 358.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  1996-03-25 : Lipid Panel
+           - Total Cholesterol                        191.8 mg/dL
+           - Triglycerides                            138.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      92.1 mg/dL
+           - High Density Lipoprotein Cholesterol     71.9 mg/dL
+  1993-03-22 : Lipid Panel
+           - Total Cholesterol                        161.5 mg/dL
+           - Triglycerides                            102.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.6 mg/dL
+           - High Density Lipoprotein Cholesterol     62.5 mg/dL
+  1990-03-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+           - MCV [Entitic volume] by Automated count  92.9 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+           - Platelets [#/volume] in Blood by Automated count 314.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 225.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1999-03-29 : Tobacco smoking status NHIS              Never smoker 
+  1999-03-29 : High Density Lipoprotein Cholesterol     66.9 mg/dL
+  1999-03-29 : Low Density Lipoprotein Cholesterol      74.6 mg/dL
+  1999-03-29 : Triglycerides                            116.5 mg/dL
+  1999-03-29 : Total Cholesterol                        164.8 mg/dL
+  1999-03-29 : Respiratory rate                         12.0 /min
+  1999-03-29 : Heart rate                               81.0 /min
+  1999-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  1999-03-29 : Body Mass Index                          27.7 kg/m2
+  1999-03-29 : Body Weight                              77.9 kg
+  1999-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1999-03-29 : Body Height                              167.7 cm
+  1998-04-09 : Body temperature                         37.4 Cel
+  1996-03-25 : Tobacco smoking status NHIS              Never smoker 
+  1996-03-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  1996-03-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 358.3 fL
+  1996-03-25 : Platelets [#/volume] in Blood by Automated count 261.8 10*3/uL
+  1996-03-25 : Erythrocyte distribution width [Entitic volume] by Automated count 44.9 fL
+  1996-03-25 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  1996-03-25 : MCH [Entitic mass] by Automated count    31.5 pg
+  1996-03-25 : MCV [Entitic volume] by Automated count  81.7 fL
+  1996-03-25 : Hematocrit [Volume Fraction] of Blood by Automated count 38.4 %
+  1996-03-25 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  1996-03-25 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  1996-03-25 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  1996-03-25 : High Density Lipoprotein Cholesterol     71.9 mg/dL
+  1996-03-25 : Low Density Lipoprotein Cholesterol      92.1 mg/dL
+  1996-03-25 : Triglycerides                            138.7 mg/dL
+  1996-03-25 : Total Cholesterol                        191.8 mg/dL
+  1996-03-25 : Respiratory rate                         14.0 /min
+  1996-03-25 : Heart rate                               97.0 /min
+  1996-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  1996-03-25 : Body Mass Index                          27.7 kg/m2
+  1996-03-25 : Body Weight                              77.9 kg
+  1996-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1996-03-25 : Body Height                              167.7 cm
+  1994-06-27 : Tobacco smoking status NHIS              Never smoker 
+  1994-06-27 : Respiratory rate                         13.0 /min
+  1994-06-27 : Heart rate                               61.0 /min
+  1994-06-27 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  1994-06-27 : Body Mass Index                          29.6 kg/m2
+  1994-06-27 : Body Weight                              83.3 kg
+  1994-06-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1994-06-27 : Body Height                              167.7 cm
+  1993-03-22 : Tobacco smoking status NHIS              Never smoker 
+  1993-03-22 : High Density Lipoprotein Cholesterol     62.5 mg/dL
+  1993-03-22 : Low Density Lipoprotein Cholesterol      78.6 mg/dL
+  1993-03-22 : Triglycerides                            102.6 mg/dL
+  1993-03-22 : Total Cholesterol                        161.5 mg/dL
+  1993-03-22 : Respiratory rate                         12.0 /min
+  1993-03-22 : Heart rate                               76.0 /min
+  1993-03-22 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  1993-03-22 : Body Mass Index                          29.1 kg/m2
+  1993-03-22 : Body Weight                              81.8 kg
+  1993-03-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1993-03-22 : Body Height                              167.7 cm
+  1990-03-19 : Tobacco smoking status NHIS              Never smoker 
+  1990-03-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.5 fL
+  1990-03-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 225.7 fL
+  1990-03-19 : Platelets [#/volume] in Blood by Automated count 314.8 10*3/uL
+  1990-03-19 : Erythrocyte distribution width [Entitic volume] by Automated count 43.5 fL
+  1990-03-19 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  1990-03-19 : MCH [Entitic mass] by Automated count    31.7 pg
+  1990-03-19 : MCV [Entitic volume] by Automated count  92.9 fL
+  1990-03-19 : Hematocrit [Volume Fraction] of Blood by Automated count 48.4 %
+  1990-03-19 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  1990-03-19 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  1990-03-19 : Leukocytes [#/volume] in Blood by Automated count 8.4 10*3/uL
+  1990-03-19 : Respiratory rate                         12.0 /min
+  1990-03-19 : Heart rate                               79.0 /min
+  1990-03-19 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  1990-03-19 : Body Mass Index                          27.5 kg/m2
+  1990-03-19 : Body Weight                              77.4 kg
+  1990-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1990-03-19 : Body Height                              167.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1995-06-03 : Surgical manipulation of joint of knee for Injury of medial collateral ligament of knee
+  1995-05-27 : Knee X-ray
+  1994-06-20 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  1993-07-06 : Surgical manipulation of joint of knee for Injury of anterior cruciate ligament
+  1993-06-29 : Knee X-ray
+  1993-03-22 : Medication Reconciliation (procedure)
+  1993-01-14 : Vasectomy
+  1990-03-19 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1999-03-29 : Influenza, seasonal, injectable, preservative free
+  1996-03-25 : Influenza, seasonal, injectable, preservative free
+  1994-06-27 : Influenza, seasonal, injectable, preservative free
+  1993-03-22 : Td (adult) preservative free
+  1993-03-22 : Influenza, seasonal, injectable, preservative free
+  1990-03-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1999-04-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1999-03-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1998-04-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+1997-06-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Concussion with no loss of consciousness
+1997-04-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1996-03-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1995-06-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Injury of medial collateral ligament of knee
+1995-05-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1994-06-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1994-06-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+1993-07-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Injury of anterior cruciate ligament
+1993-06-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1993-03-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1993-01-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1992-12-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1990-03-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1989-01-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Appendicitis
+1989-01-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Appendicitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  1995-05-27 : Digital Radiography, Knee
+  1993-06-29 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

@@ -1,0 +1,822 @@
+Lola Albrecht
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 58
+Birth Date:          1962-03-09
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-03-28[CURRENT] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2019-03-29[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2018-03-29[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2017-03-29[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2016-03-29[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2015-12-26[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2015-03-30[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2014-03-30[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2013-03-30[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2012-03-30[STOPPED] : Simvastatin 10 MG Oral Tablet for Hyperlipidemia
+  2012-02-05[STOPPED] : Natazia 28 Day Pack
+  2011-04-03[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Cystitis
+  2011-04-03[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Cystitis
+  2011-02-10[STOPPED] : Etonogestrel 68 MG Drug Implant
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-12-26 - 2016-01-09 : Sprain of ankle
+  2014-05-12 -            : Chronic sinusitis (disorder)
+  2014-03-31 - 2014-05-19 : Sinusitis (disorder)
+  2012-03-09 -            : Hyperlipidemia
+  2011-02-25 - 2011-04-10 : Cystitis
+  2000-01-28 -            : Tubal pregnancy
+  1999-07-09 -            : Miscarriage in first trimester
+  1990-05-18 -            : Anemia (disorder)
+  1990-05-18 -            : Prediabetes
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-12-26[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2012-03-30[CURRENT] : Hyperlipidemia clinical management plan
+                         Reason: Hyperlipidemia
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  2011-04-03[STOPPED] : Urinary tract infection care
+                         Reason: Cystitis
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  1990-05-18[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-04-24 : Basic Metabolic Panel
+           - Glucose                                  71.7 mg/dL
+           - Urea Nitrogen                            19.1 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   142.6 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 104.0 mmol/L
+           - Carbon Dioxide                           28.1 mmol/L
+  2020-03-28 : Lipid Panel
+           - Total Cholesterol                        170.7 mg/dL
+           - Triglycerides                            136.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.4 mg/dL
+           - High Density Lipoprotein Cholesterol     58.4 mg/dL
+  2020-03-28 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  88.4 mg/dL
+           - Urea Nitrogen                            14.6 mg/dL
+           - Creatinine                               3.5 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   137.5 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 107.2 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 86.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 62.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 125.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 43.6 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.9 U/L
+  2019-04-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+           - MCV [Entitic volume] by Automated count  83.9 fL
+           - MCH [Entitic mass] by Automated count    27.6 pg
+           - MCHC [Mass/volume] by Automated count    34.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+           - Platelets [#/volume] in Blood by Automated count 196.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 162.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2019-04-19 : Basic Metabolic Panel
+           - Glucose                                  87.4 mg/dL
+           - Urea Nitrogen                            17.4 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 106.1 mmol/L
+           - Carbon Dioxide                           26.3 mmol/L
+  2019-03-29 : Lipid Panel
+           - Total Cholesterol                        188.7 mg/dL
+           - Triglycerides                            107.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      121.1 mg/dL
+           - High Density Lipoprotein Cholesterol     58.8 mg/dL
+  2019-03-29 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  79.6 mg/dL
+           - Urea Nitrogen                            18.1 mg/dL
+           - Creatinine                               2.7 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   137.1 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 103.6 mmol/L
+           - Carbon Dioxide                           25.7 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 79.5 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 76.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.5 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 55.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 48.1 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.2 U/L
+  2018-04-13 : Lipid Panel
+           - Total Cholesterol                        173.7 mg/dL
+           - Triglycerides                            127.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.4 mg/dL
+           - High Density Lipoprotein Cholesterol     73.9 mg/dL
+  2018-04-13 : Basic Metabolic Panel
+           - Glucose                                  96.7 mg/dL
+           - Urea Nitrogen                            7.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   141.6 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           25.4 mmol/L
+  2018-03-29 : Lipid Panel
+           - Total Cholesterol                        200.8 mg/dL
+           - Triglycerides                            130.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      109.6 mg/dL
+           - High Density Lipoprotein Cholesterol     40.4 mg/dL
+  2018-03-29 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  83.8 mg/dL
+           - Urea Nitrogen                            11.8 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   136.3 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 109.3 mmol/L
+           - Carbon Dioxide                           27.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 67.7 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 76.0 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.3 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 82.0 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 24.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.2 U/L
+  2017-04-07 : Basic Metabolic Panel
+           - Glucose                                  86.1 mg/dL
+           - Urea Nitrogen                            12.2 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   138.8 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 110.9 mmol/L
+           - Carbon Dioxide                           20.2 mmol/L
+  2017-03-29 : Lipid Panel
+           - Total Cholesterol                        170.2 mg/dL
+           - Triglycerides                            199.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      81.5 mg/dL
+           - High Density Lipoprotein Cholesterol     46.7 mg/dL
+  2017-03-29 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  84.0 mg/dL
+           - Urea Nitrogen                            8.6 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   137.8 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.1 mmol/L
+           - Carbon Dioxide                           24.6 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 88.8 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 67.3 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 74.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.1 U/L
+  2016-04-01 : Basic Metabolic Panel
+           - Glucose                                  98.6 mg/dL
+           - Urea Nitrogen                            18.6 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   143.4 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 105.1 mmol/L
+           - Carbon Dioxide                           25.3 mmol/L
+  2016-03-29 : Lipid Panel
+           - Total Cholesterol                        181.3 mg/dL
+           - Triglycerides                            183.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      103.8 mg/dL
+           - High Density Lipoprotein Cholesterol     49.0 mg/dL
+  2016-03-29 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  98.6 mg/dL
+           - Urea Nitrogen                            18.6 mg/dL
+           - Creatinine                               3.2 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   143.4 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 105.1 mmol/L
+           - Carbon Dioxide                           25.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 79.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 74.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 101.1 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 59.3 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.1 U/L
+  2015-03-30 : Lipid Panel
+           - Total Cholesterol                        203.3 mg/dL
+           - Triglycerides                            149.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      90.8 mg/dL
+           - High Density Lipoprotein Cholesterol     59.2 mg/dL
+  2015-03-30 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  87.2 mg/dL
+           - Urea Nitrogen                            17.2 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   140.5 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 105.5 mmol/L
+           - Carbon Dioxide                           26.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 89.0 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 65.1 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 59.2 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 46.7 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.8 U/L
+  2015-03-27 : Lipid Panel
+           - Total Cholesterol                        166.5 mg/dL
+           - Triglycerides                            115.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.6 mg/dL
+           - High Density Lipoprotein Cholesterol     63.8 mg/dL
+  2015-03-27 : Basic Metabolic Panel
+           - Glucose                                  95.2 mg/dL
+           - Urea Nitrogen                            14.6 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   139.2 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 110.2 mmol/L
+           - Carbon Dioxide                           21.6 mmol/L
+  2014-03-30 : Lipid Panel
+           - Total Cholesterol                        168.5 mg/dL
+           - Triglycerides                            115.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.5 mg/dL
+           - High Density Lipoprotein Cholesterol     50.4 mg/dL
+  2014-03-30 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  86.3 mg/dL
+           - Urea Nitrogen                            15.8 mg/dL
+           - Creatinine                               2.8 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   140.3 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           23.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 89.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 73.6 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.5 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 90.8 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 53.4 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.5 U/L
+  2014-03-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+           - MCV [Entitic volume] by Automated count  87.9 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 356.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 479.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2014-03-21 : Basic Metabolic Panel
+           - Glucose                                  68.5 mg/dL
+           - Urea Nitrogen                            18.3 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   141.8 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 104.7 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+  2013-03-30 : Lipid Panel
+           - Total Cholesterol                        186.5 mg/dL
+           - Triglycerides                            191.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      118.5 mg/dL
+           - High Density Lipoprotein Cholesterol     31.3 mg/dL
+  2013-03-30 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  82.0 mg/dL
+           - Urea Nitrogen                            8.7 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   139.4 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 107.9 mmol/L
+           - Carbon Dioxide                           27.5 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 73.4 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 63.8 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 4.8 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.2 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 58.4 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.7 U/L
+  2013-03-15 : Basic Metabolic Panel
+           - Glucose                                  98.7 mg/dL
+           - Urea Nitrogen                            7.8 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   136.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 104.1 mmol/L
+           - Carbon Dioxide                           27.8 mmol/L
+  2012-03-09 : Lipid Panel
+           - Total Cholesterol                        173.1 mg/dL
+           - Triglycerides                            113.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.4 mg/dL
+           - High Density Lipoprotein Cholesterol     66.0 mg/dL
+  2012-03-09 : Basic Metabolic Panel
+           - Glucose                                  98.0 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   139.3 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 108.9 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+  2012-03-09 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  98.0 mg/dL
+           - Urea Nitrogen                            16.6 mg/dL
+           - Creatinine                               3.4 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   139.3 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 108.9 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 80.1 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 60.7 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 71.6 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 55.0 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.2 U/L
+  2012-03-09 : Lipid Panel
+           - Total Cholesterol                        269.3 mg/dL
+           - Triglycerides                            236.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      131.3 mg/dL
+           - High Density Lipoprotein Cholesterol     49.5 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-04-24 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2020-04-24 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-24 : Carbon Dioxide                           28.1 mmol/L
+  2020-04-24 : Chloride                                 104.0 mmol/L
+  2020-04-24 : Potassium                                4.1 mmol/L
+  2020-04-24 : Sodium                                   142.6 mmol/L
+  2020-04-24 : Calcium                                  10.2 mg/dL
+  2020-04-24 : Creatinine                               0.8 mg/dL
+  2020-04-24 : Urea Nitrogen                            19.1 mg/dL
+  2020-04-24 : Glucose                                  71.7 mg/dL
+  2020-04-24 : Respiratory rate                         15.0 /min
+  2020-04-24 : Heart rate                               68.0 /min
+  2020-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2020-04-24 : Body Mass Index                          30.5 kg/m2
+  2020-04-24 : Body Weight                              83.6 kg
+  2020-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-04-24 : Body Height                              165.7 cm
+  2020-03-28 : High Density Lipoprotein Cholesterol     58.4 mg/dL
+  2020-03-28 : Low Density Lipoprotein Cholesterol      81.4 mg/dL
+  2020-03-28 : Triglycerides                            136.2 mg/dL
+  2020-03-28 : Total Cholesterol                        170.7 mg/dL
+  2020-03-28 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 39.9 U/L
+  2020-03-28 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 43.6 U/L
+  2020-03-28 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 125.0 U/L
+  2020-03-28 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2020-03-28 : Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+  2020-03-28 : Albumin [Mass/volume] in Serum or Plasma 4.7 g/dL
+  2020-03-28 : Protein [Mass/volume] in Serum or Plasma 62.3 g/dL
+  2020-03-28 : Glomerular filtration rate/1.73 sq M.predicted 86.4 mL/min
+  2020-03-28 : Carbon Dioxide                           26.4 mmol/L
+  2020-03-28 : Chloride                                 107.2 mmol/L
+  2020-03-28 : Potassium                                4.9 mmol/L
+  2020-03-28 : Sodium                                   137.5 mmol/L
+  2020-03-28 : Calcium                                  8.6 mg/dL
+  2020-03-28 : Creatinine                               3.5 mg/dL
+  2020-03-28 : Urea Nitrogen                            14.6 mg/dL
+  2020-03-28 : Glucose                                  88.4 mg/dL
+  2019-04-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2019-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2019-04-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 162.1 fL
+  2019-04-19 : Platelets [#/volume] in Blood by Automated count 196.2 10*3/uL
+  2019-04-19 : Erythrocyte distribution width [Entitic volume] by Automated count 40.4 fL
+  2019-04-19 : MCHC [Mass/volume] by Automated count    34.3 g/dL
+  2019-04-19 : MCH [Entitic mass] by Automated count    27.6 pg
+  2019-04-19 : MCV [Entitic volume] by Automated count  83.9 fL
+  2019-04-19 : Hematocrit [Volume Fraction] of Blood by Automated count 41.6 %
+  2019-04-19 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2019-04-19 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2019-04-19 : Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+  2019-04-19 : Carbon Dioxide                           26.3 mmol/L
+  2019-04-19 : Chloride                                 106.1 mmol/L
+  2019-04-19 : Potassium                                3.9 mmol/L
+  2019-04-19 : Sodium                                   137.6 mmol/L
+  2019-04-19 : Calcium                                  8.9 mg/dL
+  2019-04-19 : Creatinine                               0.8 mg/dL
+  2019-04-19 : Urea Nitrogen                            17.4 mg/dL
+  2019-04-19 : Glucose                                  87.4 mg/dL
+  2019-04-19 : Respiratory rate                         15.0 /min
+  2019-04-19 : Heart rate                               80.0 /min
+  2019-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2019-04-19 : Body Mass Index                          30.5 kg/m2
+  2019-04-19 : Body Weight                              83.6 kg
+  2019-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-04-19 : Body Height                              165.7 cm
+  2019-03-29 : High Density Lipoprotein Cholesterol     58.8 mg/dL
+  2019-03-29 : Low Density Lipoprotein Cholesterol      121.1 mg/dL
+  2019-03-29 : Triglycerides                            107.4 mg/dL
+  2019-03-29 : Total Cholesterol                        188.7 mg/dL
+  2019-03-29 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 6.2 U/L
+  2019-03-29 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 48.1 U/L
+  2019-03-29 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 55.1 U/L
+  2019-03-29 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.9 mg/dL
+  2019-03-29 : Globulin [Mass/volume] in Serum by calculation 3.1 g/L
+  2019-03-29 : Albumin [Mass/volume] in Serum or Plasma 5.5 g/dL
+  2019-03-29 : Protein [Mass/volume] in Serum or Plasma 76.7 g/dL
+  2019-03-29 : Glomerular filtration rate/1.73 sq M.predicted 79.5 mL/min
+  2019-03-29 : Carbon Dioxide                           25.7 mmol/L
+  2019-03-29 : Chloride                                 103.6 mmol/L
+  2019-03-29 : Potassium                                5.2 mmol/L
+  2019-03-29 : Sodium                                   137.1 mmol/L
+  2019-03-29 : Calcium                                  9.9 mg/dL
+  2019-03-29 : Creatinine                               2.7 mg/dL
+  2019-03-29 : Urea Nitrogen                            18.1 mg/dL
+  2019-03-29 : Glucose                                  79.6 mg/dL
+  2018-04-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2018-04-13 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-13 : High Density Lipoprotein Cholesterol     73.9 mg/dL
+  2018-04-13 : Low Density Lipoprotein Cholesterol      74.4 mg/dL
+  2018-04-13 : Triglycerides                            127.2 mg/dL
+  2018-04-13 : Total Cholesterol                        173.7 mg/dL
+  2018-04-13 : Carbon Dioxide                           25.4 mmol/L
+  2018-04-13 : Chloride                                 107.0 mmol/L
+  2018-04-13 : Potassium                                4.0 mmol/L
+  2018-04-13 : Sodium                                   141.6 mmol/L
+  2018-04-13 : Calcium                                  9.3 mg/dL
+  2018-04-13 : Creatinine                               0.9 mg/dL
+  2018-04-13 : Urea Nitrogen                            7.9 mg/dL
+  2018-04-13 : Glucose                                  96.7 mg/dL
+  2018-04-13 : Respiratory rate                         13.0 /min
+  2018-04-13 : Heart rate                               70.0 /min
+  2018-04-13 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2018-04-13 : Body Mass Index                          30.5 kg/m2
+  2018-04-13 : Body Weight                              83.6 kg
+  2018-04-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-04-13 : Body Height                              165.7 cm
+  2018-03-29 : High Density Lipoprotein Cholesterol     40.4 mg/dL
+  2018-03-29 : Low Density Lipoprotein Cholesterol      109.6 mg/dL
+  2018-03-29 : Triglycerides                            130.4 mg/dL
+  2018-03-29 : Total Cholesterol                        200.8 mg/dL
+  2018-03-29 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 20.2 U/L
+  2018-03-29 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 24.4 U/L
+  2018-03-29 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 82.0 U/L
+  2018-03-29 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.3 mg/dL
+  2018-03-29 : Globulin [Mass/volume] in Serum by calculation 3.0 g/L
+  2018-03-29 : Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+  2018-03-29 : Protein [Mass/volume] in Serum or Plasma 76.0 g/dL
+  2018-03-29 : Glomerular filtration rate/1.73 sq M.predicted 67.7 mL/min
+  2018-03-29 : Carbon Dioxide                           27.3 mmol/L
+  2018-03-29 : Chloride                                 109.3 mmol/L
+  2018-03-29 : Potassium                                4.3 mmol/L
+  2018-03-29 : Sodium                                   136.3 mmol/L
+  2018-03-29 : Calcium                                  9.2 mg/dL
+  2018-03-29 : Creatinine                               3.1 mg/dL
+  2018-03-29 : Urea Nitrogen                            11.8 mg/dL
+  2018-03-29 : Glucose                                  83.8 mg/dL
+  2017-04-07 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2017-04-07 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-07 : Carbon Dioxide                           20.2 mmol/L
+  2017-04-07 : Chloride                                 110.9 mmol/L
+  2017-04-07 : Potassium                                4.3 mmol/L
+  2017-04-07 : Sodium                                   138.8 mmol/L
+  2017-04-07 : Calcium                                  9.5 mg/dL
+  2017-04-07 : Creatinine                               0.8 mg/dL
+  2017-04-07 : Urea Nitrogen                            12.2 mg/dL
+  2017-04-07 : Glucose                                  86.1 mg/dL
+  2017-04-07 : Respiratory rate                         14.0 /min
+  2017-04-07 : Heart rate                               70.0 /min
+  2017-04-07 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2017-04-07 : Body Mass Index                          30.5 kg/m2
+  2017-04-07 : Body Weight                              83.6 kg
+  2017-04-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-04-07 : Body Height                              165.7 cm
+  2017-03-29 : High Density Lipoprotein Cholesterol     46.7 mg/dL
+  2017-03-29 : Low Density Lipoprotein Cholesterol      81.5 mg/dL
+  2017-03-29 : Triglycerides                            199.2 mg/dL
+  2017-03-29 : Total Cholesterol                        170.2 mg/dL
+  2017-03-29 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.1 U/L
+  2017-03-29 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.4 U/L
+  2017-03-29 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 74.4 U/L
+  2017-03-29 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.5 mg/dL
+  2017-03-29 : Globulin [Mass/volume] in Serum by calculation 3.2 g/L
+  2017-03-29 : Albumin [Mass/volume] in Serum or Plasma 3.9 g/dL
+  2017-03-29 : Protein [Mass/volume] in Serum or Plasma 67.3 g/dL
+  2017-03-29 : Glomerular filtration rate/1.73 sq M.predicted 88.8 mL/min
+  2017-03-29 : Carbon Dioxide                           24.6 mmol/L
+  2017-03-29 : Chloride                                 101.1 mmol/L
+  2017-03-29 : Potassium                                4.0 mmol/L
+  2017-03-29 : Sodium                                   137.8 mmol/L
+  2017-03-29 : Calcium                                  9.9 mg/dL
+  2017-03-29 : Creatinine                               2.9 mg/dL
+  2017-03-29 : Urea Nitrogen                            8.6 mg/dL
+  2017-03-29 : Glucose                                  84.0 mg/dL
+  2016-04-01 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-04-01 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-01 : Carbon Dioxide                           25.3 mmol/L
+  2016-04-01 : Chloride                                 105.1 mmol/L
+  2016-04-01 : Potassium                                4.1 mmol/L
+  2016-04-01 : Sodium                                   143.4 mmol/L
+  2016-04-01 : Calcium                                  8.8 mg/dL
+  2016-04-01 : Creatinine                               0.9 mg/dL
+  2016-04-01 : Urea Nitrogen                            18.6 mg/dL
+  2016-04-01 : Glucose                                  98.6 mg/dL
+  2016-04-01 : Respiratory rate                         13.0 /min
+  2016-04-01 : Heart rate                               69.0 /min
+  2016-04-01 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2016-04-01 : Body Mass Index                          30.4 kg/m2
+  2016-04-01 : Body Weight                              83.5 kg
+  2016-04-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-04-01 : Body Height                              165.7 cm
+  2016-03-29 : High Density Lipoprotein Cholesterol     49.0 mg/dL
+  2016-03-29 : Low Density Lipoprotein Cholesterol      103.8 mg/dL
+  2016-03-29 : Triglycerides                            183.8 mg/dL
+  2016-03-29 : Total Cholesterol                        181.3 mg/dL
+  2016-03-29 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 13.1 U/L
+  2016-03-29 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 59.3 U/L
+  2016-03-29 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 101.1 U/L
+  2016-03-29 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.4 mg/dL
+  2016-03-29 : Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+  2016-03-29 : Albumin [Mass/volume] in Serum or Plasma 4.2 g/dL
+  2016-03-29 : Protein [Mass/volume] in Serum or Plasma 74.6 g/dL
+  2016-03-29 : Glomerular filtration rate/1.73 sq M.predicted 79.1 mL/min
+  2016-03-29 : Carbon Dioxide                           25.3 mmol/L
+  2016-03-29 : Chloride                                 105.1 mmol/L
+  2016-03-29 : Potassium                                4.1 mmol/L
+  2016-03-29 : Sodium                                   143.4 mmol/L
+  2016-03-29 : Calcium                                  8.8 mg/dL
+  2016-03-29 : Creatinine                               3.2 mg/dL
+  2016-03-29 : Urea Nitrogen                            18.6 mg/dL
+  2016-03-29 : Glucose                                  98.6 mg/dL
+  2015-03-30 : High Density Lipoprotein Cholesterol     59.2 mg/dL
+  2015-03-30 : Low Density Lipoprotein Cholesterol      90.8 mg/dL
+  2015-03-30 : Triglycerides                            149.8 mg/dL
+  2015-03-30 : Total Cholesterol                        203.3 mg/dL
+  2015-03-30 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.8 U/L
+  2015-03-30 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 46.7 U/L
+  2015-03-30 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 59.2 U/L
+  2015-03-30 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.2 mg/dL
+  2015-03-30 : Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+  2015-03-30 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2015-03-30 : Protein [Mass/volume] in Serum or Plasma 65.1 g/dL
+  2015-03-30 : Glomerular filtration rate/1.73 sq M.predicted 89.0 mL/min
+  2015-03-30 : Carbon Dioxide                           26.8 mmol/L
+  2015-03-30 : Chloride                                 105.5 mmol/L
+  2015-03-30 : Potassium                                5.2 mmol/L
+  2015-03-30 : Sodium                                   140.5 mmol/L
+  2015-03-30 : Calcium                                  9.5 mg/dL
+  2015-03-30 : Creatinine                               2.8 mg/dL
+  2015-03-30 : Urea Nitrogen                            17.2 mg/dL
+  2015-03-30 : Glucose                                  87.2 mg/dL
+  2015-03-27 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-03-27 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-27 : High Density Lipoprotein Cholesterol     63.8 mg/dL
+  2015-03-27 : Low Density Lipoprotein Cholesterol      79.6 mg/dL
+  2015-03-27 : Triglycerides                            115.7 mg/dL
+  2015-03-27 : Total Cholesterol                        166.5 mg/dL
+  2015-03-27 : Carbon Dioxide                           21.6 mmol/L
+  2015-03-27 : Chloride                                 110.2 mmol/L
+  2015-03-27 : Potassium                                4.5 mmol/L
+  2015-03-27 : Sodium                                   139.2 mmol/L
+  2015-03-27 : Calcium                                  10.2 mg/dL
+  2015-03-27 : Creatinine                               0.8 mg/dL
+  2015-03-27 : Urea Nitrogen                            14.6 mg/dL
+  2015-03-27 : Glucose                                  95.2 mg/dL
+  2015-03-27 : Respiratory rate                         14.0 /min
+  2015-03-27 : Heart rate                               85.0 /min
+  2015-03-27 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2015-03-27 : Body Mass Index                          29.7 kg/m2
+  2015-03-27 : Body Weight                              81.6 kg
+  2015-03-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-03-27 : Body Height                              165.7 cm
+  2014-03-30 : High Density Lipoprotein Cholesterol     50.4 mg/dL
+  2014-03-30 : Low Density Lipoprotein Cholesterol      84.5 mg/dL
+  2014-03-30 : Triglycerides                            115.5 mg/dL
+  2014-03-30 : Total Cholesterol                        168.5 mg/dL
+  2014-03-30 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 30.5 U/L
+  2014-03-30 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 53.4 U/L
+  2014-03-30 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 90.8 U/L
+  2014-03-30 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.8 mg/dL
+  2014-03-30 : Globulin [Mass/volume] in Serum by calculation 2.5 g/L
+  2014-03-30 : Albumin [Mass/volume] in Serum or Plasma 3.5 g/dL
+  2014-03-30 : Protein [Mass/volume] in Serum or Plasma 73.6 g/dL
+  2014-03-30 : Glomerular filtration rate/1.73 sq M.predicted 89.4 mL/min
+  2014-03-30 : Carbon Dioxide                           23.8 mmol/L
+  2014-03-30 : Chloride                                 107.0 mmol/L
+  2014-03-30 : Potassium                                5.1 mmol/L
+  2014-03-30 : Sodium                                   140.3 mmol/L
+  2014-03-30 : Calcium                                  9.1 mg/dL
+  2014-03-30 : Creatinine                               2.8 mg/dL
+  2014-03-30 : Urea Nitrogen                            15.8 mg/dL
+  2014-03-30 : Glucose                                  86.3 mg/dL
+  2014-03-21 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2014-03-21 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2014-03-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 479.7 fL
+  2014-03-21 : Platelets [#/volume] in Blood by Automated count 356.4 10*3/uL
+  2014-03-21 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2014-03-21 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2014-03-21 : MCH [Entitic mass] by Automated count    32.1 pg
+  2014-03-21 : MCV [Entitic volume] by Automated count  87.9 fL
+  2014-03-21 : Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+  2014-03-21 : Hemoglobin [Mass/volume] in Blood        17.4 g/dL
+  2014-03-21 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2014-03-21 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2014-03-21 : Carbon Dioxide                           20.3 mmol/L
+  2014-03-21 : Chloride                                 104.7 mmol/L
+  2014-03-21 : Potassium                                4.2 mmol/L
+  2014-03-21 : Sodium                                   141.8 mmol/L
+  2014-03-21 : Calcium                                  8.7 mg/dL
+  2014-03-21 : Creatinine                               0.8 mg/dL
+  2014-03-21 : Urea Nitrogen                            18.3 mg/dL
+  2014-03-21 : Glucose                                  68.5 mg/dL
+  2014-03-21 : Respiratory rate                         12.0 /min
+  2014-03-21 : Heart rate                               80.0 /min
+  2014-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2014-03-21 : Body Mass Index                          29.0 kg/m2
+  2014-03-21 : Body Weight                              79.7 kg
+  2014-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-03-21 : Body Height                              165.7 cm
+  2013-03-30 : High Density Lipoprotein Cholesterol     31.3 mg/dL
+  2013-03-30 : Low Density Lipoprotein Cholesterol      118.5 mg/dL
+  2013-03-30 : Triglycerides                            191.3 mg/dL
+  2013-03-30 : Total Cholesterol                        186.5 mg/dL
+  2013-03-30 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 19.7 U/L
+  2013-03-30 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.8 U/L
+  2013-03-30 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 58.4 U/L
+  2013-03-30 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.2 mg/dL
+  2013-03-30 : Globulin [Mass/volume] in Serum by calculation 2.3 g/L
+  2013-03-30 : Albumin [Mass/volume] in Serum or Plasma 4.8 g/dL
+  2013-03-30 : Protein [Mass/volume] in Serum or Plasma 63.8 g/dL
+  2013-03-30 : Glomerular filtration rate/1.73 sq M.predicted 73.4 mL/min
+  2013-03-30 : Carbon Dioxide                           27.5 mmol/L
+  2013-03-30 : Chloride                                 107.9 mmol/L
+  2013-03-30 : Potassium                                4.1 mmol/L
+  2013-03-30 : Sodium                                   139.4 mmol/L
+  2013-03-30 : Calcium                                  10.1 mg/dL
+  2013-03-30 : Creatinine                               3.1 mg/dL
+  2013-03-30 : Urea Nitrogen                            8.7 mg/dL
+  2013-03-30 : Glucose                                  82.0 mg/dL
+  2013-03-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2013-03-15 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-15 : Carbon Dioxide                           27.8 mmol/L
+  2013-03-15 : Chloride                                 104.1 mmol/L
+  2013-03-15 : Potassium                                4.5 mmol/L
+  2013-03-15 : Sodium                                   136.6 mmol/L
+  2013-03-15 : Calcium                                  9.2 mg/dL
+  2013-03-15 : Creatinine                               1.2 mg/dL
+  2013-03-15 : Urea Nitrogen                            7.8 mg/dL
+  2013-03-15 : Glucose                                  98.7 mg/dL
+  2013-03-15 : Respiratory rate                         15.0 /min
+  2013-03-15 : Heart rate                               91.0 /min
+  2013-03-15 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2013-03-15 : Body Mass Index                          28.4 kg/m2
+  2013-03-15 : Body Weight                              77.9 kg
+  2013-03-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-03-15 : Body Height                              165.7 cm
+  2012-03-09 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2012-03-09 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-09 : High Density Lipoprotein Cholesterol     66.0 mg/dL
+  2012-03-09 : Low Density Lipoprotein Cholesterol      84.4 mg/dL
+  2012-03-09 : Triglycerides                            113.5 mg/dL
+  2012-03-09 : Total Cholesterol                        173.1 mg/dL
+  2012-03-09 : Carbon Dioxide                           27.0 mmol/L
+  2012-03-09 : Chloride                                 108.9 mmol/L
+  2012-03-09 : Potassium                                4.1 mmol/L
+  2012-03-09 : Sodium                                   139.3 mmol/L
+  2012-03-09 : Calcium                                  8.9 mg/dL
+  2012-03-09 : Creatinine                               1.2 mg/dL
+  2012-03-09 : Urea Nitrogen                            16.6 mg/dL
+  2012-03-09 : Glucose                                  98.0 mg/dL
+  2012-03-09 : Respiratory rate                         12.0 /min
+  2012-03-09 : Heart rate                               72.0 /min
+  2012-03-09 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2012-03-09 : Body Mass Index                          28.1 kg/m2
+  2012-03-09 : Body Weight                              77.3 kg
+  2012-03-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2012-03-09 : Body Height                              165.7 cm
+  2012-03-09 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 34.2 U/L
+  2012-03-09 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 55.0 U/L
+  2012-03-09 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 71.6 U/L
+  2012-03-09 : Bilirubin.total [Mass/volume] in Serum or Plasma 1.1 mg/dL
+  2012-03-09 : Globulin [Mass/volume] in Serum by calculation 2.7 g/L
+  2012-03-09 : Albumin [Mass/volume] in Serum or Plasma 5.3 g/dL
+  2012-03-09 : Protein [Mass/volume] in Serum or Plasma 60.7 g/dL
+  2012-03-09 : Glomerular filtration rate/1.73 sq M.predicted 80.1 mL/min
+  2012-03-09 : Carbon Dioxide                           27.0 mmol/L
+  2012-03-09 : Chloride                                 108.9 mmol/L
+  2012-03-09 : Potassium                                4.1 mmol/L
+  2012-03-09 : Sodium                                   139.3 mmol/L
+  2012-03-09 : Calcium                                  8.9 mg/dL
+  2012-03-09 : Creatinine                               3.4 mg/dL
+  2012-03-09 : Urea Nitrogen                            16.6 mg/dL
+  2012-03-09 : Glucose                                  98.0 mg/dL
+  2012-03-09 : High Density Lipoprotein Cholesterol     49.5 mg/dL
+  2012-03-09 : Low Density Lipoprotein Cholesterol      131.3 mg/dL
+  2012-03-09 : Triglycerides                            236.4 mg/dL
+  2012-03-09 : Total Cholesterol                        269.3 mg/dL
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-04-24 : Medication Reconciliation (procedure)
+  2019-04-19 : Medication Reconciliation (procedure)
+  2017-03-08 : Colonoscopy
+  2013-03-15 : Medication Reconciliation (procedure)
+  2013-02-08 : Removal of subcutaneous contraceptive
+  2012-03-09 : Medication Reconciliation (procedure)
+  2012-03-09 : Colonoscopy
+  2011-02-10 : Insertion of subcutaneous contraceptive
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-04-24 : Influenza, seasonal, injectable, preservative free
+  2019-04-19 : Influenza, seasonal, injectable, preservative free
+  2018-04-13 : Influenza, seasonal, injectable, preservative free
+  2017-04-07 : Influenza, seasonal, injectable, preservative free
+  2016-04-01 : Influenza, seasonal, injectable, preservative free
+  2015-03-27 : Influenza, seasonal, injectable, preservative free
+  2014-03-21 : Influenza, seasonal, injectable, preservative free
+  2013-03-15 : Td (adult) preservative free
+  2013-03-15 : Influenza, seasonal, injectable, preservative free
+  2013-03-15 : zoster
+  2012-03-09 : Influenza, seasonal, injectable, preservative free
+  2012-03-09 : zoster
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-04-24 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2020-03-28 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2019-04-19 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2019-03-29 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2018-04-13 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2018-03-29 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2017-04-07 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2017-03-29 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2017-03-08 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2016-03-29 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2016-04-01 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2015-12-26 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2015-03-30 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2015-03-27 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2014-05-12 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Sinusitis (disorder)
+2014-03-30 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2014-03-31 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Sinusitis (disorder)
+2014-03-21 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2013-03-30 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2013-03-15 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2013-02-08 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2012-03-30 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Hyperlipidemia
+2012-03-09 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2012-03-09 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2012-02-05 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2011-02-25 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Cystitis
+2011-02-10 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+2000-01-28 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1999-07-09 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1990-05-18 (Dr. Jerome Kilian) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

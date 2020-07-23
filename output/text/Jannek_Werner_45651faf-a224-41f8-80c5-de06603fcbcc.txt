@@ -1,0 +1,665 @@
+Jannek Werner
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 45
+Birth Date:          1974-09-21
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1975-06-29 -            : Dander (animal) allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-04-19[CURRENT] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-04-19[CURRENT] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2020-04-19[CURRENT] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2019-04-14[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-04-14[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2019-04-14[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2018-04-08[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-04-08[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2018-04-08[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2017-04-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-04-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-04-02[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2017-01-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-01-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2017-01-07[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2016-03-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-03-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2016-03-26[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2015-03-21[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-03-21[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2015-03-21[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2014-03-15[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-03-15[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2014-03-15[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2013-03-09[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-03-09[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2013-03-09[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2012-03-03[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-03-03[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2012-03-03[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2011-02-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-02-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2011-02-26[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2010-02-20[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-02-20[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-02-20[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2010-01-23[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-01-23[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2010-01-23[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2009-02-14[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2009-02-14[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2009-02-14[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2008-02-09[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2008-02-09[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2008-02-09[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2007-02-03[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-02-03[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2007-02-03[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2006-01-28[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2006-01-28[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2006-01-28[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2005-01-22[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-01-22[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2005-01-22[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2004-01-17[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-01-17[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2004-01-17[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2003-01-11[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2003-01-11[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2003-01-11[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2002-01-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2002-01-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2002-01-05[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2000-12-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2000-12-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  2000-12-30[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1999-12-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1999-12-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1999-12-25[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1998-12-19[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1998-12-19[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1998-12-19[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1997-12-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1997-12-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1997-12-13[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1996-12-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1996-12-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1996-12-07[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1995-12-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1995-12-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1995-12-02[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1994-11-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1994-11-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1994-11-26[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1993-11-20[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1993-11-20[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1993-11-20[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1993-02-12[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1992-11-14[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1992-11-14[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-11-09[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-11-09[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-11-09[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-11-09[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-01-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1991-01-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-11-03[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1990-11-03[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1989-10-28[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1989-10-28[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1988-10-22[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1988-10-22[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1987-10-17[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1987-10-17[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1987-08-02[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1987-08-02[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-10-11[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1986-10-11[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1985-10-05[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1985-10-05[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1984-09-30[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1984-09-30[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1983-09-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1983-09-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-09-19[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1982-09-19[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1981-09-13[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1981-09-13[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1980-09-07[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1980-09-07[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-09-01[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1979-09-01[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-08-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-08-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-02-25[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1978-02-25[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-08-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-08-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-02-26[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1977-02-26[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1976-09-27[STOPPED] : NDA020503 200 ACTUAT Albuterol 0.09 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1976-09-27[STOPPED] : 120 ACTUAT Fluticasone propionate 0.044 MG/ACTUAT Metered Dose Inhaler for Childhood asthma
+  1975-06-29[CURRENT] : diphenhydrAMINE Hydrochloride 25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-12-30 - 2017-01-07 : Acute viral pharyngitis (disorder)
+  2014-02-04 - 2014-02-12 : Acute viral pharyngitis (disorder)
+  1997-12-13 -            : Prediabetes
+  1992-11-14 -            : Hypertension
+  1978-09-27 -            : Perennial allergic rhinitis with seasonal variation
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1997-12-13[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1992-11-14[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1976-09-27[CURRENT] : Asthma self management
+                         Reason: Childhood asthma
+                         Activity: Inhaled steroid therapy
+                         Activity: Home nebulizer therapy
+                         Activity: Breathing control
+  1975-06-18[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-04-19 : Lipid Panel
+           - Total Cholesterol                        182.1 mg/dL
+           - Triglycerides                            129.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.8 mg/dL
+           - High Density Lipoprotein Cholesterol     59.5 mg/dL
+  2020-04-19 : Basic Metabolic Panel
+           - Glucose                                  76.8 mg/dL
+           - Urea Nitrogen                            15.1 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 108.0 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2019-04-14 : Basic Metabolic Panel
+           - Glucose                                  98.7 mg/dL
+           - Urea Nitrogen                            16.3 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   143.8 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 110.1 mmol/L
+           - Carbon Dioxide                           27.3 mmol/L
+  2018-04-08 : Basic Metabolic Panel
+           - Glucose                                  89.2 mg/dL
+           - Urea Nitrogen                            9.4 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   136.7 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 106.0 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+  2017-04-02 : Lipid Panel
+           - Total Cholesterol                        163.6 mg/dL
+           - Triglycerides                            138.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      69.7 mg/dL
+           - High Density Lipoprotein Cholesterol     66.2 mg/dL
+  2017-04-02 : Basic Metabolic Panel
+           - Glucose                                  79.8 mg/dL
+           - Urea Nitrogen                            12.8 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   143.3 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 105.8 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+  2017-01-07 : Basic Metabolic Panel
+           - Glucose                                  97.0 mg/dL
+           - Urea Nitrogen                            11.4 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   140.4 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 104.6 mmol/L
+           - Carbon Dioxide                           21.5 mmol/L
+  2016-03-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.3 %
+           - MCV [Entitic volume] by Automated count  92.8 fL
+           - MCH [Entitic mass] by Automated count    27.9 pg
+           - MCHC [Mass/volume] by Automated count    35.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 172.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 264.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2016-03-26 : Basic Metabolic Panel
+           - Glucose                                  69.7 mg/dL
+           - Urea Nitrogen                            12.3 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   138.0 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 110.7 mmol/L
+           - Carbon Dioxide                           20.5 mmol/L
+  2015-03-21 : Basic Metabolic Panel
+           - Glucose                                  83.5 mg/dL
+           - Urea Nitrogen                            20.0 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 105.2 mmol/L
+           - Carbon Dioxide                           20.1 mmol/L
+  2014-03-15 : Lipid Panel
+           - Total Cholesterol                        168.8 mg/dL
+           - Triglycerides                            131.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.4 mg/dL
+           - High Density Lipoprotein Cholesterol     68.1 mg/dL
+  2014-03-15 : Basic Metabolic Panel
+           - Glucose                                  94.6 mg/dL
+           - Urea Nitrogen                            15.5 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   137.4 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 109.2 mmol/L
+           - Carbon Dioxide                           23.5 mmol/L
+  2013-03-09 : Basic Metabolic Panel
+           - Glucose                                  90.6 mg/dL
+           - Urea Nitrogen                            20.0 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   141.6 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 101.7 mmol/L
+           - Carbon Dioxide                           25.0 mmol/L
+  2012-03-03 : Basic Metabolic Panel
+           - Glucose                                  82.1 mg/dL
+           - Urea Nitrogen                            17.2 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   139.2 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 110.7 mmol/L
+           - Carbon Dioxide                           23.8 mmol/L
+  2011-02-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %
+           - MCV [Entitic volume] by Automated count  82.8 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 366.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 409.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2011-02-26 : Lipid Panel
+           - Total Cholesterol                        168.6 mg/dL
+           - Triglycerides                            123.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.4 mg/dL
+           - High Density Lipoprotein Cholesterol     59.5 mg/dL
+  2011-02-26 : Basic Metabolic Panel
+           - Glucose                                  68.0 mg/dL
+           - Urea Nitrogen                            10.1 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 110.9 mmol/L
+           - Carbon Dioxide                           20.5 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-04-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2020-04-19 : Tobacco smoking status NHIS              Former smoker 
+  2020-04-19 : High Density Lipoprotein Cholesterol     59.5 mg/dL
+  2020-04-19 : Low Density Lipoprotein Cholesterol      96.8 mg/dL
+  2020-04-19 : Triglycerides                            129.0 mg/dL
+  2020-04-19 : Total Cholesterol                        182.1 mg/dL
+  2020-04-19 : Carbon Dioxide                           26.5 mmol/L
+  2020-04-19 : Chloride                                 108.0 mmol/L
+  2020-04-19 : Potassium                                4.8 mmol/L
+  2020-04-19 : Sodium                                   138.1 mmol/L
+  2020-04-19 : Calcium                                  10.0 mg/dL
+  2020-04-19 : Creatinine                               1.4 mg/dL
+  2020-04-19 : Urea Nitrogen                            15.1 mg/dL
+  2020-04-19 : Glucose                                  76.8 mg/dL
+  2020-04-19 : Respiratory rate                         14.0 /min
+  2020-04-19 : Heart rate                               95.0 /min
+  2020-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2020-04-19 : Body Mass Index                          29.4 kg/m2
+  2020-04-19 : Body Weight                              101.4 kg
+  2020-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-04-19 : Body Height                              185.6 cm
+  2019-04-14 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2019-04-14 : Tobacco smoking status NHIS              Former smoker 
+  2019-04-14 : Carbon Dioxide                           27.3 mmol/L
+  2019-04-14 : Chloride                                 110.1 mmol/L
+  2019-04-14 : Potassium                                5.0 mmol/L
+  2019-04-14 : Sodium                                   143.8 mmol/L
+  2019-04-14 : Calcium                                  9.6 mg/dL
+  2019-04-14 : Creatinine                               1.3 mg/dL
+  2019-04-14 : Urea Nitrogen                            16.3 mg/dL
+  2019-04-14 : Glucose                                  98.7 mg/dL
+  2019-04-14 : Respiratory rate                         16.0 /min
+  2019-04-14 : Heart rate                               84.0 /min
+  2019-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2019-04-14 : Body Mass Index                          28.8 kg/m2
+  2019-04-14 : Body Weight                              99.2 kg
+  2019-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-04-14 : Body Height                              185.6 cm
+  2018-04-08 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2018-04-08 : Tobacco smoking status NHIS              Former smoker 
+  2018-04-08 : Carbon Dioxide                           23.5 mmol/L
+  2018-04-08 : Chloride                                 106.0 mmol/L
+  2018-04-08 : Potassium                                4.5 mmol/L
+  2018-04-08 : Sodium                                   136.7 mmol/L
+  2018-04-08 : Calcium                                  10.2 mg/dL
+  2018-04-08 : Creatinine                               1.3 mg/dL
+  2018-04-08 : Urea Nitrogen                            9.4 mg/dL
+  2018-04-08 : Glucose                                  89.2 mg/dL
+  2018-04-08 : Respiratory rate                         15.0 /min
+  2018-04-08 : Heart rate                               67.0 /min
+  2018-04-08 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2018-04-08 : Body Mass Index                          28.2 kg/m2
+  2018-04-08 : Body Weight                              97.0 kg
+  2018-04-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-04-08 : Body Height                              185.6 cm
+  2017-04-02 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2017-04-02 : Tobacco smoking status NHIS              Former smoker 
+  2017-04-02 : High Density Lipoprotein Cholesterol     66.2 mg/dL
+  2017-04-02 : Low Density Lipoprotein Cholesterol      69.7 mg/dL
+  2017-04-02 : Triglycerides                            138.8 mg/dL
+  2017-04-02 : Total Cholesterol                        163.6 mg/dL
+  2017-04-02 : Carbon Dioxide                           24.1 mmol/L
+  2017-04-02 : Chloride                                 105.8 mmol/L
+  2017-04-02 : Potassium                                4.4 mmol/L
+  2017-04-02 : Sodium                                   143.3 mmol/L
+  2017-04-02 : Calcium                                  10.2 mg/dL
+  2017-04-02 : Creatinine                               1.4 mg/dL
+  2017-04-02 : Urea Nitrogen                            12.8 mg/dL
+  2017-04-02 : Glucose                                  79.8 mg/dL
+  2017-04-02 : Respiratory rate                         13.0 /min
+  2017-04-02 : Heart rate                               64.0 /min
+  2017-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2017-04-02 : Body Mass Index                          29.2 kg/m2
+  2017-04-02 : Body Weight                              100.4 kg
+  2017-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-04-02 : Body Height                              185.6 cm
+  2017-01-07 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2017-01-07 : Tobacco smoking status NHIS              Former smoker 
+  2017-01-07 : Carbon Dioxide                           21.5 mmol/L
+  2017-01-07 : Chloride                                 104.6 mmol/L
+  2017-01-07 : Potassium                                4.2 mmol/L
+  2017-01-07 : Sodium                                   140.4 mmol/L
+  2017-01-07 : Calcium                                  9.0 mg/dL
+  2017-01-07 : Creatinine                               1.4 mg/dL
+  2017-01-07 : Urea Nitrogen                            11.4 mg/dL
+  2017-01-07 : Glucose                                  97.0 mg/dL
+  2017-01-07 : Respiratory rate                         16.0 /min
+  2017-01-07 : Heart rate                               75.0 /min
+  2017-01-07 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2017-01-07 : Body Mass Index                          29.7 kg/m2
+  2017-01-07 : Body Weight                              102.4 kg
+  2017-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-01-07 : Body Height                              185.6 cm
+  2016-12-30 : Body temperature                         37.9 Cel
+  2016-03-26 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-03-26 : Tobacco smoking status NHIS              Former smoker 
+  2016-03-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.8 fL
+  2016-03-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 264.5 fL
+  2016-03-26 : Platelets [#/volume] in Blood by Automated count 172.9 10*3/uL
+  2016-03-26 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2016-03-26 : MCHC [Mass/volume] by Automated count    35.7 g/dL
+  2016-03-26 : MCH [Entitic mass] by Automated count    27.9 pg
+  2016-03-26 : MCV [Entitic volume] by Automated count  92.8 fL
+  2016-03-26 : Hematocrit [Volume Fraction] of Blood by Automated count 48.3 %
+  2016-03-26 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2016-03-26 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2016-03-26 : Leukocytes [#/volume] in Blood by Automated count 4.3 10*3/uL
+  2016-03-26 : Carbon Dioxide                           20.5 mmol/L
+  2016-03-26 : Chloride                                 110.7 mmol/L
+  2016-03-26 : Potassium                                4.5 mmol/L
+  2016-03-26 : Sodium                                   138.0 mmol/L
+  2016-03-26 : Calcium                                  9.0 mg/dL
+  2016-03-26 : Creatinine                               1.4 mg/dL
+  2016-03-26 : Urea Nitrogen                            12.3 mg/dL
+  2016-03-26 : Glucose                                  69.7 mg/dL
+  2016-03-26 : Respiratory rate                         14.0 /min
+  2016-03-26 : Heart rate                               85.0 /min
+  2016-03-26 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2016-03-26 : Body Mass Index                          30.1 kg/m2
+  2016-03-26 : Body Weight                              103.6 kg
+  2016-03-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-03-26 : Body Height                              185.6 cm
+  2015-03-21 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2015-03-21 : Tobacco smoking status NHIS              Former smoker 
+  2015-03-21 : Carbon Dioxide                           20.1 mmol/L
+  2015-03-21 : Chloride                                 105.2 mmol/L
+  2015-03-21 : Potassium                                4.7 mmol/L
+  2015-03-21 : Sodium                                   138.1 mmol/L
+  2015-03-21 : Calcium                                  9.2 mg/dL
+  2015-03-21 : Creatinine                               1.4 mg/dL
+  2015-03-21 : Urea Nitrogen                            20.0 mg/dL
+  2015-03-21 : Glucose                                  83.5 mg/dL
+  2015-03-21 : Respiratory rate                         14.0 /min
+  2015-03-21 : Heart rate                               89.0 /min
+  2015-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2015-03-21 : Body Mass Index                          29.5 kg/m2
+  2015-03-21 : Body Weight                              101.6 kg
+  2015-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-03-21 : Body Height                              185.6 cm
+  2014-03-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2014-03-15 : Tobacco smoking status NHIS              Former smoker 
+  2014-03-15 : High Density Lipoprotein Cholesterol     68.1 mg/dL
+  2014-03-15 : Low Density Lipoprotein Cholesterol      74.4 mg/dL
+  2014-03-15 : Triglycerides                            131.5 mg/dL
+  2014-03-15 : Total Cholesterol                        168.8 mg/dL
+  2014-03-15 : Carbon Dioxide                           23.5 mmol/L
+  2014-03-15 : Chloride                                 109.2 mmol/L
+  2014-03-15 : Potassium                                3.8 mmol/L
+  2014-03-15 : Sodium                                   137.4 mmol/L
+  2014-03-15 : Calcium                                  10.2 mg/dL
+  2014-03-15 : Creatinine                               1.4 mg/dL
+  2014-03-15 : Urea Nitrogen                            15.5 mg/dL
+  2014-03-15 : Glucose                                  94.6 mg/dL
+  2014-03-15 : Respiratory rate                         15.0 /min
+  2014-03-15 : Heart rate                               67.0 /min
+  2014-03-15 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2014-03-15 : Body Mass Index                          28.9 kg/m2
+  2014-03-15 : Body Weight                              99.7 kg
+  2014-03-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-03-15 : Body Height                              185.6 cm
+  2014-02-04 : Body temperature                         37.6 Cel
+  2013-03-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2013-03-09 : Tobacco smoking status NHIS              Former smoker 
+  2013-03-09 : Carbon Dioxide                           25.0 mmol/L
+  2013-03-09 : Chloride                                 101.7 mmol/L
+  2013-03-09 : Potassium                                4.6 mmol/L
+  2013-03-09 : Sodium                                   141.6 mmol/L
+  2013-03-09 : Calcium                                  9.2 mg/dL
+  2013-03-09 : Creatinine                               1.4 mg/dL
+  2013-03-09 : Urea Nitrogen                            20.0 mg/dL
+  2013-03-09 : Glucose                                  90.6 mg/dL
+  2013-03-09 : Respiratory rate                         15.0 /min
+  2013-03-09 : Heart rate                               90.0 /min
+  2013-03-09 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2013-03-09 : Body Mass Index                          28.4 kg/m2
+  2013-03-09 : Body Weight                              97.7 kg
+  2013-03-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-03-09 : Body Height                              185.6 cm
+  2012-03-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2012-03-03 : Tobacco smoking status NHIS              Former smoker 
+  2012-03-03 : Carbon Dioxide                           23.8 mmol/L
+  2012-03-03 : Chloride                                 110.7 mmol/L
+  2012-03-03 : Potassium                                4.0 mmol/L
+  2012-03-03 : Sodium                                   139.2 mmol/L
+  2012-03-03 : Calcium                                  8.8 mg/dL
+  2012-03-03 : Creatinine                               1.5 mg/dL
+  2012-03-03 : Urea Nitrogen                            17.2 mg/dL
+  2012-03-03 : Glucose                                  82.1 mg/dL
+  2012-03-03 : Respiratory rate                         13.0 /min
+  2012-03-03 : Heart rate                               69.0 /min
+  2012-03-03 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-03-03 : Body Mass Index                          29.4 kg/m2
+  2012-03-03 : Body Weight                              101.1 kg
+  2012-03-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-03-03 : Body Height                              185.6 cm
+  2011-02-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2011-02-26 : Tobacco smoking status NHIS              Former smoker 
+  2011-02-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2011-02-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 409.1 fL
+  2011-02-26 : Platelets [#/volume] in Blood by Automated count 366.1 10*3/uL
+  2011-02-26 : Erythrocyte distribution width [Entitic volume] by Automated count 39.6 fL
+  2011-02-26 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2011-02-26 : MCH [Entitic mass] by Automated count    28.5 pg
+  2011-02-26 : MCV [Entitic volume] by Automated count  82.8 fL
+  2011-02-26 : Hematocrit [Volume Fraction] of Blood by Automated count 38.5 %
+  2011-02-26 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  2011-02-26 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2011-02-26 : Leukocytes [#/volume] in Blood by Automated count 5.7 10*3/uL
+  2011-02-26 : High Density Lipoprotein Cholesterol     59.5 mg/dL
+  2011-02-26 : Low Density Lipoprotein Cholesterol      84.4 mg/dL
+  2011-02-26 : Triglycerides                            123.2 mg/dL
+  2011-02-26 : Total Cholesterol                        168.6 mg/dL
+  2011-02-26 : Carbon Dioxide                           20.5 mmol/L
+  2011-02-26 : Chloride                                 110.9 mmol/L
+  2011-02-26 : Potassium                                3.8 mmol/L
+  2011-02-26 : Sodium                                   137.0 mmol/L
+  2011-02-26 : Calcium                                  8.7 mg/dL
+  2011-02-26 : Creatinine                               1.5 mg/dL
+  2011-02-26 : Urea Nitrogen                            10.1 mg/dL
+  2011-02-26 : Glucose                                  68.0 mg/dL
+  2011-02-26 : Respiratory rate                         15.0 /min
+  2011-02-26 : Heart rate                               61.0 /min
+  2011-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2011-02-26 : Body Mass Index                          29.9 kg/m2
+  2011-02-26 : Body Weight                              103.0 kg
+  2011-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-02-26 : Body Height                              185.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-04-14 : Medication Reconciliation (procedure)
+  2018-04-08 : Medication Reconciliation (procedure)
+  2016-03-26 : Medication Reconciliation (procedure)
+  2015-03-21 : Medication Reconciliation (procedure)
+  2014-02-04 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-04-19 : Influenza, seasonal, injectable, preservative free
+  2019-04-14 : Influenza, seasonal, injectable, preservative free
+  2018-04-08 : Influenza, seasonal, injectable, preservative free
+  2017-04-02 : Influenza, seasonal, injectable, preservative free
+  2017-01-07 : Influenza, seasonal, injectable, preservative free
+  2016-03-26 : Hep A, adult
+  2016-03-26 : Td (adult) preservative free
+  2016-03-26 : Influenza, seasonal, injectable, preservative free
+  2015-03-21 : Hep A, adult
+  2015-03-21 : Influenza, seasonal, injectable, preservative free
+  2014-02-15 : Influenza, seasonal, injectable, preservative free
+  2013-03-09 : Influenza, seasonal, injectable, preservative free
+  2012-03-03 : Influenza, seasonal, injectable, preservative free
+  2011-02-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-04-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-01-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2019-07-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2019-04-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-01-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2019-01-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2018-04-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-01-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2017-04-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-01-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-12-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2016-03-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-03-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-03-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-02-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2014-02-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-02-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2013-03-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-02-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2012-08-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2012-03-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-09-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Asthma
+2011-02-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-02-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-01-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2009-02-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2008-02-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2007-02-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2006-01-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2005-01-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2004-01-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2003-01-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2002-01-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2000-12-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1999-12-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1998-12-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1997-12-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1996-12-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1995-12-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1994-11-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1993-11-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1993-02-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1992-11-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-11-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-11-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-01-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1990-11-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1989-10-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1988-10-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1987-10-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1987-08-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1986-10-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1985-10-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1984-09-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1983-09-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1982-09-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1981-09-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1980-09-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Childhood asthma
+1979-09-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1978-09-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Perennial allergic rhinitis with seasonal variation
+1978-08-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1978-02-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1977-08-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1977-02-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1976-09-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Childhood asthma
+1975-06-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1975-06-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,431 @@
+Josef Brinkmann
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1938-05-29
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1994-10-08[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  1989-02-05[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  1962-05-23[STOPPED] : Acetaminophen 325 MG / oxyCODONE Hydrochloride 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1994-10-08 - 1994-10-16 : Streptococcal sore throat (disorder)
+  1991-05-30 - 1991-06-13 : Viral sinusitis (disorder)
+  1990-06-10 -            : Familial Alzheimer's disease of early onset (disorder)
+  1989-02-05 - 1989-02-19 : Sprain of ankle
+  1988-05-29 - 1989-05-28 : Polyp of colon
+  1980-06-08 -            : Anemia (disorder)
+  1980-06-08 -            : Prediabetes
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1990-06-10[CURRENT] : Demential management
+                         Reason: Familial Alzheimer's disease of early onset (disorder)
+                         Activity: Education about dementia
+                         Activity: Promotion of use of memory skills
+                         Activity: Long term social support
+  1989-02-05[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1980-06-08[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  1995-07-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  92.1 fL
+           - MCH [Entitic mass] by Automated count    32.3 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.8 fL
+           - Platelets [#/volume] in Blood by Automated count 342.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 408.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  1995-07-09 : Basic Metabolic Panel
+           - Glucose                                  75.3 mg/dL
+           - Urea Nitrogen                            11.6 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   138.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 110.2 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+  1994-07-03 : Lipid Panel
+           - Total Cholesterol                        189.5 mg/dL
+           - Triglycerides                            116.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.1 mg/dL
+           - High Density Lipoprotein Cholesterol     70.1 mg/dL
+  1994-07-03 : Basic Metabolic Panel
+           - Glucose                                  78.1 mg/dL
+           - Urea Nitrogen                            16.7 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   139.3 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 108.6 mmol/L
+           - Carbon Dioxide                           28.0 mmol/L
+  1993-06-27 : Basic Metabolic Panel
+           - Glucose                                  97.7 mg/dL
+           - Urea Nitrogen                            17.8 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 106.5 mmol/L
+           - Carbon Dioxide                           27.9 mmol/L
+  1992-06-21 : Basic Metabolic Panel
+           - Glucose                                  81.3 mg/dL
+           - Urea Nitrogen                            11.4 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   140.1 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 108.9 mmol/L
+           - Carbon Dioxide                           22.4 mmol/L
+  1991-06-16 : Lipid Panel
+           - Total Cholesterol                        194.0 mg/dL
+           - Triglycerides                            149.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      105.0 mg/dL
+           - High Density Lipoprotein Cholesterol     59.1 mg/dL
+  1991-06-16 : Basic Metabolic Panel
+           - Glucose                                  87.5 mg/dL
+           - Urea Nitrogen                            17.4 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   141.8 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           23.0 mmol/L
+  1990-06-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  93.1 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 370.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 188.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  1990-06-10 : Basic Metabolic Panel
+           - Glucose                                  68.5 mg/dL
+           - Urea Nitrogen                            18.0 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   143.6 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 109.2 mmol/L
+           - Carbon Dioxide                           21.9 mmol/L
+  1989-06-04 : Basic Metabolic Panel
+           - Glucose                                  72.5 mg/dL
+           - Urea Nitrogen                            16.8 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.9 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 105.2 mmol/L
+           - Carbon Dioxide                           28.5 mmol/L
+  1988-05-29 : Lipid Panel
+           - Total Cholesterol                        167.1 mg/dL
+           - Triglycerides                            121.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.0 mg/dL
+           - High Density Lipoprotein Cholesterol     64.8 mg/dL
+  1988-05-29 : Basic Metabolic Panel
+           - Glucose                                  66.0 mg/dL
+           - Urea Nitrogen                            8.7 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 109.2 mmol/L
+           - Carbon Dioxide                           28.5 mmol/L
+  1986-06-22 : Basic Metabolic Panel
+           - Glucose                                  69.1 mg/dL
+           - Urea Nitrogen                            7.1 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   138.4 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 101.7 mmol/L
+           - Carbon Dioxide                           26.0 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1995-07-09 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  1995-07-09 : Tobacco smoking status NHIS              Never smoker 
+  1995-07-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  1995-07-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 408.0 fL
+  1995-07-09 : Platelets [#/volume] in Blood by Automated count 342.7 10*3/uL
+  1995-07-09 : Erythrocyte distribution width [Entitic volume] by Automated count 45.8 fL
+  1995-07-09 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  1995-07-09 : MCH [Entitic mass] by Automated count    32.3 pg
+  1995-07-09 : MCV [Entitic volume] by Automated count  92.1 fL
+  1995-07-09 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  1995-07-09 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  1995-07-09 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  1995-07-09 : Leukocytes [#/volume] in Blood by Automated count 4.9 10*3/uL
+  1995-07-09 : Carbon Dioxide                           24.1 mmol/L
+  1995-07-09 : Chloride                                 110.2 mmol/L
+  1995-07-09 : Potassium                                4.5 mmol/L
+  1995-07-09 : Sodium                                   138.6 mmol/L
+  1995-07-09 : Calcium                                  9.2 mg/dL
+  1995-07-09 : Creatinine                               1.0 mg/dL
+  1995-07-09 : Urea Nitrogen                            11.6 mg/dL
+  1995-07-09 : Glucose                                  75.3 mg/dL
+  1995-07-09 : Respiratory rate                         13.0 /min
+  1995-07-09 : Heart rate                               96.0 /min
+  1995-07-09 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  1995-07-09 : Body Mass Index                          27.3 kg/m2
+  1995-07-09 : Body Weight                              84.7 kg
+  1995-07-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1995-07-09 : Body Height                              176.3 cm
+  1995-03-16 : Total score [MMSE]                       1.6 (score)
+  1994-10-08 : Body temperature                         38.9 Cel
+  1994-07-03 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  1994-07-03 : Tobacco smoking status NHIS              Never smoker 
+  1994-07-03 : High Density Lipoprotein Cholesterol     70.1 mg/dL
+  1994-07-03 : Low Density Lipoprotein Cholesterol      96.1 mg/dL
+  1994-07-03 : Triglycerides                            116.4 mg/dL
+  1994-07-03 : Total Cholesterol                        189.5 mg/dL
+  1994-07-03 : Carbon Dioxide                           28.0 mmol/L
+  1994-07-03 : Chloride                                 108.6 mmol/L
+  1994-07-03 : Potassium                                5.1 mmol/L
+  1994-07-03 : Sodium                                   139.3 mmol/L
+  1994-07-03 : Calcium                                  9.3 mg/dL
+  1994-07-03 : Creatinine                               1.0 mg/dL
+  1994-07-03 : Urea Nitrogen                            16.7 mg/dL
+  1994-07-03 : Glucose                                  78.1 mg/dL
+  1994-07-03 : Respiratory rate                         14.0 /min
+  1994-07-03 : Heart rate                               87.0 /min
+  1994-07-03 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  1994-07-03 : Body Mass Index                          27.3 kg/m2
+  1994-07-03 : Body Weight                              84.7 kg
+  1994-07-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1994-07-03 : Body Height                              176.3 cm
+  1993-06-27 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  1993-06-27 : Tobacco smoking status NHIS              Never smoker 
+  1993-06-27 : Carbon Dioxide                           27.9 mmol/L
+  1993-06-27 : Chloride                                 106.5 mmol/L
+  1993-06-27 : Potassium                                4.0 mmol/L
+  1993-06-27 : Sodium                                   139.5 mmol/L
+  1993-06-27 : Calcium                                  8.8 mg/dL
+  1993-06-27 : Creatinine                               1.0 mg/dL
+  1993-06-27 : Urea Nitrogen                            17.8 mg/dL
+  1993-06-27 : Glucose                                  97.7 mg/dL
+  1993-06-27 : Respiratory rate                         13.0 /min
+  1993-06-27 : Heart rate                               65.0 /min
+  1993-06-27 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  1993-06-27 : Body Mass Index                          27.3 kg/m2
+  1993-06-27 : Body Weight                              84.7 kg
+  1993-06-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1993-06-27 : Body Height                              176.3 cm
+  1992-06-21 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  1992-06-21 : Tobacco smoking status NHIS              Never smoker 
+  1992-06-21 : Carbon Dioxide                           22.4 mmol/L
+  1992-06-21 : Chloride                                 108.9 mmol/L
+  1992-06-21 : Potassium                                4.0 mmol/L
+  1992-06-21 : Sodium                                   140.1 mmol/L
+  1992-06-21 : Calcium                                  9.6 mg/dL
+  1992-06-21 : Creatinine                               1.2 mg/dL
+  1992-06-21 : Urea Nitrogen                            11.4 mg/dL
+  1992-06-21 : Glucose                                  81.3 mg/dL
+  1992-06-21 : Respiratory rate                         16.0 /min
+  1992-06-21 : Heart rate                               90.0 /min
+  1992-06-21 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  1992-06-21 : Body Mass Index                          27.3 kg/m2
+  1992-06-21 : Body Weight                              84.7 kg
+  1992-06-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1992-06-21 : Body Height                              176.3 cm
+  1992-05-30 : Total score [MMSE]                       8.5 (score)
+  1991-06-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  1991-06-16 : Tobacco smoking status NHIS              Never smoker 
+  1991-06-16 : High Density Lipoprotein Cholesterol     59.1 mg/dL
+  1991-06-16 : Low Density Lipoprotein Cholesterol      105.0 mg/dL
+  1991-06-16 : Triglycerides                            149.5 mg/dL
+  1991-06-16 : Total Cholesterol                        194.0 mg/dL
+  1991-06-16 : Carbon Dioxide                           23.0 mmol/L
+  1991-06-16 : Chloride                                 108.5 mmol/L
+  1991-06-16 : Potassium                                5.1 mmol/L
+  1991-06-16 : Sodium                                   141.8 mmol/L
+  1991-06-16 : Calcium                                  9.6 mg/dL
+  1991-06-16 : Creatinine                               1.0 mg/dL
+  1991-06-16 : Urea Nitrogen                            17.4 mg/dL
+  1991-06-16 : Glucose                                  87.5 mg/dL
+  1991-06-16 : Respiratory rate                         13.0 /min
+  1991-06-16 : Heart rate                               72.0 /min
+  1991-06-16 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  1991-06-16 : Body Mass Index                          27.3 kg/m2
+  1991-06-16 : Body Weight                              84.7 kg
+  1991-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1991-06-16 : Body Height                              176.3 cm
+  1991-05-06 : Total score [MMSE]                       13.4 (score)
+  1990-06-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  1990-06-10 : Tobacco smoking status NHIS              Never smoker 
+  1990-06-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  1990-06-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 188.7 fL
+  1990-06-10 : Platelets [#/volume] in Blood by Automated count 370.1 10*3/uL
+  1990-06-10 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  1990-06-10 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  1990-06-10 : MCH [Entitic mass] by Automated count    29.3 pg
+  1990-06-10 : MCV [Entitic volume] by Automated count  93.1 fL
+  1990-06-10 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  1990-06-10 : Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+  1990-06-10 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  1990-06-10 : Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+  1990-06-10 : Carbon Dioxide                           21.9 mmol/L
+  1990-06-10 : Chloride                                 109.2 mmol/L
+  1990-06-10 : Potassium                                4.9 mmol/L
+  1990-06-10 : Sodium                                   143.6 mmol/L
+  1990-06-10 : Calcium                                  9.8 mg/dL
+  1990-06-10 : Creatinine                               1.0 mg/dL
+  1990-06-10 : Urea Nitrogen                            18.0 mg/dL
+  1990-06-10 : Glucose                                  68.5 mg/dL
+  1990-06-10 : Respiratory rate                         15.0 /min
+  1990-06-10 : Heart rate                               70.0 /min
+  1990-06-10 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  1990-06-10 : Body Mass Index                          27.3 kg/m2
+  1990-06-10 : Body Weight                              84.7 kg
+  1990-06-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1990-06-10 : Body Height                              176.3 cm
+  1990-06-10 : Total score [MMSE]                       21.9 (score)
+  1989-06-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  1989-06-04 : Tobacco smoking status NHIS              Never smoker 
+  1989-06-04 : Carbon Dioxide                           28.5 mmol/L
+  1989-06-04 : Chloride                                 105.2 mmol/L
+  1989-06-04 : Potassium                                4.5 mmol/L
+  1989-06-04 : Sodium                                   142.9 mmol/L
+  1989-06-04 : Calcium                                  8.6 mg/dL
+  1989-06-04 : Creatinine                               1.1 mg/dL
+  1989-06-04 : Urea Nitrogen                            16.8 mg/dL
+  1989-06-04 : Glucose                                  72.5 mg/dL
+  1989-06-04 : Respiratory rate                         14.0 /min
+  1989-06-04 : Heart rate                               86.0 /min
+  1989-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  1989-06-04 : Body Mass Index                          27.3 kg/m2
+  1989-06-04 : Body Weight                              84.7 kg
+  1989-06-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1989-06-04 : Body Height                              176.3 cm
+  1988-05-29 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  1988-05-29 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 294.7 ng/mL
+  1988-05-29 : Polyp size greatest dimension by CAP cancer protocols 12.1 mm
+  1988-05-29 : Tobacco smoking status NHIS              Never smoker 
+  1988-05-29 : High Density Lipoprotein Cholesterol     64.8 mg/dL
+  1988-05-29 : Low Density Lipoprotein Cholesterol      78.0 mg/dL
+  1988-05-29 : Triglycerides                            121.3 mg/dL
+  1988-05-29 : Total Cholesterol                        167.1 mg/dL
+  1988-05-29 : Carbon Dioxide                           28.5 mmol/L
+  1988-05-29 : Chloride                                 109.2 mmol/L
+  1988-05-29 : Potassium                                4.5 mmol/L
+  1988-05-29 : Sodium                                   142.3 mmol/L
+  1988-05-29 : Calcium                                  9.1 mg/dL
+  1988-05-29 : Creatinine                               1.1 mg/dL
+  1988-05-29 : Urea Nitrogen                            8.7 mg/dL
+  1988-05-29 : Glucose                                  66.0 mg/dL
+  1988-05-29 : Respiratory rate                         14.0 /min
+  1988-05-29 : Heart rate                               67.0 /min
+  1988-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  1988-05-29 : Body Mass Index                          27.3 kg/m2
+  1988-05-29 : Body Weight                              84.7 kg
+  1988-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1988-05-29 : Body Height                              176.3 cm
+  1986-06-22 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  1986-06-22 : Tobacco smoking status NHIS              Never smoker 
+  1986-06-22 : Carbon Dioxide                           26.0 mmol/L
+  1986-06-22 : Chloride                                 101.7 mmol/L
+  1986-06-22 : Potassium                                5.1 mmol/L
+  1986-06-22 : Sodium                                   138.4 mmol/L
+  1986-06-22 : Calcium                                  10.0 mg/dL
+  1986-06-22 : Creatinine                               1.2 mg/dL
+  1986-06-22 : Urea Nitrogen                            7.1 mg/dL
+  1986-06-22 : Glucose                                  69.1 mg/dL
+  1986-06-22 : Respiratory rate                         13.0 /min
+  1986-06-22 : Heart rate                               68.0 /min
+  1986-06-22 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  1986-06-22 : Body Mass Index                          27.3 kg/m2
+  1986-06-22 : Body Weight                              84.7 kg
+  1986-06-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1986-06-22 : Body Height                              176.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1994-10-08 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  1994-05-27 : Colonoscopy
+  1992-06-21 : Medication Reconciliation (procedure)
+  1991-06-16 : Medication Reconciliation (procedure)
+  1990-06-10 : Medication Reconciliation (procedure)
+  1989-06-04 : Medication Reconciliation (procedure)
+  1989-05-28 : Colonoscopy
+  1988-05-29 : Biopsy of colon for Polyp of colon
+  1988-05-29 : Rectal polypectomy for Polyp of colon
+  1988-05-29 : Screening for occult blood in feces (procedure) for Polyp of colon
+  1988-05-29 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1995-07-09 : Influenza, seasonal, injectable, preservative free
+  1994-07-03 : Influenza, seasonal, injectable, preservative free
+  1993-06-27 : Influenza, seasonal, injectable, preservative free
+  1992-06-21 : Td (adult) preservative free
+  1992-06-21 : Influenza, seasonal, injectable, preservative free
+  1991-06-02 : Influenza, seasonal, injectable, preservative free
+  1990-06-10 : Influenza, seasonal, injectable, preservative free
+  1989-06-04 : Influenza, seasonal, injectable, preservative free
+  1988-05-29 : Influenza, seasonal, injectable, preservative free
+  1986-06-22 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1995-07-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1995-03-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Familial Alzheimer's disease of early onset (disorder)
+1994-10-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1994-10-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Streptococcal sore throat (disorder)
+1994-07-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1994-05-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1993-06-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1992-06-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1992-05-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Familial Alzheimer's disease of early onset (disorder)
+1991-06-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-06-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-05-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+1991-06-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1991-05-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Familial Alzheimer's disease of early onset (disorder)
+1990-06-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1989-06-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1989-05-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1989-02-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1988-06-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Polyp of colon
+1988-05-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1988-05-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1986-06-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1980-06-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1962-05-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  1962-05-23 : Digital Radiography, Ankle
+--------------------------------------------------------------------------------

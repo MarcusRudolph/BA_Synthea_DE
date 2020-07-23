@@ -1,0 +1,275 @@
+Nora Sieber
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 52
+Birth Date:          1968-03-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-04-21[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2016-09-30[STOPPED] : Etonogestrel 68 MG Drug Implant
+  2014-10-11[STOPPED] : Levora 0.15/30 28 Day Pack
+  2013-11-15[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2013-11-15[STOPPED] : Amoxicillin 500 MG Oral Tablet
+  2013-10-16[STOPPED] : Natazia 28 Day Pack
+  2011-10-15[STOPPED] : Mirena 52 MG Intrauterine System
+  2010-10-20[STOPPED] : 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+  2009-10-25[STOPPED] : Trinessa 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-01-07 - 2019-01-17 : Acute viral pharyngitis (disorder)
+  2017-04-21 - 2017-05-05 : Viral sinusitis (disorder)
+  2015-08-01 - 2015-08-22 : Viral sinusitis (disorder)
+  2013-11-15 - 2014-04-13 : Otitis media
+  2009-03-14 -            : History of appendectomy
+  2009-03-14 -            : Appendicitis
+  2009-03-14 -            : Rupture of appendix
+  2007-02-24 -            : Chronic sinusitis (disorder)
+  1999-06-06 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-04-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 50.0 %
+           - MCV [Entitic volume] by Automated count  86.6 fL
+           - MCH [Entitic mass] by Automated count    31.0 pg
+           - MCHC [Mass/volume] by Automated count    33.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 168.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 402.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2018-03-24 : Lipid Panel
+           - Total Cholesterol                        170.5 mg/dL
+           - Triglycerides                            102.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      75.7 mg/dL
+           - High Density Lipoprotein Cholesterol     74.3 mg/dL
+  2014-04-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+           - MCV [Entitic volume] by Automated count  80.9 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    34.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 178.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 309.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2014-04-13 : Lipid Panel
+           - Total Cholesterol                        198.8 mg/dL
+           - Triglycerides                            101.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      116.0 mg/dL
+           - High Density Lipoprotein Cholesterol     62.6 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-04-05 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2020-04-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 402.0 fL
+  2020-04-05 : Platelets [#/volume] in Blood by Automated count 168.1 10*3/uL
+  2020-04-05 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2020-04-05 : MCHC [Mass/volume] by Automated count    33.6 g/dL
+  2020-04-05 : MCH [Entitic mass] by Automated count    31.0 pg
+  2020-04-05 : MCV [Entitic volume] by Automated count  86.6 fL
+  2020-04-05 : Hematocrit [Volume Fraction] of Blood by Automated count 50.0 %
+  2020-04-05 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2020-04-05 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2020-04-05 : Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+  2020-04-05 : Respiratory rate                         13.0 /min
+  2020-04-05 : Heart rate                               78.0 /min
+  2020-04-05 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2020-04-05 : Body Mass Index                          30.1 kg/m2
+  2020-04-05 : Body Weight                              84.7 kg
+  2020-04-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-04-05 : Body Height                              167.7 cm
+  2019-03-30 : Tobacco smoking status NHIS              Never smoker 
+  2019-03-30 : Respiratory rate                         15.0 /min
+  2019-03-30 : Heart rate                               68.0 /min
+  2019-03-30 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2019-03-30 : Body Mass Index                          30.1 kg/m2
+  2019-03-30 : Body Weight                              84.7 kg
+  2019-03-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-03-30 : Body Height                              167.7 cm
+  2019-01-07 : Body temperature                         37.3 Cel
+  2018-03-24 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-24 : High Density Lipoprotein Cholesterol     74.3 mg/dL
+  2018-03-24 : Low Density Lipoprotein Cholesterol      75.7 mg/dL
+  2018-03-24 : Triglycerides                            102.5 mg/dL
+  2018-03-24 : Total Cholesterol                        170.5 mg/dL
+  2018-03-24 : Respiratory rate                         14.0 /min
+  2018-03-24 : Heart rate                               99.0 /min
+  2018-03-24 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2018-03-24 : Body Mass Index                          30.1 kg/m2
+  2018-03-24 : Body Weight                              84.7 kg
+  2018-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-03-24 : Body Height                              167.7 cm
+  2016-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-17 : Respiratory rate                         13.0 /min
+  2016-04-17 : Heart rate                               78.0 /min
+  2016-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2016-04-17 : Body Mass Index                          29.4 kg/m2
+  2016-04-17 : Body Weight                              82.8 kg
+  2016-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-04-17 : Body Height                              167.7 cm
+  2014-04-13 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2014-04-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 309.6 fL
+  2014-04-13 : Platelets [#/volume] in Blood by Automated count 178.7 10*3/uL
+  2014-04-13 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2014-04-13 : MCHC [Mass/volume] by Automated count    34.4 g/dL
+  2014-04-13 : MCH [Entitic mass] by Automated count    27.8 pg
+  2014-04-13 : MCV [Entitic volume] by Automated count  80.9 fL
+  2014-04-13 : Hematocrit [Volume Fraction] of Blood by Automated count 42.3 %
+  2014-04-13 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2014-04-13 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2014-04-13 : Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+  2014-04-13 : High Density Lipoprotein Cholesterol     62.6 mg/dL
+  2014-04-13 : Low Density Lipoprotein Cholesterol      116.0 mg/dL
+  2014-04-13 : Triglycerides                            101.2 mg/dL
+  2014-04-13 : Total Cholesterol                        198.8 mg/dL
+  2014-04-13 : Respiratory rate                         15.0 /min
+  2014-04-13 : Heart rate                               85.0 /min
+  2014-04-13 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2014-04-13 : Body Mass Index                          28.2 kg/m2
+  2014-04-13 : Body Weight                              79.4 kg
+  2014-04-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-04-13 : Body Height                              167.7 cm
+  2012-04-08 : Tobacco smoking status NHIS              Never smoker 
+  2012-04-08 : Respiratory rate                         16.0 /min
+  2012-04-08 : Heart rate                               93.0 /min
+  2012-04-08 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2012-04-08 : Body Mass Index                          30.0 kg/m2
+  2012-04-08 : Body Weight                              84.4 kg
+  2012-04-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-04-08 : Body Height                              167.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-07-22 : Intramuscular injection
+  2018-04-22 : Intramuscular injection
+  2018-03-24 : Colonoscopy
+  2018-01-20 : Intramuscular injection
+  2017-10-22 : Intramuscular injection
+  2017-07-23 : Intramuscular injection
+  2017-04-23 : Intramuscular injection
+  2017-01-21 : Intramuscular injection
+  2016-10-23 : Intramuscular injection
+  2016-09-30 : Insertion of subcutaneous contraceptive
+  2016-07-24 : Intramuscular injection
+  2016-04-24 : Intramuscular injection
+  2016-04-17 : Medication Reconciliation (procedure)
+  2016-01-23 : Intramuscular injection
+  2015-10-25 : Intramuscular injection
+  2015-07-26 : Intramuscular injection
+  2015-04-26 : Intramuscular injection
+  2015-01-24 : Intramuscular injection
+  2014-10-26 : Intramuscular injection
+  2014-07-27 : Intramuscular injection
+  2014-04-27 : Intramuscular injection
+  2014-01-25 : Intramuscular injection
+  2013-10-27 : Intramuscular injection
+  2013-07-28 : Intramuscular injection
+  2013-04-28 : Intramuscular injection
+  2013-01-26 : Intramuscular injection
+  2012-10-28 : Intramuscular injection
+  2012-10-21 : Insertion of intrauterine contraceptive device
+  2012-07-29 : Intramuscular injection
+  2012-04-29 : Intramuscular injection
+  2012-04-08 : Medication Reconciliation (procedure)
+  2012-01-28 : Intramuscular injection
+  2011-10-30 : Intramuscular injection
+  2011-10-19 : Insertion of intrauterine contraceptive device
+  2011-07-31 : Intramuscular injection
+  2011-05-01 : Intramuscular injection
+  2011-01-29 : Intramuscular injection
+  2010-10-20 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-04-05 : Influenza, seasonal, injectable, preservative free
+  2019-03-30 : Td (adult) preservative free
+  2019-03-30 : Influenza, seasonal, injectable, preservative free
+  2019-03-30 : zoster
+  2018-03-24 : Influenza, seasonal, injectable, preservative free
+  2018-03-24 : zoster
+  2016-04-17 : Influenza, seasonal, injectable, preservative free
+  2014-04-13 : Influenza, seasonal, injectable, preservative free
+  2012-04-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-04-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-03-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-01-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2018-07-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-04-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-03-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-03-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-01-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-10-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-07-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-04-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-04-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2017-01-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-10-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-09-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-07-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-04-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-04-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-01-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-10-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-08-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2015-07-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-04-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-01-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-10-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-10-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-07-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-04-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-04-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-01-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-11-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Otitis media
+2013-10-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-10-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-07-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-04-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-01-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-10-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-10-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-10-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-07-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-04-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-04-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-01-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-10-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-10-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-10-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-07-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-05-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-01-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-10-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2009-10-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2009-03-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Appendicitis
+2009-03-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Appendicitis
+2007-02-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Sinusitis (disorder)
+1999-06-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,282 @@
+Guildo Wittig
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 37
+Birth Date:          1982-12-15
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1984-04-24 -            : Shellfish allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-06-29[CURRENT] : Acetaminophen 325 MG Oral Tablet
+  2019-05-05[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2002-03-06[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1999-06-24[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  1984-04-24[CURRENT] : Astemizole 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-07-05 - 2020-07-12 : Viral sinusitis (disorder)
+  2020-06-29 -            : Fracture of forearm
+  2019-05-05 - 2019-05-12 : Acute bronchitis (disorder)
+  2011-02-23 -            : Anemia (disorder)
+  2011-02-23 -            : Prediabetes
+  1995-09-04 -            : Chronic sinusitis (disorder)
+  1995-01-04 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-06-29[CURRENT] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2019-05-05[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2011-02-23[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1984-04-08[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-03-04 : Lipid Panel
+           - Total Cholesterol                        172.1 mg/dL
+           - Triglycerides                            117.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      73.9 mg/dL
+           - High Density Lipoprotein Cholesterol     74.6 mg/dL
+  2020-03-04 : Basic Metabolic Panel
+           - Glucose                                  89.6 mg/dL
+           - Urea Nitrogen                            15.4 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   140.2 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 102.1 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+  2017-03-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+           - MCV [Entitic volume] by Automated count  83.9 fL
+           - MCH [Entitic mass] by Automated count    30.6 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 187.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 151.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2017-03-01 : Lipid Panel
+           - Total Cholesterol                        167.4 mg/dL
+           - Triglycerides                            105.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.5 mg/dL
+           - High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2017-03-01 : Basic Metabolic Panel
+           - Glucose                                  72.2 mg/dL
+           - Urea Nitrogen                            7.8 mg/dL
+           - Creatinine                               2.0 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   143.7 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 103.0 mmol/L
+           - Carbon Dioxide                           25.1 mmol/L
+  2014-02-26 : Lipid Panel
+           - Total Cholesterol                        173.8 mg/dL
+           - Triglycerides                            105.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      90.9 mg/dL
+           - High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2014-02-26 : Basic Metabolic Panel
+           - Glucose                                  64.6 mg/dL
+           - Urea Nitrogen                            10.7 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   144.0 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 101.3 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+  2011-02-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        10.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood    30.4 %
+           - WBC Auto (Bld) [#/Vol]                   8.2 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   5.4 10*6/uL
+           - MCV [Entitic volume] by Automated count  90.3 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 255.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 281.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2011-02-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+           - MCV [Entitic volume] by Automated count  91.2 fL
+           - MCH [Entitic mass] by Automated count    31.8 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+           - Platelets [#/volume] in Blood by Automated count 401.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 319.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-03-04 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2020-03-04 : Tobacco smoking status NHIS              Never smoker 
+  2020-03-04 : High Density Lipoprotein Cholesterol     74.6 mg/dL
+  2020-03-04 : Low Density Lipoprotein Cholesterol      73.9 mg/dL
+  2020-03-04 : Triglycerides                            117.9 mg/dL
+  2020-03-04 : Total Cholesterol                        172.1 mg/dL
+  2020-03-04 : Carbon Dioxide                           24.1 mmol/L
+  2020-03-04 : Chloride                                 102.1 mmol/L
+  2020-03-04 : Potassium                                4.3 mmol/L
+  2020-03-04 : Sodium                                   140.2 mmol/L
+  2020-03-04 : Calcium                                  10.2 mg/dL
+  2020-03-04 : Creatinine                               1.4 mg/dL
+  2020-03-04 : Urea Nitrogen                            15.4 mg/dL
+  2020-03-04 : Glucose                                  89.6 mg/dL
+  2020-03-04 : Respiratory rate                         12.0 /min
+  2020-03-04 : Heart rate                               65.0 /min
+  2020-03-04 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2020-03-04 : Body Mass Index                          31.1 kg/m2
+  2020-03-04 : Body Weight                              97.5 kg
+  2020-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-03-04 : Body Height                              177.2 cm
+  2017-03-01 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2017-03-01 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2017-03-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 151.1 fL
+  2017-03-01 : Platelets [#/volume] in Blood by Automated count 187.8 10*3/uL
+  2017-03-01 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  2017-03-01 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2017-03-01 : MCH [Entitic mass] by Automated count    30.6 pg
+  2017-03-01 : MCV [Entitic volume] by Automated count  83.9 fL
+  2017-03-01 : Hematocrit [Volume Fraction] of Blood by Automated count 49.3 %
+  2017-03-01 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2017-03-01 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2017-03-01 : Leukocytes [#/volume] in Blood by Automated count 4.0 10*3/uL
+  2017-03-01 : High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2017-03-01 : Low Density Lipoprotein Cholesterol      80.5 mg/dL
+  2017-03-01 : Triglycerides                            105.0 mg/dL
+  2017-03-01 : Total Cholesterol                        167.4 mg/dL
+  2017-03-01 : Carbon Dioxide                           25.1 mmol/L
+  2017-03-01 : Chloride                                 103.0 mmol/L
+  2017-03-01 : Potassium                                4.3 mmol/L
+  2017-03-01 : Sodium                                   143.7 mmol/L
+  2017-03-01 : Calcium                                  9.1 mg/dL
+  2017-03-01 : Creatinine                               2.0 mg/dL
+  2017-03-01 : Urea Nitrogen                            7.8 mg/dL
+  2017-03-01 : Glucose                                  72.2 mg/dL
+  2017-03-01 : Respiratory rate                         12.0 /min
+  2017-03-01 : Heart rate                               75.0 /min
+  2017-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2017-03-01 : Body Mass Index                          33.0 kg/m2
+  2017-03-01 : Body Weight                              103.7 kg
+  2017-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-03-01 : Body Height                              177.2 cm
+  2014-02-26 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2014-02-26 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-26 : High Density Lipoprotein Cholesterol     61.8 mg/dL
+  2014-02-26 : Low Density Lipoprotein Cholesterol      90.9 mg/dL
+  2014-02-26 : Triglycerides                            105.7 mg/dL
+  2014-02-26 : Total Cholesterol                        173.8 mg/dL
+  2014-02-26 : Carbon Dioxide                           20.3 mmol/L
+  2014-02-26 : Chloride                                 101.3 mmol/L
+  2014-02-26 : Potassium                                4.2 mmol/L
+  2014-02-26 : Sodium                                   144.0 mmol/L
+  2014-02-26 : Calcium                                  10.1 mg/dL
+  2014-02-26 : Creatinine                               1.6 mg/dL
+  2014-02-26 : Urea Nitrogen                            10.7 mg/dL
+  2014-02-26 : Glucose                                  64.6 mg/dL
+  2014-02-26 : Respiratory rate                         14.0 /min
+  2014-02-26 : Heart rate                               60.0 /min
+  2014-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2014-02-26 : Body Mass Index                          33.0 kg/m2
+  2014-02-26 : Body Weight                              103.7 kg
+  2014-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-02-26 : Body Height                              177.2 cm
+  2011-02-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.4 fL
+  2011-02-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 281.1 fL
+  2011-02-23 : Platelets [#/volume] in Blood by Automated count 255.3 10*3/uL
+  2011-02-23 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.2 fL
+  2011-02-23 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2011-02-23 : MCH [Entitic mass] by Automated count    28.4 pg
+  2011-02-23 : MCV [Entitic volume] by Automated count  90.3 fL
+  2011-02-23 : RBC Auto (Bld) [#/Vol]                   5.4 10*6/uL
+  2011-02-23 : WBC Auto (Bld) [#/Vol]                   8.2 10*3/uL
+  2011-02-23 : Hematocrit [Volume Fraction] of Blood    30.4 %
+  2011-02-23 : Hemoglobin [Mass/volume] in Blood        10.8 g/dL
+  2011-02-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2011-02-23 : Tobacco smoking status NHIS              Never smoker 
+  2011-02-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2011-02-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 319.4 fL
+  2011-02-23 : Platelets [#/volume] in Blood by Automated count 401.0 10*3/uL
+  2011-02-23 : Erythrocyte distribution width [Entitic volume] by Automated count 45.7 fL
+  2011-02-23 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2011-02-23 : MCH [Entitic mass] by Automated count    31.8 pg
+  2011-02-23 : MCV [Entitic volume] by Automated count  91.2 fL
+  2011-02-23 : Hematocrit [Volume Fraction] of Blood by Automated count 48.6 %
+  2011-02-23 : Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+  2011-02-23 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2011-02-23 : Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+  2011-02-23 : Respiratory rate                         14.0 /min
+  2011-02-23 : Heart rate                               67.0 /min
+  2011-02-23 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2011-02-23 : Body Mass Index                          33.0 kg/m2
+  2011-02-23 : Body Weight                              103.7 kg
+  2011-02-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-02-23 : Body Height                              177.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-06-29 : Bone immobilization for Fracture of forearm
+  2020-06-29 : Upper arm X-ray
+  2020-03-04 : Medication Reconciliation (procedure)
+  2019-05-05 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2017-03-01 : Medication Reconciliation (procedure)
+  2014-02-26 : Medication Reconciliation (procedure)
+  2011-02-23 : Brief general examination (procedure)
+  2011-02-23 : Medication Reconciliation (procedure)
+  2011-02-23 : Review of systems (procedure)
+  2011-02-23 : Peripheral blood smear interpretation
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-03-04 : Influenza, seasonal, injectable, preservative free
+  2019-05-15 : Influenza, seasonal, injectable, preservative free
+  2017-03-01 : Influenza, seasonal, injectable, preservative free
+  2014-02-26 : Td (adult) preservative free
+  2014-02-26 : Influenza, seasonal, injectable, preservative free
+  2011-02-23 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-07-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2020-06-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-03-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-05-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-05-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+2017-03-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-02-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-02-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-02-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Anemia (disorder)
+2011-02-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2002-03-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+1999-06-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1995-09-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Sinusitis (disorder)
+1995-01-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1984-04-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1984-04-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2020-06-29 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

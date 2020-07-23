@@ -1,0 +1,407 @@
+Jill Schmidtke
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 40
+Birth Date:          1979-12-21
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-02-14[CURRENT] : Mirena 52 MG Intrauterine System
+  2017-09-28[STOPPED] : Levora 0.15/30 28 Day Pack
+  2017-04-21[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2016-10-03[STOPPED] : Seasonique 91 Day Pack
+  2015-10-09[STOPPED] : 1 ML medroxyPROGESTERone acetate 150 MG/ML Injection
+  2014-10-14[STOPPED] : Trinessa 28 Day Pack
+  2013-07-11[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2010-11-04[STOPPED] : Trinessa 28 Day Pack
+  2009-11-09[STOPPED] : Jolivette 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-05-17 - 2020-01-03 : Normal pregnancy
+  2017-04-21 - 2017-04-28 : Acute bronchitis (disorder)
+  2013-07-11 - 2013-07-18 : Acute bronchitis (disorder)
+  2012-07-23 - 2012-07-30 : Viral sinusitis (disorder)
+  2012-01-06 - 2012-08-17 : Normal pregnancy
+  2008-02-01 -            : Tubal pregnancy
+  2006-10-20 -            : Miscarriage in first trimester
+  1998-12-17 -            : Drug overdose
+  1994-12-07 -            : Chronic pain
+  1994-06-02 -            : Chronic intractable migraine without aura
+  1994-01-23 -            : Impacted molars
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-05-17[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2017-04-21[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2013-07-11[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2012-01-06[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1998-12-17[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-12-27 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.4 %
+           - MCV [Entitic volume] by Automated count  88.5 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+           - Platelets [#/volume] in Blood by Automated count 381.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 250.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2017-03-10 : Lipid Panel
+           - Total Cholesterol                        166.7 mg/dL
+           - Triglycerides                            129.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      61.9 mg/dL
+           - High Density Lipoprotein Cholesterol     79.0 mg/dL
+  2014-03-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 36.6 %
+           - MCV [Entitic volume] by Automated count  85.2 fL
+           - MCH [Entitic mass] by Automated count    29.4 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 415.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 353.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2014-03-07 : Lipid Panel
+           - Total Cholesterol                        193.6 mg/dL
+           - Triglycerides                            121.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      91.9 mg/dL
+           - High Density Lipoprotein Cholesterol     77.5 mg/dL
+  2011-03-04 : Lipid Panel
+           - Total Cholesterol                        164.4 mg/dL
+           - Triglycerides                            115.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      66.1 mg/dL
+           - High Density Lipoprotein Cholesterol     75.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-12-27 : Tobacco smoking status NHIS              Never smoker 
+  2019-12-27 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2019-12-27 : Platelet distribution width [Entitic volume] in Blood by Automated count 250.6 fL
+  2019-12-27 : Platelets [#/volume] in Blood by Automated count 381.6 10*3/uL
+  2019-12-27 : Erythrocyte distribution width [Entitic volume] by Automated count 45.0 fL
+  2019-12-27 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2019-12-27 : MCH [Entitic mass] by Automated count    27.4 pg
+  2019-12-27 : MCV [Entitic volume] by Automated count  88.5 fL
+  2019-12-27 : Hematocrit [Volume Fraction] of Blood by Automated count 49.4 %
+  2019-12-27 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2019-12-27 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2019-12-27 : Leukocytes [#/volume] in Blood by Automated count 9.7 10*3/uL
+  2019-12-27 : Respiratory rate                         14.0 /min
+  2019-12-27 : Heart rate                               64.0 /min
+  2019-12-27 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2019-12-27 : Body Mass Index                          29.4 kg/m2
+  2019-12-27 : Body Weight                              81.5 kg
+  2019-12-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-12-27 : Body Height                              166.4 cm
+  2018-12-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2017-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2017-03-10 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-10 : High Density Lipoprotein Cholesterol     79.0 mg/dL
+  2017-03-10 : Low Density Lipoprotein Cholesterol      61.9 mg/dL
+  2017-03-10 : Triglycerides                            129.3 mg/dL
+  2017-03-10 : Total Cholesterol                        166.7 mg/dL
+  2017-03-10 : Respiratory rate                         14.0 /min
+  2017-03-10 : Heart rate                               94.0 /min
+  2017-03-10 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2017-03-10 : Body Mass Index                          27.8 kg/m2
+  2017-03-10 : Body Weight                              77.1 kg
+  2017-03-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-03-10 : Body Height                              166.4 cm
+  2015-02-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2014-03-07 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2014-03-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 353.3 fL
+  2014-03-07 : Platelets [#/volume] in Blood by Automated count 415.1 10*3/uL
+  2014-03-07 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2014-03-07 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2014-03-07 : MCH [Entitic mass] by Automated count    29.4 pg
+  2014-03-07 : MCV [Entitic volume] by Automated count  85.2 fL
+  2014-03-07 : Hematocrit [Volume Fraction] of Blood by Automated count 36.6 %
+  2014-03-07 : Hemoglobin [Mass/volume] in Blood        12.4 g/dL
+  2014-03-07 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2014-03-07 : Leukocytes [#/volume] in Blood by Automated count 8.9 10*3/uL
+  2014-03-07 : High Density Lipoprotein Cholesterol     77.5 mg/dL
+  2014-03-07 : Low Density Lipoprotein Cholesterol      91.9 mg/dL
+  2014-03-07 : Triglycerides                            121.1 mg/dL
+  2014-03-07 : Total Cholesterol                        193.6 mg/dL
+  2014-03-07 : Respiratory rate                         12.0 /min
+  2014-03-07 : Heart rate                               78.0 /min
+  2014-03-07 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2014-03-07 : Body Mass Index                          26.3 kg/m2
+  2014-03-07 : Body Weight                              72.7 kg
+  2014-03-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-03-07 : Body Height                              166.4 cm
+  2013-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2011-03-04 : Tobacco smoking status NHIS              Never smoker 
+  2011-03-04 : High Density Lipoprotein Cholesterol     75.2 mg/dL
+  2011-03-04 : Low Density Lipoprotein Cholesterol      66.1 mg/dL
+  2011-03-04 : Triglycerides                            115.6 mg/dL
+  2011-03-04 : Total Cholesterol                        164.4 mg/dL
+  2011-03-04 : Respiratory rate                         16.0 /min
+  2011-03-04 : Heart rate                               90.0 /min
+  2011-03-04 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2011-03-04 : Body Mass Index                          24.6 kg/m2
+  2011-03-04 : Body Weight                              68.2 kg
+  2011-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-03-04 : Body Height                              166.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-02-18 : Insertion of intrauterine contraceptive device
+  2020-02-14 : Depression screening
+  2020-02-14 : Physical examination following birth
+  2020-01-03 : Childbirth for Normal pregnancy
+  2020-01-03 : Episiotomy for Normal pregnancy
+  2019-12-27 : Medication Reconciliation (procedure)
+  2019-12-27 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-20 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-13 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-29 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-29 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2019-11-01 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-04 : Auscultation of the fetal heart for Normal pregnancy
+  2019-10-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-04 : Urine screening for glucose for Normal pregnancy
+  2019-10-04 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2019-10-04 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-09-06 : Auscultation of the fetal heart for Normal pregnancy
+  2019-09-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-08-09 : Auscultation of the fetal heart for Normal pregnancy
+  2019-08-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-07-12 : Auscultation of the fetal heart for Normal pregnancy
+  2019-07-12 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-07-12 : Alpha-fetoprotein test for Normal pregnancy
+  2019-07-12 : Fetal anatomy study for Normal pregnancy
+  2019-06-14 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2019-06-14 : Auscultation of the fetal heart for Normal pregnancy
+  2019-06-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-05-17 : Physical examination of mother for Normal pregnancy
+  2019-05-17 : Urine protein test for Normal pregnancy
+  2019-05-17 : Skin test for tuberculosis for Normal pregnancy
+  2019-05-17 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-05-17 : Rubella screening for Normal pregnancy
+  2019-05-17 : Hepatitis C antibody test for Normal pregnancy
+  2019-05-17 : Urine screening test for diabetes for Normal pregnancy
+  2019-05-17 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-05-17 : Urine culture for Normal pregnancy
+  2019-05-17 : Syphilis infection test for Normal pregnancy
+  2019-05-17 : Gonorrhea infection test for Normal pregnancy
+  2019-05-17 : Chlamydia antigen test for Normal pregnancy
+  2019-05-17 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-05-17 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-05-17 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-05-17 : Blood typing, RH typing for Normal pregnancy
+  2019-05-17 : Auscultation of the fetal heart for Normal pregnancy
+  2019-05-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-05-17 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-05-17 : Standard pregnancy test for Normal pregnancy
+  2019-01-11 : Intramuscular injection
+  2018-10-12 : Intramuscular injection
+  2018-07-13 : Intramuscular injection
+  2018-04-13 : Intramuscular injection
+  2018-01-12 : Intramuscular injection
+  2017-10-13 : Intramuscular injection
+  2017-07-14 : Intramuscular injection
+  2017-04-21 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2017-04-14 : Intramuscular injection
+  2017-01-13 : Intramuscular injection
+  2016-10-14 : Intramuscular injection
+  2016-07-15 : Intramuscular injection
+  2016-04-15 : Intramuscular injection
+  2016-01-15 : Intramuscular injection
+  2015-10-09 : Intramuscular injection
+  2013-07-11 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2012-09-28 : Depression screening
+  2012-09-28 : Physical examination following birth
+  2012-08-17 : Childbirth for Normal pregnancy
+  2012-08-17 : Episiotomy for Normal pregnancy
+  2012-08-10 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-08-03 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-20 : Auscultation of the fetal heart for Normal pregnancy
+  2012-07-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-20 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-06-22 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-25 : Auscultation of the fetal heart for Normal pregnancy
+  2012-05-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-05-25 : Urine screening for glucose for Normal pregnancy
+  2012-05-25 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-05-25 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-04-27 : Auscultation of the fetal heart for Normal pregnancy
+  2012-04-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-30 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-02 : Alpha-fetoprotein test for Normal pregnancy
+  2012-03-02 : Fetal anatomy study for Normal pregnancy
+  2012-02-03 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-02-03 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-06 : Physical examination of mother for Normal pregnancy
+  2012-01-06 : Urine protein test for Normal pregnancy
+  2012-01-06 : Skin test for tuberculosis for Normal pregnancy
+  2012-01-06 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-01-06 : Rubella screening for Normal pregnancy
+  2012-01-06 : Hepatitis C antibody test for Normal pregnancy
+  2012-01-06 : Urine screening test for diabetes for Normal pregnancy
+  2012-01-06 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-01-06 : Urine culture for Normal pregnancy
+  2012-01-06 : Syphilis infection test for Normal pregnancy
+  2012-01-06 : Gonorrhea infection test for Normal pregnancy
+  2012-01-06 : Chlamydia antigen test for Normal pregnancy
+  2012-01-06 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-01-06 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-01-06 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-01-06 : Blood typing, RH typing for Normal pregnancy
+  2012-01-06 : Auscultation of the fetal heart for Normal pregnancy
+  2012-01-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-06 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-01-06 : Standard pregnancy test for Normal pregnancy
+  2011-11-11 : Removal of intrauterine device
+  2011-03-04 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-12-27 : Hep A, adult
+  2019-12-27 : Influenza, seasonal, injectable, preservative free
+  2017-04-28 : Influenza, seasonal, injectable, preservative free
+  2017-03-10 : Influenza, seasonal, injectable, preservative free
+  2014-03-07 : Influenza, seasonal, injectable, preservative free
+  2013-07-19 : Influenza, seasonal, injectable, preservative free
+  2012-07-27 : Influenza, seasonal, injectable, preservative free
+  2011-03-04 : Td (adult) preservative free
+  2011-03-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-04-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-02-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-02-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-02-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-02-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2020-01-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-12-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-12-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-12-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-12-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-11-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-11-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-10-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-09-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-08-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-08-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-07-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-07-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-06-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-06-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-05-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-05-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-04-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-03-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-01-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-12-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-10-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-07-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-04-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-04-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-03-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-03-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-01-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-10-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-09-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-08-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-07-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-04-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-04-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+2017-04-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-03-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-01-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-01-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-10-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-10-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-10-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-09-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-08-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-07-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-07-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-04-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-01-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-10-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-02-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-10-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-07-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-06-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-05-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-03-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-12-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-07-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-07-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+2012-09-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-08-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-08-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-08-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-07-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2012-07-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-07-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-06-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-05-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2012-05-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-04-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-03-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-03-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-02-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-01-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-11-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-03-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-01-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-11-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2009-11-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2008-02-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2006-10-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+1998-12-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+1994-12-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+1994-06-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+1994-01-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

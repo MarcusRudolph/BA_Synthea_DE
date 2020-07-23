@@ -1,0 +1,260 @@
+Miroslav Lehmann
+================
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 20
+Birth Date:          1999-08-30
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-11-04[CURRENT] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2018-10-29[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2018-01-21[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2017-11-22[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2017-10-23[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2013-01-18[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2013-01-18[STOPPED] : Acetaminophen 325 MG / HYDROcodone Bitartrate 7.5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-10-23 -            : Hypertension
+  2013-07-10 - 2013-07-24 : Viral sinusitis (disorder)
+  2013-01-18 - 2013-02-17 : Fracture of forearm
+  2012-10-08 - 2012-10-17 : Acute viral pharyngitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-10-23[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2013-01-18[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-10-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+           - MCV [Entitic volume] by Automated count  89.0 fL
+           - MCH [Entitic mass] by Automated count    30.1 pg
+           - MCHC [Mass/volume] by Automated count    33.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+           - Platelets [#/volume] in Blood by Automated count 412.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 494.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2010-09-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+           - MCV [Entitic volume] by Automated count  86.4 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 163.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 434.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-11-04 : Tobacco smoking status NHIS              Never smoker 
+  2019-11-04 : Respiratory rate                         13.0 /min
+  2019-11-04 : Heart rate                               87.0 /min
+  2019-11-04 : Blood Pressure
+           - Diastolic Blood Pressure                 114.0 mm[Hg]
+           - Systolic Blood Pressure                  191.0 mm[Hg]
+  2019-11-04 : Body Mass Index                          28.3 kg/m2
+  2019-11-04 : Body Weight                              94.2 kg
+  2019-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-11-04 : Body Height                              182.3 cm
+  2018-10-29 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-29 : Respiratory rate                         13.0 /min
+  2018-10-29 : Heart rate                               97.0 /min
+  2018-10-29 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  170.0 mm[Hg]
+  2018-10-29 : Body mass index (BMI) [Percentile] Per age and gender 88.4 %
+  2018-10-29 : Body Mass Index                          27.2 kg/m2
+  2018-10-29 : Body Weight                              90.2 kg
+  2018-10-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-10-29 : Body Height                              182.1 cm
+  2018-03-22 : Blood Pressure
+           - Diastolic Blood Pressure                 103.0 mm[Hg]
+           - Systolic Blood Pressure                  170.0 mm[Hg]
+  2018-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 104.0 mm[Hg]
+           - Systolic Blood Pressure                  152.0 mm[Hg]
+  2017-11-22 : Blood Pressure
+           - Diastolic Blood Pressure                 102.0 mm[Hg]
+           - Systolic Blood Pressure                  186.0 mm[Hg]
+  2017-10-23 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-23 : Respiratory rate                         15.0 /min
+  2017-10-23 : Heart rate                               84.0 /min
+  2017-10-23 : Blood Pressure
+           - Diastolic Blood Pressure                 98.0 mm[Hg]
+           - Systolic Blood Pressure                  168.0 mm[Hg]
+  2017-10-23 : Body mass index (BMI) [Percentile] Per age and gender 92.7 %
+  2017-10-23 : Body Mass Index                          27.9 kg/m2
+  2017-10-23 : Body Weight                              92.0 kg
+  2017-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-10-23 : Body Height                              181.7 cm
+  2016-10-17 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-17 : Respiratory rate                         16.0 /min
+  2016-10-17 : Heart rate                               88.0 /min
+  2016-10-17 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2016-10-17 : Body mass index (BMI) [Percentile] Per age and gender 95.3 %
+  2016-10-17 : Body Mass Index                          28.5 kg/m2
+  2016-10-17 : Body Weight                              93.3 kg
+  2016-10-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-10-17 : Body Height                              181.0 cm
+  2015-10-12 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2015-10-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 494.6 fL
+  2015-10-12 : Platelets [#/volume] in Blood by Automated count 412.8 10*3/uL
+  2015-10-12 : Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+  2015-10-12 : MCHC [Mass/volume] by Automated count    33.1 g/dL
+  2015-10-12 : MCH [Entitic mass] by Automated count    30.1 pg
+  2015-10-12 : MCV [Entitic volume] by Automated count  89.0 fL
+  2015-10-12 : Hematocrit [Volume Fraction] of Blood by Automated count 47.2 %
+  2015-10-12 : Hemoglobin [Mass/volume] in Blood        14.1 g/dL
+  2015-10-12 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2015-10-12 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2015-10-12 : Respiratory rate                         12.0 /min
+  2015-10-12 : Heart rate                               72.0 /min
+  2015-10-12 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2015-10-12 : Body mass index (BMI) [Percentile] Per age and gender 94.6 %
+  2015-10-12 : Body Mass Index                          27.4 kg/m2
+  2015-10-12 : Body Weight                              88.2 kg
+  2015-10-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2015-10-12 : Body Height                              179.5 cm
+  2014-10-06 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-06 : Respiratory rate                         14.0 /min
+  2014-10-06 : Heart rate                               93.0 /min
+  2014-10-06 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2014-10-06 : Body mass index (BMI) [Percentile] Per age and gender 94.5 %
+  2014-10-06 : Body Mass Index                          26.6 kg/m2
+  2014-10-06 : Body Weight                              82.6 kg
+  2014-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-10-06 : Body Height                              176.4 cm
+  2013-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-30 : Respiratory rate                         14.0 /min
+  2013-09-30 : Heart rate                               66.0 /min
+  2013-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2013-09-30 : Body mass index (BMI) [Percentile] Per age and gender 93.5 %
+  2013-09-30 : Body Mass Index                          25.3 kg/m2
+  2013-09-30 : Body Weight                              73.7 kg
+  2013-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-09-30 : Body Height                              170.9 cm
+  2012-10-08 : Body temperature                         38.0 Cel
+  2012-09-24 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-24 : Respiratory rate                         12.0 /min
+  2012-09-24 : Heart rate                               67.0 /min
+  2012-09-24 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2012-09-24 : Body mass index (BMI) [Percentile] Per age and gender 93.0 %
+  2012-09-24 : Body Mass Index                          24.1 kg/m2
+  2012-09-24 : Body Weight                              63.6 kg
+  2012-09-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-09-24 : Body Height                              162.5 cm
+  2011-09-19 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-19 : Respiratory rate                         15.0 /min
+  2011-09-19 : Heart rate                               84.0 /min
+  2011-09-19 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2011-09-19 : Body mass index (BMI) [Percentile] Per age and gender 96.2 %
+  2011-09-19 : Body Mass Index                          25.2 kg/m2
+  2011-09-19 : Body Weight                              60.5 kg
+  2011-09-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-09-19 : Body Height                              155.1 cm
+  2010-09-13 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2010-09-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 434.9 fL
+  2010-09-13 : Platelets [#/volume] in Blood by Automated count 163.3 10*3/uL
+  2010-09-13 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2010-09-13 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2010-09-13 : MCH [Entitic mass] by Automated count    28.8 pg
+  2010-09-13 : MCV [Entitic volume] by Automated count  86.4 fL
+  2010-09-13 : Hematocrit [Volume Fraction] of Blood by Automated count 46.3 %
+  2010-09-13 : Hemoglobin [Mass/volume] in Blood        14.8 g/dL
+  2010-09-13 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2010-09-13 : Leukocytes [#/volume] in Blood by Automated count 7.7 10*3/uL
+  2010-09-13 : Respiratory rate                         15.0 /min
+  2010-09-13 : Heart rate                               72.0 /min
+  2010-09-13 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2010-09-13 : Body mass index (BMI) [Percentile] Per age and gender 96.5 %
+  2010-09-13 : Body Mass Index                          24.4 kg/m2
+  2010-09-13 : Body Weight                              54.3 kg
+  2010-09-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2010-09-13 : Body Height                              149.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-22 : Referral to hypertension clinic
+  2016-10-17 : Medication Reconciliation (procedure)
+  2015-10-12 : Medication Reconciliation (procedure)
+  2014-10-06 : Medication Reconciliation (procedure)
+  2013-01-18 : Bone immobilization for Fracture of forearm
+  2013-01-18 : Upper arm X-ray
+  2012-10-08 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2011-09-19 : Medication Reconciliation (procedure)
+  2010-09-13 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-11-04 : Hep B, adult
+  2019-11-04 : Influenza, seasonal, injectable, preservative free
+  2018-10-29 : Influenza, seasonal, injectable, preservative free
+  2017-10-23 : Influenza, seasonal, injectable, preservative free
+  2016-10-17 : Influenza, seasonal, injectable, preservative free
+  2015-10-12 : meningococcal MCV4P
+  2015-10-12 : Influenza, seasonal, injectable, preservative free
+  2014-10-06 : Influenza, seasonal, injectable, preservative free
+  2013-09-30 : Influenza, seasonal, injectable, preservative free
+  2012-09-24 : HPV, quadrivalent
+  2012-09-24 : Influenza, seasonal, injectable, preservative free
+  2011-09-19 : HPV, quadrivalent
+  2011-09-19 : Influenza, seasonal, injectable, preservative free
+  2010-09-13 : meningococcal MCV4P
+  2010-09-13 : HPV, quadrivalent
+  2010-09-13 : Influenza, seasonal, injectable, preservative free
+  2010-09-13 : Tdap
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-11-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-10-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-03-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-01-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-11-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-10-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-10-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-10-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-10-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-09-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-07-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2013-02-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Fracture of forearm
+2013-01-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-10-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2012-09-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-09-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-09-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2013-01-18 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

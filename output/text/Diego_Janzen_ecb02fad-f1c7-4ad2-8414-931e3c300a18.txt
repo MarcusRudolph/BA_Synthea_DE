@@ -1,0 +1,266 @@
+Diego Janzen
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 4
+Birth Date:          2016-03-10
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-03-22[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2018-02-28[STOPPED] : Ibuprofen 100 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-03-22 - 2020-04-03 : Streptococcal sore throat (disorder)
+  2018-02-28 - 2018-05-29 : Fracture of forearm
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-02-28[STOPPED] : Fracture care
+                         Reason: Fracture of forearm
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-03-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+           - MCV [Entitic volume] by Automated count  83.4 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.0 fL
+           - Platelets [#/volume] in Blood by Automated count 403.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 323.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-03-22 : Body temperature                         39.0 Cel
+  2020-02-13 : Tobacco smoking status NHIS              Never smoker 
+  2020-02-13 : Respiratory rate                         15.0 /min
+  2020-02-13 : Heart rate                               76.0 /min
+  2020-02-13 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2020-02-13 : Body mass index (BMI) [Percentile] Per age and gender 70.9 %
+  2020-02-13 : Body Mass Index                          16.3 kg/m2
+  2020-02-13 : Head Occipital-frontal circumference     50.0 cm
+  2020-02-13 : Weight-for-length Per age and sex        85.6 %
+  2020-02-13 : Body Weight                              17.2 kg
+  2020-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-02-13 : Body Height                              102.7 cm
+  2019-08-15 : Tobacco smoking status NHIS              Never smoker 
+  2019-08-15 : Respiratory rate                         15.0 /min
+  2019-08-15 : Heart rate                               95.0 /min
+  2019-08-15 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2019-08-15 : Body mass index (BMI) [Percentile] Per age and gender 79.1 %
+  2019-08-15 : Body Mass Index                          16.8 kg/m2
+  2019-08-15 : Head Occipital-frontal circumference     50.0 cm
+  2019-08-15 : Weight-for-length Per age and sex        85.6 %
+  2019-08-15 : Body Weight                              16.5 kg
+  2019-08-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-08-15 : Body Height                              99.1 cm
+  2019-02-14 : Tobacco smoking status NHIS              Never smoker 
+  2019-02-14 : Respiratory rate                         15.0 /min
+  2019-02-14 : Heart rate                               72.0 /min
+  2019-02-14 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2019-02-14 : Body mass index (BMI) [Percentile] Per age and gender 84.3 %
+  2019-02-14 : Body Mass Index                          17.3 kg/m2
+  2019-02-14 : Head Occipital-frontal circumference     49.9 cm
+  2019-02-14 : Weight-for-length Per age and sex        88.4 %
+  2019-02-14 : Body Weight                              15.8 kg
+  2019-02-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-02-14 : Body Height                              95.3 cm
+  2018-08-16 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-16 : Respiratory rate                         13.0 /min
+  2018-08-16 : Heart rate                               87.0 /min
+  2018-08-16 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2018-08-16 : Body mass index (BMI) [Percentile] Per age and gender 86.4 %
+  2018-08-16 : Body Mass Index                          17.8 kg/m2
+  2018-08-16 : Head Occipital-frontal circumference     49.5 cm
+  2018-08-16 : Weight-for-length Per age and sex        91.0 %
+  2018-08-16 : Body Weight                              14.9 kg
+  2018-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-08-16 : Body Height                              91.3 cm
+  2018-02-15 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-15 : Respiratory rate                         12.0 /min
+  2018-02-15 : Heart rate                               62.0 /min
+  2018-02-15 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2018-02-15 : Head Occipital-frontal circumference     48.9 cm
+  2018-02-15 : Weight-for-length Per age and sex        87.5 %
+  2018-02-15 : Body Weight                              13.9 kg
+  2018-02-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-02-15 : Body Height                              87.5 cm
+  2017-08-17 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-17 : Respiratory rate                         16.0 /min
+  2017-08-17 : Heart rate                               64.0 /min
+  2017-08-17 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2017-08-17 : Head Occipital-frontal circumference     47.9 cm
+  2017-08-17 : Weight-for-length Per age and sex        93.4 %
+  2017-08-17 : Body Weight                              12.8 kg
+  2017-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-08-17 : Body Height                              82.0 cm
+  2017-05-18 : Tobacco smoking status NHIS              Never smoker 
+  2017-05-18 : Respiratory rate                         12.0 /min
+  2017-05-18 : Heart rate                               95.0 /min
+  2017-05-18 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2017-05-18 : Head Occipital-frontal circumference     47.3 cm
+  2017-05-18 : Weight-for-length Per age and sex        94.0 %
+  2017-05-18 : Body Weight                              12.1 kg
+  2017-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2017-05-18 : Body Height                              78.9 cm
+  2017-02-16 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-16 : Respiratory rate                         15.0 /min
+  2017-02-16 : Heart rate                               95.0 /min
+  2017-02-16 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2017-02-16 : Head Occipital-frontal circumference     46.4 cm
+  2017-02-16 : Weight-for-length Per age and sex        96.1 %
+  2017-02-16 : Body Weight                              11.3 kg
+  2017-02-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-02-16 : Body Height                              75.4 cm
+  2016-11-17 : Tobacco smoking status NHIS              Never smoker 
+  2016-11-17 : Respiratory rate                         15.0 /min
+  2016-11-17 : Heart rate                               76.0 /min
+  2016-11-17 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2016-11-17 : Head Occipital-frontal circumference     45.3 cm
+  2016-11-17 : Weight-for-length Per age and sex        94.6 %
+  2016-11-17 : Body Weight                              10.1 kg
+  2016-11-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-11-17 : Body Height                              71.4 cm
+  2016-08-18 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-18 : Respiratory rate                         14.0 /min
+  2016-08-18 : Heart rate                               61.0 /min
+  2016-08-18 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2016-08-18 : Head Occipital-frontal circumference     43.6 cm
+  2016-08-18 : Weight-for-length Per age and sex        83.8 %
+  2016-08-18 : Body Weight                              8.5 kg
+  2016-08-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-08-18 : Body Height                              66.6 cm
+  2016-06-16 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-16 : Respiratory rate                         13.0 /min
+  2016-06-16 : Heart rate                               64.0 /min
+  2016-06-16 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2016-06-16 : Head Occipital-frontal circumference     42.0 cm
+  2016-06-16 : Weight-for-length Per age and sex        69.6 %
+  2016-06-16 : Body Weight                              7.1 kg
+  2016-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-06-16 : Body Height                              62.5 cm
+  2016-04-14 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-14 : Respiratory rate                         16.0 /min
+  2016-04-14 : Heart rate                               83.0 /min
+  2016-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2016-04-14 : Head Occipital-frontal circumference     39.5 cm
+  2016-04-14 : Weight-for-length Per age and sex        69.9 %
+  2016-04-14 : Body Weight                              5.5 kg
+  2016-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-04-14 : Body Height                              57.1 cm
+  2016-03-10 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.6 fL
+  2016-03-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 323.6 fL
+  2016-03-10 : Platelets [#/volume] in Blood by Automated count 403.2 10*3/uL
+  2016-03-10 : Erythrocyte distribution width [Entitic volume] by Automated count 40.0 fL
+  2016-03-10 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2016-03-10 : MCH [Entitic mass] by Automated count    30.5 pg
+  2016-03-10 : MCV [Entitic volume] by Automated count  83.4 fL
+  2016-03-10 : Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+  2016-03-10 : Hemoglobin [Mass/volume] in Blood        15.4 g/dL
+  2016-03-10 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2016-03-10 : Leukocytes [#/volume] in Blood by Automated count 7.8 10*3/uL
+  2016-03-10 : Respiratory rate                         16.0 /min
+  2016-03-10 : Heart rate                               97.0 /min
+  2016-03-10 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2016-03-10 : Head Occipital-frontal circumference     36.1 cm
+  2016-03-10 : Weight-for-length Per age and sex        73.9 %
+  2016-03-10 : Body Weight                              4.5 kg
+  2016-03-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-03-10 : Body Height                              53.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-08-15 : Medication Reconciliation (procedure)
+  2019-02-14 : Medication Reconciliation (procedure)
+  2018-08-16 : Medication Reconciliation (procedure)
+  2018-02-28 : Bone immobilization for Fracture of forearm
+  2018-02-28 : Upper arm X-ray
+  2018-02-15 : Medication Reconciliation (procedure)
+  2017-08-17 : Medication Reconciliation (procedure)
+  2016-08-18 : Medication Reconciliation (procedure)
+  2016-06-16 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-02-13 : Influenza, seasonal, injectable, preservative free
+  2019-02-14 : Influenza, seasonal, injectable, preservative free
+  2018-08-16 : Hep A, ped/adol, 2 dose
+  2018-02-15 : Influenza, seasonal, injectable, preservative free
+  2017-08-17 : DTaP
+  2017-05-18 : Hep A, ped/adol, 2 dose
+  2017-05-18 : Pneumococcal conjugate PCV 13
+  2017-05-18 : MMR
+  2017-05-18 : varicella
+  2017-05-18 : Hib (PRP-OMP)
+  2016-11-17 : Hep B, adolescent or pediatric
+  2016-11-17 : Pneumococcal conjugate PCV 13
+  2016-11-17 : DTaP
+  2016-11-17 : Influenza, seasonal, injectable, preservative free
+  2016-11-17 : IPV
+  2016-08-18 : Pneumococcal conjugate PCV 13
+  2016-08-18 : DTaP
+  2016-08-18 : IPV
+  2016-08-18 : rotavirus, monovalent
+  2016-08-18 : Hib (PRP-OMP)
+  2016-06-16 : Pneumococcal conjugate PCV 13
+  2016-06-16 : DTaP
+  2016-06-16 : IPV
+  2016-06-16 : rotavirus, monovalent
+  2016-06-16 : Hib (PRP-OMP)
+  2016-04-14 : Hep B, adolescent or pediatric
+  2016-03-10 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-03-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Streptococcal sore throat (disorder)
+2020-02-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-08-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-02-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-08-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-05-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Fracture of forearm
+2018-02-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-02-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-08-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-05-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-02-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-11-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-08-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-06-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-04-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-03-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2018-02-28 : Digital Radiography, Arm
+--------------------------------------------------------------------------------

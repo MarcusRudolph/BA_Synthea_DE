@@ -1,0 +1,189 @@
+Ernst Volz
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 50
+Birth Date:          1970-02-04
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-04-06[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2019-04-02[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2019-03-15[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2016-05-03[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2012-08-22[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2012-04-08[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2012-04-08[STOPPED] : Amoxicillin 500 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-04-06 - 2020-04-19 : Streptococcal sore throat (disorder)
+  2019-04-02 - 2019-04-23 : Laceration of thigh
+  2019-03-15 - 2019-04-05 : Viral sinusitis (disorder)
+  2017-04-10 - 2017-04-18 : Acute viral pharyngitis (disorder)
+  2016-05-03 - 2016-05-17 : Laceration of thigh
+  2013-03-24 - 2013-03-31 : Acute viral pharyngitis (disorder)
+  2012-08-22 - 2012-09-21 : Fracture of ankle
+  2012-04-08 - 2014-02-19 : Otitis media
+  2011-06-09 - 2011-06-16 : Viral sinusitis (disorder)
+  1984-03-07 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-04-02[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2016-05-03[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2012-08-22[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-28 : Lipid Panel
+           - Total Cholesterol                        196.9 mg/dL
+           - Triglycerides                            129.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      100.4 mg/dL
+           - High Density Lipoprotein Cholesterol     70.5 mg/dL
+  2016-02-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  83.0 fL
+           - MCH [Entitic mass] by Automated count    30.8 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 209.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 504.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2014-02-19 : Lipid Panel
+           - Total Cholesterol                        184.0 mg/dL
+           - Triglycerides                            112.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      83.1 mg/dL
+           - High Density Lipoprotein Cholesterol     78.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-04-06 : Body temperature                         37.2 Cel
+  2020-02-05 : Tobacco smoking status NHIS              Former smoker 
+  2020-02-05 : Respiratory rate                         15.0 /min
+  2020-02-05 : Heart rate                               92.0 /min
+  2020-02-05 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2020-02-05 : Body Mass Index                          36.5 kg/m2
+  2020-02-05 : Body Weight                              111.5 kg
+  2020-02-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-02-05 : Body Height                              174.8 cm
+  2018-02-28 : Tobacco smoking status NHIS              Former smoker 
+  2018-02-28 : High Density Lipoprotein Cholesterol     70.5 mg/dL
+  2018-02-28 : Low Density Lipoprotein Cholesterol      100.4 mg/dL
+  2018-02-28 : Triglycerides                            129.8 mg/dL
+  2018-02-28 : Total Cholesterol                        196.9 mg/dL
+  2018-02-28 : Respiratory rate                         15.0 /min
+  2018-02-28 : Heart rate                               95.0 /min
+  2018-02-28 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2018-02-28 : Body Mass Index                          36.5 kg/m2
+  2018-02-28 : Body Weight                              111.5 kg
+  2018-02-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-02-28 : Body Height                              174.8 cm
+  2017-04-10 : Body temperature                         37.8 Cel
+  2016-02-24 : Tobacco smoking status NHIS              Former smoker 
+  2016-02-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2016-02-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 504.3 fL
+  2016-02-24 : Platelets [#/volume] in Blood by Automated count 209.1 10*3/uL
+  2016-02-24 : Erythrocyte distribution width [Entitic volume] by Automated count 41.3 fL
+  2016-02-24 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2016-02-24 : MCH [Entitic mass] by Automated count    30.8 pg
+  2016-02-24 : MCV [Entitic volume] by Automated count  83.0 fL
+  2016-02-24 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  2016-02-24 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2016-02-24 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2016-02-24 : Leukocytes [#/volume] in Blood by Automated count 5.9 10*3/uL
+  2016-02-24 : Respiratory rate                         13.0 /min
+  2016-02-24 : Heart rate                               67.0 /min
+  2016-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2016-02-24 : Body Mass Index                          36.5 kg/m2
+  2016-02-24 : Body Weight                              111.5 kg
+  2016-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-02-24 : Body Height                              174.8 cm
+  2014-02-19 : Tobacco smoking status NHIS              Former smoker 
+  2014-02-19 : High Density Lipoprotein Cholesterol     78.4 mg/dL
+  2014-02-19 : Low Density Lipoprotein Cholesterol      83.1 mg/dL
+  2014-02-19 : Triglycerides                            112.8 mg/dL
+  2014-02-19 : Total Cholesterol                        184.0 mg/dL
+  2014-02-19 : Respiratory rate                         15.0 /min
+  2014-02-19 : Heart rate                               93.0 /min
+  2014-02-19 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2014-02-19 : Body Mass Index                          36.5 kg/m2
+  2014-02-19 : Body Weight                              111.5 kg
+  2014-02-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-02-19 : Body Height                              174.8 cm
+  2013-03-24 : Body temperature                         37.8 Cel
+  2012-02-15 : Tobacco smoking status NHIS              Former smoker 
+  2012-02-15 : Respiratory rate                         14.0 /min
+  2012-02-15 : Heart rate                               77.0 /min
+  2012-02-15 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2012-02-15 : Body Mass Index                          36.5 kg/m2
+  2012-02-15 : Body Weight                              111.5 kg
+  2012-02-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-02-15 : Body Height                              174.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-04-06 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2020-02-05 : Medication Reconciliation (procedure)
+  2020-02-05 : Colonoscopy
+  2019-04-02 : Suture open wound for Laceration of thigh
+  2018-02-28 : Medication Reconciliation (procedure)
+  2016-05-03 : Suture open wound for Laceration of thigh
+  2016-02-24 : Medication Reconciliation (procedure)
+  2014-02-19 : Medication Reconciliation (procedure)
+  2012-08-22 : Bone immobilization for Fracture of ankle
+  2012-08-22 : Ankle X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-02-05 : Influenza, seasonal, injectable, preservative free
+  2020-02-05 : zoster
+  2018-02-28 : Influenza, seasonal, injectable, preservative free
+  2016-02-24 : Influenza, seasonal, injectable, preservative free
+  2014-02-19 : Influenza, seasonal, injectable, preservative free
+  2012-02-15 : Hep A, adult
+  2012-02-15 : Td (adult) preservative free
+  2012-02-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-04-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Streptococcal sore throat (disorder)
+2020-02-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-02-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-04-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-03-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2018-02-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-04-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2016-05-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-02-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-02-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-03-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2012-09-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Fracture of ankle
+2012-08-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-04-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Otitis media
+2012-02-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-06-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+1984-03-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2012-08-22 : Digital Radiography, Ankle
+--------------------------------------------------------------------------------

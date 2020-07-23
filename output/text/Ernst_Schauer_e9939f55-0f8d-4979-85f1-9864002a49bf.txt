@@ -1,0 +1,244 @@
+Ernst Schauer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 37
+Birth Date:          1982-10-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2013-08-15[STOPPED] : Ibuprofen 200 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2015-10-15 - 2015-10-22 : Viral sinusitis (disorder)
+  2013-08-15 - 2013-09-12 : Sprain of wrist
+  2007-12-07 -            : Anemia (disorder)
+  2004-12-03 -            : Prediabetes
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2013-08-15[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2004-12-03[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-12-20 : Lipid Panel
+           - Total Cholesterol                        185.1 mg/dL
+           - Triglycerides                            123.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.3 mg/dL
+           - High Density Lipoprotein Cholesterol     72.1 mg/dL
+  2019-12-20 : Basic Metabolic Panel
+           - Glucose                                  97.5 mg/dL
+           - Urea Nitrogen                            8.1 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   139.2 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 103.0 mmol/L
+           - Carbon Dioxide                           22.2 mmol/L
+  2016-12-16 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+           - MCV [Entitic volume] by Automated count  80.5 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+           - Platelets [#/volume] in Blood by Automated count 275.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 407.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2016-12-16 : Lipid Panel
+           - Total Cholesterol                        192.7 mg/dL
+           - Triglycerides                            129.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.8 mg/dL
+           - High Density Lipoprotein Cholesterol     77.9 mg/dL
+  2016-12-16 : Basic Metabolic Panel
+           - Glucose                                  71.2 mg/dL
+           - Urea Nitrogen                            17.0 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   139.0 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 102.3 mmol/L
+           - Carbon Dioxide                           21.1 mmol/L
+  2013-12-13 : Lipid Panel
+           - Total Cholesterol                        172.1 mg/dL
+           - Triglycerides                            133.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.5 mg/dL
+           - High Density Lipoprotein Cholesterol     76.9 mg/dL
+  2013-12-13 : Basic Metabolic Panel
+           - Glucose                                  93.9 mg/dL
+           - Urea Nitrogen                            7.7 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   143.6 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 109.3 mmol/L
+           - Carbon Dioxide                           22.2 mmol/L
+  2010-12-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+           - MCV [Entitic volume] by Automated count  86.6 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 399.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 228.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2010-12-10 : Basic Metabolic Panel
+           - Glucose                                  64.3 mg/dL
+           - Urea Nitrogen                            8.6 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   137.3 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 101.6 mmol/L
+           - Carbon Dioxide                           21.4 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-12-20 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2019-12-20 : Tobacco smoking status NHIS              Never smoker 
+  2019-12-20 : High Density Lipoprotein Cholesterol     72.1 mg/dL
+  2019-12-20 : Low Density Lipoprotein Cholesterol      88.3 mg/dL
+  2019-12-20 : Triglycerides                            123.8 mg/dL
+  2019-12-20 : Total Cholesterol                        185.1 mg/dL
+  2019-12-20 : Carbon Dioxide                           22.2 mmol/L
+  2019-12-20 : Chloride                                 103.0 mmol/L
+  2019-12-20 : Potassium                                5.0 mmol/L
+  2019-12-20 : Sodium                                   139.2 mmol/L
+  2019-12-20 : Calcium                                  9.9 mg/dL
+  2019-12-20 : Creatinine                               1.4 mg/dL
+  2019-12-20 : Urea Nitrogen                            8.1 mg/dL
+  2019-12-20 : Glucose                                  97.5 mg/dL
+  2019-12-20 : Respiratory rate                         15.0 /min
+  2019-12-20 : Heart rate                               93.0 /min
+  2019-12-20 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2019-12-20 : Body Mass Index                          29.0 kg/m2
+  2019-12-20 : Body Weight                              98.5 kg
+  2019-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-12-20 : Body Height                              184.2 cm
+  2016-12-16 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2016-12-16 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-16 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2016-12-16 : Platelet distribution width [Entitic volume] in Blood by Automated count 407.2 fL
+  2016-12-16 : Platelets [#/volume] in Blood by Automated count 275.5 10*3/uL
+  2016-12-16 : Erythrocyte distribution width [Entitic volume] by Automated count 41.8 fL
+  2016-12-16 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2016-12-16 : MCH [Entitic mass] by Automated count    32.2 pg
+  2016-12-16 : MCV [Entitic volume] by Automated count  80.5 fL
+  2016-12-16 : Hematocrit [Volume Fraction] of Blood by Automated count 43.7 %
+  2016-12-16 : Hemoglobin [Mass/volume] in Blood        13.6 g/dL
+  2016-12-16 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2016-12-16 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2016-12-16 : High Density Lipoprotein Cholesterol     77.9 mg/dL
+  2016-12-16 : Low Density Lipoprotein Cholesterol      88.8 mg/dL
+  2016-12-16 : Triglycerides                            129.7 mg/dL
+  2016-12-16 : Total Cholesterol                        192.7 mg/dL
+  2016-12-16 : Carbon Dioxide                           21.1 mmol/L
+  2016-12-16 : Chloride                                 102.3 mmol/L
+  2016-12-16 : Potassium                                4.6 mmol/L
+  2016-12-16 : Sodium                                   139.0 mmol/L
+  2016-12-16 : Calcium                                  8.6 mg/dL
+  2016-12-16 : Creatinine                               1.4 mg/dL
+  2016-12-16 : Urea Nitrogen                            17.0 mg/dL
+  2016-12-16 : Glucose                                  71.2 mg/dL
+  2016-12-16 : Respiratory rate                         15.0 /min
+  2016-12-16 : Heart rate                               97.0 /min
+  2016-12-16 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  99.0 mm[Hg]
+  2016-12-16 : Body Mass Index                          27.6 kg/m2
+  2016-12-16 : Body Weight                              93.6 kg
+  2016-12-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-12-16 : Body Height                              184.2 cm
+  2013-12-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2013-12-13 : Tobacco smoking status NHIS              Never smoker 
+  2013-12-13 : High Density Lipoprotein Cholesterol     76.9 mg/dL
+  2013-12-13 : Low Density Lipoprotein Cholesterol      68.5 mg/dL
+  2013-12-13 : Triglycerides                            133.6 mg/dL
+  2013-12-13 : Total Cholesterol                        172.1 mg/dL
+  2013-12-13 : Carbon Dioxide                           22.2 mmol/L
+  2013-12-13 : Chloride                                 109.3 mmol/L
+  2013-12-13 : Potassium                                5.1 mmol/L
+  2013-12-13 : Sodium                                   143.6 mmol/L
+  2013-12-13 : Calcium                                  8.9 mg/dL
+  2013-12-13 : Creatinine                               1.3 mg/dL
+  2013-12-13 : Urea Nitrogen                            7.7 mg/dL
+  2013-12-13 : Glucose                                  93.9 mg/dL
+  2013-12-13 : Respiratory rate                         15.0 /min
+  2013-12-13 : Heart rate                               77.0 /min
+  2013-12-13 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2013-12-13 : Body Mass Index                          25.9 kg/m2
+  2013-12-13 : Body Weight                              87.9 kg
+  2013-12-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-12-13 : Body Height                              184.2 cm
+  2010-12-10 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2010-12-10 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2010-12-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 228.9 fL
+  2010-12-10 : Platelets [#/volume] in Blood by Automated count 399.4 10*3/uL
+  2010-12-10 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2010-12-10 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2010-12-10 : MCH [Entitic mass] by Automated count    27.8 pg
+  2010-12-10 : MCV [Entitic volume] by Automated count  86.6 fL
+  2010-12-10 : Hematocrit [Volume Fraction] of Blood by Automated count 39.5 %
+  2010-12-10 : Hemoglobin [Mass/volume] in Blood        13.2 g/dL
+  2010-12-10 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2010-12-10 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2010-12-10 : Carbon Dioxide                           21.4 mmol/L
+  2010-12-10 : Chloride                                 101.6 mmol/L
+  2010-12-10 : Potassium                                5.1 mmol/L
+  2010-12-10 : Sodium                                   137.3 mmol/L
+  2010-12-10 : Calcium                                  9.5 mg/dL
+  2010-12-10 : Creatinine                               1.3 mg/dL
+  2010-12-10 : Urea Nitrogen                            8.6 mg/dL
+  2010-12-10 : Glucose                                  64.3 mg/dL
+  2010-12-10 : Respiratory rate                         16.0 /min
+  2010-12-10 : Heart rate                               67.0 /min
+  2010-12-10 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2010-12-10 : Body Mass Index                          24.6 kg/m2
+  2010-12-10 : Body Weight                              83.6 kg
+  2010-12-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-12-10 : Body Height                              184.2 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-12-20 : Medication Reconciliation (procedure)
+  2016-12-16 : Medication Reconciliation (procedure)
+  2013-12-13 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-12-20 : Influenza, seasonal, injectable, preservative free
+  2016-12-16 : Influenza, seasonal, injectable, preservative free
+  2013-12-13 : Td (adult) preservative free
+  2013-12-13 : Influenza, seasonal, injectable, preservative free
+  2010-12-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-12-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-12-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-10-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2013-12-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-08-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-12-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2007-12-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2004-12-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

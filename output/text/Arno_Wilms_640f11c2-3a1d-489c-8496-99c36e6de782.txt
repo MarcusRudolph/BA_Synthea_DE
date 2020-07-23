@@ -1,0 +1,216 @@
+Arno Wilms
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 23
+Birth Date:          1997-04-08
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-08-12[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2014-03-10[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-07-19 - 2019-07-30 : Acute viral pharyngitis (disorder)
+  2016-04-24 - 2016-05-03 : Acute viral pharyngitis (disorder)
+  2014-08-12 - 2014-08-26 : Viral sinusitis (disorder)
+  2014-04-18 - 2014-05-09 : Viral sinusitis (disorder)
+  2014-03-10 - 2014-04-14 : Whiplash injury to neck
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-03-10[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-06-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+           - MCV [Entitic volume] by Automated count  80.1 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 322.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 446.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2013-05-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+           - MCV [Entitic volume] by Automated count  85.9 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+           - Platelets [#/volume] in Blood by Automated count 272.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 322.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-07-30 : Tobacco smoking status NHIS              Never smoker 
+  2019-07-30 : Respiratory rate                         12.0 /min
+  2019-07-30 : Heart rate                               64.0 /min
+  2019-07-30 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2019-07-30 : Body Mass Index                          22.7 kg/m2
+  2019-07-30 : Body Weight                              64.8 kg
+  2019-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-07-30 : Body Height                              169.1 cm
+  2019-07-19 : Body temperature                         37.5 Cel
+  2019-06-11 : Tobacco smoking status NHIS              Never smoker 
+  2019-06-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2019-06-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 446.3 fL
+  2019-06-11 : Platelets [#/volume] in Blood by Automated count 322.5 10*3/uL
+  2019-06-11 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2019-06-11 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2019-06-11 : MCH [Entitic mass] by Automated count    32.2 pg
+  2019-06-11 : MCV [Entitic volume] by Automated count  80.1 fL
+  2019-06-11 : Hematocrit [Volume Fraction] of Blood by Automated count 44.4 %
+  2019-06-11 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2019-06-11 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2019-06-11 : Leukocytes [#/volume] in Blood by Automated count 4.6 10*3/uL
+  2019-06-11 : Respiratory rate                         15.0 /min
+  2019-06-11 : Heart rate                               62.0 /min
+  2019-06-11 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2019-06-11 : Body Mass Index                          22.7 kg/m2
+  2019-06-11 : Body Weight                              64.8 kg
+  2019-06-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-06-11 : Body Height                              169.1 cm
+  2016-06-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-07 : Respiratory rate                         13.0 /min
+  2016-06-07 : Heart rate                               88.0 /min
+  2016-06-07 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2016-06-07 : Body mass index (BMI) [Percentile] Per age and gender 23.5 %
+  2016-06-07 : Body Mass Index                          20.7 kg/m2
+  2016-06-07 : Body Weight                              58.9 kg
+  2016-06-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-06-07 : Body Height                              168.9 cm
+  2016-05-03 : Tobacco smoking status NHIS              Never smoker 
+  2016-05-03 : Respiratory rate                         15.0 /min
+  2016-05-03 : Heart rate                               62.0 /min
+  2016-05-03 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2016-05-03 : Body mass index (BMI) [Percentile] Per age and gender 23.4 %
+  2016-05-03 : Body Mass Index                          20.6 kg/m2
+  2016-05-03 : Body Weight                              58.7 kg
+  2016-05-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-05-03 : Body Height                              168.9 cm
+  2016-04-24 : Body temperature                         37.8 Cel
+  2015-06-02 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-02 : Respiratory rate                         13.0 /min
+  2015-06-02 : Heart rate                               93.0 /min
+  2015-06-02 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2015-06-02 : Body mass index (BMI) [Percentile] Per age and gender 28.7 %
+  2015-06-02 : Body Mass Index                          20.5 kg/m2
+  2015-06-02 : Body Weight                              58.1 kg
+  2015-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-06-02 : Body Height                              168.4 cm
+  2014-05-27 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-27 : Respiratory rate                         13.0 /min
+  2014-05-27 : Heart rate                               94.0 /min
+  2014-05-27 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2014-05-27 : Body mass index (BMI) [Percentile] Per age and gender 37.3 %
+  2014-05-27 : Body Mass Index                          20.4 kg/m2
+  2014-05-27 : Body Weight                              57.3 kg
+  2014-05-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-05-27 : Body Height                              167.5 cm
+  2013-05-21 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2013-05-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 322.5 fL
+  2013-05-21 : Platelets [#/volume] in Blood by Automated count 272.0 10*3/uL
+  2013-05-21 : Erythrocyte distribution width [Entitic volume] by Automated count 39.7 fL
+  2013-05-21 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2013-05-21 : MCH [Entitic mass] by Automated count    28.4 pg
+  2013-05-21 : MCV [Entitic volume] by Automated count  85.9 fL
+  2013-05-21 : Hematocrit [Volume Fraction] of Blood by Automated count 35.8 %
+  2013-05-21 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2013-05-21 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2013-05-21 : Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+  2013-05-21 : Respiratory rate                         14.0 /min
+  2013-05-21 : Heart rate                               94.0 /min
+  2013-05-21 : Blood Pressure
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2013-05-21 : Body mass index (BMI) [Percentile] Per age and gender 56.8 %
+  2013-05-21 : Body Mass Index                          21.1 kg/m2
+  2013-05-21 : Body Weight                              57.8 kg
+  2013-05-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-05-21 : Body Height                              165.5 cm
+  2012-05-15 : Tobacco smoking status NHIS              Never smoker 
+  2012-05-15 : Respiratory rate                         13.0 /min
+  2012-05-15 : Heart rate                               95.0 /min
+  2012-05-15 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2012-05-15 : Body mass index (BMI) [Percentile] Per age and gender 51.3 %
+  2012-05-15 : Body Mass Index                          20.0 kg/m2
+  2012-05-15 : Body Weight                              52.4 kg
+  2012-05-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2012-05-15 : Body Height                              161.8 cm
+  2011-05-10 : Tobacco smoking status NHIS              Never smoker 
+  2011-05-10 : Respiratory rate                         13.0 /min
+  2011-05-10 : Heart rate                               70.0 /min
+  2011-05-10 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2011-05-10 : Body mass index (BMI) [Percentile] Per age and gender 52.6 %
+  2011-05-10 : Body Mass Index                          19.4 kg/m2
+  2011-05-10 : Body Weight                              47.1 kg
+  2011-05-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-05-10 : Body Height                              155.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-05-03 : Medication Reconciliation (procedure)
+  2015-06-02 : Medication Reconciliation (procedure)
+  2014-05-27 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-07-30 : Hep B, adult
+  2019-07-30 : Influenza, seasonal, injectable, preservative free
+  2019-06-11 : meningococcal MCV4P
+  2019-06-11 : Hep B, adult
+  2019-06-11 : Td (adult) preservative free
+  2019-06-11 : Influenza, seasonal, injectable, preservative free
+  2016-05-03 : Influenza, seasonal, injectable, preservative free
+  2015-06-02 : Influenza, seasonal, injectable, preservative free
+  2014-05-27 : Influenza, seasonal, injectable, preservative free
+  2013-05-21 : meningococcal MCV4P
+  2013-05-21 : Influenza, seasonal, injectable, preservative free
+  2012-05-15 : Influenza, seasonal, injectable, preservative free
+  2011-05-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-07-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-07-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2019-06-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-06-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-05-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-04-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2015-06-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-08-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2014-05-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-04-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2014-03-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-05-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-05-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-05-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

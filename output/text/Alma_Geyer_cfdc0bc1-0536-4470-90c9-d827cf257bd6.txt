@@ -1,0 +1,250 @@
+Alma Geyer
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1989-02-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1992-01-21[CURRENT] : clonazePAM 0.25 MG Oral Tablet
+  1991-07-23[STOPPED] : Diazepam 5 MG Oral Tablet
+  1991-02-04[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  1991-02-04[STOPPED] : Cefaclor 250 MG Oral Capsule
+  1990-04-24[STOPPED] : clonazePAM 0.25 MG Oral Tablet
+  1989-11-14[STOPPED] : Diazepam 5 MG Oral Tablet
+  1989-07-25[CURRENT] : Carbamazepine[Tegretol]
+  1989-02-14[STOPPED] : clonazePAM 0.25 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1991-02-04 - 1991-07-23 : Otitis media
+  1990-06-10 - 1990-06-19 : Acute viral pharyngitis (disorder)
+  1989-02-14 -            : History of single seizure (situation)
+  1989-02-14 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  1992-11-24 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1989-02-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  86.7 fL
+           - MCH [Entitic mass] by Automated count    31.0 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+           - Platelets [#/volume] in Blood by Automated count 440.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 286.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1992-11-24 : Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1992-07-21 : Tobacco smoking status NHIS              Never smoker 
+  1992-07-21 : Respiratory rate                         14.0 /min
+  1992-07-21 : Heart rate                               81.0 /min
+  1992-07-21 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  1992-07-21 : Body mass index (BMI) [Percentile] Per age and gender 99.4 %
+  1992-07-21 : Body Mass Index                          20.2 kg/m2
+  1992-07-21 : Head Occipital-frontal circumference     47.3 cm
+  1992-07-21 : Weight-for-length Per age and sex        97.8 %
+  1992-07-21 : Body Weight                              17.8 kg
+  1992-07-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1992-07-21 : Body Height                              93.6 cm
+  1992-01-21 : Tobacco smoking status NHIS              Never smoker 
+  1992-01-21 : Respiratory rate                         13.0 /min
+  1992-01-21 : Heart rate                               67.0 /min
+  1992-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  1992-01-21 : Body mass index (BMI) [Percentile] Per age and gender 96.9 %
+  1992-01-21 : Body Mass Index                          18.8 kg/m2
+  1992-01-21 : Head Occipital-frontal circumference     47.3 cm
+  1992-01-21 : Weight-for-length Per age and sex        97.4 %
+  1992-01-21 : Body Weight                              15.3 kg
+  1992-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1992-01-21 : Body Height                              90.4 cm
+  1991-07-23 : Tobacco smoking status NHIS              Never smoker 
+  1991-07-23 : Respiratory rate                         15.0 /min
+  1991-07-23 : Heart rate                               70.0 /min
+  1991-07-23 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  1991-07-23 : Body mass index (BMI) [Percentile] Per age and gender 84.6 %
+  1991-07-23 : Body Mass Index                          17.6 kg/m2
+  1991-07-23 : Head Occipital-frontal circumference     46.8 cm
+  1991-07-23 : Weight-for-length Per age and sex        85.6 %
+  1991-07-23 : Body Weight                              13.1 kg
+  1991-07-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1991-07-23 : Body Height                              86.4 cm
+  1991-01-22 : Tobacco smoking status NHIS              Never smoker 
+  1991-01-22 : Respiratory rate                         14.0 /min
+  1991-01-22 : Heart rate                               75.0 /min
+  1991-01-22 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  1991-01-22 : Head Occipital-frontal circumference     46.2 cm
+  1991-01-22 : Weight-for-length Per age and sex        86.8 %
+  1991-01-22 : Body Weight                              12.2 kg
+  1991-01-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1991-01-22 : Body Height                              82.4 cm
+  1990-07-24 : Tobacco smoking status NHIS              Never smoker 
+  1990-07-24 : Respiratory rate                         16.0 /min
+  1990-07-24 : Heart rate                               99.0 /min
+  1990-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  1990-07-24 : Head Occipital-frontal circumference     45.3 cm
+  1990-07-24 : Weight-for-length Per age and sex        88.3 %
+  1990-07-24 : Body Weight                              11.1 kg
+  1990-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1990-07-24 : Body Height                              77.1 cm
+  1990-06-10 : Body temperature                         37.8 Cel
+  1990-04-24 : Tobacco smoking status NHIS              Never smoker 
+  1990-04-24 : Respiratory rate                         14.0 /min
+  1990-04-24 : Heart rate                               75.0 /min
+  1990-04-24 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  1990-04-24 : Head Occipital-frontal circumference     44.7 cm
+  1990-04-24 : Weight-for-length Per age and sex        88.7 %
+  1990-04-24 : Body Weight                              10.4 kg
+  1990-04-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1990-04-24 : Body Height                              74.1 cm
+  1990-01-23 : Tobacco smoking status NHIS              Never smoker 
+  1990-01-23 : Respiratory rate                         16.0 /min
+  1990-01-23 : Heart rate                               68.0 /min
+  1990-01-23 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  1990-01-23 : Head Occipital-frontal circumference     43.8 cm
+  1990-01-23 : Weight-for-length Per age and sex        85.0 %
+  1990-01-23 : Body Weight                              9.5 kg
+  1990-01-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1990-01-23 : Body Height                              70.7 cm
+  1989-10-24 : Tobacco smoking status NHIS              Never smoker 
+  1989-10-24 : Respiratory rate                         12.0 /min
+  1989-10-24 : Heart rate                               68.0 /min
+  1989-10-24 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  1989-10-24 : Head Occipital-frontal circumference     42.7 cm
+  1989-10-24 : Weight-for-length Per age and sex        85.6 %
+  1989-10-24 : Body Weight                              8.5 kg
+  1989-10-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1989-10-24 : Body Height                              66.9 cm
+  1989-07-25 : Tobacco smoking status NHIS              Never smoker 
+  1989-07-25 : Respiratory rate                         14.0 /min
+  1989-07-25 : Heart rate                               78.0 /min
+  1989-07-25 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  1989-07-25 : Head Occipital-frontal circumference     41.0 cm
+  1989-07-25 : Weight-for-length Per age and sex        84.0 %
+  1989-07-25 : Body Weight                              7.1 kg
+  1989-07-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1989-07-25 : Body Height                              62.2 cm
+  1989-05-23 : Tobacco smoking status NHIS              Never smoker 
+  1989-05-23 : Respiratory rate                         15.0 /min
+  1989-05-23 : Heart rate                               91.0 /min
+  1989-05-23 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  1989-05-23 : Head Occipital-frontal circumference     39.4 cm
+  1989-05-23 : Weight-for-length Per age and sex        84.3 %
+  1989-05-23 : Body Weight                              6.0 kg
+  1989-05-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1989-05-23 : Body Height                              58.4 cm
+  1989-03-21 : Tobacco smoking status NHIS              Never smoker 
+  1989-03-21 : Respiratory rate                         12.0 /min
+  1989-03-21 : Heart rate                               81.0 /min
+  1989-03-21 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  1989-03-21 : Head Occipital-frontal circumference     36.8 cm
+  1989-03-21 : Weight-for-length Per age and sex        82.5 %
+  1989-03-21 : Body Weight                              4.6 kg
+  1989-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1989-03-21 : Body Height                              53.3 cm
+  1989-02-14 : Tobacco smoking status NHIS              Never smoker 
+  1989-02-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  1989-02-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 286.5 fL
+  1989-02-14 : Platelets [#/volume] in Blood by Automated count 440.5 10*3/uL
+  1989-02-14 : Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+  1989-02-14 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  1989-02-14 : MCH [Entitic mass] by Automated count    31.0 pg
+  1989-02-14 : MCV [Entitic volume] by Automated count  86.7 fL
+  1989-02-14 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  1989-02-14 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  1989-02-14 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  1989-02-14 : Leukocytes [#/volume] in Blood by Automated count 6.9 10*3/uL
+  1989-02-14 : Respiratory rate                         13.0 /min
+  1989-02-14 : Heart rate                               61.0 /min
+  1989-02-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  1989-02-14 : Head Occipital-frontal circumference     33.4 cm
+  1989-02-14 : Weight-for-length Per age and sex        86.4 %
+  1989-02-14 : Body Weight                              3.9 kg
+  1989-02-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1989-02-14 : Body Height                              49.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1992-01-21 : Medication Reconciliation (procedure)
+  1991-01-22 : Medication Reconciliation (procedure)
+  1990-11-06 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+  1990-08-21 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+  1990-07-24 : Medication Reconciliation (procedure)
+  1990-06-10 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  1990-04-24 : Medication Reconciliation (procedure)
+  1989-11-14 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+  1989-03-21 : Medication Reconciliation (procedure)
+  1989-02-14 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1992-01-21 : Influenza, seasonal, injectable, preservative free
+  1991-01-22 : Influenza, seasonal, injectable, preservative free
+  1990-04-24 : MMR
+  1990-04-24 : varicella
+  1990-04-24 : Hib (PRP-OMP)
+  1989-10-24 : Hep B, adolescent or pediatric
+  1989-10-24 : Influenza, seasonal, injectable, preservative free
+  1989-10-24 : IPV
+  1989-07-25 : IPV
+  1989-07-25 : Hib (PRP-OMP)
+  1989-05-23 : IPV
+  1989-05-23 : Hib (PRP-OMP)
+  1989-03-21 : Hep B, adolescent or pediatric
+  1989-02-14 : Hep B, adolescent or pediatric
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1992-11-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1992-07-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1992-01-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1991-07-23 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1991-02-04 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Otitis media
+1991-01-22 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1990-11-06 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Seizure disorder
+1990-08-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Seizure disorder
+1990-07-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1990-06-10 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Acute viral pharyngitis (disorder)
+1990-04-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1990-01-23 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1989-11-14 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Seizure disorder
+1989-10-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1989-07-25 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1989-05-23 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1989-03-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1989-02-14 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Seizure disorder
+1989-02-14 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

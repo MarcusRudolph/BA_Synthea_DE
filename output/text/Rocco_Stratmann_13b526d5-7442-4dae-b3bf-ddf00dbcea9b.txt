@@ -1,0 +1,212 @@
+Rocco Stratmann
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 15
+Birth Date:          2005-07-19
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2006-11-23 -            : Allergy to wheat
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2006-11-23[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2006-11-23[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2013-06-05 - 2013-06-12 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2006-11-11[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-08-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.0 %
+           - MCV [Entitic volume] by Automated count  91.8 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    34.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+           - Platelets [#/volume] in Blood by Automated count 331.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 434.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2011-07-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+           - MCV [Entitic volume] by Automated count  80.7 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+           - Platelets [#/volume] in Blood by Automated count 232.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 257.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-08-20 : Tobacco smoking status NHIS              Never smoker 
+  2019-08-20 : Respiratory rate                         15.0 /min
+  2019-08-20 : Heart rate                               90.0 /min
+  2019-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2019-08-20 : Body mass index (BMI) [Percentile] Per age and gender 61.2 %
+  2019-08-20 : Body Mass Index                          20.0 kg/m2
+  2019-08-20 : Body Weight                              50.9 kg
+  2019-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-08-20 : Body Height                              159.5 cm
+  2018-08-14 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-14 : Respiratory rate                         15.0 /min
+  2018-08-14 : Heart rate                               84.0 /min
+  2018-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2018-08-14 : Body mass index (BMI) [Percentile] Per age and gender 64.8 %
+  2018-08-14 : Body Mass Index                          19.5 kg/m2
+  2018-08-14 : Body Weight                              44.7 kg
+  2018-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-08-14 : Body Height                              151.4 cm
+  2017-08-08 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-08 : Respiratory rate                         12.0 /min
+  2017-08-08 : Heart rate                               80.0 /min
+  2017-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2017-08-08 : Body mass index (BMI) [Percentile] Per age and gender 69.1 %
+  2017-08-08 : Body Mass Index                          19.1 kg/m2
+  2017-08-08 : Body Weight                              40.0 kg
+  2017-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-08-08 : Body Height                              144.6 cm
+  2016-08-02 : Tobacco smoking status NHIS              Never smoker 
+  2016-08-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2016-08-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 434.0 fL
+  2016-08-02 : Platelets [#/volume] in Blood by Automated count 331.6 10*3/uL
+  2016-08-02 : Erythrocyte distribution width [Entitic volume] by Automated count 42.8 fL
+  2016-08-02 : MCHC [Mass/volume] by Automated count    34.0 g/dL
+  2016-08-02 : MCH [Entitic mass] by Automated count    29.3 pg
+  2016-08-02 : MCV [Entitic volume] by Automated count  91.8 fL
+  2016-08-02 : Hematocrit [Volume Fraction] of Blood by Automated count 40.0 %
+  2016-08-02 : Hemoglobin [Mass/volume] in Blood        16.1 g/dL
+  2016-08-02 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2016-08-02 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2016-08-02 : Respiratory rate                         14.0 /min
+  2016-08-02 : Heart rate                               80.0 /min
+  2016-08-02 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2016-08-02 : Body mass index (BMI) [Percentile] Per age and gender 71.1 %
+  2016-08-02 : Body Mass Index                          18.6 kg/m2
+  2016-08-02 : Body Weight                              36.1 kg
+  2016-08-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-08-02 : Body Height                              139.2 cm
+  2015-07-28 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-28 : Respiratory rate                         13.0 /min
+  2015-07-28 : Heart rate                               62.0 /min
+  2015-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2015-07-28 : Body mass index (BMI) [Percentile] Per age and gender 76.5 %
+  2015-07-28 : Body Mass Index                          18.4 kg/m2
+  2015-07-28 : Body Weight                              33.3 kg
+  2015-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-07-28 : Body Height                              134.6 cm
+  2014-07-22 : Tobacco smoking status NHIS              Never smoker 
+  2014-07-22 : Respiratory rate                         14.0 /min
+  2014-07-22 : Heart rate                               82.0 /min
+  2014-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 69.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2014-07-22 : Body mass index (BMI) [Percentile] Per age and gender 76.8 %
+  2014-07-22 : Body Mass Index                          17.8 kg/m2
+  2014-07-22 : Body Weight                              29.9 kg
+  2014-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-07-22 : Body Height                              129.8 cm
+  2013-07-16 : Tobacco smoking status NHIS              Never smoker 
+  2013-07-16 : Respiratory rate                         14.0 /min
+  2013-07-16 : Heart rate                               88.0 /min
+  2013-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2013-07-16 : Body mass index (BMI) [Percentile] Per age and gender 80.6 %
+  2013-07-16 : Body Mass Index                          17.5 kg/m2
+  2013-07-16 : Body Weight                              26.8 kg
+  2013-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-07-16 : Body Height                              124.0 cm
+  2012-07-10 : Tobacco smoking status NHIS              Never smoker 
+  2012-07-10 : Respiratory rate                         13.0 /min
+  2012-07-10 : Heart rate                               97.0 /min
+  2012-07-10 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2012-07-10 : Body mass index (BMI) [Percentile] Per age and gender 86.2 %
+  2012-07-10 : Body Mass Index                          17.5 kg/m2
+  2012-07-10 : Body Weight                              24.4 kg
+  2012-07-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-07-10 : Body Height                              118.1 cm
+  2011-07-05 : Tobacco smoking status NHIS              Never smoker 
+  2011-07-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2011-07-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 257.9 fL
+  2011-07-05 : Platelets [#/volume] in Blood by Automated count 232.5 10*3/uL
+  2011-07-05 : Erythrocyte distribution width [Entitic volume] by Automated count 39.1 fL
+  2011-07-05 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2011-07-05 : MCH [Entitic mass] by Automated count    29.5 pg
+  2011-07-05 : MCV [Entitic volume] by Automated count  80.7 fL
+  2011-07-05 : Hematocrit [Volume Fraction] of Blood by Automated count 35.7 %
+  2011-07-05 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2011-07-05 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2011-07-05 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  2011-07-05 : Respiratory rate                         15.0 /min
+  2011-07-05 : Heart rate                               63.0 /min
+  2011-07-05 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2011-07-05 : Body mass index (BMI) [Percentile] Per age and gender 92.5 %
+  2011-07-05 : Body Mass Index                          17.9 kg/m2
+  2011-07-05 : Body Weight                              22.3 kg
+  2011-07-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-07-05 : Body Height                              111.9 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-08-20 : Medication Reconciliation (procedure)
+  2018-08-14 : Medication Reconciliation (procedure)
+  2017-08-08 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-08-20 : Influenza, seasonal, injectable, preservative free
+  2018-08-14 : HPV, quadrivalent
+  2018-08-14 : Influenza, seasonal, injectable, preservative free
+  2017-08-08 : HPV, quadrivalent
+  2017-08-08 : Influenza, seasonal, injectable, preservative free
+  2016-08-02 : meningococcal MCV4P
+  2016-08-02 : HPV, quadrivalent
+  2016-08-02 : Influenza, seasonal, injectable, preservative free
+  2016-08-02 : Tdap
+  2015-07-28 : Influenza, seasonal, injectable, preservative free
+  2014-07-22 : Influenza, seasonal, injectable, preservative free
+  2013-07-16 : Influenza, seasonal, injectable, preservative free
+  2012-07-10 : Influenza, seasonal, injectable, preservative free
+  2011-07-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-08-20 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2018-08-14 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2018-07-24 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2017-08-08 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2016-08-02 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2015-07-28 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2014-07-22 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2013-07-16 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2013-06-05 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2012-07-10 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2011-07-05 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2006-11-23 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+2006-11-11 (Dr. Andrea Schade) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

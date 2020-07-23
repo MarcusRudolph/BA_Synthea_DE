@@ -1,0 +1,276 @@
+Robert Appel
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 48
+Birth Date:          1972-05-20
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-01-30[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2017-06-19[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2013-01-01[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-01-30 - 2018-02-13 : Acute bronchitis (disorder)
+  2017-06-19 - 2017-07-24 : Sprain of ankle
+  2017-01-24 - 2017-02-03 : Acute viral pharyngitis (disorder)
+  2013-01-01 - 2013-01-14 : Streptococcal sore throat (disorder)
+  2012-05-26 -            : Body mass index 30+ - obesity (finding)
+  1999-09-05 -            : Drug overdose
+  1991-07-06 -            : Impacted molars
+  1990-05-27 -            : Chronic pain
+  1990-03-07 -            : Chronic intractable migraine without aura
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-01-30[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2017-06-19[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  1999-09-05[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-06-13 : Lipid Panel
+           - Total Cholesterol                        183.6 mg/dL
+           - Triglycerides                            115.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.2 mg/dL
+           - High Density Lipoprotein Cholesterol     78.4 mg/dL
+  2018-06-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.8 %
+           - MCV [Entitic volume] by Automated count  91.7 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+           - Platelets [#/volume] in Blood by Automated count 174.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 450.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2016-06-04 : Lipid Panel
+           - Total Cholesterol                        168.0 mg/dL
+           - Triglycerides                            118.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.9 mg/dL
+           - High Density Lipoprotein Cholesterol     73.6 mg/dL
+  2013-01-19 : Lipid Panel
+           - Total Cholesterol                        168.9 mg/dL
+           - Triglycerides                            111.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.9 mg/dL
+           - High Density Lipoprotein Cholesterol     67.7 mg/dL
+  2012-05-26 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.6 %
+           - MCV [Entitic volume] by Automated count  86.8 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 420.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 413.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-06-13 : Tobacco smoking status NHIS              Never smoker 
+  2020-06-13 : High Density Lipoprotein Cholesterol     78.4 mg/dL
+  2020-06-13 : Low Density Lipoprotein Cholesterol      82.2 mg/dL
+  2020-06-13 : Triglycerides                            115.2 mg/dL
+  2020-06-13 : Total Cholesterol                        183.6 mg/dL
+  2020-06-13 : Respiratory rate                         14.0 /min
+  2020-06-13 : Heart rate                               71.0 /min
+  2020-06-13 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2020-06-13 : Body Mass Index                          30.0 kg/m2
+  2020-06-13 : Body Weight                              85.5 kg
+  2020-06-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-06-13 : Body Height                              168.8 cm
+  2018-06-09 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2018-06-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 450.6 fL
+  2018-06-09 : Platelets [#/volume] in Blood by Automated count 174.8 10*3/uL
+  2018-06-09 : Erythrocyte distribution width [Entitic volume] by Automated count 43.3 fL
+  2018-06-09 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2018-06-09 : MCH [Entitic mass] by Automated count    27.3 pg
+  2018-06-09 : MCV [Entitic volume] by Automated count  91.7 fL
+  2018-06-09 : Hematocrit [Volume Fraction] of Blood by Automated count 43.8 %
+  2018-06-09 : Hemoglobin [Mass/volume] in Blood        15.9 g/dL
+  2018-06-09 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2018-06-09 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2018-06-09 : Respiratory rate                         14.0 /min
+  2018-06-09 : Heart rate                               89.0 /min
+  2018-06-09 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2018-06-09 : Body Mass Index                          30.0 kg/m2
+  2018-06-09 : Body Weight                              85.5 kg
+  2018-06-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-06-09 : Body Height                              168.8 cm
+  2018-01-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2017-02-04 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-04 : Respiratory rate                         14.0 /min
+  2017-02-04 : Heart rate                               87.0 /min
+  2017-02-04 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2017-02-04 : Body Mass Index                          30.0 kg/m2
+  2017-02-04 : Body Weight                              85.5 kg
+  2017-02-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-02-04 : Body Height                              168.8 cm
+  2017-01-24 : Body temperature                         37.5 Cel
+  2016-06-04 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-04 : High Density Lipoprotein Cholesterol     73.6 mg/dL
+  2016-06-04 : Low Density Lipoprotein Cholesterol      70.9 mg/dL
+  2016-06-04 : Triglycerides                            118.1 mg/dL
+  2016-06-04 : Total Cholesterol                        168.0 mg/dL
+  2016-06-04 : Respiratory rate                         15.0 /min
+  2016-06-04 : Heart rate                               72.0 /min
+  2016-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2016-06-04 : Body Mass Index                          30.0 kg/m2
+  2016-06-04 : Body Weight                              85.5 kg
+  2016-06-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-06-04 : Body Height                              168.8 cm
+  2014-05-31 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-31 : Respiratory rate                         14.0 /min
+  2014-05-31 : Heart rate                               71.0 /min
+  2014-05-31 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2014-05-31 : Body Mass Index                          30.0 kg/m2
+  2014-05-31 : Body Weight                              85.5 kg
+  2014-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-05-31 : Body Height                              168.8 cm
+  2013-01-19 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-19 : High Density Lipoprotein Cholesterol     67.7 mg/dL
+  2013-01-19 : Low Density Lipoprotein Cholesterol      78.9 mg/dL
+  2013-01-19 : Triglycerides                            111.6 mg/dL
+  2013-01-19 : Total Cholesterol                        168.9 mg/dL
+  2013-01-19 : Respiratory rate                         12.0 /min
+  2013-01-19 : Heart rate                               94.0 /min
+  2013-01-19 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2013-01-19 : Body Mass Index                          30.0 kg/m2
+  2013-01-19 : Body Weight                              85.5 kg
+  2013-01-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-01-19 : Body Height                              168.8 cm
+  2013-01-01 : Body temperature                         38.2 Cel
+  2012-05-26 : Tobacco smoking status NHIS              Never smoker 
+  2012-05-26 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2012-05-26 : Platelet distribution width [Entitic volume] in Blood by Automated count 413.3 fL
+  2012-05-26 : Platelets [#/volume] in Blood by Automated count 420.0 10*3/uL
+  2012-05-26 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2012-05-26 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2012-05-26 : MCH [Entitic mass] by Automated count    29.8 pg
+  2012-05-26 : MCV [Entitic volume] by Automated count  86.8 fL
+  2012-05-26 : Hematocrit [Volume Fraction] of Blood by Automated count 40.6 %
+  2012-05-26 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2012-05-26 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2012-05-26 : Leukocytes [#/volume] in Blood by Automated count 5.4 10*3/uL
+  2012-05-26 : Respiratory rate                         15.0 /min
+  2012-05-26 : Heart rate                               76.0 /min
+  2012-05-26 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2012-05-26 : Body Mass Index                          30.0 kg/m2
+  2012-05-26 : Body Weight                              85.5 kg
+  2012-05-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-05-26 : Body Height                              168.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-06-13 : Medication Reconciliation (procedure)
+  2018-06-09 : Medication Reconciliation (procedure)
+  2018-01-30 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2017-02-04 : Medication Reconciliation (procedure)
+  2013-01-19 : Medication Reconciliation (procedure)
+  2013-01-01 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2012-05-26 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-06-13 : Influenza, seasonal, injectable, preservative free
+  2018-02-17 : Influenza, seasonal, injectable, preservative free
+  2018-02-10 : Influenza, seasonal, injectable, preservative free
+  2017-02-04 : Influenza, seasonal, injectable, preservative free
+  2016-06-04 : Influenza, seasonal, injectable, preservative free
+  2014-05-31 : Td (adult) preservative free
+  2014-05-31 : Influenza, seasonal, injectable, preservative free
+  2013-01-19 : Influenza, seasonal, injectable, preservative free
+  2013-01-12 : Hep A, adult
+  2013-01-12 : Influenza, seasonal, injectable, preservative free
+  2012-05-26 : Hep A, adult
+  2012-05-26 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-06-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-04-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-03-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-02-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-01-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-07-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-06-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-02-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-02-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-01-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+2018-01-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-06-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-03-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2017-02-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-01-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2016-10-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-06-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-03-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-02-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-01-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-12-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-11-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-10-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-09-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-08-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-07-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-12-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-11-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-10-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-09-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-08-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-07-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-06-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-05-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-02-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-01-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-01-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-01-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Streptococcal sore throat (disorder)
+2012-08-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-07-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2012-05-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-10-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-07-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-06-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-05-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-04-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-03-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-02-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-01-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-12-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-09-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-08-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1999-09-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+1991-07-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+1990-05-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+1990-03-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,313 @@
+Nora Westermann
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 39
+Birth Date:          1980-12-18
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-03-11[STOPPED] : 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+  2013-03-30[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2013-03-16[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  1981-11-29[CURRENT] : Astemizole 10 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-11-23 - 2018-01-25 : Preeclampsia
+  2017-06-08 - 2018-01-25 : Normal pregnancy
+  2017-02-02 - 2017-02-09 : Fetus with unknown complication
+  2017-02-02 -            : Miscarriage in first trimester
+  2017-02-02 - 2017-02-09 : Normal pregnancy
+  2016-04-21 - 2016-06-02 : Preeclampsia
+  2015-11-05 - 2016-06-02 : Normal pregnancy
+  2013-03-30 - 2013-04-13 : Laceration of foot
+  2012-03-01 -            : Body mass index 30+ - obesity (finding)
+  2011-02-10 - 2011-03-10 : Normal pregnancy
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-06-08[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-11-05[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-03-30[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1981-11-19[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-08 : Lipid Panel
+           - Total Cholesterol                        161.4 mg/dL
+           - Triglycerides                            102.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.2 mg/dL
+           - High Density Lipoprotein Cholesterol     66.7 mg/dL
+  2015-03-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+           - MCV [Entitic volume] by Automated count  94.6 fL
+           - MCH [Entitic mass] by Automated count    30.4 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+           - Platelets [#/volume] in Blood by Automated count 345.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 336.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2015-03-05 : Lipid Panel
+           - Total Cholesterol                        199.5 mg/dL
+           - Triglycerides                            137.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.1 mg/dL
+           - High Density Lipoprotein Cholesterol     74.8 mg/dL
+  2012-03-01 : Lipid Panel
+           - Total Cholesterol                        167.7 mg/dL
+           - Triglycerides                            149.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      73.5 mg/dL
+           - High Density Lipoprotein Cholesterol     64.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-08 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-08 : High Density Lipoprotein Cholesterol     66.7 mg/dL
+  2018-03-08 : Low Density Lipoprotein Cholesterol      74.2 mg/dL
+  2018-03-08 : Triglycerides                            102.1 mg/dL
+  2018-03-08 : Total Cholesterol                        161.4 mg/dL
+  2018-03-08 : Respiratory rate                         14.0 /min
+  2018-03-08 : Heart rate                               72.0 /min
+  2018-03-08 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  133.0 mm[Hg]
+  2018-03-08 : Body Mass Index                          28.0 kg/m2
+  2018-03-08 : Body Weight                              71.5 kg
+  2018-03-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-03-08 : Body Height                              159.7 cm
+  2015-03-05 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2015-03-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 336.0 fL
+  2015-03-05 : Platelets [#/volume] in Blood by Automated count 345.5 10*3/uL
+  2015-03-05 : Erythrocyte distribution width [Entitic volume] by Automated count 41.9 fL
+  2015-03-05 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2015-03-05 : MCH [Entitic mass] by Automated count    30.4 pg
+  2015-03-05 : MCV [Entitic volume] by Automated count  94.6 fL
+  2015-03-05 : Hematocrit [Volume Fraction] of Blood by Automated count 41.9 %
+  2015-03-05 : Hemoglobin [Mass/volume] in Blood        12.7 g/dL
+  2015-03-05 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2015-03-05 : Leukocytes [#/volume] in Blood by Automated count 9.2 10*3/uL
+  2015-03-05 : High Density Lipoprotein Cholesterol     74.8 mg/dL
+  2015-03-05 : Low Density Lipoprotein Cholesterol      97.1 mg/dL
+  2015-03-05 : Triglycerides                            137.8 mg/dL
+  2015-03-05 : Total Cholesterol                        199.5 mg/dL
+  2015-03-05 : Respiratory rate                         13.0 /min
+  2015-03-05 : Heart rate                               90.0 /min
+  2015-03-05 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2015-03-05 : Body Mass Index                          29.1 kg/m2
+  2015-03-05 : Body Weight                              74.3 kg
+  2015-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-03-05 : Body Height                              159.7 cm
+  2012-03-01 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-01 : High Density Lipoprotein Cholesterol     64.4 mg/dL
+  2012-03-01 : Low Density Lipoprotein Cholesterol      73.5 mg/dL
+  2012-03-01 : Triglycerides                            149.0 mg/dL
+  2012-03-01 : Total Cholesterol                        167.7 mg/dL
+  2012-03-01 : Respiratory rate                         12.0 /min
+  2012-03-01 : Heart rate                               69.0 /min
+  2012-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2012-03-01 : Body Mass Index                          30.0 kg/m2
+  2012-03-01 : Body Weight                              76.5 kg
+  2012-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-03-01 : Body Height                              159.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-12 : Insertion of intrauterine contraceptive device
+  2018-03-08 : Medication Reconciliation (procedure)
+  2018-03-08 : Depression screening
+  2018-03-08 : Physical examination following birth
+  2018-01-25 : Childbirth for Normal pregnancy
+  2018-01-25 : Medical induction of labor for Normal pregnancy
+  2018-01-18 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-01-11 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-01-04 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-21 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-21 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-11-23 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-26 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-10-26 : Urine screening for glucose for Normal pregnancy
+  2017-10-26 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-10-26 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-09-28 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-31 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-03 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-03 : Alpha-fetoprotein test for Normal pregnancy
+  2017-08-03 : Fetal anatomy study for Normal pregnancy
+  2017-07-06 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-07-06 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-08 : Physical examination of mother for Normal pregnancy
+  2017-06-08 : Urine protein test for Normal pregnancy
+  2017-06-08 : Skin test for tuberculosis for Normal pregnancy
+  2017-06-08 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-06-08 : Rubella screening for Normal pregnancy
+  2017-06-08 : Hepatitis C antibody test for Normal pregnancy
+  2017-06-08 : Urine screening test for diabetes for Normal pregnancy
+  2017-06-08 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-06-08 : Urine culture for Normal pregnancy
+  2017-06-08 : Syphilis infection test for Normal pregnancy
+  2017-06-08 : Gonorrhea infection test for Normal pregnancy
+  2017-06-08 : Chlamydia antigen test for Normal pregnancy
+  2017-06-08 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-06-08 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-06-08 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-06-08 : Blood typing, RH typing for Normal pregnancy
+  2017-06-08 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-08 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-06-08 : Standard pregnancy test for Normal pregnancy
+  2017-02-09 : Depression screening for Normal pregnancy
+  2017-02-09 : Physical examination for Normal pregnancy
+  2017-02-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-02-02 : Standard pregnancy test for Normal pregnancy
+  2016-07-14 : Depression screening
+  2016-07-14 : Physical examination following birth
+  2016-06-02 : Childbirth for Normal pregnancy
+  2016-06-02 : Episiotomy for Normal pregnancy
+  2016-05-19 : Auscultation of the fetal heart for Normal pregnancy
+  2016-05-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-05-19 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-04-21 : Auscultation of the fetal heart for Normal pregnancy
+  2016-04-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-03-24 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-03-24 : Urine screening for glucose for Normal pregnancy
+  2016-03-24 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-03-24 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-02-25 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-28 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-31 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-12-31 : Alpha-fetoprotein test for Normal pregnancy
+  2015-12-31 : Fetal anatomy study for Normal pregnancy
+  2015-12-03 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-12-03 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-05 : Physical examination of mother for Normal pregnancy
+  2015-11-05 : Urine protein test for Normal pregnancy
+  2015-11-05 : Skin test for tuberculosis for Normal pregnancy
+  2015-11-05 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-11-05 : Rubella screening for Normal pregnancy
+  2015-11-05 : Hepatitis C antibody test for Normal pregnancy
+  2015-11-05 : Urine screening test for diabetes for Normal pregnancy
+  2015-11-05 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-11-05 : Urine culture for Normal pregnancy
+  2015-11-05 : Syphilis infection test for Normal pregnancy
+  2015-11-05 : Gonorrhea infection test for Normal pregnancy
+  2015-11-05 : Chlamydia antigen test for Normal pregnancy
+  2015-11-05 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-11-05 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-11-05 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-11-05 : Blood typing, RH typing for Normal pregnancy
+  2015-11-05 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-05 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-11-05 : Standard pregnancy test for Normal pregnancy
+  2015-06-25 : Intramuscular injection
+  2015-03-26 : Intramuscular injection
+  2014-12-25 : Intramuscular injection
+  2014-09-25 : Intramuscular injection
+  2014-06-26 : Intramuscular injection
+  2014-03-27 : Intramuscular injection
+  2013-12-26 : Intramuscular injection
+  2013-09-26 : Intramuscular injection
+  2013-06-27 : Intramuscular injection
+  2013-03-30 : Suture open wound for Laceration of foot
+  2013-03-16 : Intramuscular injection
+  2011-03-10 : Depression screening for Normal pregnancy
+  2011-03-10 : Physical exam following abortion for Normal pregnancy
+  2011-03-10 : Pregnancy termination care for Normal pregnancy
+  2011-02-24 : Induced termination of pregnancy for Normal pregnancy
+  2011-02-24 : Counseling for termination of pregnancy for Normal pregnancy
+  2011-02-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-02-10 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-08 : Influenza, seasonal, injectable, preservative free
+  2015-03-05 : Influenza, seasonal, injectable, preservative free
+  2012-03-01 : Td (adult) preservative free
+  2012-03-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-03-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-03-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-03-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-01-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2018-01-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2018-01-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2018-01-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-12-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-11-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-10-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-09-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-08-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-08-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-07-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-06-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-02-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Fetus with unknown complication
+2017-02-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-07-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-06-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-05-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-04-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-03-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-02-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-01-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-12-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-12-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-11-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-06-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-03-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-03-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-12-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-09-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-06-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-03-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-03-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-12-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-09-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-06-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-03-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-03-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-03-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-03-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-02-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-02-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+1981-11-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1981-11-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

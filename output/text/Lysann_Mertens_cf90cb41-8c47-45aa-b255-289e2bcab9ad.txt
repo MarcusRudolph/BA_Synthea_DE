@@ -1,0 +1,646 @@
+Lysann Mertens
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 81
+Birth Date:          1938-11-14
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-12-30[CURRENT] : Amlodipine 5 MG Oral Tablet
+  2019-12-30[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2019-12-30[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2019-12-30[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-12-30[CURRENT] : Clopidogrel 75 MG Oral Tablet
+  2018-12-24[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2018-12-24[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2018-12-24[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2018-12-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-12-24[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2018-12-24[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2018-12-24[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2018-12-24[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2018-12-24[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2017-12-18[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2016-12-12[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2015-12-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-12-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-03-07[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2013-11-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-11-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-11-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-11-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2009-11-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-10-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-10-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2006-10-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-10-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2004-10-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2003-09-29[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2002-09-23[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2001-09-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2000-09-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1999-09-06[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1998-08-31[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1997-08-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1996-08-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1995-08-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1994-08-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1993-08-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1992-07-27[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1991-07-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1990-07-16[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1989-07-10[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1988-07-04[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1987-06-29[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1986-06-23[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1985-06-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1984-06-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1983-06-06[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1982-05-31[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1981-05-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1980-05-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1979-05-14[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1978-05-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1978-05-08[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1977-05-02[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1976-04-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1975-11-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1975-04-21[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1974-04-15[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1973-04-09[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1972-04-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1971-03-29[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1970-03-23[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1969-03-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1968-03-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1967-03-06[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1966-02-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1965-02-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1965-02-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1964-02-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1963-02-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1962-02-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1961-01-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1960-01-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1959-03-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1959-01-19[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1958-01-13[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  1957-01-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-12-24 -            : Coronary Heart Disease
+  2016-01-28 - 2016-02-09 : Acute viral pharyngitis (disorder)
+  2014-03-07 - 2014-03-21 : Acute bronchitis (disorder)
+  2013-08-28 - 2013-09-18 : Viral sinusitis (disorder)
+  2001-10-29 -            : Malignant neoplasm of breast (disorder)
+  1978-05-08 -            : Anemia (disorder)
+  1977-05-02 -            : Prediabetes
+  1957-01-07 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2014-03-07[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1977-05-02[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1957-01-07[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-12-30 : Basic Metabolic Panel
+           - Glucose                                  71.5 mg/dL
+           - Urea Nitrogen                            16.1 mg/dL
+           - Creatinine                               0.5 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   142.9 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 110.9 mmol/L
+           - Carbon Dioxide                           24.0 mmol/L
+  2018-12-24 : Basic Metabolic Panel
+           - Glucose                                  86.9 mg/dL
+           - Urea Nitrogen                            18.3 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   143.6 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 107.4 mmol/L
+           - Carbon Dioxide                           26.7 mmol/L
+  2017-12-18 : Lipid Panel
+           - Total Cholesterol                        174.0 mg/dL
+           - Triglycerides                            130.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      84.8 mg/dL
+           - High Density Lipoprotein Cholesterol     63.2 mg/dL
+  2017-12-18 : Basic Metabolic Panel
+           - Glucose                                  89.6 mg/dL
+           - Urea Nitrogen                            10.6 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.4 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 108.4 mmol/L
+           - Carbon Dioxide                           23.7 mmol/L
+  2016-12-12 : Basic Metabolic Panel
+           - Glucose                                  83.0 mg/dL
+           - Urea Nitrogen                            19.5 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   142.2 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 109.3 mmol/L
+           - Carbon Dioxide                           28.8 mmol/L
+  2015-12-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.0 %
+           - MCV [Entitic volume] by Automated count  92.1 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+           - Platelets [#/volume] in Blood by Automated count 174.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 320.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2015-12-07 : Basic Metabolic Panel
+           - Glucose                                  93.5 mg/dL
+           - Urea Nitrogen                            17.0 mg/dL
+           - Creatinine                               0.5 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   136.8 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 101.8 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+  2014-12-01 : Lipid Panel
+           - Total Cholesterol                        198.2 mg/dL
+           - Triglycerides                            141.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      98.3 mg/dL
+           - High Density Lipoprotein Cholesterol     71.6 mg/dL
+  2014-12-01 : Basic Metabolic Panel
+           - Glucose                                  67.9 mg/dL
+           - Urea Nitrogen                            17.6 mg/dL
+           - Creatinine                               0.7 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   142.0 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 107.6 mmol/L
+           - Carbon Dioxide                           20.5 mmol/L
+  2013-11-25 : Basic Metabolic Panel
+           - Glucose                                  72.7 mg/dL
+           - Urea Nitrogen                            18.3 mg/dL
+           - Creatinine                               0.5 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   139.3 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 103.5 mmol/L
+           - Carbon Dioxide                           21.9 mmol/L
+  2012-11-19 : Basic Metabolic Panel
+           - Glucose                                  84.4 mg/dL
+           - Urea Nitrogen                            11.4 mg/dL
+           - Creatinine                               0.5 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 102.9 mmol/L
+           - Carbon Dioxide                           22.1 mmol/L
+  2011-11-14 : Lipid Panel
+           - Total Cholesterol                        160.5 mg/dL
+           - Triglycerides                            109.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      60.5 mg/dL
+           - High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2011-11-14 : Basic Metabolic Panel
+           - Glucose                                  84.2 mg/dL
+           - Urea Nitrogen                            9.3 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 101.6 mmol/L
+           - Carbon Dioxide                           23.0 mmol/L
+  2010-11-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.5 %
+           - MCV [Entitic volume] by Automated count  82.4 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+           - Platelets [#/volume] in Blood by Automated count 189.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 513.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2010-11-08 : Basic Metabolic Panel
+           - Glucose                                  67.1 mg/dL
+           - Urea Nitrogen                            15.3 mg/dL
+           - Creatinine                               0.6 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           20.7 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-12-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2019-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2019-12-30 : Carbon Dioxide                           24.0 mmol/L
+  2019-12-30 : Chloride                                 110.9 mmol/L
+  2019-12-30 : Potassium                                4.3 mmol/L
+  2019-12-30 : Sodium                                   142.9 mmol/L
+  2019-12-30 : Calcium                                  9.3 mg/dL
+  2019-12-30 : Creatinine                               0.5 mg/dL
+  2019-12-30 : Urea Nitrogen                            16.1 mg/dL
+  2019-12-30 : Glucose                                  71.5 mg/dL
+  2019-12-30 : Respiratory rate                         13.0 /min
+  2019-12-30 : Heart rate                               97.0 /min
+  2019-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2019-12-30 : Body Mass Index                          27.6 kg/m2
+  2019-12-30 : Body Weight                              69.5 kg
+  2019-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-12-30 : Body Height                              158.8 cm
+  2018-12-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2018-12-24 : Tobacco smoking status NHIS              Never smoker 
+  2018-12-24 : Carbon Dioxide                           26.7 mmol/L
+  2018-12-24 : Chloride                                 107.4 mmol/L
+  2018-12-24 : Potassium                                4.1 mmol/L
+  2018-12-24 : Sodium                                   143.6 mmol/L
+  2018-12-24 : Calcium                                  9.9 mg/dL
+  2018-12-24 : Creatinine                               0.8 mg/dL
+  2018-12-24 : Urea Nitrogen                            18.3 mg/dL
+  2018-12-24 : Glucose                                  86.9 mg/dL
+  2018-12-24 : Respiratory rate                         14.0 /min
+  2018-12-24 : Heart rate                               98.0 /min
+  2018-12-24 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2018-12-24 : Body Mass Index                          27.6 kg/m2
+  2018-12-24 : Body Weight                              69.5 kg
+  2018-12-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-12-24 : Body Height                              158.8 cm
+  2017-12-18 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2017-12-18 : Tobacco smoking status NHIS              Never smoker 
+  2017-12-18 : High Density Lipoprotein Cholesterol     63.2 mg/dL
+  2017-12-18 : Low Density Lipoprotein Cholesterol      84.8 mg/dL
+  2017-12-18 : Triglycerides                            130.4 mg/dL
+  2017-12-18 : Total Cholesterol                        174.0 mg/dL
+  2017-12-18 : Carbon Dioxide                           23.7 mmol/L
+  2017-12-18 : Chloride                                 108.4 mmol/L
+  2017-12-18 : Potassium                                4.6 mmol/L
+  2017-12-18 : Sodium                                   142.4 mmol/L
+  2017-12-18 : Calcium                                  8.6 mg/dL
+  2017-12-18 : Creatinine                               0.7 mg/dL
+  2017-12-18 : Urea Nitrogen                            10.6 mg/dL
+  2017-12-18 : Glucose                                  89.6 mg/dL
+  2017-12-18 : Respiratory rate                         14.0 /min
+  2017-12-18 : Heart rate                               79.0 /min
+  2017-12-18 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2017-12-18 : Body Mass Index                          27.6 kg/m2
+  2017-12-18 : Body Weight                              69.5 kg
+  2017-12-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-12-18 : Body Height                              158.8 cm
+  2016-12-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2016-12-12 : Tobacco smoking status NHIS              Never smoker 
+  2016-12-12 : Carbon Dioxide                           28.8 mmol/L
+  2016-12-12 : Chloride                                 109.3 mmol/L
+  2016-12-12 : Potassium                                4.7 mmol/L
+  2016-12-12 : Sodium                                   142.2 mmol/L
+  2016-12-12 : Calcium                                  9.1 mg/dL
+  2016-12-12 : Creatinine                               0.8 mg/dL
+  2016-12-12 : Urea Nitrogen                            19.5 mg/dL
+  2016-12-12 : Glucose                                  83.0 mg/dL
+  2016-12-12 : Respiratory rate                         14.0 /min
+  2016-12-12 : Heart rate                               100.0 /min
+  2016-12-12 : Blood Pressure
+           - Diastolic Blood Pressure                 90.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2016-12-12 : Body Mass Index                          27.6 kg/m2
+  2016-12-12 : Body Weight                              69.5 kg
+  2016-12-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-12-12 : Body Height                              158.8 cm
+  2016-01-28 : Body temperature                         38.0 Cel
+  2015-12-07 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2015-12-07 : Tobacco smoking status NHIS              Never smoker 
+  2015-12-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2015-12-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 320.3 fL
+  2015-12-07 : Platelets [#/volume] in Blood by Automated count 174.6 10*3/uL
+  2015-12-07 : Erythrocyte distribution width [Entitic volume] by Automated count 41.2 fL
+  2015-12-07 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  2015-12-07 : MCH [Entitic mass] by Automated count    32.9 pg
+  2015-12-07 : MCV [Entitic volume] by Automated count  92.1 fL
+  2015-12-07 : Hematocrit [Volume Fraction] of Blood by Automated count 47.0 %
+  2015-12-07 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2015-12-07 : Erythrocytes [#/volume] in Blood by Automated count 5.5 10*6/uL
+  2015-12-07 : Leukocytes [#/volume] in Blood by Automated count 9.0 10*3/uL
+  2015-12-07 : Carbon Dioxide                           24.1 mmol/L
+  2015-12-07 : Chloride                                 101.8 mmol/L
+  2015-12-07 : Potassium                                4.3 mmol/L
+  2015-12-07 : Sodium                                   136.8 mmol/L
+  2015-12-07 : Calcium                                  9.3 mg/dL
+  2015-12-07 : Creatinine                               0.5 mg/dL
+  2015-12-07 : Urea Nitrogen                            17.0 mg/dL
+  2015-12-07 : Glucose                                  93.5 mg/dL
+  2015-12-07 : Respiratory rate                         15.0 /min
+  2015-12-07 : Heart rate                               90.0 /min
+  2015-12-07 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2015-12-07 : Body Mass Index                          27.6 kg/m2
+  2015-12-07 : Body Weight                              69.5 kg
+  2015-12-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-12-07 : Body Height                              158.8 cm
+  2014-12-01 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2014-12-01 : Tobacco smoking status NHIS              Never smoker 
+  2014-12-01 : High Density Lipoprotein Cholesterol     71.6 mg/dL
+  2014-12-01 : Low Density Lipoprotein Cholesterol      98.3 mg/dL
+  2014-12-01 : Triglycerides                            141.9 mg/dL
+  2014-12-01 : Total Cholesterol                        198.2 mg/dL
+  2014-12-01 : Carbon Dioxide                           20.5 mmol/L
+  2014-12-01 : Chloride                                 107.6 mmol/L
+  2014-12-01 : Potassium                                4.0 mmol/L
+  2014-12-01 : Sodium                                   142.0 mmol/L
+  2014-12-01 : Calcium                                  9.5 mg/dL
+  2014-12-01 : Creatinine                               0.7 mg/dL
+  2014-12-01 : Urea Nitrogen                            17.6 mg/dL
+  2014-12-01 : Glucose                                  67.9 mg/dL
+  2014-12-01 : Respiratory rate                         15.0 /min
+  2014-12-01 : Heart rate                               78.0 /min
+  2014-12-01 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2014-12-01 : Body Mass Index                          27.6 kg/m2
+  2014-12-01 : Body Weight                              69.5 kg
+  2014-12-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-12-01 : Body Height                              158.8 cm
+  2013-11-25 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2013-11-25 : Tobacco smoking status NHIS              Never smoker 
+  2013-11-25 : Carbon Dioxide                           21.9 mmol/L
+  2013-11-25 : Chloride                                 103.5 mmol/L
+  2013-11-25 : Potassium                                5.0 mmol/L
+  2013-11-25 : Sodium                                   139.3 mmol/L
+  2013-11-25 : Calcium                                  10.2 mg/dL
+  2013-11-25 : Creatinine                               0.5 mg/dL
+  2013-11-25 : Urea Nitrogen                            18.3 mg/dL
+  2013-11-25 : Glucose                                  72.7 mg/dL
+  2013-11-25 : Respiratory rate                         14.0 /min
+  2013-11-25 : Heart rate                               82.0 /min
+  2013-11-25 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2013-11-25 : Body Mass Index                          27.6 kg/m2
+  2013-11-25 : Body Weight                              69.5 kg
+  2013-11-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-11-25 : Body Height                              158.8 cm
+  2012-11-19 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2012-11-19 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-19 : Carbon Dioxide                           22.1 mmol/L
+  2012-11-19 : Chloride                                 102.9 mmol/L
+  2012-11-19 : Potassium                                4.1 mmol/L
+  2012-11-19 : Sodium                                   137.7 mmol/L
+  2012-11-19 : Calcium                                  9.0 mg/dL
+  2012-11-19 : Creatinine                               0.5 mg/dL
+  2012-11-19 : Urea Nitrogen                            11.4 mg/dL
+  2012-11-19 : Glucose                                  84.4 mg/dL
+  2012-11-19 : Respiratory rate                         14.0 /min
+  2012-11-19 : Heart rate                               94.0 /min
+  2012-11-19 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2012-11-19 : Body Mass Index                          27.6 kg/m2
+  2012-11-19 : Body Weight                              69.5 kg
+  2012-11-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2012-11-19 : Body Height                              158.8 cm
+  2011-11-14 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2011-11-14 : Tobacco smoking status NHIS              Never smoker 
+  2011-11-14 : High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2011-11-14 : Low Density Lipoprotein Cholesterol      60.5 mg/dL
+  2011-11-14 : Triglycerides                            109.4 mg/dL
+  2011-11-14 : Total Cholesterol                        160.5 mg/dL
+  2011-11-14 : Carbon Dioxide                           23.0 mmol/L
+  2011-11-14 : Chloride                                 101.6 mmol/L
+  2011-11-14 : Potassium                                4.0 mmol/L
+  2011-11-14 : Sodium                                   141.7 mmol/L
+  2011-11-14 : Calcium                                  9.7 mg/dL
+  2011-11-14 : Creatinine                               0.6 mg/dL
+  2011-11-14 : Urea Nitrogen                            9.3 mg/dL
+  2011-11-14 : Glucose                                  84.2 mg/dL
+  2011-11-14 : Respiratory rate                         15.0 /min
+  2011-11-14 : Heart rate                               93.0 /min
+  2011-11-14 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2011-11-14 : Body Mass Index                          27.6 kg/m2
+  2011-11-14 : Body Weight                              69.5 kg
+  2011-11-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-11-14 : Body Height                              158.8 cm
+  2010-11-08 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2010-11-08 : Tobacco smoking status NHIS              Never smoker 
+  2010-11-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2010-11-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 513.0 fL
+  2010-11-08 : Platelets [#/volume] in Blood by Automated count 189.2 10*3/uL
+  2010-11-08 : Erythrocyte distribution width [Entitic volume] by Automated count 39.9 fL
+  2010-11-08 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2010-11-08 : MCH [Entitic mass] by Automated count    30.0 pg
+  2010-11-08 : MCV [Entitic volume] by Automated count  82.4 fL
+  2010-11-08 : Hematocrit [Volume Fraction] of Blood by Automated count 37.5 %
+  2010-11-08 : Hemoglobin [Mass/volume] in Blood        17.3 g/dL
+  2010-11-08 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2010-11-08 : Leukocytes [#/volume] in Blood by Automated count 8.5 10*3/uL
+  2010-11-08 : Carbon Dioxide                           20.7 mmol/L
+  2010-11-08 : Chloride                                 108.2 mmol/L
+  2010-11-08 : Potassium                                4.3 mmol/L
+  2010-11-08 : Sodium                                   139.5 mmol/L
+  2010-11-08 : Calcium                                  9.9 mg/dL
+  2010-11-08 : Creatinine                               0.6 mg/dL
+  2010-11-08 : Urea Nitrogen                            15.3 mg/dL
+  2010-11-08 : Glucose                                  67.1 mg/dL
+  2010-11-08 : Respiratory rate                         12.0 /min
+  2010-11-08 : Heart rate                               62.0 /min
+  2010-11-08 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2010-11-08 : Body Mass Index                          27.6 kg/m2
+  2010-11-08 : Body Weight                              69.5 kg
+  2010-11-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2010-11-08 : Body Height                              158.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-02-01 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2020-02-01 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2020-02-01 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2019-12-30 : Medication Reconciliation (procedure)
+  2019-03-08 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2019-03-08 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2019-03-08 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2018-12-24 : Medication Reconciliation (procedure)
+  2018-11-07 : Colonoscopy
+  2018-03-13 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2018-03-13 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2018-03-13 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2017-12-18 : Medication Reconciliation (procedure)
+  2017-04-17 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2017-04-17 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2017-04-17 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2016-04-22 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2016-04-22 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2016-04-22 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2015-05-28 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2015-05-28 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2015-05-28 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2014-12-01 : Medication Reconciliation (procedure)
+  2014-06-02 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2014-06-02 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2014-06-02 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2014-03-07 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2013-11-25 : Medication Reconciliation (procedure)
+  2013-11-08 : Colonoscopy
+  2013-07-07 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2013-07-07 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2013-07-07 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2012-11-19 : Medication Reconciliation (procedure)
+  2012-08-11 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2012-08-11 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2012-08-11 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2011-08-17 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2011-08-17 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2011-08-17 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2010-09-21 : Cytopathology procedure, preparation of smear, genital source (procedure) for Malignant neoplasm of breast (disorder)
+  2010-09-21 : Manual pelvic examination (procedure) for Malignant neoplasm of breast (disorder)
+  2010-09-21 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-12-30 : Td (adult) preservative free
+  2019-12-30 : Influenza, seasonal, injectable, preservative free
+  2018-12-24 : Influenza, seasonal, injectable, preservative free
+  2017-12-18 : Influenza, seasonal, injectable, preservative free
+  2016-12-12 : Influenza, seasonal, injectable, preservative free
+  2015-12-07 : Influenza, seasonal, injectable, preservative free
+  2014-12-01 : Influenza, seasonal, injectable, preservative free
+  2013-11-25 : Influenza, seasonal, injectable, preservative free
+  2012-11-19 : Influenza, seasonal, injectable, preservative free
+  2011-11-14 : Influenza, seasonal, injectable, preservative free
+  2010-11-08 : Td (adult) preservative free
+  2010-11-08 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-02-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2020-02-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2020-02-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2019-12-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-03-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2019-03-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2019-03-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2018-12-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-11-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-03-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2018-03-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2018-03-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2017-12-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-04-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2017-04-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2017-04-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2016-12-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-04-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2016-04-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2016-04-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2016-01-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2015-12-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-05-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2015-05-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2015-05-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2014-12-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-06-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2014-06-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2014-06-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2014-03-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+2013-11-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-11-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-08-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2013-07-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2013-07-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2013-07-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2012-11-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-08-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2012-08-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2012-08-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2011-11-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-08-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2011-08-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2011-08-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2010-11-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-09-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2010-09-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2010-09-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2009-11-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2008-10-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2007-10-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2006-10-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2005-10-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2004-10-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2003-09-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2002-09-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2001-10-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2001-09-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2000-09-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1999-09-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1998-08-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1997-08-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1996-08-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1995-08-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1994-08-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1993-08-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1992-07-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1991-07-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1990-07-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1989-07-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1988-07-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1987-06-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1986-06-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1985-06-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1984-06-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1983-06-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1982-05-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1981-05-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1980-05-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1979-05-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1978-05-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Anemia (disorder)
+1978-05-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1977-05-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1976-04-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1975-11-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1975-04-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1974-04-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1973-04-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1972-04-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1971-03-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1970-03-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1969-03-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1968-03-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1967-03-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1966-02-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1965-02-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1965-02-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1964-02-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1963-02-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1962-02-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1961-01-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1960-01-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1959-03-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+1959-01-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1958-01-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1957-01-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

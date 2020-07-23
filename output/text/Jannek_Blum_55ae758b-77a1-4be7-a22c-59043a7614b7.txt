@@ -1,0 +1,481 @@
+Jannek Blum
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 19
+Birth Date:          2000-08-31
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  2001-12-11 -            : Shellfish allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2017-03-01[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2016-05-31[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2016-02-07[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-11-25[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-09-21[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-07-02[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-05-19[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-04-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2014-12-03[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-08-11[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2012-08-01[STOPPED] : Penicillin V Potassium 250 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2010-10-13[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2001-12-11[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  2001-12-11[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-09-02 -            : Drug overdose
+  2017-07-31 - 2017-08-09 : Acute viral pharyngitis (disorder)
+  2017-03-01 - 2017-03-29 : Sprain of ankle
+  2015-07-02 -            : Chronic pain
+  2015-04-05 -            : Impacted molars
+  2014-12-03 -            : Chronic intractable migraine without aura
+  2013-08-11 - 2013-08-18 : Viral sinusitis (disorder)
+  2012-09-12 - 2012-09-22 : Acute viral pharyngitis (disorder)
+  2012-08-01 - 2012-08-10 : Streptococcal sore throat (disorder)
+  2010-10-13 - 2010-11-03 : Sprain of ankle
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2017-09-02[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  2017-03-01[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2013-09-05[STOPPED] : Allergic disorder monitoring
+                         Activity: Hyposensitization to allergens (procedure)
+  2010-10-13[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2001-11-24[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-10-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.3 %
+           - MCV [Entitic volume] by Automated count  82.1 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+           - Platelets [#/volume] in Blood by Automated count 238.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 399.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2011-09-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+           - MCV [Entitic volume] by Automated count  93.8 fL
+           - MCH [Entitic mass] by Automated count    31.5 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 406.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 465.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-10-31 : Tobacco smoking status NHIS              Never smoker 
+  2019-10-31 : Respiratory rate                         16.0 /min
+  2019-10-31 : Heart rate                               90.0 /min
+  2019-10-31 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2019-10-31 : Body mass index (BMI) [Percentile] Per age and gender 84.2 %
+  2019-10-31 : Body Mass Index                          26.3 kg/m2
+  2019-10-31 : Body Weight                              89.4 kg
+  2019-10-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-10-31 : Body Height                              184.3 cm
+  2018-10-25 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-25 : Respiratory rate                         16.0 /min
+  2018-10-25 : Heart rate                               77.0 /min
+  2018-10-25 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2018-10-25 : Body mass index (BMI) [Percentile] Per age and gender 83.3 %
+  2018-10-25 : Body Mass Index                          25.4 kg/m2
+  2018-10-25 : Body Weight                              85.9 kg
+  2018-10-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-10-25 : Body Height                              183.9 cm
+  2017-10-19 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-19 : Respiratory rate                         12.0 /min
+  2017-10-19 : Heart rate                               77.0 /min
+  2017-10-19 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2017-10-19 : Body mass index (BMI) [Percentile] Per age and gender 77.0 %
+  2017-10-19 : Body Mass Index                          23.8 kg/m2
+  2017-10-19 : Body Weight                              79.7 kg
+  2017-10-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-10-19 : Body Height                              183.1 cm
+  2017-08-10 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-10 : Respiratory rate                         14.0 /min
+  2017-08-10 : Heart rate                               92.0 /min
+  2017-08-10 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2017-08-10 : Body mass index (BMI) [Percentile] Per age and gender 75.5 %
+  2017-08-10 : Body Mass Index                          23.4 kg/m2
+  2017-08-10 : Body Weight                              78.5 kg
+  2017-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-08-10 : Body Height                              183.0 cm
+  2017-07-31 : Body temperature                         37.9 Cel
+  2017-03-09 : Latex IgE Ab in Serum                    0.0 kU/L
+  2017-03-09 : Honey bee IgE Ab in Serum                0.3 kU/L
+  2017-03-09 : Cladosporium herbarum IgE Ab in Serum    0.3 kU/L
+  2017-03-09 : American house dust mite IgE Ab in Serum 0.0 kU/L
+  2017-03-09 : Cat dander IgE Ab in Serum               0.2 kU/L
+  2017-03-09 : Common Ragweed IgE Ab in Serum           0.2 kU/L
+  2017-03-09 : White oak IgE Ab in Serum                0.2 kU/L
+  2017-03-09 : Cow milk IgE Ab in Serum                 0.3 kU/L
+  2017-03-09 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2017-03-09 : Egg white IgE Ab in Serum                0.1 kU/L
+  2017-03-09 : Wheat IgE Ab in Serum                    0.1 kU/L
+  2017-03-09 : Shrimp IgE Ab in Serum                   35.4 kU/L
+  2017-03-09 : Codfish IgE Ab in Serum                  0.2 kU/L
+  2017-03-09 : Walnut IgE Ab in Serum                   0.1 kU/L
+  2017-03-09 : Peanut IgE Ab in Serum                   0.3 kU/L
+  2016-10-13 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  2016-10-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 399.3 fL
+  2016-10-13 : Platelets [#/volume] in Blood by Automated count 238.8 10*3/uL
+  2016-10-13 : Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+  2016-10-13 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2016-10-13 : MCH [Entitic mass] by Automated count    28.5 pg
+  2016-10-13 : MCV [Entitic volume] by Automated count  82.1 fL
+  2016-10-13 : Hematocrit [Volume Fraction] of Blood by Automated count 45.3 %
+  2016-10-13 : Hemoglobin [Mass/volume] in Blood        15.6 g/dL
+  2016-10-13 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2016-10-13 : Leukocytes [#/volume] in Blood by Automated count 7.6 10*3/uL
+  2016-10-13 : Respiratory rate                         14.0 /min
+  2016-10-13 : Heart rate                               63.0 /min
+  2016-10-13 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2016-10-13 : Body mass index (BMI) [Percentile] Per age and gender 62.3 %
+  2016-10-13 : Body Mass Index                          21.5 kg/m2
+  2016-10-13 : Body Weight                              71.1 kg
+  2016-10-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-10-13 : Body Height                              181.7 cm
+  2016-07-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2016-05-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2016-02-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2015-11-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2015-10-08 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-08 : Respiratory rate                         15.0 /min
+  2015-10-08 : Heart rate                               90.0 /min
+  2015-10-08 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2015-10-08 : Body mass index (BMI) [Percentile] Per age and gender 46.5 %
+  2015-10-08 : Body Mass Index                          19.7 kg/m2
+  2015-10-08 : Body Weight                              62.9 kg
+  2015-10-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-10-08 : Body Height                              178.7 cm
+  2015-09-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2015-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2015-05-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2015-04-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2014-12-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2014-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-02 : Respiratory rate                         12.0 /min
+  2014-10-02 : Heart rate                               67.0 /min
+  2014-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2014-10-02 : Body mass index (BMI) [Percentile] Per age and gender 48.1 %
+  2014-10-02 : Body Mass Index                          19.1 kg/m2
+  2014-10-02 : Body Weight                              57.3 kg
+  2014-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-10-02 : Body Height                              173.2 cm
+  2013-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-26 : Respiratory rate                         14.0 /min
+  2013-09-26 : Heart rate                               94.0 /min
+  2013-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2013-09-26 : Body mass index (BMI) [Percentile] Per age and gender 52.7 %
+  2013-09-26 : Body Mass Index                          18.6 kg/m2
+  2013-09-26 : Body Weight                              50.7 kg
+  2013-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-09-26 : Body Height                              165.0 cm
+  2013-09-05 : Latex IgE Ab in Serum                    0.3 kU/L
+  2013-09-05 : Honey bee IgE Ab in Serum                0.2 kU/L
+  2013-09-05 : Cladosporium herbarum IgE Ab in Serum    0.2 kU/L
+  2013-09-05 : American house dust mite IgE Ab in Serum 0.3 kU/L
+  2013-09-05 : Cat dander IgE Ab in Serum               0.2 kU/L
+  2013-09-05 : Common Ragweed IgE Ab in Serum           0.1 kU/L
+  2013-09-05 : White oak IgE Ab in Serum                0.0 kU/L
+  2013-09-05 : Cow milk IgE Ab in Serum                 0.1 kU/L
+  2013-09-05 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2013-09-05 : Egg white IgE Ab in Serum                0.2 kU/L
+  2013-09-05 : Wheat IgE Ab in Serum                    0.2 kU/L
+  2013-09-05 : Shrimp IgE Ab in Serum                   41.4 kU/L
+  2013-09-05 : Codfish IgE Ab in Serum                  0.3 kU/L
+  2013-09-05 : Walnut IgE Ab in Serum                   0.2 kU/L
+  2013-09-05 : Peanut IgE Ab in Serum                   0.2 kU/L
+  2012-09-20 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-20 : Respiratory rate                         14.0 /min
+  2012-09-20 : Heart rate                               88.0 /min
+  2012-09-20 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2012-09-20 : Body mass index (BMI) [Percentile] Per age and gender 66.8 %
+  2012-09-20 : Body Mass Index                          19.0 kg/m2
+  2012-09-20 : Body Weight                              47.0 kg
+  2012-09-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-09-20 : Body Height                              157.5 cm
+  2012-09-12 : Body temperature                         37.7 Cel
+  2012-08-09 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-09 : Respiratory rate                         13.0 /min
+  2012-08-09 : Heart rate                               100.0 /min
+  2012-08-09 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2012-08-09 : Body mass index (BMI) [Percentile] Per age and gender 68.6 %
+  2012-08-09 : Body Mass Index                          19.0 kg/m2
+  2012-08-09 : Body Weight                              46.9 kg
+  2012-08-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-08-09 : Body Height                              156.9 cm
+  2012-08-01 : Body temperature                         37.5 Cel
+  2011-09-15 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  2011-09-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 465.1 fL
+  2011-09-15 : Platelets [#/volume] in Blood by Automated count 406.1 10*3/uL
+  2011-09-15 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2011-09-15 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2011-09-15 : MCH [Entitic mass] by Automated count    31.5 pg
+  2011-09-15 : MCV [Entitic volume] by Automated count  93.8 fL
+  2011-09-15 : Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+  2011-09-15 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2011-09-15 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2011-09-15 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2011-09-15 : Respiratory rate                         15.0 /min
+  2011-09-15 : Heart rate                               77.0 /min
+  2011-09-15 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2011-09-15 : Body mass index (BMI) [Percentile] Per age and gender 72.0 %
+  2011-09-15 : Body Mass Index                          18.7 kg/m2
+  2011-09-15 : Body Weight                              42.8 kg
+  2011-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-09-15 : Body Height                              151.4 cm
+  2010-09-09 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-09 : Respiratory rate                         13.0 /min
+  2010-09-09 : Heart rate                               74.0 /min
+  2010-09-09 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2010-09-09 : Body mass index (BMI) [Percentile] Per age and gender 62.3 %
+  2010-09-09 : Body Mass Index                          17.3 kg/m2
+  2010-09-09 : Body Weight                              36.9 kg
+  2010-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2010-09-09 : Body Height                              146.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-10-19 : Medication Reconciliation (procedure)
+  2017-07-31 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2017-03-09 : Allergy screening test
+  2017-02-16 : Subcutaneous immunotherapy
+  2017-01-26 : Subcutaneous immunotherapy
+  2017-01-05 : Subcutaneous immunotherapy
+  2016-12-15 : Subcutaneous immunotherapy
+  2016-11-24 : Subcutaneous immunotherapy
+  2016-11-03 : Subcutaneous immunotherapy
+  2016-10-13 : Subcutaneous immunotherapy
+  2016-09-22 : Subcutaneous immunotherapy
+  2016-09-01 : Subcutaneous immunotherapy
+  2016-08-11 : Subcutaneous immunotherapy
+  2016-07-21 : Subcutaneous immunotherapy
+  2016-06-30 : Subcutaneous immunotherapy
+  2016-06-09 : Subcutaneous immunotherapy
+  2016-05-31 : Extraction of wisdom tooth
+  2016-05-19 : Subcutaneous immunotherapy
+  2016-04-28 : Subcutaneous immunotherapy
+  2016-04-07 : Subcutaneous immunotherapy
+  2016-03-17 : Subcutaneous immunotherapy
+  2016-02-25 : Subcutaneous immunotherapy
+  2016-02-04 : Subcutaneous immunotherapy
+  2016-01-14 : Subcutaneous immunotherapy
+  2015-12-24 : Subcutaneous immunotherapy
+  2015-12-03 : Subcutaneous immunotherapy
+  2015-11-25 : Extraction of wisdom tooth
+  2015-11-12 : Subcutaneous immunotherapy
+  2015-10-22 : Subcutaneous immunotherapy
+  2015-10-01 : Subcutaneous immunotherapy
+  2015-09-21 : Extraction of wisdom tooth
+  2015-09-10 : Subcutaneous immunotherapy
+  2015-08-20 : Subcutaneous immunotherapy
+  2015-07-30 : Subcutaneous immunotherapy
+  2015-07-09 : Subcutaneous immunotherapy
+  2015-06-18 : Subcutaneous immunotherapy
+  2015-05-28 : Subcutaneous immunotherapy
+  2015-05-19 : Extraction of wisdom tooth
+  2015-05-07 : Subcutaneous immunotherapy
+  2015-04-16 : Subcutaneous immunotherapy
+  2015-04-05 : Extraction of wisdom tooth
+  2015-03-26 : Subcutaneous immunotherapy
+  2015-03-05 : Subcutaneous immunotherapy
+  2015-02-12 : Subcutaneous immunotherapy
+  2015-01-22 : Subcutaneous immunotherapy
+  2015-01-01 : Subcutaneous immunotherapy
+  2014-12-11 : Subcutaneous immunotherapy
+  2014-11-20 : Subcutaneous immunotherapy
+  2014-10-30 : Subcutaneous immunotherapy
+  2014-10-09 : Subcutaneous immunotherapy
+  2014-10-02 : Medication Reconciliation (procedure)
+  2014-09-18 : Subcutaneous immunotherapy
+  2014-08-28 : Subcutaneous immunotherapy
+  2014-08-07 : Subcutaneous immunotherapy
+  2014-07-17 : Subcutaneous immunotherapy
+  2014-06-26 : Subcutaneous immunotherapy
+  2014-06-05 : Subcutaneous immunotherapy
+  2014-05-15 : Subcutaneous immunotherapy
+  2014-04-24 : Subcutaneous immunotherapy
+  2014-04-03 : Subcutaneous immunotherapy
+  2014-03-13 : Subcutaneous immunotherapy
+  2014-02-20 : Subcutaneous immunotherapy
+  2014-01-30 : Subcutaneous immunotherapy
+  2014-01-09 : Subcutaneous immunotherapy
+  2013-12-19 : Subcutaneous immunotherapy
+  2013-11-28 : Subcutaneous immunotherapy
+  2013-11-07 : Subcutaneous immunotherapy
+  2013-10-17 : Subcutaneous immunotherapy
+  2013-09-26 : Subcutaneous immunotherapy
+  2013-09-05 : Allergy screening test
+  2012-09-12 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2011-09-15 : Medication Reconciliation (procedure)
+  2010-09-09 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-10-31 : Influenza, seasonal, injectable, preservative free
+  2018-10-25 : Influenza, seasonal, injectable, preservative free
+  2017-08-10 : Influenza, seasonal, injectable, preservative free
+  2016-10-13 : meningococcal MCV4P
+  2016-10-13 : Influenza, seasonal, injectable, preservative free
+  2015-10-08 : Influenza, seasonal, injectable, preservative free
+  2014-10-02 : Influenza, seasonal, injectable, preservative free
+  2013-09-26 : Influenza, seasonal, injectable, preservative free
+  2012-09-20 : HPV, quadrivalent
+  2012-08-09 : HPV, quadrivalent
+  2012-08-09 : Influenza, seasonal, injectable, preservative free
+  2011-09-15 : meningococcal MCV4P
+  2011-09-15 : HPV, quadrivalent
+  2011-09-15 : Influenza, seasonal, injectable, preservative free
+  2011-09-15 : Tdap
+  2010-09-09 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-03-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-10-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-10-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-10-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-06-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-11-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-10-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-10-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-09-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2017-08-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-07-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2017-03-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-03-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-02-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-01-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-01-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-12-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-12-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-11-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-11-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-11-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-10-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-10-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-09-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-09-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-08-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-07-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-07-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-06-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-06-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-05-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2016-05-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-04-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-04-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-03-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-02-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-02-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2016-02-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-01-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-12-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-12-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-11-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-11-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-10-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-10-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-10-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-09-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-09-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-08-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-07-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-07-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-07-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2015-06-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-05-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-05-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-05-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-04-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-04-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-03-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-03-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-02-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-01-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-01-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-12-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-12-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2014-11-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-10-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-10-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-10-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-09-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-08-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-08-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-07-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-06-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-06-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-05-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-04-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-04-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-03-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-02-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-01-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-01-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-12-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-11-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-11-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-10-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-09-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-09-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-09-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-08-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2012-09-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-09-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2012-08-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-08-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Streptococcal sore throat (disorder)
+2011-09-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-10-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-09-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2001-12-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2001-11-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

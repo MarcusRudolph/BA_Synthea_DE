@@ -1,0 +1,161 @@
+Jakub Geyer
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 47
+Birth Date:          1973-02-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-08-03[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2013-08-05[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-08-03 - 2016-08-24 : Sprain of ankle
+  2013-08-05 - 2013-08-19 : Laceration of foot
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-08-03[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2013-08-05[STOPPED] : Wound care
+                         Reason: Laceration of foot
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-03-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+           - MCV [Entitic volume] by Automated count  92.5 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 244.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 326.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2019-03-18 : Lipid Panel
+           - Total Cholesterol                        181.3 mg/dL
+           - Triglycerides                            118.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      79.6 mg/dL
+           - High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2015-03-09 : Lipid Panel
+           - Total Cholesterol                        163.3 mg/dL
+           - Triglycerides                            142.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      74.1 mg/dL
+           - High Density Lipoprotein Cholesterol     60.8 mg/dL
+  2013-03-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+           - MCV [Entitic volume] by Automated count  81.7 fL
+           - MCH [Entitic mass] by Automated count    30.7 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 190.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 157.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-03-18 : Tobacco smoking status NHIS              Former smoker 
+  2019-03-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2019-03-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 326.9 fL
+  2019-03-18 : Platelets [#/volume] in Blood by Automated count 244.8 10*3/uL
+  2019-03-18 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  2019-03-18 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2019-03-18 : MCH [Entitic mass] by Automated count    31.9 pg
+  2019-03-18 : MCV [Entitic volume] by Automated count  92.5 fL
+  2019-03-18 : Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+  2019-03-18 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2019-03-18 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2019-03-18 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2019-03-18 : High Density Lipoprotein Cholesterol     78.1 mg/dL
+  2019-03-18 : Low Density Lipoprotein Cholesterol      79.6 mg/dL
+  2019-03-18 : Triglycerides                            118.0 mg/dL
+  2019-03-18 : Total Cholesterol                        181.3 mg/dL
+  2019-03-18 : Respiratory rate                         13.0 /min
+  2019-03-18 : Heart rate                               89.0 /min
+  2019-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2019-03-18 : Body Mass Index                          27.6 kg/m2
+  2019-03-18 : Body Weight                              86.2 kg
+  2019-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-03-18 : Body Height                              176.7 cm
+  2017-03-13 : Tobacco smoking status NHIS              Former smoker 
+  2017-03-13 : Respiratory rate                         13.0 /min
+  2017-03-13 : Heart rate                               66.0 /min
+  2017-03-13 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2017-03-13 : Body Mass Index                          27.6 kg/m2
+  2017-03-13 : Body Weight                              86.2 kg
+  2017-03-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-03-13 : Body Height                              176.7 cm
+  2015-03-09 : Tobacco smoking status NHIS              Former smoker 
+  2015-03-09 : High Density Lipoprotein Cholesterol     60.8 mg/dL
+  2015-03-09 : Low Density Lipoprotein Cholesterol      74.1 mg/dL
+  2015-03-09 : Triglycerides                            142.1 mg/dL
+  2015-03-09 : Total Cholesterol                        163.3 mg/dL
+  2015-03-09 : Respiratory rate                         15.0 /min
+  2015-03-09 : Heart rate                               74.0 /min
+  2015-03-09 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2015-03-09 : Body Mass Index                          27.6 kg/m2
+  2015-03-09 : Body Weight                              86.2 kg
+  2015-03-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-03-09 : Body Height                              176.7 cm
+  2013-03-04 : Tobacco smoking status NHIS              Former smoker 
+  2013-03-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2013-03-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 157.2 fL
+  2013-03-04 : Platelets [#/volume] in Blood by Automated count 190.2 10*3/uL
+  2013-03-04 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2013-03-04 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2013-03-04 : MCH [Entitic mass] by Automated count    30.7 pg
+  2013-03-04 : MCV [Entitic volume] by Automated count  81.7 fL
+  2013-03-04 : Hematocrit [Volume Fraction] of Blood by Automated count 35.5 %
+  2013-03-04 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2013-03-04 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2013-03-04 : Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+  2013-03-04 : Respiratory rate                         14.0 /min
+  2013-03-04 : Heart rate                               90.0 /min
+  2013-03-04 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2013-03-04 : Body Mass Index                          27.6 kg/m2
+  2013-03-04 : Body Weight                              86.2 kg
+  2013-03-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-03-04 : Body Height                              176.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-03-13 : Medication Reconciliation (procedure)
+  2013-08-05 : Suture open wound for Laceration of foot
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-03-18 : Influenza, seasonal, injectable, preservative free
+  2017-03-13 : Influenza, seasonal, injectable, preservative free
+  2015-03-09 : Hep A, adult
+  2015-03-09 : Td (adult) preservative free
+  2015-03-09 : Influenza, seasonal, injectable, preservative free
+  2013-03-04 : Hep A, adult
+  2013-03-04 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-03-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-03-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-08-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-03-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-08-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-03-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

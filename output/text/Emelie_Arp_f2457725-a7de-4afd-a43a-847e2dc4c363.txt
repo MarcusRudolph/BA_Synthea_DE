@@ -1,0 +1,553 @@
+Emelie Arp
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 28
+Birth Date:          1991-11-11
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-06-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2020-04-29[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2020-03-02[CURRENT] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2019-12-10[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2019-09-08[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2019-06-26[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2019-05-20[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2019-02-25[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2019-02-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2018-10-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2018-08-15[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2018-07-02[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2018-02-19[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2018-01-30[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2017-10-16[STOPPED] : Errin 28 Day Pack
+  2017-09-27[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2017-07-31[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2017-05-18[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2017-02-21[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2017-02-13[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2016-09-10[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2016-06-16[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2016-02-08[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2016-01-15[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-10-28[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2015-09-28[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-08-08[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-03-08[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-02-02[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2015-01-30[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2014-10-22[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2014-03-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2014-01-27[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2013-11-23[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2013-10-02[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2013-07-30[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2013-06-23[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-01-21[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2012-12-20[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2012-10-07[STOPPED] : Errin 28 Day Pack
+  2012-06-17[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2012-04-04[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2012-01-16[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2011-10-23[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2011-10-13[STOPPED] : Camila 28 Day Pack
+  2011-08-17[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2011-07-04[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2011-04-28[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2011-01-10[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2011-01-09[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2010-11-03[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2010-07-15[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2010-04-04[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-05-04 - 2020-05-25 : Antepartum eclampsia
+  2019-10-21 - 2020-05-25 : Normal pregnancy
+  2017-01-30 - 2017-09-04 : Anemia (disorder)
+  2017-01-30 - 2017-09-04 : Normal pregnancy
+  2015-10-28 - 2015-11-04 : Acute bronchitis (disorder)
+  2014-12-07 - 2014-12-21 : Viral sinusitis (disorder)
+  2013-10-18 - 2013-10-28 : Acute viral pharyngitis (disorder)
+  2013-09-30 - 2013-10-07 : Viral sinusitis (disorder)
+  2010-01-04 -            : Hypertension
+  2007-05-15 -            : Chronic pain
+  2006-12-18 -            : Body mass index 30+ - obesity (finding)
+  2006-03-10 -            : Chronic intractable migraine without aura
+  2005-12-14 -            : Impacted molars
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-10-21[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2017-01-30[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-10-28[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2010-01-04[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-02-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.1 %
+           - MCV [Entitic volume] by Automated count  81.6 fL
+           - MCH [Entitic mass] by Automated count    30.5 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 203.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 194.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2017-01-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood    35.9 %
+           - WBC Auto (Bld) [#/Vol]                   4.2 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   4.2 10*6/uL
+           - MCV [Entitic volume] by Automated count  85.5 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 46.0 fL
+           - Platelets [#/volume] in Blood by Automated count 421.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 466.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2013-01-21 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+           - MCV [Entitic volume] by Automated count  82.9 fL
+           - MCH [Entitic mass] by Automated count    27.8 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+           - Platelets [#/volume] in Blood by Automated count 168.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 167.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-04-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2020-03-02 : Tobacco smoking status NHIS              Former smoker 
+  2020-03-02 : Respiratory rate                         12.0 /min
+  2020-03-02 : Heart rate                               94.0 /min
+  2020-03-02 : Blood Pressure
+           - Diastolic Blood Pressure                 108.0 mm[Hg]
+           - Systolic Blood Pressure                  167.0 mm[Hg]
+  2020-03-02 : Body Mass Index                          27.6 kg/m2
+  2020-03-02 : Body Weight                              74.3 kg
+  2020-03-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-03-02 : Body Height                              164.0 cm
+  2019-12-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2019-09-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2019-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-05-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2019-02-25 : Tobacco smoking status NHIS              Former smoker 
+  2019-02-25 : Respiratory rate                         15.0 /min
+  2019-02-25 : Heart rate                               83.0 /min
+  2019-02-25 : Blood Pressure
+           - Diastolic Blood Pressure                 108.0 mm[Hg]
+           - Systolic Blood Pressure                  197.0 mm[Hg]
+  2019-02-25 : Body Mass Index                          27.6 kg/m2
+  2019-02-25 : Body Weight                              74.3 kg
+  2019-02-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-02-25 : Body Height                              164.0 cm
+  2019-02-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2018-08-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-07-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2018-02-19 : Tobacco smoking status NHIS              Former smoker 
+  2018-02-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.4 fL
+  2018-02-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 194.9 fL
+  2018-02-19 : Platelets [#/volume] in Blood by Automated count 203.7 10*3/uL
+  2018-02-19 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2018-02-19 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2018-02-19 : MCH [Entitic mass] by Automated count    30.5 pg
+  2018-02-19 : MCV [Entitic volume] by Automated count  81.6 fL
+  2018-02-19 : Hematocrit [Volume Fraction] of Blood by Automated count 49.1 %
+  2018-02-19 : Hemoglobin [Mass/volume] in Blood        16.7 g/dL
+  2018-02-19 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2018-02-19 : Leukocytes [#/volume] in Blood by Automated count 8.8 10*3/uL
+  2018-02-19 : Respiratory rate                         13.0 /min
+  2018-02-19 : Heart rate                               72.0 /min
+  2018-02-19 : Blood Pressure
+           - Diastolic Blood Pressure                 101.0 mm[Hg]
+           - Systolic Blood Pressure                  174.0 mm[Hg]
+  2018-02-19 : Body Mass Index                          27.6 kg/m2
+  2018-02-19 : Body Weight                              74.3 kg
+  2018-02-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-02-19 : Body Height                              164.0 cm
+  2018-01-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2017-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2017-07-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2017-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2017-02-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2017-02-13 : Tobacco smoking status NHIS              Former smoker 
+  2017-02-13 : Respiratory rate                         13.0 /min
+  2017-02-13 : Heart rate                               69.0 /min
+  2017-02-13 : Blood Pressure
+           - Diastolic Blood Pressure                 111.0 mm[Hg]
+           - Systolic Blood Pressure                  148.0 mm[Hg]
+  2017-02-13 : Body Mass Index                          27.6 kg/m2
+  2017-02-13 : Body Weight                              74.3 kg
+  2017-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-02-13 : Body Height                              164.0 cm
+  2017-01-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.0 fL
+  2017-01-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 466.5 fL
+  2017-01-30 : Platelets [#/volume] in Blood by Automated count 421.3 10*3/uL
+  2017-01-30 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 46.0 fL
+  2017-01-30 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2017-01-30 : MCH [Entitic mass] by Automated count    27.8 pg
+  2017-01-30 : MCV [Entitic volume] by Automated count  85.5 fL
+  2017-01-30 : RBC Auto (Bld) [#/Vol]                   4.2 10*6/uL
+  2017-01-30 : WBC Auto (Bld) [#/Vol]                   4.2 10*3/uL
+  2017-01-30 : Hematocrit [Volume Fraction] of Blood    35.9 %
+  2017-01-30 : Hemoglobin [Mass/volume] in Blood        11.0 g/dL
+  2016-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-06-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2016-02-08 : Tobacco smoking status NHIS              Former smoker 
+  2016-02-08 : Respiratory rate                         16.0 /min
+  2016-02-08 : Heart rate                               91.0 /min
+  2016-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 104.0 mm[Hg]
+           - Systolic Blood Pressure                  190.0 mm[Hg]
+  2016-02-08 : Body Mass Index                          27.6 kg/m2
+  2016-02-08 : Body Weight                              74.3 kg
+  2016-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-02-08 : Body Height                              164.0 cm
+  2016-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2015-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2015-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2015-03-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2015-02-02 : Tobacco smoking status NHIS              Former smoker 
+  2015-02-02 : Respiratory rate                         12.0 /min
+  2015-02-02 : Heart rate                               89.0 /min
+  2015-02-02 : Blood Pressure
+           - Diastolic Blood Pressure                 101.0 mm[Hg]
+           - Systolic Blood Pressure                  175.0 mm[Hg]
+  2015-02-02 : Body Mass Index                          27.6 kg/m2
+  2015-02-02 : Body Weight                              74.3 kg
+  2015-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-02-02 : Body Height                              164.0 cm
+  2015-01-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2014-10-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2014-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2014-01-27 : Tobacco smoking status NHIS              Former smoker 
+  2014-01-27 : Respiratory rate                         13.0 /min
+  2014-01-27 : Heart rate                               91.0 /min
+  2014-01-27 : Blood Pressure
+           - Diastolic Blood Pressure                 104.0 mm[Hg]
+           - Systolic Blood Pressure                  178.0 mm[Hg]
+  2014-01-27 : Body Mass Index                          27.6 kg/m2
+  2014-01-27 : Body Weight                              74.3 kg
+  2014-01-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-01-27 : Body Height                              164.0 cm
+  2013-11-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2013-10-18 : Body temperature                         37.8 Cel
+  2013-07-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-06-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2013-01-21 : Tobacco smoking status NHIS              Former smoker 
+  2013-01-21 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2013-01-21 : Platelet distribution width [Entitic volume] in Blood by Automated count 167.1 fL
+  2013-01-21 : Platelets [#/volume] in Blood by Automated count 168.2 10*3/uL
+  2013-01-21 : Erythrocyte distribution width [Entitic volume] by Automated count 42.2 fL
+  2013-01-21 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2013-01-21 : MCH [Entitic mass] by Automated count    27.8 pg
+  2013-01-21 : MCV [Entitic volume] by Automated count  82.9 fL
+  2013-01-21 : Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+  2013-01-21 : Hemoglobin [Mass/volume] in Blood        15.2 g/dL
+  2013-01-21 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2013-01-21 : Leukocytes [#/volume] in Blood by Automated count 4.2 10*3/uL
+  2013-01-21 : Respiratory rate                         14.0 /min
+  2013-01-21 : Heart rate                               93.0 /min
+  2013-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 95.0 mm[Hg]
+           - Systolic Blood Pressure                  188.0 mm[Hg]
+  2013-01-21 : Body Mass Index                          27.6 kg/m2
+  2013-01-21 : Body Weight                              74.3 kg
+  2013-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-01-21 : Body Height                              164.0 cm
+  2012-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2012-06-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2012-04-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2012-01-16 : Tobacco smoking status NHIS              Former smoker 
+  2012-01-16 : Respiratory rate                         14.0 /min
+  2012-01-16 : Heart rate                               71.0 /min
+  2012-01-16 : Blood Pressure
+           - Diastolic Blood Pressure                 96.0 mm[Hg]
+           - Systolic Blood Pressure                  172.0 mm[Hg]
+  2012-01-16 : Body Mass Index                          27.6 kg/m2
+  2012-01-16 : Body Weight                              74.3 kg
+  2012-01-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-01-16 : Body Height                              164.0 cm
+  2011-10-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2011-08-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2011-07-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2011-04-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2011-01-10 : Tobacco smoking status NHIS              Former smoker 
+  2011-01-10 : Respiratory rate                         14.0 /min
+  2011-01-10 : Heart rate                               94.0 /min
+  2011-01-10 : Blood Pressure
+           - Diastolic Blood Pressure                 118.0 mm[Hg]
+           - Systolic Blood Pressure                  174.0 mm[Hg]
+  2011-01-10 : Body mass index (BMI) [Percentile] Per age and gender 92.5 %
+  2011-01-10 : Body Mass Index                          29.1 kg/m2
+  2011-01-10 : Body Weight                              78.2 kg
+  2011-01-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-01-10 : Body Height                              163.9 cm
+  2011-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2010-11-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-07-06 : Depression screening
+  2020-07-06 : Physical examination following birth
+  2020-07-06 : RhD passive immunization
+  2020-06-05 : Extraction of wisdom tooth
+  2020-05-25 : Childbirth for Normal pregnancy
+  2020-05-25 : Epidural anesthesia for Normal pregnancy
+  2020-05-18 : Auscultation of the fetal heart for Normal pregnancy
+  2020-05-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-05-04 : Auscultation of the fetal heart for Normal pregnancy
+  2020-05-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-05-04 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2020-04-06 : Auscultation of the fetal heart for Normal pregnancy
+  2020-04-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-03-09 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-09 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-03-09 : Urine screening for glucose for Normal pregnancy
+  2020-03-09 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2020-03-09 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-03-09 : RhD passive immunization for Normal pregnancy
+  2020-03-09 : Antenatal RhD antibody screening for Normal pregnancy
+  2020-02-10 : Auscultation of the fetal heart for Normal pregnancy
+  2020-02-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-01-13 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-16 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-16 : Alpha-fetoprotein test for Normal pregnancy
+  2019-12-16 : Fetal anatomy study for Normal pregnancy
+  2019-11-18 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2019-11-18 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-21 : Physical examination of mother for Normal pregnancy
+  2019-10-21 : Urine protein test for Normal pregnancy
+  2019-10-21 : Skin test for tuberculosis for Normal pregnancy
+  2019-10-21 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-10-21 : Rubella screening for Normal pregnancy
+  2019-10-21 : Hepatitis C antibody test for Normal pregnancy
+  2019-10-21 : Urine screening test for diabetes for Normal pregnancy
+  2019-10-21 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-10-21 : Urine culture for Normal pregnancy
+  2019-10-21 : Syphilis infection test for Normal pregnancy
+  2019-10-21 : Gonorrhea infection test for Normal pregnancy
+  2019-10-21 : Chlamydia antigen test for Normal pregnancy
+  2019-10-21 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-10-21 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-10-21 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-10-21 : Blood typing, RH typing for Normal pregnancy
+  2019-10-21 : Auscultation of the fetal heart for Normal pregnancy
+  2019-10-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-21 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-10-21 : Standard pregnancy test for Normal pregnancy
+  2019-02-05 : Extraction of wisdom tooth
+  2018-10-05 : Extraction of wisdom tooth
+  2018-08-15 : Extraction of wisdom tooth
+  2018-07-02 : Extraction of wisdom tooth
+  2018-02-19 : Medication Reconciliation (procedure)
+  2017-10-16 : Depression screening
+  2017-10-16 : Physical examination following birth
+  2017-10-16 : RhD passive immunization
+  2017-09-04 : Childbirth for Normal pregnancy
+  2017-08-28 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-14 : Auscultation of the fetal heart for Normal pregnancy
+  2017-08-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-08-14 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2017-07-31 : Extraction of wisdom tooth
+  2017-07-17 : Auscultation of the fetal heart for Normal pregnancy
+  2017-07-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-19 : Auscultation of the fetal heart for Normal pregnancy
+  2017-06-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-06-19 : Urine screening for glucose for Normal pregnancy
+  2017-06-19 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2017-06-19 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-06-19 : RhD passive immunization for Normal pregnancy
+  2017-06-19 : Antenatal RhD antibody screening for Normal pregnancy
+  2017-05-22 : Auscultation of the fetal heart for Normal pregnancy
+  2017-05-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-04-24 : Auscultation of the fetal heart for Normal pregnancy
+  2017-04-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-03-27 : Auscultation of the fetal heart for Normal pregnancy
+  2017-03-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-03-27 : Alpha-fetoprotein test for Normal pregnancy
+  2017-03-27 : Fetal anatomy study for Normal pregnancy
+  2017-02-27 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-02-27 : Auscultation of the fetal heart for Normal pregnancy
+  2017-02-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-01-30 : Brief general examination (procedure)
+  2017-01-30 : Medication Reconciliation (procedure)
+  2017-01-30 : Review of systems (procedure)
+  2017-01-30 : Peripheral blood smear interpretation
+  2017-01-30 : Physical examination of mother for Normal pregnancy
+  2017-01-30 : Urine protein test for Normal pregnancy
+  2017-01-30 : Skin test for tuberculosis for Normal pregnancy
+  2017-01-30 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-01-30 : Rubella screening for Normal pregnancy
+  2017-01-30 : Hepatitis C antibody test for Normal pregnancy
+  2017-01-30 : Urine screening test for diabetes for Normal pregnancy
+  2017-01-30 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-01-30 : Urine culture for Normal pregnancy
+  2017-01-30 : Syphilis infection test for Normal pregnancy
+  2017-01-30 : Gonorrhea infection test for Normal pregnancy
+  2017-01-30 : Chlamydia antigen test for Normal pregnancy
+  2017-01-30 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-01-30 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-01-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-01-30 : Blood typing, RH typing for Normal pregnancy
+  2017-01-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-01-30 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-01-30 : Standard pregnancy test for Normal pregnancy
+  2016-12-05 : Removal of intrauterine device
+  2016-02-08 : Medication Reconciliation (procedure)
+  2016-01-15 : Extraction of wisdom tooth
+  2015-10-28 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2015-10-26 : Replacement of contraceptive intrauterine device
+  2015-02-02 : Medication Reconciliation (procedure)
+  2015-01-30 : Extraction of wisdom tooth
+  2014-03-05 : Extraction of wisdom tooth
+  2013-11-23 : Extraction of wisdom tooth
+  2013-07-30 : Extraction of wisdom tooth
+  2013-01-21 : Medication Reconciliation (procedure)
+  2012-12-20 : Extraction of wisdom tooth
+  2012-06-17 : Extraction of wisdom tooth
+  2011-01-10 : Medication Reconciliation (procedure)
+  2011-01-09 : Extraction of wisdom tooth
+  2010-11-03 : Extraction of wisdom tooth
+  2010-10-15 : Insertion of intrauterine contraceptive device
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-03-02 : Influenza, seasonal, injectable, preservative free
+  2019-02-25 : Influenza, seasonal, injectable, preservative free
+  2018-02-19 : Influenza, seasonal, injectable, preservative free
+  2017-02-13 : Influenza, seasonal, injectable, preservative free
+  2016-02-08 : Influenza, seasonal, injectable, preservative free
+  2015-02-02 : Influenza, seasonal, injectable, preservative free
+  2014-01-27 : Hep B, adult
+  2014-01-27 : Influenza, seasonal, injectable, preservative free
+  2013-01-21 : meningococcal MCV4P
+  2013-01-21 : Hep B, adult
+  2013-01-21 : Td (adult) preservative free
+  2013-01-21 : Influenza, seasonal, injectable, preservative free
+  2012-01-16 : Hep B, adult
+  2012-01-16 : Influenza, seasonal, injectable, preservative free
+  2011-01-10 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-07-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-06-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2020-05-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2020-05-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2020-05-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2020-04-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2020-04-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2020-03-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2020-03-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-02-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2020-01-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2019-12-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2019-12-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2019-11-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2019-10-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2019-09-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2019-06-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2019-05-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2019-02-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-02-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2018-10-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2018-08-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2018-07-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2018-02-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-01-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2017-10-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-10-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-09-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2017-09-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-08-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-08-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-07-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2017-07-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-06-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-05-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-05-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2017-04-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-03-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-02-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2017-02-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2017-02-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-01-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Anemia (disorder)
+2017-01-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2016-12-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-09-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2016-06-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2016-02-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-01-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2015-10-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2015-10-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-09-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2015-08-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2015-03-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2015-01-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2015-02-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-12-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2014-10-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2014-03-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2014-01-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-11-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2013-10-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2013-10-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-09-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2013-07-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2013-06-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2013-01-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-12-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2012-10-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-06-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2012-04-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2012-01-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-10-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2011-10-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-08-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2011-07-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2011-04-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2011-01-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2011-01-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-11-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2010-10-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-10-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-07-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2010-04-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-01-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2007-05-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2006-12-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2006-03-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2005-12-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,1329 @@
+Hassan Wichmann
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 45
+Birth Date:          1974-09-29
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-04-19[CURRENT] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2020-04-19[CURRENT] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2020-04-19[CURRENT] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2020-03-01[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2020-03-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2020-03-01[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2019-11-24[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2019-11-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-11-24[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2019-10-20[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2019-10-20[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-10-20[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2019-09-22[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2019-09-22[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-09-22[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2019-08-25[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2019-08-25[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-08-25[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2019-04-28[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2019-04-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-04-28[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2019-03-24[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2019-03-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-03-24[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2019-03-03[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2019-03-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-03-03[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2019-02-24[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2019-02-24[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2019-02-24[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2018-12-30[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2018-12-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-12-30[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2018-09-30[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2018-09-30[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-09-30[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2018-08-26[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2018-08-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-08-26[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2018-07-01[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2018-07-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-07-01[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2018-02-18[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2018-02-18[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2018-02-18[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2017-11-05[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2017-11-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-11-05[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2017-08-06[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2017-08-06[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-08-06[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2017-03-05[STOPPED] : insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin] for Diabetes
+  2017-03-05[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2017-03-05[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2017-02-12[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2017-02-12[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2016-02-07[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2016-02-07[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2015-06-27[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2015-02-01[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2015-02-01[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2014-01-26[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2014-01-26[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2013-01-20[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2013-01-20[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2012-01-15[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2012-01-15[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2011-01-09[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2011-01-09[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2010-01-03[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2010-01-03[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2008-12-28[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2008-12-28[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2007-12-23[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2007-12-23[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2006-12-17[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2006-12-17[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-12-11[STOPPED] : Hydrochlorothiazide 25 MG Oral Tablet for Hypertension
+  2005-12-11[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+  2005-12-11[STOPPED] : 24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet for Diabetes
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2017-02-12 -            : Diabetic renal disease (disorder)
+  2017-02-12 -            : Chronic kidney disease stage 1 (disorder)
+  2015-06-27 - 2015-07-04 : Acute bronchitis (disorder)
+  2012-07-02 - 2012-07-09 : Viral sinusitis (disorder)
+  2012-03-22 - 2012-03-29 : Viral sinusitis (disorder)
+  2008-12-28 -            : Diabetic retinopathy associated with type II diabetes mellitus (disorder)
+  2006-12-17 -            : Metabolic syndrome X (disorder)
+  2006-12-17 -            : Hypertriglyceridemia (disorder)
+  2006-12-17 -            : Hyperglycemia (disorder)
+  2005-12-11 -            : Hypertension
+  2005-12-11 -            : Anemia (disorder)
+  2005-12-11 -            : Diabetes
+  2002-12-08 -            : Prediabetes
+  1998-07-01 -            : Chronic intractable migraine without aura
+  1996-12-01 -            : Body mass index 40+ - severely obese (finding)
+  1986-10-19 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-06-27[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2005-12-11[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  2002-12-08[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-04-19 : Lipid Panel
+           - Total Cholesterol                        257.5 mg/dL
+           - Triglycerides                            447.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      147.6 mg/dL
+           - High Density Lipoprotein Cholesterol     20.5 mg/dL
+  2020-04-19 : Basic Metabolic Panel
+           - Glucose                                  146.6 mg/dL
+           - Urea Nitrogen                            19.6 mg/dL
+           - Creatinine                               3.6 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   142.6 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 109.8 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2020-03-01 : Lipid Panel
+           - Total Cholesterol                        246.4 mg/dL
+           - Triglycerides                            272.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      161.1 mg/dL
+           - High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2020-03-01 : Basic Metabolic Panel
+           - Glucose                                  195.9 mg/dL
+           - Urea Nitrogen                            15.7 mg/dL
+           - Creatinine                               4.7 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   139.6 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2019-11-24 : Lipid Panel
+           - Total Cholesterol                        257.1 mg/dL
+           - Triglycerides                            393.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      154.8 mg/dL
+           - High Density Lipoprotein Cholesterol     23.5 mg/dL
+  2019-11-24 : Basic Metabolic Panel
+           - Glucose                                  159.1 mg/dL
+           - Urea Nitrogen                            16.3 mg/dL
+           - Creatinine                               4.8 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   142.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 102.2 mmol/L
+           - Carbon Dioxide                           25.5 mmol/L
+  2019-10-20 : Lipid Panel
+           - Total Cholesterol                        239.5 mg/dL
+           - Triglycerides                            366.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      141.6 mg/dL
+           - High Density Lipoprotein Cholesterol     24.6 mg/dL
+  2019-10-20 : Basic Metabolic Panel
+           - Glucose                                  159.6 mg/dL
+           - Urea Nitrogen                            11.3 mg/dL
+           - Creatinine                               3.9 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   137.0 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 108.3 mmol/L
+           - Carbon Dioxide                           28.6 mmol/L
+  2019-09-22 : Lipid Panel
+           - Total Cholesterol                        258.2 mg/dL
+           - Triglycerides                            214.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      189.7 mg/dL
+           - High Density Lipoprotein Cholesterol     25.5 mg/dL
+  2019-09-22 : Basic Metabolic Panel
+           - Glucose                                  153.1 mg/dL
+           - Urea Nitrogen                            14.8 mg/dL
+           - Creatinine                               4.9 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   138.2 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 104.2 mmol/L
+           - Carbon Dioxide                           24.6 mmol/L
+  2019-08-25 : Lipid Panel
+           - Total Cholesterol                        241.4 mg/dL
+           - Triglycerides                            442.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      114.9 mg/dL
+           - High Density Lipoprotein Cholesterol     38.1 mg/dL
+  2019-08-25 : Basic Metabolic Panel
+           - Glucose                                  140.8 mg/dL
+           - Urea Nitrogen                            12.0 mg/dL
+           - Creatinine                               3.1 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   140.8 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 109.4 mmol/L
+           - Carbon Dioxide                           20.8 mmol/L
+  2019-04-28 : Lipid Panel
+           - Total Cholesterol                        248.1 mg/dL
+           - Triglycerides                            236.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      175.1 mg/dL
+           - High Density Lipoprotein Cholesterol     25.8 mg/dL
+  2019-04-28 : Basic Metabolic Panel
+           - Glucose                                  168.9 mg/dL
+           - Urea Nitrogen                            10.7 mg/dL
+           - Creatinine                               3.8 mg/dL
+           - Calcium                                  9.3 mg/dL
+           - Sodium                                   139.3 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 102.2 mmol/L
+           - Carbon Dioxide                           22.3 mmol/L
+  2019-03-24 : Lipid Panel
+           - Total Cholesterol                        251.6 mg/dL
+           - Triglycerides                            346.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      148.2 mg/dL
+           - High Density Lipoprotein Cholesterol     34.1 mg/dL
+  2019-03-24 : Basic Metabolic Panel
+           - Glucose                                  128.2 mg/dL
+           - Urea Nitrogen                            7.8 mg/dL
+           - Creatinine                               3.2 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   143.1 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 106.9 mmol/L
+           - Carbon Dioxide                           22.2 mmol/L
+  2019-03-03 : Lipid Panel
+           - Total Cholesterol                        245.8 mg/dL
+           - Triglycerides                            225.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      168.7 mg/dL
+           - High Density Lipoprotein Cholesterol     32.0 mg/dL
+  2019-03-03 : Basic Metabolic Panel
+           - Glucose                                  148.1 mg/dL
+           - Urea Nitrogen                            17.9 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   139.5 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 105.1 mmol/L
+           - Carbon Dioxide                           26.0 mmol/L
+  2019-02-24 : Lipid Panel
+           - Total Cholesterol                        256.1 mg/dL
+           - Triglycerides                            239.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      173.0 mg/dL
+           - High Density Lipoprotein Cholesterol     35.3 mg/dL
+  2019-02-24 : Basic Metabolic Panel
+           - Glucose                                  175.9 mg/dL
+           - Urea Nitrogen                            14.7 mg/dL
+           - Creatinine                               3.4 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   138.3 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 107.3 mmol/L
+           - Carbon Dioxide                           24.9 mmol/L
+  2018-12-30 : Lipid Panel
+           - Total Cholesterol                        245.8 mg/dL
+           - Triglycerides                            424.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      124.3 mg/dL
+           - High Density Lipoprotein Cholesterol     36.6 mg/dL
+  2018-12-30 : Basic Metabolic Panel
+           - Glucose                                  174.4 mg/dL
+           - Urea Nitrogen                            8.7 mg/dL
+           - Creatinine                               2.7 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   136.3 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 105.5 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+  2018-09-30 : Lipid Panel
+           - Total Cholesterol                        250.6 mg/dL
+           - Triglycerides                            305.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      167.8 mg/dL
+           - High Density Lipoprotein Cholesterol     21.8 mg/dL
+  2018-09-30 : Basic Metabolic Panel
+           - Glucose                                  156.0 mg/dL
+           - Urea Nitrogen                            7.5 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   138.2 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 102.0 mmol/L
+           - Carbon Dioxide                           22.4 mmol/L
+  2018-08-26 : Lipid Panel
+           - Total Cholesterol                        253.1 mg/dL
+           - Triglycerides                            484.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      128.5 mg/dL
+           - High Density Lipoprotein Cholesterol     27.7 mg/dL
+  2018-08-26 : Basic Metabolic Panel
+           - Glucose                                  174.1 mg/dL
+           - Urea Nitrogen                            16.2 mg/dL
+           - Creatinine                               3.2 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   141.0 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 107.2 mmol/L
+           - Carbon Dioxide                           20.8 mmol/L
+  2018-07-01 : Lipid Panel
+           - Total Cholesterol                        254.8 mg/dL
+           - Triglycerides                            344.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      160.1 mg/dL
+           - High Density Lipoprotein Cholesterol     25.7 mg/dL
+  2018-07-01 : Basic Metabolic Panel
+           - Glucose                                  158.5 mg/dL
+           - Urea Nitrogen                            9.6 mg/dL
+           - Creatinine                               3.0 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   140.2 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 104.5 mmol/L
+           - Carbon Dioxide                           21.7 mmol/L
+  2018-02-18 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+           - MCV [Entitic volume] by Automated count  82.8 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 430.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 203.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2018-02-18 : Lipid Panel
+           - Total Cholesterol                        241.1 mg/dL
+           - Triglycerides                            392.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      129.1 mg/dL
+           - High Density Lipoprotein Cholesterol     33.7 mg/dL
+  2018-02-18 : Basic Metabolic Panel
+           - Glucose                                  164.7 mg/dL
+           - Urea Nitrogen                            8.5 mg/dL
+           - Creatinine                               3.5 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   138.2 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 105.3 mmol/L
+           - Carbon Dioxide                           26.2 mmol/L
+  2017-11-05 : Lipid Panel
+           - Total Cholesterol                        258.0 mg/dL
+           - Triglycerides                            395.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      157.6 mg/dL
+           - High Density Lipoprotein Cholesterol     21.3 mg/dL
+  2017-11-05 : Basic Metabolic Panel
+           - Glucose                                  189.3 mg/dL
+           - Urea Nitrogen                            18.5 mg/dL
+           - Creatinine                               3.0 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   139.8 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 106.4 mmol/L
+           - Carbon Dioxide                           27.7 mmol/L
+  2017-08-06 : Lipid Panel
+           - Total Cholesterol                        248.4 mg/dL
+           - Triglycerides                            332.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      150.7 mg/dL
+           - High Density Lipoprotein Cholesterol     31.1 mg/dL
+  2017-08-06 : Basic Metabolic Panel
+           - Glucose                                  178.7 mg/dL
+           - Urea Nitrogen                            7.1 mg/dL
+           - Creatinine                               2.9 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 108.2 mmol/L
+           - Carbon Dioxide                           28.8 mmol/L
+  2017-03-05 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 0.6 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 15.9 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                6.4 pH
+           - Protein [Mass/volume] in Urine by Test strip 102.3 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2017-03-05 : Basic Metabolic 2000 Panel
+           - Glucose                                  190.7 mg/dL
+           - Urea Nitrogen                            16.0 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   143.9 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 101.5 mmol/L
+           - Carbon Dioxide                           22.8 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 136.7 mL/min
+  2017-03-05 : Lipid Panel
+           - Total Cholesterol                        241.4 mg/dL
+           - Triglycerides                            270.0 mg/dL
+           - Low Density Lipoprotein Cholesterol      149.2 mg/dL
+           - High Density Lipoprotein Cholesterol     38.2 mg/dL
+  2017-03-05 : Basic Metabolic Panel
+           - Glucose                                  190.7 mg/dL
+           - Urea Nitrogen                            16.0 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   143.9 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 101.5 mmol/L
+           - Carbon Dioxide                           22.8 mmol/L
+  2017-02-12 : Urinalysis macro (dipstick) panel - Urine
+           - Appearance of Urine                      Cloudy urine (finding) {nominal}
+           - Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+           - Clarity of Urine                         Translucent (qualifier value) {nominal}
+           - Color of Urine                           Brown color (qualifier value) {nominal}
+           - Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+           - Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+           - Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+           - Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+           - Ketones [Mass/volume] in Urine by Test strip 0.8 mg/dL
+           - Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+           - Specific gravity of Urine by Test strip  1.0 {nominal}
+           - pH of Urine by Test strip                5.4 pH
+           - Protein [Mass/volume] in Urine by Test strip 128.6 mg/dL
+           - Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+           - Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+           - Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+           - Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2017-02-12 : Basic Metabolic 2000 Panel
+           - Glucose                                  146.5 mg/dL
+           - Urea Nitrogen                            12.4 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   136.0 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           25.4 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 138.0 mL/min
+  2017-02-12 : Lipid Panel
+           - Total Cholesterol                        250.4 mg/dL
+           - Triglycerides                            400.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      144.3 mg/dL
+           - High Density Lipoprotein Cholesterol     26.0 mg/dL
+  2017-02-12 : Basic Metabolic Panel
+           - Glucose                                  146.5 mg/dL
+           - Urea Nitrogen                            12.4 mg/dL
+           - Creatinine                               1.8 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   136.0 mmol/L
+           - Potassium                                4.1 mmol/L
+           - Chloride                                 108.5 mmol/L
+           - Carbon Dioxide                           25.4 mmol/L
+  2016-02-07 : Lipid Panel
+           - Total Cholesterol                        256.4 mg/dL
+           - Triglycerides                            321.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      163.3 mg/dL
+           - High Density Lipoprotein Cholesterol     28.8 mg/dL
+  2016-02-07 : Basic Metabolic Panel
+           - Glucose                                  160.1 mg/dL
+           - Urea Nitrogen                            14.0 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   136.6 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 103.9 mmol/L
+           - Carbon Dioxide                           26.6 mmol/L
+  2015-02-01 : Lipid Panel
+           - Total Cholesterol                        239.4 mg/dL
+           - Triglycerides                            291.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      155.2 mg/dL
+           - High Density Lipoprotein Cholesterol     25.9 mg/dL
+  2015-02-01 : Basic Metabolic Panel
+           - Glucose                                  134.9 mg/dL
+           - Urea Nitrogen                            19.0 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   138.4 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 108.6 mmol/L
+           - Carbon Dioxide                           25.5 mmol/L
+  2014-01-26 : Lipid Panel
+           - Total Cholesterol                        244.9 mg/dL
+           - Triglycerides                            481.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      111.6 mg/dL
+           - High Density Lipoprotein Cholesterol     37.0 mg/dL
+  2014-01-26 : Basic Metabolic Panel
+           - Glucose                                  199.5 mg/dL
+           - Urea Nitrogen                            11.8 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  10.2 mg/dL
+           - Sodium                                   138.1 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 110.0 mmol/L
+           - Carbon Dioxide                           28.9 mmol/L
+  2013-01-20 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.4 %
+           - MCV [Entitic volume] by Automated count  87.4 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 200.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 453.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2013-01-20 : Lipid Panel
+           - Total Cholesterol                        256.9 mg/dL
+           - Triglycerides                            261.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      183.9 mg/dL
+           - High Density Lipoprotein Cholesterol     20.8 mg/dL
+  2013-01-20 : Basic Metabolic Panel
+           - Glucose                                  152.7 mg/dL
+           - Urea Nitrogen                            7.7 mg/dL
+           - Creatinine                               1.6 mg/dL
+           - Calcium                                  9.7 mg/dL
+           - Sodium                                   136.5 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 101.5 mmol/L
+           - Carbon Dioxide                           27.5 mmol/L
+  2012-01-15 : Lipid Panel
+           - Total Cholesterol                        258.3 mg/dL
+           - Triglycerides                            222.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      192.7 mg/dL
+           - High Density Lipoprotein Cholesterol     21.1 mg/dL
+  2012-01-15 : Basic Metabolic Panel
+           - Glucose                                  185.6 mg/dL
+           - Urea Nitrogen                            13.3 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.2 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 109.0 mmol/L
+           - Carbon Dioxide                           21.5 mmol/L
+  2011-01-09 : Lipid Panel
+           - Total Cholesterol                        242.0 mg/dL
+           - Triglycerides                            441.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      130.5 mg/dL
+           - High Density Lipoprotein Cholesterol     23.1 mg/dL
+  2011-01-09 : Basic Metabolic Panel
+           - Glucose                                  160.0 mg/dL
+           - Urea Nitrogen                            14.2 mg/dL
+           - Creatinine                               1.7 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   140.7 mmol/L
+           - Potassium                                3.7 mmol/L
+           - Chloride                                 105.9 mmol/L
+           - Carbon Dioxide                           28.0 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-04-19 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2020-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-19 : Estimated Glomerular Filtration Rate     42.4 mL/min/{1.73_m2}
+  2020-04-19 : Microalbumin Creatinine Ratio            27.4 mg/g
+  2020-04-19 : High Density Lipoprotein Cholesterol     20.5 mg/dL
+  2020-04-19 : Low Density Lipoprotein Cholesterol      147.6 mg/dL
+  2020-04-19 : Triglycerides                            447.1 mg/dL
+  2020-04-19 : Total Cholesterol                        257.5 mg/dL
+  2020-04-19 : Carbon Dioxide                           26.5 mmol/L
+  2020-04-19 : Chloride                                 109.8 mmol/L
+  2020-04-19 : Potassium                                4.1 mmol/L
+  2020-04-19 : Sodium                                   142.6 mmol/L
+  2020-04-19 : Calcium                                  9.4 mg/dL
+  2020-04-19 : Creatinine                               3.6 mg/dL
+  2020-04-19 : Urea Nitrogen                            19.6 mg/dL
+  2020-04-19 : Glucose                                  146.6 mg/dL
+  2020-04-19 : Respiratory rate                         13.0 /min
+  2020-04-19 : Heart rate                               98.0 /min
+  2020-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2020-04-19 : Body Mass Index                          36.1 kg/m2
+  2020-04-19 : Body Weight                              116.1 kg
+  2020-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-04-19 : Body Height                              179.4 cm
+  2020-03-01 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2020-03-01 : Tobacco smoking status NHIS              Never smoker 
+  2020-03-01 : Estimated Glomerular Filtration Rate     32.8 mL/min/{1.73_m2}
+  2020-03-01 : Microalbumin Creatinine Ratio            17.6 mg/g
+  2020-03-01 : High Density Lipoprotein Cholesterol     30.7 mg/dL
+  2020-03-01 : Low Density Lipoprotein Cholesterol      161.1 mg/dL
+  2020-03-01 : Triglycerides                            272.6 mg/dL
+  2020-03-01 : Total Cholesterol                        246.4 mg/dL
+  2020-03-01 : Carbon Dioxide                           26.5 mmol/L
+  2020-03-01 : Chloride                                 109.5 mmol/L
+  2020-03-01 : Potassium                                4.0 mmol/L
+  2020-03-01 : Sodium                                   139.6 mmol/L
+  2020-03-01 : Calcium                                  9.7 mg/dL
+  2020-03-01 : Creatinine                               4.7 mg/dL
+  2020-03-01 : Urea Nitrogen                            15.7 mg/dL
+  2020-03-01 : Glucose                                  195.9 mg/dL
+  2020-03-01 : Respiratory rate                         13.0 /min
+  2020-03-01 : Heart rate                               76.0 /min
+  2020-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2020-03-01 : Body Mass Index                          36.1 kg/m2
+  2020-03-01 : Body Weight                              116.1 kg
+  2020-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-03-01 : Body Height                              179.4 cm
+  2019-11-24 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2019-11-24 : Tobacco smoking status NHIS              Never smoker 
+  2019-11-24 : Estimated Glomerular Filtration Rate     32.0 mL/min/{1.73_m2}
+  2019-11-24 : Microalbumin Creatinine Ratio            28.6 mg/g
+  2019-11-24 : High Density Lipoprotein Cholesterol     23.5 mg/dL
+  2019-11-24 : Low Density Lipoprotein Cholesterol      154.8 mg/dL
+  2019-11-24 : Triglycerides                            393.7 mg/dL
+  2019-11-24 : Total Cholesterol                        257.1 mg/dL
+  2019-11-24 : Carbon Dioxide                           25.5 mmol/L
+  2019-11-24 : Chloride                                 102.2 mmol/L
+  2019-11-24 : Potassium                                5.1 mmol/L
+  2019-11-24 : Sodium                                   142.7 mmol/L
+  2019-11-24 : Calcium                                  9.2 mg/dL
+  2019-11-24 : Creatinine                               4.8 mg/dL
+  2019-11-24 : Urea Nitrogen                            16.3 mg/dL
+  2019-11-24 : Glucose                                  159.1 mg/dL
+  2019-11-24 : Respiratory rate                         15.0 /min
+  2019-11-24 : Heart rate                               91.0 /min
+  2019-11-24 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2019-11-24 : Body Mass Index                          36.1 kg/m2
+  2019-11-24 : Body Weight                              116.1 kg
+  2019-11-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-11-24 : Body Height                              179.4 cm
+  2019-10-20 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2019-10-20 : Tobacco smoking status NHIS              Never smoker 
+  2019-10-20 : Estimated Glomerular Filtration Rate     39.8 mL/min/{1.73_m2}
+  2019-10-20 : Microalbumin Creatinine Ratio            22.2 mg/g
+  2019-10-20 : High Density Lipoprotein Cholesterol     24.6 mg/dL
+  2019-10-20 : Low Density Lipoprotein Cholesterol      141.6 mg/dL
+  2019-10-20 : Triglycerides                            366.3 mg/dL
+  2019-10-20 : Total Cholesterol                        239.5 mg/dL
+  2019-10-20 : Carbon Dioxide                           28.6 mmol/L
+  2019-10-20 : Chloride                                 108.3 mmol/L
+  2019-10-20 : Potassium                                5.2 mmol/L
+  2019-10-20 : Sodium                                   137.0 mmol/L
+  2019-10-20 : Calcium                                  9.0 mg/dL
+  2019-10-20 : Creatinine                               3.9 mg/dL
+  2019-10-20 : Urea Nitrogen                            11.3 mg/dL
+  2019-10-20 : Glucose                                  159.6 mg/dL
+  2019-10-20 : Respiratory rate                         15.0 /min
+  2019-10-20 : Heart rate                               83.0 /min
+  2019-10-20 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  2019-10-20 : Body Mass Index                          36.1 kg/m2
+  2019-10-20 : Body Weight                              116.1 kg
+  2019-10-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-10-20 : Body Height                              179.4 cm
+  2019-09-22 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2019-09-22 : Tobacco smoking status NHIS              Never smoker 
+  2019-09-22 : Estimated Glomerular Filtration Rate     31.3 mL/min/{1.73_m2}
+  2019-09-22 : Microalbumin Creatinine Ratio            28.2 mg/g
+  2019-09-22 : High Density Lipoprotein Cholesterol     25.5 mg/dL
+  2019-09-22 : Low Density Lipoprotein Cholesterol      189.7 mg/dL
+  2019-09-22 : Triglycerides                            214.9 mg/dL
+  2019-09-22 : Total Cholesterol                        258.2 mg/dL
+  2019-09-22 : Carbon Dioxide                           24.6 mmol/L
+  2019-09-22 : Chloride                                 104.2 mmol/L
+  2019-09-22 : Potassium                                4.5 mmol/L
+  2019-09-22 : Sodium                                   138.2 mmol/L
+  2019-09-22 : Calcium                                  9.7 mg/dL
+  2019-09-22 : Creatinine                               4.9 mg/dL
+  2019-09-22 : Urea Nitrogen                            14.8 mg/dL
+  2019-09-22 : Glucose                                  153.1 mg/dL
+  2019-09-22 : Respiratory rate                         13.0 /min
+  2019-09-22 : Heart rate                               72.0 /min
+  2019-09-22 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2019-09-22 : Body Mass Index                          36.1 kg/m2
+  2019-09-22 : Body Weight                              116.1 kg
+  2019-09-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-09-22 : Body Height                              179.4 cm
+  2019-08-25 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2019-08-25 : Tobacco smoking status NHIS              Never smoker 
+  2019-08-25 : Estimated Glomerular Filtration Rate     49.8 mL/min/{1.73_m2}
+  2019-08-25 : Microalbumin Creatinine Ratio            19.1 mg/g
+  2019-08-25 : High Density Lipoprotein Cholesterol     38.1 mg/dL
+  2019-08-25 : Low Density Lipoprotein Cholesterol      114.9 mg/dL
+  2019-08-25 : Triglycerides                            442.0 mg/dL
+  2019-08-25 : Total Cholesterol                        241.4 mg/dL
+  2019-08-25 : Carbon Dioxide                           20.8 mmol/L
+  2019-08-25 : Chloride                                 109.4 mmol/L
+  2019-08-25 : Potassium                                3.7 mmol/L
+  2019-08-25 : Sodium                                   140.8 mmol/L
+  2019-08-25 : Calcium                                  8.6 mg/dL
+  2019-08-25 : Creatinine                               3.1 mg/dL
+  2019-08-25 : Urea Nitrogen                            12.0 mg/dL
+  2019-08-25 : Glucose                                  140.8 mg/dL
+  2019-08-25 : Respiratory rate                         14.0 /min
+  2019-08-25 : Heart rate                               71.0 /min
+  2019-08-25 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2019-08-25 : Body Mass Index                          36.1 kg/m2
+  2019-08-25 : Body Weight                              116.1 kg
+  2019-08-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-08-25 : Body Height                              179.4 cm
+  2019-04-28 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2019-04-28 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-28 : Estimated Glomerular Filtration Rate     41.2 mL/min/{1.73_m2}
+  2019-04-28 : Microalbumin Creatinine Ratio            18.3 mg/g
+  2019-04-28 : High Density Lipoprotein Cholesterol     25.8 mg/dL
+  2019-04-28 : Low Density Lipoprotein Cholesterol      175.1 mg/dL
+  2019-04-28 : Triglycerides                            236.0 mg/dL
+  2019-04-28 : Total Cholesterol                        248.1 mg/dL
+  2019-04-28 : Carbon Dioxide                           22.3 mmol/L
+  2019-04-28 : Chloride                                 102.2 mmol/L
+  2019-04-28 : Potassium                                4.4 mmol/L
+  2019-04-28 : Sodium                                   139.3 mmol/L
+  2019-04-28 : Calcium                                  9.3 mg/dL
+  2019-04-28 : Creatinine                               3.8 mg/dL
+  2019-04-28 : Urea Nitrogen                            10.7 mg/dL
+  2019-04-28 : Glucose                                  168.9 mg/dL
+  2019-04-28 : Respiratory rate                         13.0 /min
+  2019-04-28 : Heart rate                               72.0 /min
+  2019-04-28 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2019-04-28 : Body Mass Index                          36.1 kg/m2
+  2019-04-28 : Body Weight                              116.1 kg
+  2019-04-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-04-28 : Body Height                              179.4 cm
+  2019-03-24 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2019-03-24 : Tobacco smoking status NHIS              Never smoker 
+  2019-03-24 : Estimated Glomerular Filtration Rate     48.6 mL/min/{1.73_m2}
+  2019-03-24 : Microalbumin Creatinine Ratio            17.5 mg/g
+  2019-03-24 : High Density Lipoprotein Cholesterol     34.1 mg/dL
+  2019-03-24 : Low Density Lipoprotein Cholesterol      148.2 mg/dL
+  2019-03-24 : Triglycerides                            346.6 mg/dL
+  2019-03-24 : Total Cholesterol                        251.6 mg/dL
+  2019-03-24 : Carbon Dioxide                           22.2 mmol/L
+  2019-03-24 : Chloride                                 106.9 mmol/L
+  2019-03-24 : Potassium                                3.8 mmol/L
+  2019-03-24 : Sodium                                   143.1 mmol/L
+  2019-03-24 : Calcium                                  9.2 mg/dL
+  2019-03-24 : Creatinine                               3.2 mg/dL
+  2019-03-24 : Urea Nitrogen                            7.8 mg/dL
+  2019-03-24 : Glucose                                  128.2 mg/dL
+  2019-03-24 : Respiratory rate                         14.0 /min
+  2019-03-24 : Heart rate                               69.0 /min
+  2019-03-24 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2019-03-24 : Body Mass Index                          36.1 kg/m2
+  2019-03-24 : Body Weight                              116.1 kg
+  2019-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-03-24 : Body Height                              179.4 cm
+  2019-03-03 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2019-03-03 : Tobacco smoking status NHIS              Never smoker 
+  2019-03-03 : Estimated Glomerular Filtration Rate     53.8 mL/min/{1.73_m2}
+  2019-03-03 : Microalbumin Creatinine Ratio            24.9 mg/g
+  2019-03-03 : High Density Lipoprotein Cholesterol     32.0 mg/dL
+  2019-03-03 : Low Density Lipoprotein Cholesterol      168.7 mg/dL
+  2019-03-03 : Triglycerides                            225.5 mg/dL
+  2019-03-03 : Total Cholesterol                        245.8 mg/dL
+  2019-03-03 : Carbon Dioxide                           26.0 mmol/L
+  2019-03-03 : Chloride                                 105.1 mmol/L
+  2019-03-03 : Potassium                                4.1 mmol/L
+  2019-03-03 : Sodium                                   139.5 mmol/L
+  2019-03-03 : Calcium                                  8.6 mg/dL
+  2019-03-03 : Creatinine                               2.9 mg/dL
+  2019-03-03 : Urea Nitrogen                            17.9 mg/dL
+  2019-03-03 : Glucose                                  148.1 mg/dL
+  2019-03-03 : Respiratory rate                         14.0 /min
+  2019-03-03 : Heart rate                               74.0 /min
+  2019-03-03 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2019-03-03 : Body Mass Index                          36.1 kg/m2
+  2019-03-03 : Body Weight                              116.1 kg
+  2019-03-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-03-03 : Body Height                              179.4 cm
+  2019-02-24 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2019-02-24 : Tobacco smoking status NHIS              Never smoker 
+  2019-02-24 : Estimated Glomerular Filtration Rate     46.2 mL/min/{1.73_m2}
+  2019-02-24 : Microalbumin Creatinine Ratio            27.9 mg/g
+  2019-02-24 : High Density Lipoprotein Cholesterol     35.3 mg/dL
+  2019-02-24 : Low Density Lipoprotein Cholesterol      173.0 mg/dL
+  2019-02-24 : Triglycerides                            239.5 mg/dL
+  2019-02-24 : Total Cholesterol                        256.1 mg/dL
+  2019-02-24 : Carbon Dioxide                           24.9 mmol/L
+  2019-02-24 : Chloride                                 107.3 mmol/L
+  2019-02-24 : Potassium                                4.0 mmol/L
+  2019-02-24 : Sodium                                   138.3 mmol/L
+  2019-02-24 : Calcium                                  8.7 mg/dL
+  2019-02-24 : Creatinine                               3.4 mg/dL
+  2019-02-24 : Urea Nitrogen                            14.7 mg/dL
+  2019-02-24 : Glucose                                  175.9 mg/dL
+  2019-02-24 : Respiratory rate                         13.0 /min
+  2019-02-24 : Heart rate                               96.0 /min
+  2019-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2019-02-24 : Body Mass Index                          36.1 kg/m2
+  2019-02-24 : Body Weight                              116.1 kg
+  2019-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-02-24 : Body Height                              179.4 cm
+  2018-12-30 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2018-12-30 : Tobacco smoking status NHIS              Never smoker 
+  2018-12-30 : Estimated Glomerular Filtration Rate     56.5 mL/min/{1.73_m2}
+  2018-12-30 : Microalbumin Creatinine Ratio            19.9 mg/g
+  2018-12-30 : High Density Lipoprotein Cholesterol     36.6 mg/dL
+  2018-12-30 : Low Density Lipoprotein Cholesterol      124.3 mg/dL
+  2018-12-30 : Triglycerides                            424.6 mg/dL
+  2018-12-30 : Total Cholesterol                        245.8 mg/dL
+  2018-12-30 : Carbon Dioxide                           26.4 mmol/L
+  2018-12-30 : Chloride                                 105.5 mmol/L
+  2018-12-30 : Potassium                                5.1 mmol/L
+  2018-12-30 : Sodium                                   136.3 mmol/L
+  2018-12-30 : Calcium                                  10.1 mg/dL
+  2018-12-30 : Creatinine                               2.7 mg/dL
+  2018-12-30 : Urea Nitrogen                            8.7 mg/dL
+  2018-12-30 : Glucose                                  174.4 mg/dL
+  2018-12-30 : Respiratory rate                         16.0 /min
+  2018-12-30 : Heart rate                               66.0 /min
+  2018-12-30 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2018-12-30 : Body Mass Index                          36.1 kg/m2
+  2018-12-30 : Body Weight                              116.1 kg
+  2018-12-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-12-30 : Body Height                              179.4 cm
+  2018-09-30 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2018-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2018-09-30 : Estimated Glomerular Filtration Rate     54.1 mL/min/{1.73_m2}
+  2018-09-30 : Microalbumin Creatinine Ratio            29.8 mg/g
+  2018-09-30 : High Density Lipoprotein Cholesterol     21.8 mg/dL
+  2018-09-30 : Low Density Lipoprotein Cholesterol      167.8 mg/dL
+  2018-09-30 : Triglycerides                            305.0 mg/dL
+  2018-09-30 : Total Cholesterol                        250.6 mg/dL
+  2018-09-30 : Carbon Dioxide                           22.4 mmol/L
+  2018-09-30 : Chloride                                 102.0 mmol/L
+  2018-09-30 : Potassium                                3.9 mmol/L
+  2018-09-30 : Sodium                                   138.2 mmol/L
+  2018-09-30 : Calcium                                  9.1 mg/dL
+  2018-09-30 : Creatinine                               2.9 mg/dL
+  2018-09-30 : Urea Nitrogen                            7.5 mg/dL
+  2018-09-30 : Glucose                                  156.0 mg/dL
+  2018-09-30 : Respiratory rate                         15.0 /min
+  2018-09-30 : Heart rate                               69.0 /min
+  2018-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2018-09-30 : Body Mass Index                          36.1 kg/m2
+  2018-09-30 : Body Weight                              116.1 kg
+  2018-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-09-30 : Body Height                              179.4 cm
+  2018-08-26 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2018-08-26 : Tobacco smoking status NHIS              Never smoker 
+  2018-08-26 : Estimated Glomerular Filtration Rate     48.5 mL/min/{1.73_m2}
+  2018-08-26 : Microalbumin Creatinine Ratio            18.2 mg/g
+  2018-08-26 : High Density Lipoprotein Cholesterol     27.7 mg/dL
+  2018-08-26 : Low Density Lipoprotein Cholesterol      128.5 mg/dL
+  2018-08-26 : Triglycerides                            484.5 mg/dL
+  2018-08-26 : Total Cholesterol                        253.1 mg/dL
+  2018-08-26 : Carbon Dioxide                           20.8 mmol/L
+  2018-08-26 : Chloride                                 107.2 mmol/L
+  2018-08-26 : Potassium                                4.7 mmol/L
+  2018-08-26 : Sodium                                   141.0 mmol/L
+  2018-08-26 : Calcium                                  8.7 mg/dL
+  2018-08-26 : Creatinine                               3.2 mg/dL
+  2018-08-26 : Urea Nitrogen                            16.2 mg/dL
+  2018-08-26 : Glucose                                  174.1 mg/dL
+  2018-08-26 : Respiratory rate                         14.0 /min
+  2018-08-26 : Heart rate                               64.0 /min
+  2018-08-26 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2018-08-26 : Body Mass Index                          36.1 kg/m2
+  2018-08-26 : Body Weight                              116.1 kg
+  2018-08-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-08-26 : Body Height                              179.4 cm
+  2018-07-01 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2018-07-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-07-01 : Estimated Glomerular Filtration Rate     51.4 mL/min/{1.73_m2}
+  2018-07-01 : Microalbumin Creatinine Ratio            24.4 mg/g
+  2018-07-01 : High Density Lipoprotein Cholesterol     25.7 mg/dL
+  2018-07-01 : Low Density Lipoprotein Cholesterol      160.1 mg/dL
+  2018-07-01 : Triglycerides                            344.8 mg/dL
+  2018-07-01 : Total Cholesterol                        254.8 mg/dL
+  2018-07-01 : Carbon Dioxide                           21.7 mmol/L
+  2018-07-01 : Chloride                                 104.5 mmol/L
+  2018-07-01 : Potassium                                4.9 mmol/L
+  2018-07-01 : Sodium                                   140.2 mmol/L
+  2018-07-01 : Calcium                                  9.8 mg/dL
+  2018-07-01 : Creatinine                               3.0 mg/dL
+  2018-07-01 : Urea Nitrogen                            9.6 mg/dL
+  2018-07-01 : Glucose                                  158.5 mg/dL
+  2018-07-01 : Respiratory rate                         16.0 /min
+  2018-07-01 : Heart rate                               70.0 /min
+  2018-07-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  105.0 mm[Hg]
+  2018-07-01 : Body Mass Index                          36.1 kg/m2
+  2018-07-01 : Body Weight                              116.1 kg
+  2018-07-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-07-01 : Body Height                              179.4 cm
+  2018-02-18 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2018-02-18 : Tobacco smoking status NHIS              Never smoker 
+  2018-02-18 : Estimated Glomerular Filtration Rate     44.7 mL/min/{1.73_m2}
+  2018-02-18 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.2 fL
+  2018-02-18 : Platelet distribution width [Entitic volume] in Blood by Automated count 203.4 fL
+  2018-02-18 : Platelets [#/volume] in Blood by Automated count 430.8 10*3/uL
+  2018-02-18 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2018-02-18 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2018-02-18 : MCH [Entitic mass] by Automated count    29.3 pg
+  2018-02-18 : MCV [Entitic volume] by Automated count  82.8 fL
+  2018-02-18 : Hematocrit [Volume Fraction] of Blood by Automated count 49.8 %
+  2018-02-18 : Hemoglobin [Mass/volume] in Blood        16.0 g/dL
+  2018-02-18 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2018-02-18 : Leukocytes [#/volume] in Blood by Automated count 6.4 10*3/uL
+  2018-02-18 : Microalbumin Creatinine Ratio            27.6 mg/g
+  2018-02-18 : High Density Lipoprotein Cholesterol     33.7 mg/dL
+  2018-02-18 : Low Density Lipoprotein Cholesterol      129.1 mg/dL
+  2018-02-18 : Triglycerides                            392.0 mg/dL
+  2018-02-18 : Total Cholesterol                        241.1 mg/dL
+  2018-02-18 : Carbon Dioxide                           26.2 mmol/L
+  2018-02-18 : Chloride                                 105.3 mmol/L
+  2018-02-18 : Potassium                                4.3 mmol/L
+  2018-02-18 : Sodium                                   138.2 mmol/L
+  2018-02-18 : Calcium                                  8.9 mg/dL
+  2018-02-18 : Creatinine                               3.5 mg/dL
+  2018-02-18 : Urea Nitrogen                            8.5 mg/dL
+  2018-02-18 : Glucose                                  164.7 mg/dL
+  2018-02-18 : Respiratory rate                         13.0 /min
+  2018-02-18 : Heart rate                               98.0 /min
+  2018-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2018-02-18 : Body Mass Index                          36.1 kg/m2
+  2018-02-18 : Body Weight                              116.1 kg
+  2018-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-02-18 : Body Height                              179.4 cm
+  2017-11-05 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2017-11-05 : Tobacco smoking status NHIS              Never smoker 
+  2017-11-05 : Estimated Glomerular Filtration Rate     51.5 mL/min/{1.73_m2}
+  2017-11-05 : Microalbumin Creatinine Ratio            23.7 mg/g
+  2017-11-05 : High Density Lipoprotein Cholesterol     21.3 mg/dL
+  2017-11-05 : Low Density Lipoprotein Cholesterol      157.6 mg/dL
+  2017-11-05 : Triglycerides                            395.5 mg/dL
+  2017-11-05 : Total Cholesterol                        258.0 mg/dL
+  2017-11-05 : Carbon Dioxide                           27.7 mmol/L
+  2017-11-05 : Chloride                                 106.4 mmol/L
+  2017-11-05 : Potassium                                4.3 mmol/L
+  2017-11-05 : Sodium                                   139.8 mmol/L
+  2017-11-05 : Calcium                                  10.1 mg/dL
+  2017-11-05 : Creatinine                               3.0 mg/dL
+  2017-11-05 : Urea Nitrogen                            18.5 mg/dL
+  2017-11-05 : Glucose                                  189.3 mg/dL
+  2017-11-05 : Respiratory rate                         16.0 /min
+  2017-11-05 : Heart rate                               82.0 /min
+  2017-11-05 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2017-11-05 : Body Mass Index                          36.1 kg/m2
+  2017-11-05 : Body Weight                              116.1 kg
+  2017-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-11-05 : Body Height                              179.4 cm
+  2017-08-06 : Hemoglobin A1c/Hemoglobin.total in Blood 4.5 %
+  2017-08-06 : Tobacco smoking status NHIS              Never smoker 
+  2017-08-06 : Estimated Glomerular Filtration Rate     54.4 mL/min/{1.73_m2}
+  2017-08-06 : Microalbumin Creatinine Ratio            29.7 mg/g
+  2017-08-06 : High Density Lipoprotein Cholesterol     31.1 mg/dL
+  2017-08-06 : Low Density Lipoprotein Cholesterol      150.7 mg/dL
+  2017-08-06 : Triglycerides                            332.7 mg/dL
+  2017-08-06 : Total Cholesterol                        248.4 mg/dL
+  2017-08-06 : Carbon Dioxide                           28.8 mmol/L
+  2017-08-06 : Chloride                                 108.2 mmol/L
+  2017-08-06 : Potassium                                4.0 mmol/L
+  2017-08-06 : Sodium                                   136.5 mmol/L
+  2017-08-06 : Calcium                                  10.0 mg/dL
+  2017-08-06 : Creatinine                               2.9 mg/dL
+  2017-08-06 : Urea Nitrogen                            7.1 mg/dL
+  2017-08-06 : Glucose                                  178.7 mg/dL
+  2017-08-06 : Respiratory rate                         12.0 /min
+  2017-08-06 : Heart rate                               80.0 /min
+  2017-08-06 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2017-08-06 : Body Mass Index                          36.1 kg/m2
+  2017-08-06 : Body Weight                              116.1 kg
+  2017-08-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-08-06 : Body Height                              179.4 cm
+  2017-03-05 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2017-03-05 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2017-03-05 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2017-03-05 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  2017-03-05 : Protein [Mass/volume] in Urine by Test strip 102.3 mg/dL
+  2017-03-05 : pH of Urine by Test strip                6.4 pH
+  2017-03-05 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2017-03-05 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  2017-03-05 : Ketones [Mass/volume] in Urine by Test strip 15.9 mg/dL
+  2017-03-05 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2017-03-05 : Bilirubin.total [Mass/volume] in Urine by Test strip 0.6 mg/dL
+  2017-03-05 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2017-03-05 : Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+  2017-03-05 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2017-03-05 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2017-03-05 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2017-03-05 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2017-03-05 : Glomerular filtration rate/1.73 sq M.predicted 136.7 mL/min
+  2017-03-05 : Carbon Dioxide                           22.8 mmol/L
+  2017-03-05 : Chloride                                 101.5 mmol/L
+  2017-03-05 : Potassium                                4.2 mmol/L
+  2017-03-05 : Sodium                                   143.9 mmol/L
+  2017-03-05 : Calcium                                  9.7 mg/dL
+  2017-03-05 : Creatinine                               1.6 mg/dL
+  2017-03-05 : Urea Nitrogen                            16.0 mg/dL
+  2017-03-05 : Glucose                                  190.7 mg/dL
+  2017-03-05 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2017-03-05 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-05 : Estimated Glomerular Filtration Rate     87.9 mL/min/{1.73_m2}
+  2017-03-05 : Microalbumin Creatinine Ratio            2.5 mg/g
+  2017-03-05 : High Density Lipoprotein Cholesterol     38.2 mg/dL
+  2017-03-05 : Low Density Lipoprotein Cholesterol      149.2 mg/dL
+  2017-03-05 : Triglycerides                            270.0 mg/dL
+  2017-03-05 : Total Cholesterol                        241.4 mg/dL
+  2017-03-05 : Carbon Dioxide                           22.8 mmol/L
+  2017-03-05 : Chloride                                 101.5 mmol/L
+  2017-03-05 : Potassium                                4.2 mmol/L
+  2017-03-05 : Sodium                                   143.9 mmol/L
+  2017-03-05 : Calcium                                  9.7 mg/dL
+  2017-03-05 : Creatinine                               1.8 mg/dL
+  2017-03-05 : Urea Nitrogen                            16.0 mg/dL
+  2017-03-05 : Glucose                                  190.7 mg/dL
+  2017-03-05 : Respiratory rate                         15.0 /min
+  2017-03-05 : Heart rate                               72.0 /min
+  2017-03-05 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  132.0 mm[Hg]
+  2017-03-05 : Body Mass Index                          36.1 kg/m2
+  2017-03-05 : Body Weight                              116.1 kg
+  2017-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-03-05 : Body Height                              179.4 cm
+  2017-02-12 : Leukocyte esterase [Presence] in Urine by Test strip Urine leukocyte test negative (finding) {nominal}
+  2017-02-12 : Hemoglobin [Presence] in Urine by Test strip Urine blood test = negative (finding) {nominal}
+  2017-02-12 : Nitrite [Presence] in Urine by Test strip Urine nitrite negative (finding) {nominal}
+  2017-02-12 : Protein [Presence] in Urine by Test strip Urine protein test = + (finding) {nominal}
+  2017-02-12 : Protein [Mass/volume] in Urine by Test strip 128.6 mg/dL
+  2017-02-12 : pH of Urine by Test strip                5.4 pH
+  2017-02-12 : Specific gravity of Urine by Test strip  1.0 {nominal}
+  2017-02-12 : Ketones [Presence] in Urine by Test strip Urine ketone test = trace (finding) {nominal}
+  2017-02-12 : Ketones [Mass/volume] in Urine by Test strip 0.8 mg/dL
+  2017-02-12 : Bilirubin.total [Presence] in Urine by Test strip Finding of bilirubin in urine (finding) {nominal}
+  2017-02-12 : Bilirubin.total [Mass/volume] in Urine by Test strip 1.0 mg/dL
+  2017-02-12 : Glucose [Presence] in Urine by Test strip Urine glucose test = ++ (finding) {nominal}
+  2017-02-12 : Glucose [Mass/volume] in Urine by Test strip 2.4 mg/dL
+  2017-02-12 : Color of Urine                           Brown color (qualifier value) {nominal}
+  2017-02-12 : Clarity of Urine                         Translucent (qualifier value) {nominal}
+  2017-02-12 : Odor of Urine                            Urine smell ammoniacal (finding) {nominal}
+  2017-02-12 : Appearance of Urine                      Cloudy urine (finding) {nominal}
+  2017-02-12 : Glomerular filtration rate/1.73 sq M.predicted 138.0 mL/min
+  2017-02-12 : Carbon Dioxide                           25.4 mmol/L
+  2017-02-12 : Chloride                                 108.5 mmol/L
+  2017-02-12 : Potassium                                4.1 mmol/L
+  2017-02-12 : Sodium                                   136.0 mmol/L
+  2017-02-12 : Calcium                                  10.2 mg/dL
+  2017-02-12 : Creatinine                               1.6 mg/dL
+  2017-02-12 : Urea Nitrogen                            12.4 mg/dL
+  2017-02-12 : Glucose                                  146.5 mg/dL
+  2017-02-12 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2017-02-12 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-12 : Estimated Glomerular Filtration Rate     89.7 mL/min/{1.73_m2}
+  2017-02-12 : Microalbumin Creatinine Ratio            8.8 mg/g
+  2017-02-12 : High Density Lipoprotein Cholesterol     26.0 mg/dL
+  2017-02-12 : Low Density Lipoprotein Cholesterol      144.3 mg/dL
+  2017-02-12 : Triglycerides                            400.5 mg/dL
+  2017-02-12 : Total Cholesterol                        250.4 mg/dL
+  2017-02-12 : Carbon Dioxide                           25.4 mmol/L
+  2017-02-12 : Chloride                                 108.5 mmol/L
+  2017-02-12 : Potassium                                4.1 mmol/L
+  2017-02-12 : Sodium                                   136.0 mmol/L
+  2017-02-12 : Calcium                                  10.2 mg/dL
+  2017-02-12 : Creatinine                               1.8 mg/dL
+  2017-02-12 : Urea Nitrogen                            12.4 mg/dL
+  2017-02-12 : Glucose                                  146.5 mg/dL
+  2017-02-12 : Respiratory rate                         14.0 /min
+  2017-02-12 : Heart rate                               63.0 /min
+  2017-02-12 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2017-02-12 : Body Mass Index                          36.1 kg/m2
+  2017-02-12 : Body Weight                              116.1 kg
+  2017-02-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-02-12 : Body Height                              179.4 cm
+  2016-02-07 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2016-02-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-02-07 : Estimated Glomerular Filtration Rate     130.6 mL/min/{1.73_m2}
+  2016-02-07 : Microalbumin Creatinine Ratio            5.5 mg/g
+  2016-02-07 : High Density Lipoprotein Cholesterol     28.8 mg/dL
+  2016-02-07 : Low Density Lipoprotein Cholesterol      163.3 mg/dL
+  2016-02-07 : Triglycerides                            321.7 mg/dL
+  2016-02-07 : Total Cholesterol                        256.4 mg/dL
+  2016-02-07 : Carbon Dioxide                           26.6 mmol/L
+  2016-02-07 : Chloride                                 103.9 mmol/L
+  2016-02-07 : Potassium                                3.7 mmol/L
+  2016-02-07 : Sodium                                   136.6 mmol/L
+  2016-02-07 : Calcium                                  9.7 mg/dL
+  2016-02-07 : Creatinine                               1.6 mg/dL
+  2016-02-07 : Urea Nitrogen                            14.0 mg/dL
+  2016-02-07 : Glucose                                  160.1 mg/dL
+  2016-02-07 : Respiratory rate                         13.0 /min
+  2016-02-07 : Heart rate                               69.0 /min
+  2016-02-07 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2016-02-07 : Body Mass Index                          36.1 kg/m2
+  2016-02-07 : Body Weight                              116.1 kg
+  2016-02-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-02-07 : Body Height                              179.4 cm
+  2015-02-01 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2015-02-01 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-01 : Estimated Glomerular Filtration Rate     132.6 mL/min/{1.73_m2}
+  2015-02-01 : Microalbumin Creatinine Ratio            3.5 mg/g
+  2015-02-01 : High Density Lipoprotein Cholesterol     25.9 mg/dL
+  2015-02-01 : Low Density Lipoprotein Cholesterol      155.2 mg/dL
+  2015-02-01 : Triglycerides                            291.2 mg/dL
+  2015-02-01 : Total Cholesterol                        239.4 mg/dL
+  2015-02-01 : Carbon Dioxide                           25.5 mmol/L
+  2015-02-01 : Chloride                                 108.6 mmol/L
+  2015-02-01 : Potassium                                4.4 mmol/L
+  2015-02-01 : Sodium                                   138.4 mmol/L
+  2015-02-01 : Calcium                                  8.9 mg/dL
+  2015-02-01 : Creatinine                               1.6 mg/dL
+  2015-02-01 : Urea Nitrogen                            19.0 mg/dL
+  2015-02-01 : Glucose                                  134.9 mg/dL
+  2015-02-01 : Respiratory rate                         15.0 /min
+  2015-02-01 : Heart rate                               89.0 /min
+  2015-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2015-02-01 : Body Mass Index                          36.1 kg/m2
+  2015-02-01 : Body Weight                              116.1 kg
+  2015-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2015-02-01 : Body Height                              179.4 cm
+  2014-01-26 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2014-01-26 : Tobacco smoking status NHIS              Never smoker 
+  2014-01-26 : Estimated Glomerular Filtration Rate     150.3 mL/min/{1.73_m2}
+  2014-01-26 : Microalbumin Creatinine Ratio            2.5 mg/g
+  2014-01-26 : High Density Lipoprotein Cholesterol     37.0 mg/dL
+  2014-01-26 : Low Density Lipoprotein Cholesterol      111.6 mg/dL
+  2014-01-26 : Triglycerides                            481.7 mg/dL
+  2014-01-26 : Total Cholesterol                        244.9 mg/dL
+  2014-01-26 : Carbon Dioxide                           28.9 mmol/L
+  2014-01-26 : Chloride                                 110.0 mmol/L
+  2014-01-26 : Potassium                                4.0 mmol/L
+  2014-01-26 : Sodium                                   138.1 mmol/L
+  2014-01-26 : Calcium                                  10.2 mg/dL
+  2014-01-26 : Creatinine                               1.6 mg/dL
+  2014-01-26 : Urea Nitrogen                            11.8 mg/dL
+  2014-01-26 : Glucose                                  199.5 mg/dL
+  2014-01-26 : Respiratory rate                         15.0 /min
+  2014-01-26 : Heart rate                               89.0 /min
+  2014-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2014-01-26 : Body Mass Index                          36.1 kg/m2
+  2014-01-26 : Body Weight                              116.1 kg
+  2014-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-01-26 : Body Height                              179.4 cm
+  2013-01-20 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2013-01-20 : Tobacco smoking status NHIS              Never smoker 
+  2013-01-20 : Estimated Glomerular Filtration Rate     101.7 mL/min/{1.73_m2}
+  2013-01-20 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2013-01-20 : Platelet distribution width [Entitic volume] in Blood by Automated count 453.8 fL
+  2013-01-20 : Platelets [#/volume] in Blood by Automated count 200.5 10*3/uL
+  2013-01-20 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2013-01-20 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2013-01-20 : MCH [Entitic mass] by Automated count    28.7 pg
+  2013-01-20 : MCV [Entitic volume] by Automated count  87.4 fL
+  2013-01-20 : Hematocrit [Volume Fraction] of Blood by Automated count 37.4 %
+  2013-01-20 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2013-01-20 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2013-01-20 : Leukocytes [#/volume] in Blood by Automated count 5.1 10*3/uL
+  2013-01-20 : Microalbumin Creatinine Ratio            1.5 mg/g
+  2013-01-20 : High Density Lipoprotein Cholesterol     20.8 mg/dL
+  2013-01-20 : Low Density Lipoprotein Cholesterol      183.9 mg/dL
+  2013-01-20 : Triglycerides                            261.2 mg/dL
+  2013-01-20 : Total Cholesterol                        256.9 mg/dL
+  2013-01-20 : Carbon Dioxide                           27.5 mmol/L
+  2013-01-20 : Chloride                                 101.5 mmol/L
+  2013-01-20 : Potassium                                3.8 mmol/L
+  2013-01-20 : Sodium                                   136.5 mmol/L
+  2013-01-20 : Calcium                                  9.7 mg/dL
+  2013-01-20 : Creatinine                               1.6 mg/dL
+  2013-01-20 : Urea Nitrogen                            7.7 mg/dL
+  2013-01-20 : Glucose                                  152.7 mg/dL
+  2013-01-20 : Respiratory rate                         15.0 /min
+  2013-01-20 : Heart rate                               63.0 /min
+  2013-01-20 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2013-01-20 : Body Mass Index                          36.1 kg/m2
+  2013-01-20 : Body Weight                              116.1 kg
+  2013-01-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2013-01-20 : Body Height                              179.4 cm
+  2012-01-15 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2012-01-15 : Tobacco smoking status NHIS              Never smoker 
+  2012-01-15 : Estimated Glomerular Filtration Rate     139.0 mL/min/{1.73_m2}
+  2012-01-15 : Microalbumin Creatinine Ratio            6.3 mg/g
+  2012-01-15 : High Density Lipoprotein Cholesterol     21.1 mg/dL
+  2012-01-15 : Low Density Lipoprotein Cholesterol      192.7 mg/dL
+  2012-01-15 : Triglycerides                            222.5 mg/dL
+  2012-01-15 : Total Cholesterol                        258.3 mg/dL
+  2012-01-15 : Carbon Dioxide                           21.5 mmol/L
+  2012-01-15 : Chloride                                 109.0 mmol/L
+  2012-01-15 : Potassium                                3.9 mmol/L
+  2012-01-15 : Sodium                                   142.2 mmol/L
+  2012-01-15 : Calcium                                  8.6 mg/dL
+  2012-01-15 : Creatinine                               1.7 mg/dL
+  2012-01-15 : Urea Nitrogen                            13.3 mg/dL
+  2012-01-15 : Glucose                                  185.6 mg/dL
+  2012-01-15 : Respiratory rate                         15.0 /min
+  2012-01-15 : Heart rate                               72.0 /min
+  2012-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2012-01-15 : Body Mass Index                          36.1 kg/m2
+  2012-01-15 : Body Weight                              116.1 kg
+  2012-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-01-15 : Body Height                              179.4 cm
+  2011-01-09 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2011-01-09 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-09 : Estimated Glomerular Filtration Rate     127.1 mL/min/{1.73_m2}
+  2011-01-09 : Microalbumin Creatinine Ratio            14.5 mg/g
+  2011-01-09 : High Density Lipoprotein Cholesterol     23.1 mg/dL
+  2011-01-09 : Low Density Lipoprotein Cholesterol      130.5 mg/dL
+  2011-01-09 : Triglycerides                            441.7 mg/dL
+  2011-01-09 : Total Cholesterol                        242.0 mg/dL
+  2011-01-09 : Carbon Dioxide                           28.0 mmol/L
+  2011-01-09 : Chloride                                 105.9 mmol/L
+  2011-01-09 : Potassium                                3.7 mmol/L
+  2011-01-09 : Sodium                                   140.7 mmol/L
+  2011-01-09 : Calcium                                  9.9 mg/dL
+  2011-01-09 : Creatinine                               1.7 mg/dL
+  2011-01-09 : Urea Nitrogen                            14.2 mg/dL
+  2011-01-09 : Glucose                                  160.0 mg/dL
+  2011-01-09 : Respiratory rate                         15.0 /min
+  2011-01-09 : Heart rate                               86.0 /min
+  2011-01-09 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2011-01-09 : Body Mass Index                          36.1 kg/m2
+  2011-01-09 : Body Weight                              116.1 kg
+  2011-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-01-09 : Body Height                              179.4 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-04-19 : Medication Reconciliation (procedure)
+  2019-11-24 : Medication Reconciliation (procedure)
+  2019-09-22 : Medication Reconciliation (procedure)
+  2018-02-18 : Medication Reconciliation (procedure)
+  2015-02-01 : Medication Reconciliation (procedure)
+  2014-01-26 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-04-19 : Influenza, seasonal, injectable, preservative free
+  2019-04-28 : Influenza, seasonal, injectable, preservative free
+  2018-07-01 : Influenza, seasonal, injectable, preservative free
+  2017-08-06 : Influenza, seasonal, injectable, preservative free
+  2017-02-12 : Influenza, seasonal, injectable, preservative free
+  2016-02-07 : Td (adult) preservative free
+  2015-07-05 : Hep A, adult
+  2015-07-05 : Influenza, seasonal, injectable, preservative free
+  2015-02-01 : Hep A, adult
+  2015-02-01 : Influenza, seasonal, injectable, preservative free
+  2014-01-26 : Influenza, seasonal, injectable, preservative free
+  2012-07-08 : Influenza, seasonal, injectable, preservative free
+  2012-01-15 : Influenza, seasonal, injectable, preservative free
+  2011-01-09 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-04-19 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2020-03-01 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-11-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-10-20 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-09-22 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-08-25 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-04-28 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-03-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-03-03 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-02-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-12-30 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-09-30 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-08-26 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-07-01 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-02-18 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2017-11-05 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2017-08-06 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2017-03-05 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2017-02-12 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2016-02-07 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2015-07-05 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2015-06-27 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Acute bronchitis (disorder)
+2015-02-01 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2014-01-26 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2013-01-20 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2012-07-02 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Viral sinusitis (disorder)
+2012-07-08 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2012-03-22 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Viral sinusitis (disorder)
+2012-01-15 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2011-01-09 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2010-01-03 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2008-12-28 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2007-12-23 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2006-12-17 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2005-12-11 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Anemia (disorder)
+2005-12-11 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2002-12-08 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1998-07-01 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Chronic intractable migraine without aura
+1996-12-01 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1986-10-19 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

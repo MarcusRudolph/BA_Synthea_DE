@@ -1,0 +1,254 @@
+Annabell Hardt
+==============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1973-02-09
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1993-01-05[STOPPED] : Ortho Tri-Cyclen 28 Day Pack
+  1992-01-11[STOPPED] : Ortho Tri-Cyclen 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2000-03-10 - 2000-10-13 : Normal pregnancy
+  1995-03-31 - 1995-11-03 : Normal pregnancy
+  1993-04-04 - 1993-04-25 : Viral sinusitis (disorder)
+  1992-12-09 - 1992-12-30 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2000-03-10[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1995-03-31[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  1995-04-14 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+           - MCV [Entitic volume] by Automated count  85.7 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 214.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 508.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1998-04-17 : Tobacco smoking status NHIS              Former smoker 
+  1998-04-17 : Respiratory rate                         16.0 /min
+  1998-04-17 : Heart rate                               81.0 /min
+  1998-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  1998-04-17 : Body Mass Index                          23.9 kg/m2
+  1998-04-17 : Body Weight                              60.4 kg
+  1998-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1998-04-17 : Body Height                              159.0 cm
+  1995-04-14 : Tobacco smoking status NHIS              Current every day smoker 
+  1995-04-14 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  1995-04-14 : Platelet distribution width [Entitic volume] in Blood by Automated count 508.9 fL
+  1995-04-14 : Platelets [#/volume] in Blood by Automated count 214.2 10*3/uL
+  1995-04-14 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  1995-04-14 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  1995-04-14 : MCH [Entitic mass] by Automated count    32.2 pg
+  1995-04-14 : MCV [Entitic volume] by Automated count  85.7 fL
+  1995-04-14 : Hematocrit [Volume Fraction] of Blood by Automated count 45.4 %
+  1995-04-14 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  1995-04-14 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  1995-04-14 : Leukocytes [#/volume] in Blood by Automated count 6.0 10*3/uL
+  1995-04-14 : Respiratory rate                         14.0 /min
+  1995-04-14 : Heart rate                               100.0 /min
+  1995-04-14 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  1995-04-14 : Body Mass Index                          22.1 kg/m2
+  1995-04-14 : Body Weight                              56.0 kg
+  1995-04-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1995-04-14 : Body Height                              159.0 cm
+  1993-04-09 : Tobacco smoking status NHIS              Current every day smoker 
+  1993-04-09 : Respiratory rate                         15.0 /min
+  1993-04-09 : Heart rate                               62.0 /min
+  1993-04-09 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  1993-04-09 : Body Mass Index                          20.8 kg/m2
+  1993-04-09 : Body Weight                              52.7 kg
+  1993-04-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1993-04-09 : Body Height                              159.0 cm
+  1992-04-10 : Tobacco smoking status NHIS              Current every day smoker 
+  1992-04-10 : Respiratory rate                         12.0 /min
+  1992-04-10 : Heart rate                               78.0 /min
+  1992-04-10 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  1992-04-10 : Body mass index (BMI) [Percentile] Per age and gender 31.7 %
+  1992-04-10 : Body Mass Index                          20.2 kg/m2
+  1992-04-10 : Body Weight                              51.0 kg
+  1992-04-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1992-04-10 : Body Height                              158.9 cm
+  1991-04-05 : Tobacco smoking status NHIS              Current every day smoker 
+  1991-04-05 : Respiratory rate                         14.0 /min
+  1991-04-05 : Heart rate                               68.0 /min
+  1991-04-05 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  1991-04-05 : Body mass index (BMI) [Percentile] Per age and gender 37.1 %
+  1991-04-05 : Body Mass Index                          20.4 kg/m2
+  1991-04-05 : Body Weight                              51.3 kg
+  1991-04-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1991-04-05 : Body Height                              158.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2000-11-24 : Depression screening
+  2000-11-24 : Physical examination following birth
+  2000-10-13 : Childbirth for Normal pregnancy
+  2000-10-13 : Episiotomy for Normal pregnancy
+  2000-10-06 : Auscultation of the fetal heart for Normal pregnancy
+  2000-10-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-09-22 : Auscultation of the fetal heart for Normal pregnancy
+  2000-09-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-09-22 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2000-08-25 : Auscultation of the fetal heart for Normal pregnancy
+  2000-08-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-07-28 : Auscultation of the fetal heart for Normal pregnancy
+  2000-07-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-07-28 : Urine screening for glucose for Normal pregnancy
+  2000-07-28 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2000-07-28 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2000-06-30 : Auscultation of the fetal heart for Normal pregnancy
+  2000-06-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-06-02 : Auscultation of the fetal heart for Normal pregnancy
+  2000-06-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-05-05 : Auscultation of the fetal heart for Normal pregnancy
+  2000-05-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-05-05 : Alpha-fetoprotein test for Normal pregnancy
+  2000-05-05 : Fetal anatomy study for Normal pregnancy
+  2000-04-07 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2000-04-07 : Auscultation of the fetal heart for Normal pregnancy
+  2000-04-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-03-10 : Physical examination of mother for Normal pregnancy
+  2000-03-10 : Urine protein test for Normal pregnancy
+  2000-03-10 : Skin test for tuberculosis for Normal pregnancy
+  2000-03-10 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2000-03-10 : Rubella screening for Normal pregnancy
+  2000-03-10 : Hepatitis C antibody test for Normal pregnancy
+  2000-03-10 : Urine screening test for diabetes for Normal pregnancy
+  2000-03-10 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2000-03-10 : Urine culture for Normal pregnancy
+  2000-03-10 : Syphilis infection test for Normal pregnancy
+  2000-03-10 : Gonorrhea infection test for Normal pregnancy
+  2000-03-10 : Chlamydia antigen test for Normal pregnancy
+  2000-03-10 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2000-03-10 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2000-03-10 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2000-03-10 : Blood typing, RH typing for Normal pregnancy
+  2000-03-10 : Auscultation of the fetal heart for Normal pregnancy
+  2000-03-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2000-03-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2000-03-10 : Standard pregnancy test for Normal pregnancy
+  1995-12-15 : Depression screening
+  1995-12-15 : Physical examination following birth
+  1995-11-03 : Cesarean section for Normal pregnancy
+  1995-11-03 : Epidural anesthesia for Normal pregnancy
+  1995-10-27 : Auscultation of the fetal heart for Normal pregnancy
+  1995-10-27 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-10-13 : Auscultation of the fetal heart for Normal pregnancy
+  1995-10-13 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-10-13 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  1995-09-15 : Auscultation of the fetal heart for Normal pregnancy
+  1995-09-15 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-08-18 : Auscultation of the fetal heart for Normal pregnancy
+  1995-08-18 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-08-18 : Urine screening for glucose for Normal pregnancy
+  1995-08-18 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  1995-08-18 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  1995-07-21 : Auscultation of the fetal heart for Normal pregnancy
+  1995-07-21 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-06-23 : Auscultation of the fetal heart for Normal pregnancy
+  1995-06-23 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-05-26 : Auscultation of the fetal heart for Normal pregnancy
+  1995-05-26 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-05-26 : Alpha-fetoprotein test for Normal pregnancy
+  1995-05-26 : Fetal anatomy study for Normal pregnancy
+  1995-04-28 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  1995-04-28 : Auscultation of the fetal heart for Normal pregnancy
+  1995-04-28 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-03-31 : Physical examination of mother for Normal pregnancy
+  1995-03-31 : Urine protein test for Normal pregnancy
+  1995-03-31 : Skin test for tuberculosis for Normal pregnancy
+  1995-03-31 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  1995-03-31 : Rubella screening for Normal pregnancy
+  1995-03-31 : Hepatitis C antibody test for Normal pregnancy
+  1995-03-31 : Urine screening test for diabetes for Normal pregnancy
+  1995-03-31 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  1995-03-31 : Urine culture for Normal pregnancy
+  1995-03-31 : Syphilis infection test for Normal pregnancy
+  1995-03-31 : Gonorrhea infection test for Normal pregnancy
+  1995-03-31 : Chlamydia antigen test for Normal pregnancy
+  1995-03-31 : Human immunodeficiency virus antigen test for Normal pregnancy
+  1995-03-31 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  1995-03-31 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  1995-03-31 : Blood typing, RH typing for Normal pregnancy
+  1995-03-31 : Auscultation of the fetal heart for Normal pregnancy
+  1995-03-31 : Evaluation of uterine fundal height for Normal pregnancy
+  1995-03-31 : Ultrasound scan for fetal viability for Normal pregnancy
+  1995-03-31 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1998-04-17 : Influenza, seasonal, injectable, preservative free
+  1995-04-14 : Hep B, adult
+  1995-04-14 : Td (adult) preservative free
+  1995-04-14 : Influenza, seasonal, injectable, preservative free
+  1993-04-09 : Hep B, adult
+  1993-04-09 : Influenza, seasonal, injectable, preservative free
+  1992-04-10 : Influenza, seasonal, injectable, preservative free
+  1991-04-05 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2000-11-24 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+2000-10-13 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-10-06 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-09-22 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-08-25 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-07-28 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-06-30 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-06-02 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-05-05 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-04-07 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+2000-03-10 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1998-04-17 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1995-12-15 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1995-11-03 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-10-27 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-10-13 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-09-15 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-08-18 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-07-21 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-06-23 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-05-26 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-04-28 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1995-04-14 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1995-03-31 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Normal pregnancy
+1993-04-04 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+1993-04-09 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1993-01-05 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1992-12-09 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+1992-04-10 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1992-01-11 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1991-04-05 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

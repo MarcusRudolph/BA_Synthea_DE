@@ -1,0 +1,266 @@
+Kevin Jansen
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 76
+Birth Date:          1944-04-02
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-08-26[CURRENT] : Amlodipine 5 MG Oral Tablet
+  2019-08-26[CURRENT] : Simvastatin 20 MG Oral Tablet
+  2019-08-26[CURRENT] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2019-08-26[CURRENT] : Clopidogrel 75 MG Oral Tablet
+  2018-08-20[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2018-08-20[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2018-08-20[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2018-08-20[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2017-08-14[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2017-08-14[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2017-08-14[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2017-08-14[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2016-08-08[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2016-08-08[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2016-08-08[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2016-08-08[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2015-08-03[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2015-08-03[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2015-08-03[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2015-08-03[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2014-07-28[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2014-07-28[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2014-07-28[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2014-07-28[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2013-07-22[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2013-07-22[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2013-07-22[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2013-07-22[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2012-07-16[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2012-07-16[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2012-07-16[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2012-07-16[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  2012-07-16[STOPPED] : Nitroglycerin 0.4 MG/ACTUAT Mucosal Spray
+  2012-07-16[STOPPED] : Amlodipine 5 MG Oral Tablet
+  2012-07-16[STOPPED] : Simvastatin 20 MG Oral Tablet
+  2012-07-16[STOPPED] : Clopidogrel 75 MG Oral Tablet
+  1992-03-21[CURRENT] : Naproxen sodium 220 MG Oral Tablet for Osteoarthritis of hip
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2012-07-16 -            : Coronary Heart Disease
+  1992-03-21 -            : Osteoarthritis of hip
+  1966-06-05 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1992-03-21[CURRENT] : Musculoskeletal care
+                         Reason: Osteoarthritis of hip
+                         Activity: Joint mobility exercises
+                         Activity: Heat therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-08-20 : Lipid Panel
+           - Total Cholesterol                        165.2 mg/dL
+           - Triglycerides                            109.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      70.0 mg/dL
+           - High Density Lipoprotein Cholesterol     73.3 mg/dL
+  2016-08-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+           - MCV [Entitic volume] by Automated count  80.5 fL
+           - MCH [Entitic mass] by Automated count    27.7 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+           - Platelets [#/volume] in Blood by Automated count 261.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 271.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2015-08-03 : Lipid Panel
+           - Total Cholesterol                        189.1 mg/dL
+           - Triglycerides                            131.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      92.3 mg/dL
+           - High Density Lipoprotein Cholesterol     70.5 mg/dL
+  2012-07-16 : Lipid Panel
+           - Total Cholesterol                        165.0 mg/dL
+           - Triglycerides                            146.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      71.5 mg/dL
+           - High Density Lipoprotein Cholesterol     64.2 mg/dL
+  2011-07-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+           - MCV [Entitic volume] by Automated count  86.8 fL
+           - MCH [Entitic mass] by Automated count    29.8 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+           - Platelets [#/volume] in Blood by Automated count 345.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 406.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-08-26 : Tobacco smoking status NHIS              Former smoker 
+  2019-08-26 : Respiratory rate                         15.0 /min
+  2019-08-26 : Heart rate                               77.0 /min
+  2019-08-26 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2019-08-26 : Body Mass Index                          27.5 kg/m2
+  2019-08-26 : Body Weight                              92.6 kg
+  2019-08-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-08-26 : Body Height                              183.6 cm
+  2018-08-20 : Tobacco smoking status NHIS              Former smoker 
+  2018-08-20 : High Density Lipoprotein Cholesterol     73.3 mg/dL
+  2018-08-20 : Low Density Lipoprotein Cholesterol      70.0 mg/dL
+  2018-08-20 : Triglycerides                            109.9 mg/dL
+  2018-08-20 : Total Cholesterol                        165.2 mg/dL
+  2018-08-20 : Respiratory rate                         15.0 /min
+  2018-08-20 : Heart rate                               62.0 /min
+  2018-08-20 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2018-08-20 : Body Mass Index                          27.5 kg/m2
+  2018-08-20 : Body Weight                              92.6 kg
+  2018-08-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-08-20 : Body Height                              183.6 cm
+  2017-08-14 : Tobacco smoking status NHIS              Former smoker 
+  2017-08-14 : Respiratory rate                         15.0 /min
+  2017-08-14 : Heart rate                               93.0 /min
+  2017-08-14 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2017-08-14 : Body Mass Index                          27.5 kg/m2
+  2017-08-14 : Body Weight                              92.6 kg
+  2017-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-08-14 : Body Height                              183.6 cm
+  2016-08-08 : Tobacco smoking status NHIS              Former smoker 
+  2016-08-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2016-08-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 271.5 fL
+  2016-08-08 : Platelets [#/volume] in Blood by Automated count 261.8 10*3/uL
+  2016-08-08 : Erythrocyte distribution width [Entitic volume] by Automated count 42.9 fL
+  2016-08-08 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2016-08-08 : MCH [Entitic mass] by Automated count    27.7 pg
+  2016-08-08 : MCV [Entitic volume] by Automated count  80.5 fL
+  2016-08-08 : Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+  2016-08-08 : Hemoglobin [Mass/volume] in Blood        12.3 g/dL
+  2016-08-08 : Erythrocytes [#/volume] in Blood by Automated count 4.9 10*6/uL
+  2016-08-08 : Leukocytes [#/volume] in Blood by Automated count 4.1 10*3/uL
+  2016-08-08 : Respiratory rate                         16.0 /min
+  2016-08-08 : Heart rate                               66.0 /min
+  2016-08-08 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2016-08-08 : Body Mass Index                          27.5 kg/m2
+  2016-08-08 : Body Weight                              92.6 kg
+  2016-08-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-08-08 : Body Height                              183.6 cm
+  2015-08-03 : Tobacco smoking status NHIS              Former smoker 
+  2015-08-03 : High Density Lipoprotein Cholesterol     70.5 mg/dL
+  2015-08-03 : Low Density Lipoprotein Cholesterol      92.3 mg/dL
+  2015-08-03 : Triglycerides                            131.5 mg/dL
+  2015-08-03 : Total Cholesterol                        189.1 mg/dL
+  2015-08-03 : Respiratory rate                         15.0 /min
+  2015-08-03 : Heart rate                               90.0 /min
+  2015-08-03 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2015-08-03 : Body Mass Index                          27.5 kg/m2
+  2015-08-03 : Body Weight                              92.6 kg
+  2015-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-08-03 : Body Height                              183.6 cm
+  2014-07-28 : Tobacco smoking status NHIS              Former smoker 
+  2014-07-28 : Respiratory rate                         16.0 /min
+  2014-07-28 : Heart rate                               85.0 /min
+  2014-07-28 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2014-07-28 : Body Mass Index                          27.5 kg/m2
+  2014-07-28 : Body Weight                              92.6 kg
+  2014-07-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2014-07-28 : Body Height                              183.6 cm
+  2013-07-22 : Tobacco smoking status NHIS              Former smoker 
+  2013-07-22 : Respiratory rate                         16.0 /min
+  2013-07-22 : Heart rate                               84.0 /min
+  2013-07-22 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2013-07-22 : Body Mass Index                          27.5 kg/m2
+  2013-07-22 : Body Weight                              92.6 kg
+  2013-07-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2013-07-22 : Body Height                              183.6 cm
+  2012-07-16 : Tobacco smoking status NHIS              Former smoker 
+  2012-07-16 : High Density Lipoprotein Cholesterol     64.2 mg/dL
+  2012-07-16 : Low Density Lipoprotein Cholesterol      71.5 mg/dL
+  2012-07-16 : Triglycerides                            146.8 mg/dL
+  2012-07-16 : Total Cholesterol                        165.0 mg/dL
+  2012-07-16 : Respiratory rate                         13.0 /min
+  2012-07-16 : Heart rate                               78.0 /min
+  2012-07-16 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2012-07-16 : Body Mass Index                          27.5 kg/m2
+  2012-07-16 : Body Weight                              92.6 kg
+  2012-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-07-16 : Body Height                              183.6 cm
+  2011-07-11 : Tobacco smoking status NHIS              Former smoker 
+  2011-07-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2011-07-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 406.6 fL
+  2011-07-11 : Platelets [#/volume] in Blood by Automated count 345.4 10*3/uL
+  2011-07-11 : Erythrocyte distribution width [Entitic volume] by Automated count 40.2 fL
+  2011-07-11 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2011-07-11 : MCH [Entitic mass] by Automated count    29.8 pg
+  2011-07-11 : MCV [Entitic volume] by Automated count  86.8 fL
+  2011-07-11 : Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+  2011-07-11 : Hemoglobin [Mass/volume] in Blood        14.4 g/dL
+  2011-07-11 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2011-07-11 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  2011-07-11 : Respiratory rate                         15.0 /min
+  2011-07-11 : Heart rate                               72.0 /min
+  2011-07-11 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2011-07-11 : Body Mass Index                          27.5 kg/m2
+  2011-07-11 : Body Weight                              92.6 kg
+  2011-07-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-07-11 : Body Height                              183.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-08-26 : Medication Reconciliation (procedure)
+  2019-03-28 : Colonoscopy
+  2018-08-20 : Medication Reconciliation (procedure)
+  2015-08-03 : Medication Reconciliation (procedure)
+  2014-03-29 : Colonoscopy
+  2012-07-16 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-08-26 : Influenza, seasonal, injectable, preservative free
+  2018-08-20 : Influenza, seasonal, injectable, preservative free
+  2017-08-14 : Influenza, seasonal, injectable, preservative free
+  2016-08-08 : Influenza, seasonal, injectable, preservative free
+  2015-08-03 : Td (adult) preservative free
+  2015-08-03 : Influenza, seasonal, injectable, preservative free
+  2014-07-28 : Influenza, seasonal, injectable, preservative free
+  2013-07-22 : Influenza, seasonal, injectable, preservative free
+  2012-07-16 : Influenza, seasonal, injectable, preservative free
+  2011-07-11 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-08-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-03-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-08-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-08-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-08-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-08-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-07-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-03-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-07-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-07-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-07-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1992-03-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Osteoarthritis of hip
+1966-06-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

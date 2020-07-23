@@ -1,0 +1,826 @@
+Lisbeth Wilke
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 42
+Birth Date:          1977-10-05
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-04-15[CURRENT] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2019-04-17[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2019-04-10[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2019-04-05[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2018-05-01[STOPPED] : Jolivette 28 Day Pack
+  2018-04-04[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2017-05-06[STOPPED] : Errin 28 Day Pack
+  2017-03-29[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2016-06-10[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2016-05-11[STOPPED] : Camila 28 Day Pack
+  2016-03-23[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2015-03-18[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2014-05-03[STOPPED] : Camila 28 Day Pack
+  2014-03-12[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2013-11-16[STOPPED] : NITROFURANTOIN, MACROCRYSTALS 50 MG Oral Capsule for Escherichia coli urinary tract infection
+  2013-11-09[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2013-11-09[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2013-03-06[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2012-05-09[STOPPED] : Camila 28 Day Pack
+  2012-02-29[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2011-03-25[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2011-02-23[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2011-02-23[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2010-02-17[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2009-02-11[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2008-02-06[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2007-01-31[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2006-01-25[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2005-01-19[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2004-01-14[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2003-01-08[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2002-01-02[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2000-12-27[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2000-03-01[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1999-12-22[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1998-12-16[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1997-12-10[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1996-12-04[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1996-02-27[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-07-22 -            : Antepartum eclampsia
+  2020-01-08 -            : Normal pregnancy
+  2019-04-05 - 2019-04-12 : Viral sinusitis (disorder)
+  2019-01-11 - 2019-01-21 : Acute viral pharyngitis (disorder)
+  2016-06-10 - 2016-06-23 : Streptococcal sore throat (disorder)
+  2015-09-02 - 2016-03-30 : Normal pregnancy
+  2013-09-26 - 2013-11-23 : Escherichia coli urinary tract infection
+  2011-08-24 - 2012-03-28 : Normal pregnancy
+  2011-03-25 - 2011-04-15 : Laceration of hand
+  2011-02-23 -            : Anemia (disorder)
+  2011-02-23 -            : Prediabetes
+  2007-07-11 - 2008-02-06 : Normal pregnancy
+  2005-05-11 - 2005-12-14 : Normal pregnancy
+  1999-02-27 -            : Drug overdose
+  1995-11-29 -            : Hypertension
+  1995-03-15 - 1995-10-18 : Normal pregnancy
+  1993-01-18 -            : Chronic intractable migraine without aura
+  1992-11-11 -            : Body mass index 40+ - severely obese (finding)
+  1992-11-07 -            : Chronic pain
+  1991-11-08 -            : Impacted molars
+  1989-10-25 -            : Body mass index 30+ - obesity (finding)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2020-01-08[CURRENT] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-09-02[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-11-09[STOPPED] : Urinary tract infection care
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2011-08-24[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2011-03-25[STOPPED] : Wound care
+                         Reason: Laceration of hand
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2011-02-23[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2007-07-11[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2005-05-11[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  1999-02-27[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  1995-11-29[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1995-03-15[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-04-15 : Lipid Panel
+           - Total Cholesterol                        189.0 mg/dL
+           - Triglycerides                            129.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      97.2 mg/dL
+           - High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2020-04-15 : Basic Metabolic Panel
+           - Glucose                                  76.1 mg/dL
+           - Urea Nitrogen                            17.0 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   138.6 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 108.1 mmol/L
+           - Carbon Dioxide                           25.9 mmol/L
+  2019-04-17 : Basic Metabolic Panel
+           - Glucose                                  87.0 mg/dL
+           - Urea Nitrogen                            9.1 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   139.6 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 108.4 mmol/L
+           - Carbon Dioxide                           21.2 mmol/L
+  2019-04-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+           - MCV [Entitic volume] by Automated count  94.3 fL
+           - MCH [Entitic mass] by Automated count    28.7 pg
+           - MCHC [Mass/volume] by Automated count    34.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+           - Platelets [#/volume] in Blood by Automated count 174.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 316.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2019-04-10 : Basic Metabolic Panel
+           - Glucose                                  97.3 mg/dL
+           - Urea Nitrogen                            11.8 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   143.1 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 105.6 mmol/L
+           - Carbon Dioxide                           28.0 mmol/L
+  2018-04-04 : Basic Metabolic Panel
+           - Glucose                                  73.0 mg/dL
+           - Urea Nitrogen                            7.2 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   142.8 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 109.3 mmol/L
+           - Carbon Dioxide                           20.3 mmol/L
+  2017-03-29 : Lipid Panel
+           - Total Cholesterol                        195.6 mg/dL
+           - Triglycerides                            115.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.6 mg/dL
+           - High Density Lipoprotein Cholesterol     72.9 mg/dL
+  2017-03-29 : Basic Metabolic Panel
+           - Glucose                                  95.9 mg/dL
+           - Urea Nitrogen                            7.6 mg/dL
+           - Creatinine                               1.5 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   142.9 mmol/L
+           - Potassium                                4.2 mmol/L
+           - Chloride                                 106.5 mmol/L
+           - Carbon Dioxide                           26.3 mmol/L
+  2016-03-23 : Basic Metabolic Panel
+           - Glucose                                  95.6 mg/dL
+           - Urea Nitrogen                            7.7 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  10.0 mg/dL
+           - Sodium                                   137.5 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 110.6 mmol/L
+           - Carbon Dioxide                           24.9 mmol/L
+  2015-03-18 : Basic Metabolic Panel
+           - Glucose                                  85.1 mg/dL
+           - Urea Nitrogen                            13.2 mg/dL
+           - Creatinine                               1.3 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   138.3 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 101.7 mmol/L
+           - Carbon Dioxide                           26.2 mmol/L
+  2014-03-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+           - MCV [Entitic volume] by Automated count  87.8 fL
+           - MCH [Entitic mass] by Automated count    28.5 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+           - Platelets [#/volume] in Blood by Automated count 409.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 205.6 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2014-03-12 : Lipid Panel
+           - Total Cholesterol                        164.1 mg/dL
+           - Triglycerides                            137.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      60.2 mg/dL
+           - High Density Lipoprotein Cholesterol     76.4 mg/dL
+  2014-03-12 : Basic Metabolic Panel
+           - Glucose                                  69.8 mg/dL
+           - Urea Nitrogen                            12.8 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   136.9 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 108.8 mmol/L
+           - Carbon Dioxide                           20.1 mmol/L
+  2013-03-06 : Basic Metabolic Panel
+           - Glucose                                  83.1 mg/dL
+           - Urea Nitrogen                            10.5 mg/dL
+           - Creatinine                               2.1 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   143.2 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           26.5 mmol/L
+  2012-02-29 : Basic Metabolic Panel
+           - Glucose                                  81.1 mg/dL
+           - Urea Nitrogen                            15.3 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.6 mg/dL
+           - Sodium                                   138.6 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 104.5 mmol/L
+           - Carbon Dioxide                           21.8 mmol/L
+  2011-02-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood    35.3 %
+           - WBC Auto (Bld) [#/Vol]                   7.0 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   5.1 10*6/uL
+           - MCV [Entitic volume] by Automated count  88.0 fL
+           - MCH [Entitic mass] by Automated count    32.8 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 41.3 fL
+           - Platelets [#/volume] in Blood by Automated count 298.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 160.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2011-02-23 : Lipid Panel
+           - Total Cholesterol                        161.2 mg/dL
+           - Triglycerides                            109.3 mg/dL
+           - Low Density Lipoprotein Cholesterol      66.1 mg/dL
+           - High Density Lipoprotein Cholesterol     73.2 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-04-15 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2020-04-15 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-15 : High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2020-04-15 : Low Density Lipoprotein Cholesterol      97.2 mg/dL
+  2020-04-15 : Triglycerides                            129.2 mg/dL
+  2020-04-15 : Total Cholesterol                        189.0 mg/dL
+  2020-04-15 : Carbon Dioxide                           25.9 mmol/L
+  2020-04-15 : Chloride                                 108.1 mmol/L
+  2020-04-15 : Potassium                                4.5 mmol/L
+  2020-04-15 : Sodium                                   138.6 mmol/L
+  2020-04-15 : Calcium                                  9.2 mg/dL
+  2020-04-15 : Creatinine                               1.1 mg/dL
+  2020-04-15 : Urea Nitrogen                            17.0 mg/dL
+  2020-04-15 : Glucose                                  76.1 mg/dL
+  2020-04-15 : Respiratory rate                         12.0 /min
+  2020-04-15 : Heart rate                               92.0 /min
+  2020-04-15 : Blood Pressure
+           - Diastolic Blood Pressure                 114.0 mm[Hg]
+           - Systolic Blood Pressure                  180.0 mm[Hg]
+  2020-04-15 : Body Mass Index                          37.6 kg/m2
+  2020-04-15 : Body Weight                              96.3 kg
+  2020-04-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-04-15 : Body Height                              160.1 cm
+  2019-04-17 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2019-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-17 : Carbon Dioxide                           21.2 mmol/L
+  2019-04-17 : Chloride                                 108.4 mmol/L
+  2019-04-17 : Potassium                                5.1 mmol/L
+  2019-04-17 : Sodium                                   139.6 mmol/L
+  2019-04-17 : Calcium                                  8.9 mg/dL
+  2019-04-17 : Creatinine                               1.3 mg/dL
+  2019-04-17 : Urea Nitrogen                            9.1 mg/dL
+  2019-04-17 : Glucose                                  87.0 mg/dL
+  2019-04-17 : Respiratory rate                         14.0 /min
+  2019-04-17 : Heart rate                               71.0 /min
+  2019-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 109.0 mm[Hg]
+           - Systolic Blood Pressure                  181.0 mm[Hg]
+  2019-04-17 : Body Mass Index                          37.6 kg/m2
+  2019-04-17 : Body Weight                              96.3 kg
+  2019-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-04-17 : Body Height                              160.1 cm
+  2019-04-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2019-04-10 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2019-04-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 316.0 fL
+  2019-04-10 : Platelets [#/volume] in Blood by Automated count 174.4 10*3/uL
+  2019-04-10 : Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+  2019-04-10 : MCHC [Mass/volume] by Automated count    34.6 g/dL
+  2019-04-10 : MCH [Entitic mass] by Automated count    28.7 pg
+  2019-04-10 : MCV [Entitic volume] by Automated count  94.3 fL
+  2019-04-10 : Hematocrit [Volume Fraction] of Blood by Automated count 37.3 %
+  2019-04-10 : Hemoglobin [Mass/volume] in Blood        14.6 g/dL
+  2019-04-10 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2019-04-10 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2019-04-10 : Carbon Dioxide                           28.0 mmol/L
+  2019-04-10 : Chloride                                 105.6 mmol/L
+  2019-04-10 : Potassium                                5.0 mmol/L
+  2019-04-10 : Sodium                                   143.1 mmol/L
+  2019-04-10 : Calcium                                  8.9 mg/dL
+  2019-04-10 : Creatinine                               1.1 mg/dL
+  2019-04-10 : Urea Nitrogen                            11.8 mg/dL
+  2019-04-10 : Glucose                                  97.3 mg/dL
+  2019-04-10 : Respiratory rate                         15.0 /min
+  2019-04-10 : Heart rate                               82.0 /min
+  2019-04-10 : Blood Pressure
+           - Diastolic Blood Pressure                 116.0 mm[Hg]
+           - Systolic Blood Pressure                  164.0 mm[Hg]
+  2019-04-10 : Body Mass Index                          37.6 kg/m2
+  2019-04-10 : Body Weight                              96.3 kg
+  2019-04-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-04-10 : Body Height                              160.1 cm
+  2019-01-11 : Body temperature                         37.7 Cel
+  2018-12-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2018-04-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2018-04-04 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-04 : Carbon Dioxide                           20.3 mmol/L
+  2018-04-04 : Chloride                                 109.3 mmol/L
+  2018-04-04 : Potassium                                5.2 mmol/L
+  2018-04-04 : Sodium                                   142.8 mmol/L
+  2018-04-04 : Calcium                                  8.6 mg/dL
+  2018-04-04 : Creatinine                               1.1 mg/dL
+  2018-04-04 : Urea Nitrogen                            7.2 mg/dL
+  2018-04-04 : Glucose                                  73.0 mg/dL
+  2018-04-04 : Respiratory rate                         14.0 /min
+  2018-04-04 : Heart rate                               83.0 /min
+  2018-04-04 : Blood Pressure
+           - Diastolic Blood Pressure                 100.0 mm[Hg]
+           - Systolic Blood Pressure                  181.0 mm[Hg]
+  2018-04-04 : Body Mass Index                          37.6 kg/m2
+  2018-04-04 : Body Weight                              96.3 kg
+  2018-04-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-04-04 : Body Height                              160.1 cm
+  2017-03-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2017-03-29 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-29 : High Density Lipoprotein Cholesterol     72.9 mg/dL
+  2017-03-29 : Low Density Lipoprotein Cholesterol      99.6 mg/dL
+  2017-03-29 : Triglycerides                            115.7 mg/dL
+  2017-03-29 : Total Cholesterol                        195.6 mg/dL
+  2017-03-29 : Carbon Dioxide                           26.3 mmol/L
+  2017-03-29 : Chloride                                 106.5 mmol/L
+  2017-03-29 : Potassium                                4.2 mmol/L
+  2017-03-29 : Sodium                                   142.9 mmol/L
+  2017-03-29 : Calcium                                  8.7 mg/dL
+  2017-03-29 : Creatinine                               1.5 mg/dL
+  2017-03-29 : Urea Nitrogen                            7.6 mg/dL
+  2017-03-29 : Glucose                                  95.9 mg/dL
+  2017-03-29 : Respiratory rate                         16.0 /min
+  2017-03-29 : Heart rate                               66.0 /min
+  2017-03-29 : Blood Pressure
+           - Diastolic Blood Pressure                 104.0 mm[Hg]
+           - Systolic Blood Pressure                  166.0 mm[Hg]
+  2017-03-29 : Body Mass Index                          37.6 kg/m2
+  2017-03-29 : Body Weight                              96.3 kg
+  2017-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-03-29 : Body Height                              160.1 cm
+  2017-03-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-06-10 : Body temperature                         38.2 Cel
+  2016-03-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2016-03-23 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-23 : Carbon Dioxide                           24.9 mmol/L
+  2016-03-23 : Chloride                                 110.6 mmol/L
+  2016-03-23 : Potassium                                4.9 mmol/L
+  2016-03-23 : Sodium                                   137.5 mmol/L
+  2016-03-23 : Calcium                                  10.0 mg/dL
+  2016-03-23 : Creatinine                               1.2 mg/dL
+  2016-03-23 : Urea Nitrogen                            7.7 mg/dL
+  2016-03-23 : Glucose                                  95.6 mg/dL
+  2016-03-23 : Respiratory rate                         14.0 /min
+  2016-03-23 : Heart rate                               67.0 /min
+  2016-03-23 : Blood Pressure
+           - Diastolic Blood Pressure                 108.0 mm[Hg]
+           - Systolic Blood Pressure                  182.0 mm[Hg]
+  2016-03-23 : Body Mass Index                          37.6 kg/m2
+  2016-03-23 : Body Weight                              96.3 kg
+  2016-03-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-03-23 : Body Height                              160.1 cm
+  2015-03-18 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-03-18 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-18 : Carbon Dioxide                           26.2 mmol/L
+  2015-03-18 : Chloride                                 101.7 mmol/L
+  2015-03-18 : Potassium                                4.5 mmol/L
+  2015-03-18 : Sodium                                   138.3 mmol/L
+  2015-03-18 : Calcium                                  8.7 mg/dL
+  2015-03-18 : Creatinine                               1.3 mg/dL
+  2015-03-18 : Urea Nitrogen                            13.2 mg/dL
+  2015-03-18 : Glucose                                  85.1 mg/dL
+  2015-03-18 : Respiratory rate                         13.0 /min
+  2015-03-18 : Heart rate                               62.0 /min
+  2015-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 114.0 mm[Hg]
+           - Systolic Blood Pressure                  168.0 mm[Hg]
+  2015-03-18 : Body Mass Index                          37.6 kg/m2
+  2015-03-18 : Body Weight                              96.3 kg
+  2015-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-03-18 : Body Height                              160.1 cm
+  2015-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-03-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2014-03-12 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.5 fL
+  2014-03-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 205.6 fL
+  2014-03-12 : Platelets [#/volume] in Blood by Automated count 409.3 10*3/uL
+  2014-03-12 : Erythrocyte distribution width [Entitic volume] by Automated count 39.2 fL
+  2014-03-12 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2014-03-12 : MCH [Entitic mass] by Automated count    28.5 pg
+  2014-03-12 : MCV [Entitic volume] by Automated count  87.8 fL
+  2014-03-12 : Hematocrit [Volume Fraction] of Blood by Automated count 37.1 %
+  2014-03-12 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  2014-03-12 : Erythrocytes [#/volume] in Blood by Automated count 4.7 10*6/uL
+  2014-03-12 : Leukocytes [#/volume] in Blood by Automated count 5.8 10*3/uL
+  2014-03-12 : High Density Lipoprotein Cholesterol     76.4 mg/dL
+  2014-03-12 : Low Density Lipoprotein Cholesterol      60.2 mg/dL
+  2014-03-12 : Triglycerides                            137.4 mg/dL
+  2014-03-12 : Total Cholesterol                        164.1 mg/dL
+  2014-03-12 : Carbon Dioxide                           20.1 mmol/L
+  2014-03-12 : Chloride                                 108.8 mmol/L
+  2014-03-12 : Potassium                                4.8 mmol/L
+  2014-03-12 : Sodium                                   136.9 mmol/L
+  2014-03-12 : Calcium                                  8.9 mg/dL
+  2014-03-12 : Creatinine                               1.2 mg/dL
+  2014-03-12 : Urea Nitrogen                            12.8 mg/dL
+  2014-03-12 : Glucose                                  69.8 mg/dL
+  2014-03-12 : Respiratory rate                         13.0 /min
+  2014-03-12 : Heart rate                               87.0 /min
+  2014-03-12 : Blood Pressure
+           - Diastolic Blood Pressure                 97.0 mm[Hg]
+           - Systolic Blood Pressure                  183.0 mm[Hg]
+  2014-03-12 : Body Mass Index                          37.6 kg/m2
+  2014-03-12 : Body Weight                              96.3 kg
+  2014-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-03-12 : Body Height                              160.1 cm
+  2013-03-06 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2013-03-06 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-06 : Carbon Dioxide                           26.5 mmol/L
+  2013-03-06 : Chloride                                 107.0 mmol/L
+  2013-03-06 : Potassium                                4.3 mmol/L
+  2013-03-06 : Sodium                                   143.2 mmol/L
+  2013-03-06 : Calcium                                  8.7 mg/dL
+  2013-03-06 : Creatinine                               2.1 mg/dL
+  2013-03-06 : Urea Nitrogen                            10.5 mg/dL
+  2013-03-06 : Glucose                                  83.1 mg/dL
+  2013-03-06 : Respiratory rate                         15.0 /min
+  2013-03-06 : Heart rate                               69.0 /min
+  2013-03-06 : Blood Pressure
+           - Diastolic Blood Pressure                 103.0 mm[Hg]
+           - Systolic Blood Pressure                  152.0 mm[Hg]
+  2013-03-06 : Body Mass Index                          37.6 kg/m2
+  2013-03-06 : Body Weight                              96.3 kg
+  2013-03-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-03-06 : Body Height                              160.1 cm
+  2012-02-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2012-02-29 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-29 : Carbon Dioxide                           21.8 mmol/L
+  2012-02-29 : Chloride                                 104.5 mmol/L
+  2012-02-29 : Potassium                                5.1 mmol/L
+  2012-02-29 : Sodium                                   138.6 mmol/L
+  2012-02-29 : Calcium                                  9.6 mg/dL
+  2012-02-29 : Creatinine                               1.2 mg/dL
+  2012-02-29 : Urea Nitrogen                            15.3 mg/dL
+  2012-02-29 : Glucose                                  81.1 mg/dL
+  2012-02-29 : Respiratory rate                         15.0 /min
+  2012-02-29 : Heart rate                               72.0 /min
+  2012-02-29 : Blood Pressure
+           - Diastolic Blood Pressure                 119.0 mm[Hg]
+           - Systolic Blood Pressure                  175.0 mm[Hg]
+  2012-02-29 : Body Mass Index                          37.6 kg/m2
+  2012-02-29 : Body Weight                              96.3 kg
+  2012-02-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-02-29 : Body Height                              160.1 cm
+  2011-02-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2011-02-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 160.8 fL
+  2011-02-23 : Platelets [#/volume] in Blood by Automated count 298.8 10*3/uL
+  2011-02-23 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 41.3 fL
+  2011-02-23 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2011-02-23 : MCH [Entitic mass] by Automated count    32.8 pg
+  2011-02-23 : MCV [Entitic volume] by Automated count  88.0 fL
+  2011-02-23 : RBC Auto (Bld) [#/Vol]                   5.1 10*6/uL
+  2011-02-23 : WBC Auto (Bld) [#/Vol]                   7.0 10*3/uL
+  2011-02-23 : Hematocrit [Volume Fraction] of Blood    35.3 %
+  2011-02-23 : Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+  2011-02-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2011-02-23 : Tobacco smoking status NHIS              Never smoker 
+  2011-02-23 : High Density Lipoprotein Cholesterol     73.2 mg/dL
+  2011-02-23 : Low Density Lipoprotein Cholesterol      66.1 mg/dL
+  2011-02-23 : Triglycerides                            109.3 mg/dL
+  2011-02-23 : Total Cholesterol                        161.2 mg/dL
+  2011-02-23 : Respiratory rate                         15.0 /min
+  2011-02-23 : Heart rate                               78.0 /min
+  2011-02-23 : Blood Pressure
+           - Diastolic Blood Pressure                 99.0 mm[Hg]
+           - Systolic Blood Pressure                  178.0 mm[Hg]
+  2011-02-23 : Body Mass Index                          37.6 kg/m2
+  2011-02-23 : Body Weight                              96.3 kg
+  2011-02-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-02-23 : Body Height                              160.1 cm
+  2011-01-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-07-22 : Auscultation of the fetal heart for Normal pregnancy
+  2020-07-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-07-22 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2020-06-24 : Auscultation of the fetal heart for Normal pregnancy
+  2020-06-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-05-27 : Auscultation of the fetal heart for Normal pregnancy
+  2020-05-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-05-27 : Urine screening for glucose for Normal pregnancy
+  2020-05-27 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2020-05-27 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-04-29 : Auscultation of the fetal heart for Normal pregnancy
+  2020-04-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-04-15 : Medication Reconciliation (procedure)
+  2020-04-01 : Auscultation of the fetal heart for Normal pregnancy
+  2020-04-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-03-04 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-03-04 : Alpha-fetoprotein test for Normal pregnancy
+  2020-03-04 : Fetal anatomy study for Normal pregnancy
+  2020-02-05 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2020-02-05 : Auscultation of the fetal heart for Normal pregnancy
+  2020-02-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-01-08 : Physical examination of mother for Normal pregnancy
+  2020-01-08 : Urine protein test for Normal pregnancy
+  2020-01-08 : Skin test for tuberculosis for Normal pregnancy
+  2020-01-08 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2020-01-08 : Rubella screening for Normal pregnancy
+  2020-01-08 : Hepatitis C antibody test for Normal pregnancy
+  2020-01-08 : Urine screening test for diabetes for Normal pregnancy
+  2020-01-08 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2020-01-08 : Urine culture for Normal pregnancy
+  2020-01-08 : Syphilis infection test for Normal pregnancy
+  2020-01-08 : Gonorrhea infection test for Normal pregnancy
+  2020-01-08 : Chlamydia antigen test for Normal pregnancy
+  2020-01-08 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2020-01-08 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2020-01-08 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2020-01-08 : Blood typing, RH typing for Normal pregnancy
+  2020-01-08 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-01-08 : Ultrasound scan for fetal viability for Normal pregnancy
+  2020-01-08 : Standard pregnancy test for Normal pregnancy
+  2019-04-10 : Medication Reconciliation (procedure)
+  2019-01-11 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2017-03-29 : Medication Reconciliation (procedure)
+  2016-06-10 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2016-05-11 : Depression screening
+  2016-05-11 : Physical examination following birth
+  2016-03-30 : Childbirth for Normal pregnancy
+  2016-03-30 : Episiotomy for Normal pregnancy
+  2016-03-23 : Medication Reconciliation (procedure)
+  2016-03-16 : Auscultation of the fetal heart for Normal pregnancy
+  2016-03-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-03-16 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-02-17 : Auscultation of the fetal heart for Normal pregnancy
+  2016-02-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-20 : Auscultation of the fetal heart for Normal pregnancy
+  2016-01-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-01-20 : Urine screening for glucose for Normal pregnancy
+  2016-01-20 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-01-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-12-23 : Auscultation of the fetal heart for Normal pregnancy
+  2015-12-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-11-25 : Auscultation of the fetal heart for Normal pregnancy
+  2015-11-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-28 : Auscultation of the fetal heart for Normal pregnancy
+  2015-10-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-10-28 : Alpha-fetoprotein test for Normal pregnancy
+  2015-10-28 : Fetal anatomy study for Normal pregnancy
+  2015-09-30 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2015-09-30 : Auscultation of the fetal heart for Normal pregnancy
+  2015-09-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-09-02 : Physical examination of mother for Normal pregnancy
+  2015-09-02 : Urine protein test for Normal pregnancy
+  2015-09-02 : Skin test for tuberculosis for Normal pregnancy
+  2015-09-02 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2015-09-02 : Rubella screening for Normal pregnancy
+  2015-09-02 : Hepatitis C antibody test for Normal pregnancy
+  2015-09-02 : Urine screening test for diabetes for Normal pregnancy
+  2015-09-02 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2015-09-02 : Urine culture for Normal pregnancy
+  2015-09-02 : Syphilis infection test for Normal pregnancy
+  2015-09-02 : Gonorrhea infection test for Normal pregnancy
+  2015-09-02 : Chlamydia antigen test for Normal pregnancy
+  2015-09-02 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2015-09-02 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2015-09-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2015-09-02 : Blood typing, RH typing for Normal pregnancy
+  2015-09-02 : Auscultation of the fetal heart for Normal pregnancy
+  2015-09-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-09-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2015-09-02 : Standard pregnancy test for Normal pregnancy
+  2015-07-08 : Removal of intrauterine device
+  2014-03-12 : Medication Reconciliation (procedure)
+  2013-05-08 : Insertion of intrauterine contraceptive device
+  2012-05-09 : Depression screening
+  2012-05-09 : Physical examination following birth
+  2012-03-28 : Childbirth for Normal pregnancy
+  2012-03-21 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-07 : Auscultation of the fetal heart for Normal pregnancy
+  2012-03-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-03-07 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-02-29 : Medication Reconciliation (procedure)
+  2012-02-08 : Auscultation of the fetal heart for Normal pregnancy
+  2012-02-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-11 : Auscultation of the fetal heart for Normal pregnancy
+  2012-01-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-01-11 : Urine screening for glucose for Normal pregnancy
+  2012-01-11 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-01-11 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-12-14 : Auscultation of the fetal heart for Normal pregnancy
+  2011-12-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-11-16 : Auscultation of the fetal heart for Normal pregnancy
+  2011-11-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-19 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-19 : Alpha-fetoprotein test for Normal pregnancy
+  2011-10-19 : Fetal anatomy study for Normal pregnancy
+  2011-09-21 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-09-21 : Auscultation of the fetal heart for Normal pregnancy
+  2011-09-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-08-24 : Physical examination of mother for Normal pregnancy
+  2011-08-24 : Urine protein test for Normal pregnancy
+  2011-08-24 : Skin test for tuberculosis for Normal pregnancy
+  2011-08-24 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-08-24 : Rubella screening for Normal pregnancy
+  2011-08-24 : Hepatitis C antibody test for Normal pregnancy
+  2011-08-24 : Urine screening test for diabetes for Normal pregnancy
+  2011-08-24 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-08-24 : Urine culture for Normal pregnancy
+  2011-08-24 : Syphilis infection test for Normal pregnancy
+  2011-08-24 : Gonorrhea infection test for Normal pregnancy
+  2011-08-24 : Chlamydia antigen test for Normal pregnancy
+  2011-08-24 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-08-24 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-08-24 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-08-24 : Blood typing, RH typing for Normal pregnancy
+  2011-08-24 : Auscultation of the fetal heart for Normal pregnancy
+  2011-08-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-08-24 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-08-24 : Standard pregnancy test for Normal pregnancy
+  2011-06-22 : Intramuscular injection
+  2011-03-25 : Suture open wound for Laceration of hand
+  2011-03-23 : Intramuscular injection
+  2011-02-23 : Brief general examination (procedure)
+  2011-02-23 : Medication Reconciliation (procedure)
+  2011-02-23 : Review of systems (procedure)
+  2011-02-23 : Peripheral blood smear interpretation
+  2011-02-23 : Medication Reconciliation (procedure)
+  2010-12-22 : Intramuscular injection
+  2010-09-22 : Intramuscular injection
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-04-15 : Influenza, seasonal, injectable, preservative free
+  2019-04-17 : Influenza, seasonal, injectable, preservative free
+  2019-04-10 : Hep A, adult
+  2019-04-10 : Td (adult) preservative free
+  2019-04-10 : Influenza, seasonal, injectable, preservative free
+  2018-04-04 : Hep A, adult
+  2018-04-04 : Influenza, seasonal, injectable, preservative free
+  2017-03-29 : Influenza, seasonal, injectable, preservative free
+  2016-03-23 : Influenza, seasonal, injectable, preservative free
+  2015-03-18 : Influenza, seasonal, injectable, preservative free
+  2014-03-12 : Influenza, seasonal, injectable, preservative free
+  2013-03-06 : Influenza, seasonal, injectable, preservative free
+  2012-02-29 : Influenza, seasonal, injectable, preservative free
+  2011-02-23 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-07-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-06-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-05-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-04-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-04-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-04-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-03-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-02-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-01-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2020-01-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-04-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-04-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2019-04-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-03-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-01-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2018-12-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-09-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-06-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2018-05-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-04-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-11-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-10-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-09-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-05-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-03-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-03-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-10-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-09-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-08-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-07-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-06-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Streptococcal sore throat (disorder)
+2016-05-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-05-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-03-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-03-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-03-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-02-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-01-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-12-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-11-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-11-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-10-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-10-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-09-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-09-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-09-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-07-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-06-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-05-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-03-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-03-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-08-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-07-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-06-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-05-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-05-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-04-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-03-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-03-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-11-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Escherichia coli urinary tract infection
+2013-09-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Escherichia coli urinary tract infection
+2013-05-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-05-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-03-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-05-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-05-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-03-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-03-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-03-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-02-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-02-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-01-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-12-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-11-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-10-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-09-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-09-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-08-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-08-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-07-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-06-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-03-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-03-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-02-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Anemia (disorder)
+2011-02-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-01-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-12-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-09-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-09-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-02-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2009-02-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2008-02-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2007-07-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2007-01-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2006-01-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2005-05-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2005-01-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2004-01-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2003-01-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2002-01-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2000-12-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2000-02-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2000-03-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1999-12-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1999-02-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+1998-12-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1997-12-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1996-12-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1996-02-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1995-11-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1995-03-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+1993-01-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+1992-11-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+1991-11-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+1989-10-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

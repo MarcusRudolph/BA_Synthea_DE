@@ -1,0 +1,132 @@
+Achim Kunz
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 29
+Birth Date:          1990-07-27
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2011-01-01 - 2011-01-15 : Viral sinusitis (disorder)
+  1996-04-09 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-10-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+           - MCV [Entitic volume] by Automated count  90.4 fL
+           - MCH [Entitic mass] by Automated count    29.3 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+           - Platelets [#/volume] in Blood by Automated count 364.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 518.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2012-09-28 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 42.1 %
+           - MCV [Entitic volume] by Automated count  91.7 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+           - Platelets [#/volume] in Blood by Automated count 390.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 370.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-10-05 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  2018-10-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 518.4 fL
+  2018-10-05 : Platelets [#/volume] in Blood by Automated count 364.8 10*3/uL
+  2018-10-05 : Erythrocyte distribution width [Entitic volume] by Automated count 42.3 fL
+  2018-10-05 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  2018-10-05 : MCH [Entitic mass] by Automated count    29.3 pg
+  2018-10-05 : MCV [Entitic volume] by Automated count  90.4 fL
+  2018-10-05 : Hematocrit [Volume Fraction] of Blood by Automated count 41.7 %
+  2018-10-05 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2018-10-05 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2018-10-05 : Leukocytes [#/volume] in Blood by Automated count 9.5 10*3/uL
+  2018-10-05 : Respiratory rate                         15.0 /min
+  2018-10-05 : Heart rate                               70.0 /min
+  2018-10-05 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2018-10-05 : Body Mass Index                          25.3 kg/m2
+  2018-10-05 : Body Weight                              74.1 kg
+  2018-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2018-10-05 : Body Height                              171.3 cm
+  2015-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2015-10-02 : Respiratory rate                         15.0 /min
+  2015-10-02 : Heart rate                               72.0 /min
+  2015-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2015-10-02 : Body Mass Index                          23.7 kg/m2
+  2015-10-02 : Body Weight                              69.6 kg
+  2015-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-10-02 : Body Height                              171.3 cm
+  2012-09-28 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-28 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.7 fL
+  2012-09-28 : Platelet distribution width [Entitic volume] in Blood by Automated count 370.5 fL
+  2012-09-28 : Platelets [#/volume] in Blood by Automated count 390.5 10*3/uL
+  2012-09-28 : Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+  2012-09-28 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2012-09-28 : MCH [Entitic mass] by Automated count    29.7 pg
+  2012-09-28 : MCV [Entitic volume] by Automated count  91.7 fL
+  2012-09-28 : Hematocrit [Volume Fraction] of Blood by Automated count 42.1 %
+  2012-09-28 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2012-09-28 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2012-09-28 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2012-09-28 : Respiratory rate                         13.0 /min
+  2012-09-28 : Heart rate                               63.0 /min
+  2012-09-28 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2012-09-28 : Body Mass Index                          22.0 kg/m2
+  2012-09-28 : Body Weight                              64.7 kg
+  2012-09-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-09-28 : Body Height                              171.3 cm
+  2011-01-07 : Tobacco smoking status NHIS              Never smoker 
+  2011-01-07 : Respiratory rate                         16.0 /min
+  2011-01-07 : Heart rate                               77.0 /min
+  2011-01-07 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2011-01-07 : Body Mass Index                          21.0 kg/m2
+  2011-01-07 : Body Weight                              61.6 kg
+  2011-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-01-07 : Body Height                              171.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-10-05 : Influenza, seasonal, injectable, preservative free
+  2015-10-02 : Influenza, seasonal, injectable, preservative free
+  2012-09-28 : meningococcal MCV4P
+  2012-09-28 : Hep B, adult
+  2012-09-28 : Td (adult) preservative free
+  2012-09-28 : Influenza, seasonal, injectable, preservative free
+  2011-01-07 : Hep B, adult
+  2011-01-07 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-10-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-10-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-09-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-01-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2011-01-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1996-04-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

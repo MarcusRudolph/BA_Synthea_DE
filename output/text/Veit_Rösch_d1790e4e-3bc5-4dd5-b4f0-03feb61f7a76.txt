@@ -1,0 +1,266 @@
+Veit Rösch
+======ö===
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 31
+Birth Date:          1989-01-01
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-05-10[CURRENT] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2019-05-05[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2018-04-29[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2018-04-08[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2018-03-31[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2017-04-23[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2016-04-17[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2015-08-13[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2015-04-12[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2014-04-06[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2013-03-31[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2012-03-25[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2011-03-20[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2010-03-14[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2009-03-08[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2008-03-02[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+  2007-03-27[STOPPED] : Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet for Hypertension
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-03-31 - 2018-04-07 : Acute bronchitis (disorder)
+  2015-08-13 - 2015-09-03 : Laceration of thigh
+  2007-02-25 -            : Hypertension
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-03-31[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2015-08-13[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  2007-02-25[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-05-10 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.4 %
+           - MCV [Entitic volume] by Automated count  83.9 fL
+           - MCH [Entitic mass] by Automated count    28.3 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+           - Platelets [#/volume] in Blood by Automated count 346.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 386.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2019-05-05 : Lipid Panel
+           - Total Cholesterol                        182.6 mg/dL
+           - Triglycerides                            111.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.0 mg/dL
+           - High Density Lipoprotein Cholesterol     72.4 mg/dL
+  2015-04-12 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+           - MCV [Entitic volume] by Automated count  94.7 fL
+           - MCH [Entitic mass] by Automated count    28.3 pg
+           - MCHC [Mass/volume] by Automated count    35.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+           - Platelets [#/volume] in Blood by Automated count 302.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 328.1 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-05-10 : Tobacco smoking status NHIS              Never smoker 
+  2020-05-10 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2020-05-10 : Platelet distribution width [Entitic volume] in Blood by Automated count 386.5 fL
+  2020-05-10 : Platelets [#/volume] in Blood by Automated count 346.6 10*3/uL
+  2020-05-10 : Erythrocyte distribution width [Entitic volume] by Automated count 43.1 fL
+  2020-05-10 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2020-05-10 : MCH [Entitic mass] by Automated count    28.3 pg
+  2020-05-10 : MCV [Entitic volume] by Automated count  83.9 fL
+  2020-05-10 : Hematocrit [Volume Fraction] of Blood by Automated count 41.4 %
+  2020-05-10 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2020-05-10 : Erythrocytes [#/volume] in Blood by Automated count 4.1 10*6/uL
+  2020-05-10 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2020-05-10 : Respiratory rate                         15.0 /min
+  2020-05-10 : Heart rate                               75.0 /min
+  2020-05-10 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2020-05-10 : Body Mass Index                          29.6 kg/m2
+  2020-05-10 : Body Weight                              97.1 kg
+  2020-05-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2020-05-10 : Body Height                              181.0 cm
+  2019-05-05 : Tobacco smoking status NHIS              Never smoker 
+  2019-05-05 : High Density Lipoprotein Cholesterol     72.4 mg/dL
+  2019-05-05 : Low Density Lipoprotein Cholesterol      88.0 mg/dL
+  2019-05-05 : Triglycerides                            111.1 mg/dL
+  2019-05-05 : Total Cholesterol                        182.6 mg/dL
+  2019-05-05 : Respiratory rate                         15.0 /min
+  2019-05-05 : Heart rate                               70.0 /min
+  2019-05-05 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2019-05-05 : Body Mass Index                          29.1 kg/m2
+  2019-05-05 : Body Weight                              95.3 kg
+  2019-05-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-05-05 : Body Height                              181.0 cm
+  2018-04-29 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-29 : Respiratory rate                         15.0 /min
+  2018-04-29 : Heart rate                               85.0 /min
+  2018-04-29 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2018-04-29 : Body Mass Index                          28.6 kg/m2
+  2018-04-29 : Body Weight                              93.6 kg
+  2018-04-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-04-29 : Body Height                              181.0 cm
+  2018-04-08 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-08 : Respiratory rate                         14.0 /min
+  2018-04-08 : Heart rate                               63.0 /min
+  2018-04-08 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2018-04-08 : Body Mass Index                          28.5 kg/m2
+  2018-04-08 : Body Weight                              93.5 kg
+  2018-04-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-04-08 : Body Height                              181.0 cm
+  2017-04-23 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-23 : Respiratory rate                         13.0 /min
+  2017-04-23 : Heart rate                               81.0 /min
+  2017-04-23 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2017-04-23 : Body Mass Index                          29.9 kg/m2
+  2017-04-23 : Body Weight                              97.8 kg
+  2017-04-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-04-23 : Body Height                              181.0 cm
+  2016-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2016-04-17 : Respiratory rate                         15.0 /min
+  2016-04-17 : Heart rate                               61.0 /min
+  2016-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2016-04-17 : Body Mass Index                          29.9 kg/m2
+  2016-04-17 : Body Weight                              98.1 kg
+  2016-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2016-04-17 : Body Height                              181.0 cm
+  2015-04-12 : Tobacco smoking status NHIS              Never smoker 
+  2015-04-12 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.5 fL
+  2015-04-12 : Platelet distribution width [Entitic volume] in Blood by Automated count 328.1 fL
+  2015-04-12 : Platelets [#/volume] in Blood by Automated count 302.1 10*3/uL
+  2015-04-12 : Erythrocyte distribution width [Entitic volume] by Automated count 44.1 fL
+  2015-04-12 : MCHC [Mass/volume] by Automated count    35.8 g/dL
+  2015-04-12 : MCH [Entitic mass] by Automated count    28.3 pg
+  2015-04-12 : MCV [Entitic volume] by Automated count  94.7 fL
+  2015-04-12 : Hematocrit [Volume Fraction] of Blood by Automated count 44.7 %
+  2015-04-12 : Hemoglobin [Mass/volume] in Blood        14.3 g/dL
+  2015-04-12 : Erythrocytes [#/volume] in Blood by Automated count 5.4 10*6/uL
+  2015-04-12 : Leukocytes [#/volume] in Blood by Automated count 8.3 10*3/uL
+  2015-04-12 : Respiratory rate                         13.0 /min
+  2015-04-12 : Heart rate                               92.0 /min
+  2015-04-12 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2015-04-12 : Body Mass Index                          29.4 kg/m2
+  2015-04-12 : Body Weight                              96.2 kg
+  2015-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-04-12 : Body Height                              181.0 cm
+  2014-04-06 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-06 : Respiratory rate                         12.0 /min
+  2014-04-06 : Heart rate                               64.0 /min
+  2014-04-06 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2014-04-06 : Body Mass Index                          29.0 kg/m2
+  2014-04-06 : Body Weight                              95.0 kg
+  2014-04-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-04-06 : Body Height                              181.0 cm
+  2013-03-31 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-31 : Respiratory rate                         13.0 /min
+  2013-03-31 : Heart rate                               78.0 /min
+  2013-03-31 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2013-03-31 : Body Mass Index                          28.7 kg/m2
+  2013-03-31 : Body Weight                              93.9 kg
+  2013-03-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-03-31 : Body Height                              181.0 cm
+  2012-03-25 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-25 : Respiratory rate                         14.0 /min
+  2012-03-25 : Heart rate                               89.0 /min
+  2012-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2012-03-25 : Body Mass Index                          28.3 kg/m2
+  2012-03-25 : Body Weight                              92.8 kg
+  2012-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-03-25 : Body Height                              181.0 cm
+  2011-03-20 : Tobacco smoking status NHIS              Never smoker 
+  2011-03-20 : Respiratory rate                         15.0 /min
+  2011-03-20 : Heart rate                               72.0 /min
+  2011-03-20 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2011-03-20 : Body Mass Index                          27.8 kg/m2
+  2011-03-20 : Body Weight                              91.1 kg
+  2011-03-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-03-20 : Body Height                              181.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-05-10 : Medication Reconciliation (procedure)
+  2019-05-05 : Medication Reconciliation (procedure)
+  2018-04-29 : Medication Reconciliation (procedure)
+  2017-04-23 : Medication Reconciliation (procedure)
+  2015-08-13 : Suture open wound for Laceration of thigh
+  2014-04-06 : Medication Reconciliation (procedure)
+  2012-03-25 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-05-10 : Td (adult) preservative free
+  2020-05-10 : Influenza, seasonal, injectable, preservative free
+  2019-05-05 : Influenza, seasonal, injectable, preservative free
+  2018-04-08 : Influenza, seasonal, injectable, preservative free
+  2017-04-23 : Influenza, seasonal, injectable, preservative free
+  2016-04-17 : Influenza, seasonal, injectable, preservative free
+  2015-04-12 : Influenza, seasonal, injectable, preservative free
+  2014-04-06 : Influenza, seasonal, injectable, preservative free
+  2013-03-31 : Influenza, seasonal, injectable, preservative free
+  2012-03-25 : Influenza, seasonal, injectable, preservative free
+  2011-03-20 : Hep B, adult
+  2011-03-20 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-05-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-05-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-04-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-04-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-03-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2017-04-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-04-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-08-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-04-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-04-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-03-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-03-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-03-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-03-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2009-03-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2008-03-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2007-03-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2007-02-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

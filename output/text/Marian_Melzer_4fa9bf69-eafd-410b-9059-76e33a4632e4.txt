@@ -1,0 +1,283 @@
+Marian Melzer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 20
+Birth Date:          2000-04-26
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2016-11-14[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2016-08-29[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2016-03-05[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2016-01-28[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-10-27[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2015-08-14[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-05-06[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-03-09[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2014-11-29[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2014-08-28[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2010-06-03[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-05-15 - 2019-06-05 : Viral sinusitis (disorder)
+  2018-10-08 -            : Drug overdose
+  2017-02-02 - 2017-02-16 : Viral sinusitis (disorder)
+  2015-03-09 -            : Impacted molars
+  2014-11-29 -            : Chronic intractable migraine without aura
+  2014-08-28 -            : Chronic pain
+  2010-06-03 - 2010-08-02 : Fracture of ankle
+  2002-09-13 -            : Chronic sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-10-08[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  2010-06-03[STOPPED] : Fracture care
+                         Reason: Fracture of ankle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-06-08 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+           - MCV [Entitic volume] by Automated count  94.8 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    35.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+           - Platelets [#/volume] in Blood by Automated count 207.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 489.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2011-05-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+           - MCV [Entitic volume] by Automated count  82.7 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    34.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+           - Platelets [#/volume] in Blood by Automated count 215.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 230.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-06-26 : Tobacco smoking status NHIS              Never smoker 
+  2019-06-26 : Respiratory rate                         13.0 /min
+  2019-06-26 : Heart rate                               82.0 /min
+  2019-06-26 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2019-06-26 : Body mass index (BMI) [Percentile] Per age and gender 39.2 %
+  2019-06-26 : Body Mass Index                          21.8 kg/m2
+  2019-06-26 : Body Weight                              70.2 kg
+  2019-06-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2019-06-26 : Body Height                              179.4 cm
+  2019-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2018-11-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-06-20 : Tobacco smoking status NHIS              Never smoker 
+  2018-06-20 : Respiratory rate                         16.0 /min
+  2018-06-20 : Heart rate                               91.0 /min
+  2018-06-20 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2018-06-20 : Body mass index (BMI) [Percentile] Per age and gender 65.2 %
+  2018-06-20 : Body Mass Index                          23.2 kg/m2
+  2018-06-20 : Body Weight                              74.2 kg
+  2018-06-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-06-20 : Body Height                              179.0 cm
+  2017-06-14 : Tobacco smoking status NHIS              Never smoker 
+  2017-06-14 : Respiratory rate                         12.0 /min
+  2017-06-14 : Heart rate                               64.0 /min
+  2017-06-14 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2017-06-14 : Body mass index (BMI) [Percentile] Per age and gender 75.1 %
+  2017-06-14 : Body Mass Index                          23.5 kg/m2
+  2017-06-14 : Body Weight                              74.7 kg
+  2017-06-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-06-14 : Body Height                              178.2 cm
+  2017-02-08 : Tobacco smoking status NHIS              Never smoker 
+  2017-02-08 : Respiratory rate                         13.0 /min
+  2017-02-08 : Heart rate                               78.0 /min
+  2017-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  134.0 mm[Hg]
+  2017-02-08 : Body mass index (BMI) [Percentile] Per age and gender 76.2 %
+  2017-02-08 : Body Mass Index                          23.4 kg/m2
+  2017-02-08 : Body Weight                              74.0 kg
+  2017-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2017-02-08 : Body Height                              177.8 cm
+  2016-11-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2016-08-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-06-08 : Tobacco smoking status NHIS              Never smoker 
+  2016-06-08 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.1 fL
+  2016-06-08 : Platelet distribution width [Entitic volume] in Blood by Automated count 489.7 fL
+  2016-06-08 : Platelets [#/volume] in Blood by Automated count 207.2 10*3/uL
+  2016-06-08 : Erythrocyte distribution width [Entitic volume] by Automated count 39.3 fL
+  2016-06-08 : MCHC [Mass/volume] by Automated count    35.0 g/dL
+  2016-06-08 : MCH [Entitic mass] by Automated count    29.0 pg
+  2016-06-08 : MCV [Entitic volume] by Automated count  94.8 fL
+  2016-06-08 : Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+  2016-06-08 : Hemoglobin [Mass/volume] in Blood        16.9 g/dL
+  2016-06-08 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  2016-06-08 : Leukocytes [#/volume] in Blood by Automated count 3.7 10*3/uL
+  2016-06-08 : Respiratory rate                         16.0 /min
+  2016-06-08 : Heart rate                               98.0 /min
+  2016-06-08 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  101.0 mm[Hg]
+  2016-06-08 : Body mass index (BMI) [Percentile] Per age and gender 81.8 %
+  2016-06-08 : Body Mass Index                          23.7 kg/m2
+  2016-06-08 : Body Weight                              74.0 kg
+  2016-06-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-06-08 : Body Height                              176.7 cm
+  2016-03-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2016-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2015-10-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2015-08-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2015-06-03 : Tobacco smoking status NHIS              Never smoker 
+  2015-06-03 : Respiratory rate                         13.0 /min
+  2015-06-03 : Heart rate                               92.0 /min
+  2015-06-03 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2015-06-03 : Body mass index (BMI) [Percentile] Per age and gender 79.4 %
+  2015-06-03 : Body Mass Index                          22.6 kg/m2
+  2015-06-03 : Body Weight                              68.0 kg
+  2015-06-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-06-03 : Body Height                              173.5 cm
+  2015-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2015-03-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2014-11-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2014-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2014-05-28 : Tobacco smoking status NHIS              Never smoker 
+  2014-05-28 : Respiratory rate                         13.0 /min
+  2014-05-28 : Heart rate                               96.0 /min
+  2014-05-28 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2014-05-28 : Body mass index (BMI) [Percentile] Per age and gender 67.2 %
+  2014-05-28 : Body Mass Index                          20.5 kg/m2
+  2014-05-28 : Body Weight                              57.7 kg
+  2014-05-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2014-05-28 : Body Height                              167.8 cm
+  2013-05-22 : Tobacco smoking status NHIS              Never smoker 
+  2013-05-22 : Respiratory rate                         14.0 /min
+  2013-05-22 : Heart rate                               68.0 /min
+  2013-05-22 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2013-05-22 : Body mass index (BMI) [Percentile] Per age and gender 62.5 %
+  2013-05-22 : Body Mass Index                          19.3 kg/m2
+  2013-05-22 : Body Weight                              49.1 kg
+  2013-05-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-05-22 : Body Height                              159.4 cm
+  2012-05-16 : Tobacco smoking status NHIS              Never smoker 
+  2012-05-16 : Respiratory rate                         15.0 /min
+  2012-05-16 : Heart rate                               64.0 /min
+  2012-05-16 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2012-05-16 : Body mass index (BMI) [Percentile] Per age and gender 66.1 %
+  2012-05-16 : Body Mass Index                          18.9 kg/m2
+  2012-05-16 : Body Weight                              43.7 kg
+  2012-05-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-05-16 : Body Height                              152.2 cm
+  2011-05-11 : Tobacco smoking status NHIS              Never smoker 
+  2011-05-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2011-05-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 230.4 fL
+  2011-05-11 : Platelets [#/volume] in Blood by Automated count 215.2 10*3/uL
+  2011-05-11 : Erythrocyte distribution width [Entitic volume] by Automated count 40.7 fL
+  2011-05-11 : MCHC [Mass/volume] by Automated count    34.5 g/dL
+  2011-05-11 : MCH [Entitic mass] by Automated count    28.0 pg
+  2011-05-11 : MCV [Entitic volume] by Automated count  82.7 fL
+  2011-05-11 : Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+  2011-05-11 : Hemoglobin [Mass/volume] in Blood        13.1 g/dL
+  2011-05-11 : Erythrocytes [#/volume] in Blood by Automated count 4.4 10*6/uL
+  2011-05-11 : Leukocytes [#/volume] in Blood by Automated count 5.6 10*3/uL
+  2011-05-11 : Respiratory rate                         12.0 /min
+  2011-05-11 : Heart rate                               78.0 /min
+  2011-05-11 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  127.0 mm[Hg]
+  2011-05-11 : Body mass index (BMI) [Percentile] Per age and gender 63.3 %
+  2011-05-11 : Body Mass Index                          18.0 kg/m2
+  2011-05-11 : Body Weight                              38.6 kg
+  2011-05-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-05-11 : Body Height                              146.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-06-20 : Medication Reconciliation (procedure)
+  2017-02-08 : Medication Reconciliation (procedure)
+  2016-08-29 : Extraction of wisdom tooth
+  2016-06-08 : Medication Reconciliation (procedure)
+  2016-01-28 : Extraction of wisdom tooth
+  2015-08-14 : Extraction of wisdom tooth
+  2015-05-06 : Extraction of wisdom tooth
+  2015-03-09 : Extraction of wisdom tooth
+  2014-05-28 : Medication Reconciliation (procedure)
+  2013-05-22 : Medication Reconciliation (procedure)
+  2011-05-11 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-06-26 : Influenza, seasonal, injectable, preservative free
+  2018-06-20 : Influenza, seasonal, injectable, preservative free
+  2017-02-08 : Influenza, seasonal, injectable, preservative free
+  2016-06-08 : meningococcal MCV4P
+  2016-06-08 : Influenza, seasonal, injectable, preservative free
+  2015-06-03 : Influenza, seasonal, injectable, preservative free
+  2014-05-28 : Influenza, seasonal, injectable, preservative free
+  2013-05-22 : HPV, quadrivalent
+  2013-05-22 : Influenza, seasonal, injectable, preservative free
+  2012-05-16 : HPV, quadrivalent
+  2012-05-16 : Influenza, seasonal, injectable, preservative free
+  2011-05-11 : meningococcal MCV4P
+  2011-05-11 : HPV, quadrivalent
+  2011-05-11 : Influenza, seasonal, injectable, preservative free
+  2011-05-11 : Tdap
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-06-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-06-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-05-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2019-05-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-12-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2018-11-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-10-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2018-06-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-06-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-02-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2017-02-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-11-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2016-08-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2016-06-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-03-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2016-01-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-10-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2015-08-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-06-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-05-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-03-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2014-11-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2014-08-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2014-05-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-05-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-05-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-05-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-08-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Fracture of ankle
+2010-06-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2002-09-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2010-06-03 : Digital Radiography, Ankle
+--------------------------------------------------------------------------------

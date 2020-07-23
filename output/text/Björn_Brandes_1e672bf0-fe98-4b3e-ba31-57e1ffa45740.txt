@@ -1,0 +1,217 @@
+Björn Brandes
+==ö==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 42
+Birth Date:          1978-05-23
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2014-12-10[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-06-02 -            : Metabolic syndrome X (disorder)
+  2020-06-02 -            : Hypertriglyceridemia (disorder)
+  2018-05-29 -            : Anemia (disorder)
+  2018-05-29 -            : Diabetes
+  2014-12-10 - 2014-12-17 : Viral sinusitis (disorder)
+  2012-05-31 - 2012-06-14 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2018-05-29[CURRENT] : Diabetes self management plan
+                         Reason: Diabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-06-02 : Lipid Panel
+           - Total Cholesterol                        227.5 mg/dL
+           - Triglycerides                            196.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      138.7 mg/dL
+           - High Density Lipoprotein Cholesterol     49.5 mg/dL
+  2020-06-02 : Basic Metabolic Panel
+           - Glucose                                  109.7 mg/dL
+           - Urea Nitrogen                            7.8 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   136.9 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 109.0 mmol/L
+           - Carbon Dioxide                           23.1 mmol/L
+  2018-05-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood    34.3 %
+           - WBC Auto (Bld) [#/Vol]                   5.7 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   4.3 10*6/uL
+           - MCV [Entitic volume] by Automated count  85.2 fL
+           - MCH [Entitic mass] by Automated count    30.0 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 39.6 fL
+           - Platelets [#/volume] in Blood by Automated count 234.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 512.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2018-05-29 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+           - MCV [Entitic volume] by Automated count  88.2 fL
+           - MCH [Entitic mass] by Automated count    31.4 pg
+           - MCHC [Mass/volume] by Automated count    34.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 314.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 381.4 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2015-08-11 : Lipid Panel
+           - Total Cholesterol                        183.2 mg/dL
+           - Triglycerides                            102.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      87.3 mg/dL
+           - High Density Lipoprotein Cholesterol     75.4 mg/dL
+  2012-08-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.6 %
+           - MCV [Entitic volume] by Automated count  93.7 fL
+           - MCH [Entitic mass] by Automated count    31.7 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+           - Platelets [#/volume] in Blood by Automated count 165.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 280.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2012-08-07 : Lipid Panel
+           - Total Cholesterol                        181.6 mg/dL
+           - Triglycerides                            120.1 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.1 mg/dL
+           - High Density Lipoprotein Cholesterol     69.4 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-06-02 : Hemoglobin A1c/Hemoglobin.total in Blood 6.8 %
+  2020-06-02 : Tobacco smoking status NHIS              Never smoker 
+  2020-06-02 : Estimated Glomerular Filtration Rate     112.5 mL/min/{1.73_m2}
+  2020-06-02 : Microalbumin Creatinine Ratio            0.2 mg/g
+  2020-06-02 : High Density Lipoprotein Cholesterol     49.5 mg/dL
+  2020-06-02 : Low Density Lipoprotein Cholesterol      138.7 mg/dL
+  2020-06-02 : Triglycerides                            196.5 mg/dL
+  2020-06-02 : Total Cholesterol                        227.5 mg/dL
+  2020-06-02 : Carbon Dioxide                           23.1 mmol/L
+  2020-06-02 : Chloride                                 109.0 mmol/L
+  2020-06-02 : Potassium                                4.9 mmol/L
+  2020-06-02 : Sodium                                   136.9 mmol/L
+  2020-06-02 : Calcium                                  9.9 mg/dL
+  2020-06-02 : Creatinine                               1.2 mg/dL
+  2020-06-02 : Urea Nitrogen                            7.8 mg/dL
+  2020-06-02 : Glucose                                  109.7 mg/dL
+  2020-06-02 : Respiratory rate                         13.0 /min
+  2020-06-02 : Heart rate                               96.0 /min
+  2020-06-02 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  138.0 mm[Hg]
+  2020-06-02 : Body Mass Index                          27.3 kg/m2
+  2020-06-02 : Body Weight                              91.0 kg
+  2020-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-06-02 : Body Height                              182.6 cm
+  2018-05-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2018-05-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 512.9 fL
+  2018-05-29 : Platelets [#/volume] in Blood by Automated count 234.3 10*3/uL
+  2018-05-29 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 39.6 fL
+  2018-05-29 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2018-05-29 : MCH [Entitic mass] by Automated count    30.0 pg
+  2018-05-29 : MCV [Entitic volume] by Automated count  85.2 fL
+  2018-05-29 : RBC Auto (Bld) [#/Vol]                   4.3 10*6/uL
+  2018-05-29 : WBC Auto (Bld) [#/Vol]                   5.7 10*3/uL
+  2018-05-29 : Hematocrit [Volume Fraction] of Blood    34.3 %
+  2018-05-29 : Hemoglobin [Mass/volume] in Blood        11.1 g/dL
+  2018-05-29 : Hemoglobin A1c/Hemoglobin.total in Blood 7.5 %
+  2018-05-29 : Tobacco smoking status NHIS              Never smoker 
+  2018-05-29 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.3 fL
+  2018-05-29 : Platelet distribution width [Entitic volume] in Blood by Automated count 381.4 fL
+  2018-05-29 : Platelets [#/volume] in Blood by Automated count 314.4 10*3/uL
+  2018-05-29 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  2018-05-29 : MCHC [Mass/volume] by Automated count    34.7 g/dL
+  2018-05-29 : MCH [Entitic mass] by Automated count    31.4 pg
+  2018-05-29 : MCV [Entitic volume] by Automated count  88.2 fL
+  2018-05-29 : Hematocrit [Volume Fraction] of Blood by Automated count 43.4 %
+  2018-05-29 : Hemoglobin [Mass/volume] in Blood        14.7 g/dL
+  2018-05-29 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2018-05-29 : Leukocytes [#/volume] in Blood by Automated count 4.5 10*3/uL
+  2018-05-29 : Respiratory rate                         16.0 /min
+  2018-05-29 : Heart rate                               76.0 /min
+  2018-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2018-05-29 : Body Mass Index                          29.9 kg/m2
+  2018-05-29 : Body Weight                              99.7 kg
+  2018-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-05-29 : Body Height                              182.6 cm
+  2015-08-11 : Tobacco smoking status NHIS              Never smoker 
+  2015-08-11 : High Density Lipoprotein Cholesterol     75.4 mg/dL
+  2015-08-11 : Low Density Lipoprotein Cholesterol      87.3 mg/dL
+  2015-08-11 : Triglycerides                            102.4 mg/dL
+  2015-08-11 : Total Cholesterol                        183.2 mg/dL
+  2015-08-11 : Respiratory rate                         16.0 /min
+  2015-08-11 : Heart rate                               97.0 /min
+  2015-08-11 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2015-08-11 : Body Mass Index                          28.6 kg/m2
+  2015-08-11 : Body Weight                              95.4 kg
+  2015-08-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-08-11 : Body Height                              182.6 cm
+  2012-08-07 : Tobacco smoking status NHIS              Never smoker 
+  2012-08-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2012-08-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 280.2 fL
+  2012-08-07 : Platelets [#/volume] in Blood by Automated count 165.5 10*3/uL
+  2012-08-07 : Erythrocyte distribution width [Entitic volume] by Automated count 42.0 fL
+  2012-08-07 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2012-08-07 : MCH [Entitic mass] by Automated count    31.7 pg
+  2012-08-07 : MCV [Entitic volume] by Automated count  93.7 fL
+  2012-08-07 : Hematocrit [Volume Fraction] of Blood by Automated count 39.6 %
+  2012-08-07 : Hemoglobin [Mass/volume] in Blood        13.0 g/dL
+  2012-08-07 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2012-08-07 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2012-08-07 : High Density Lipoprotein Cholesterol     69.4 mg/dL
+  2012-08-07 : Low Density Lipoprotein Cholesterol      88.1 mg/dL
+  2012-08-07 : Triglycerides                            120.1 mg/dL
+  2012-08-07 : Total Cholesterol                        181.6 mg/dL
+  2012-08-07 : Respiratory rate                         15.0 /min
+  2012-08-07 : Heart rate                               94.0 /min
+  2012-08-07 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  137.0 mm[Hg]
+  2012-08-07 : Body Mass Index                          27.2 kg/m2
+  2012-08-07 : Body Weight                              90.8 kg
+  2012-08-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-08-07 : Body Height                              182.6 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-05-29 : Brief general examination (procedure)
+  2018-05-29 : Medication Reconciliation (procedure)
+  2018-05-29 : Review of systems (procedure)
+  2018-05-29 : Peripheral blood smear interpretation
+  2012-08-07 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-06-02 : Hep A, adult
+  2020-06-02 : Td (adult) preservative free
+  2020-06-02 : Influenza, seasonal, injectable, preservative free
+  2018-05-29 : Hep A, adult
+  2018-05-29 : Influenza, seasonal, injectable, preservative free
+  2015-08-11 : Influenza, seasonal, injectable, preservative free
+  2012-08-07 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-06-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-05-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Anemia (disorder)
+2018-05-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-08-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-12-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2012-08-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-05-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

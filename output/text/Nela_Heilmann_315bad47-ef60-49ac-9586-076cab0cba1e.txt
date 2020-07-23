@@ -1,0 +1,343 @@
+Nela Heilmann
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 10
+Birth Date:          2010-04-09
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-12-23[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2019-02-12[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2015-07-13[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2014-07-17[STOPPED] : Acetaminophen 160 MG Chewable Tablet
+  2011-04-04[STOPPED] : Ibuprofen 100 MG Oral Tablet
+  2011-04-04[STOPPED] : Amoxicillin 250 MG Oral Capsule
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-12-23 - 2020-02-21 : Fracture of clavicle
+  2019-02-12 - 2019-02-26 : First degree burn
+  2018-10-31 - 2018-11-14 : Viral sinusitis (disorder)
+  2015-07-13 - 2015-07-20 : Acute bronchitis (disorder)
+  2014-07-17 - 2014-08-07 : Whiplash injury to neck
+  2011-04-04 - 2011-06-17 : Otitis media
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-12-23[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2019-02-12[STOPPED] : Burn care
+                         Reason: First degree burn
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent sun exposure
+                         Activity: Behavior to prevent infection
+  2015-07-13[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2014-07-17[STOPPED] : Musculoskeletal care
+                         Reason: Whiplash injury to neck
+                         Activity: Heat therapy
+                         Activity: Recommendation to rest
+--------------------------------------------------------------------------------
+REPORTS:
+  2015-07-24 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.8 %
+           - MCV [Entitic volume] by Automated count  93.0 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    33.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+           - Platelets [#/volume] in Blood by Automated count 336.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 166.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-04-17 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-17 : Respiratory rate                         14.0 /min
+  2020-04-17 : Heart rate                               74.0 /min
+  2020-04-17 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2020-04-17 : Body mass index (BMI) [Percentile] Per age and gender 54.5 %
+  2020-04-17 : Body Mass Index                          17.1 kg/m2
+  2020-04-17 : Body Weight                              33.1 kg
+  2020-04-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2020-04-17 : Body Height                              139.1 cm
+  2019-04-12 : Tobacco smoking status NHIS              Never smoker 
+  2019-04-12 : Respiratory rate                         14.0 /min
+  2019-04-12 : Heart rate                               72.0 /min
+  2019-04-12 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2019-04-12 : Body mass index (BMI) [Percentile] Per age and gender 63.7 %
+  2019-04-12 : Body Mass Index                          17.1 kg/m2
+  2019-04-12 : Body Weight                              30.7 kg
+  2019-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-04-12 : Body Height                              133.9 cm
+  2018-04-06 : Tobacco smoking status NHIS              Never smoker 
+  2018-04-06 : Respiratory rate                         14.0 /min
+  2018-04-06 : Heart rate                               99.0 /min
+  2018-04-06 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2018-04-06 : Body mass index (BMI) [Percentile] Per age and gender 65.7 %
+  2018-04-06 : Body Mass Index                          16.6 kg/m2
+  2018-04-06 : Body Weight                              27.2 kg
+  2018-04-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-04-06 : Body Height                              128.1 cm
+  2017-03-31 : Tobacco smoking status NHIS              Never smoker 
+  2017-03-31 : Respiratory rate                         14.0 /min
+  2017-03-31 : Heart rate                               61.0 /min
+  2017-03-31 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2017-03-31 : Body mass index (BMI) [Percentile] Per age and gender 71.5 %
+  2017-03-31 : Body Mass Index                          16.5 kg/m2
+  2017-03-31 : Body Weight                              24.5 kg
+  2017-03-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2017-03-31 : Body Height                              121.9 cm
+  2016-03-25 : Tobacco smoking status NHIS              Never smoker 
+  2016-03-25 : Respiratory rate                         12.0 /min
+  2016-03-25 : Heart rate                               60.0 /min
+  2016-03-25 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2016-03-25 : Body mass index (BMI) [Percentile] Per age and gender 58.2 %
+  2016-03-25 : Body Mass Index                          15.5 kg/m2
+  2016-03-25 : Body Weight                              20.5 kg
+  2016-03-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2016-03-25 : Body Height                              115.1 cm
+  2015-07-24 : Tobacco smoking status NHIS              Never smoker 
+  2015-07-24 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.3 fL
+  2015-07-24 : Platelet distribution width [Entitic volume] in Blood by Automated count 166.0 fL
+  2015-07-24 : Platelets [#/volume] in Blood by Automated count 336.1 10*3/uL
+  2015-07-24 : Erythrocyte distribution width [Entitic volume] by Automated count 42.6 fL
+  2015-07-24 : MCHC [Mass/volume] by Automated count    33.2 g/dL
+  2015-07-24 : MCH [Entitic mass] by Automated count    32.1 pg
+  2015-07-24 : MCV [Entitic volume] by Automated count  93.0 fL
+  2015-07-24 : Hematocrit [Volume Fraction] of Blood by Automated count 45.8 %
+  2015-07-24 : Hemoglobin [Mass/volume] in Blood        13.8 g/dL
+  2015-07-24 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2015-07-24 : Leukocytes [#/volume] in Blood by Automated count 6.8 10*3/uL
+  2015-07-24 : Respiratory rate                         13.0 /min
+  2015-07-24 : Heart rate                               80.0 /min
+  2015-07-24 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2015-07-24 : Body mass index (BMI) [Percentile] Per age and gender 50.2 %
+  2015-07-24 : Body Mass Index                          15.2 kg/m2
+  2015-07-24 : Body Weight                              18.5 kg
+  2015-07-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-07-24 : Body Height                              110.3 cm
+  2015-03-20 : Tobacco smoking status NHIS              Never smoker 
+  2015-03-20 : Respiratory rate                         14.0 /min
+  2015-03-20 : Heart rate                               77.0 /min
+  2015-03-20 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2015-03-20 : Body mass index (BMI) [Percentile] Per age and gender 47.6 %
+  2015-03-20 : Body Mass Index                          15.1 kg/m2
+  2015-03-20 : Body Weight                              17.6 kg
+  2015-03-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-03-20 : Body Height                              108.0 cm
+  2014-03-14 : Tobacco smoking status NHIS              Never smoker 
+  2014-03-14 : Respiratory rate                         13.0 /min
+  2014-03-14 : Heart rate                               88.0 /min
+  2014-03-14 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2014-03-14 : Body mass index (BMI) [Percentile] Per age and gender 49.9 %
+  2014-03-14 : Body Mass Index                          15.3 kg/m2
+  2014-03-14 : Head Occipital-frontal circumference     48.8 cm
+  2014-03-14 : Weight-for-length Per age and sex        66.7 %
+  2014-03-14 : Body Weight                              15.6 kg
+  2014-03-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-03-14 : Body Height                              101.0 cm
+  2013-09-13 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-13 : Respiratory rate                         14.0 /min
+  2013-09-13 : Heart rate                               92.0 /min
+  2013-09-13 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2013-09-13 : Body mass index (BMI) [Percentile] Per age and gender 60.7 %
+  2013-09-13 : Body Mass Index                          15.8 kg/m2
+  2013-09-13 : Head Occipital-frontal circumference     48.8 cm
+  2013-09-13 : Weight-for-length Per age and sex        66.7 %
+  2013-09-13 : Body Weight                              15.1 kg
+  2013-09-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-09-13 : Body Height                              97.6 cm
+  2013-03-15 : Tobacco smoking status NHIS              Never smoker 
+  2013-03-15 : Respiratory rate                         15.0 /min
+  2013-03-15 : Heart rate                               69.0 /min
+  2013-03-15 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2013-03-15 : Body mass index (BMI) [Percentile] Per age and gender 66.6 %
+  2013-03-15 : Body Mass Index                          16.3 kg/m2
+  2013-03-15 : Head Occipital-frontal circumference     48.8 cm
+  2013-03-15 : Weight-for-length Per age and sex        68.3 %
+  2013-03-15 : Body Weight                              14.4 kg
+  2013-03-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-03-15 : Body Height                              94.1 cm
+  2012-09-14 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-14 : Respiratory rate                         14.0 /min
+  2012-09-14 : Heart rate                               74.0 /min
+  2012-09-14 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2012-09-14 : Body mass index (BMI) [Percentile] Per age and gender 69.2 %
+  2012-09-14 : Body Mass Index                          16.8 kg/m2
+  2012-09-14 : Head Occipital-frontal circumference     48.3 cm
+  2012-09-14 : Weight-for-length Per age and sex        73.9 %
+  2012-09-14 : Body Weight                              13.6 kg
+  2012-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-09-14 : Body Height                              90.1 cm
+  2012-03-16 : Tobacco smoking status NHIS              Never smoker 
+  2012-03-16 : Respiratory rate                         15.0 /min
+  2012-03-16 : Heart rate                               85.0 /min
+  2012-03-16 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2012-03-16 : Head Occipital-frontal circumference     47.6 cm
+  2012-03-16 : Weight-for-length Per age and sex        72.4 %
+  2012-03-16 : Body Weight                              12.6 kg
+  2012-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-03-16 : Body Height                              85.8 cm
+  2011-09-16 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-16 : Respiratory rate                         16.0 /min
+  2011-09-16 : Heart rate                               64.0 /min
+  2011-09-16 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2011-09-16 : Head Occipital-frontal circumference     46.6 cm
+  2011-09-16 : Weight-for-length Per age and sex        78.3 %
+  2011-09-16 : Body Weight                              11.4 kg
+  2011-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-09-16 : Body Height                              80.2 cm
+  2011-06-17 : Tobacco smoking status NHIS              Never smoker 
+  2011-06-17 : Respiratory rate                         15.0 /min
+  2011-06-17 : Heart rate                               66.0 /min
+  2011-06-17 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2011-06-17 : Head Occipital-frontal circumference     45.9 cm
+  2011-06-17 : Weight-for-length Per age and sex        78.2 %
+  2011-06-17 : Body Weight                              10.7 kg
+  2011-06-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-06-17 : Body Height                              77.1 cm
+  2011-03-18 : Tobacco smoking status NHIS              Never smoker 
+  2011-03-18 : Respiratory rate                         15.0 /min
+  2011-03-18 : Heart rate                               84.0 /min
+  2011-03-18 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2011-03-18 : Head Occipital-frontal circumference     45.0 cm
+  2011-03-18 : Weight-for-length Per age and sex        75.0 %
+  2011-03-18 : Body Weight                              9.9 kg
+  2011-03-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-03-18 : Body Height                              73.5 cm
+  2010-12-17 : Tobacco smoking status NHIS              Never smoker 
+  2010-12-17 : Respiratory rate                         13.0 /min
+  2010-12-17 : Heart rate                               97.0 /min
+  2010-12-17 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  130.0 mm[Hg]
+  2010-12-17 : Head Occipital-frontal circumference     43.9 cm
+  2010-12-17 : Weight-for-length Per age and sex        69.6 %
+  2010-12-17 : Body Weight                              8.8 kg
+  2010-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2010-12-17 : Body Height                              69.5 cm
+  2010-09-17 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-17 : Respiratory rate                         14.0 /min
+  2010-09-17 : Heart rate                               79.0 /min
+  2010-09-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2010-09-17 : Head Occipital-frontal circumference     42.3 cm
+  2010-09-17 : Weight-for-length Per age and sex        62.1 %
+  2010-09-17 : Body Weight                              7.4 kg
+  2010-09-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2010-09-17 : Body Height                              64.7 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-04-17 : Medication Reconciliation (procedure)
+  2019-12-23 : Admission to orthopedic department for Fracture of clavicle
+  2019-12-23 : Clavicle X-ray
+  2019-04-12 : Medication Reconciliation (procedure)
+  2016-03-25 : Medication Reconciliation (procedure)
+  2015-07-13 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2014-03-14 : Medication Reconciliation (procedure)
+  2012-09-14 : Medication Reconciliation (procedure)
+  2011-06-17 : Medication Reconciliation (procedure)
+  2010-09-17 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-04-17 : Influenza, seasonal, injectable, preservative free
+  2019-04-12 : Influenza, seasonal, injectable, preservative free
+  2018-04-06 : Influenza, seasonal, injectable, preservative free
+  2017-03-31 : Influenza, seasonal, injectable, preservative free
+  2016-03-25 : Influenza, seasonal, injectable, preservative free
+  2015-03-20 : MMR
+  2015-03-20 : DTaP
+  2015-03-20 : Influenza, seasonal, injectable, preservative free
+  2015-03-20 : IPV
+  2015-03-20 : varicella
+  2014-03-14 : Influenza, seasonal, injectable, preservative free
+  2013-03-15 : Influenza, seasonal, injectable, preservative free
+  2012-09-14 : Hep A, ped/adol, 2 dose
+  2012-03-16 : Influenza, seasonal, injectable, preservative free
+  2011-09-16 : DTaP
+  2011-06-17 : Hep A, ped/adol, 2 dose
+  2011-06-17 : Pneumococcal conjugate PCV 13
+  2011-06-17 : MMR
+  2011-06-17 : varicella
+  2011-06-17 : Hib (PRP-OMP)
+  2010-12-17 : Hep B, adolescent or pediatric
+  2010-12-17 : Pneumococcal conjugate PCV 13
+  2010-12-17 : DTaP
+  2010-12-17 : Influenza, seasonal, injectable, preservative free
+  2010-12-17 : IPV
+  2010-09-17 : Pneumococcal conjugate PCV 13
+  2010-09-17 : DTaP
+  2010-09-17 : IPV
+  2010-09-17 : rotavirus, monovalent
+  2010-09-17 : Hib (PRP-OMP)
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-04-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-02-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Fracture of clavicle
+2019-12-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-04-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-02-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for First degree burn
+2019-02-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-10-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2018-04-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-03-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-03-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-07-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-07-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2015-03-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-07-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-03-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-09-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-03-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-09-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-03-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-09-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-06-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-04-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Otitis media
+2011-03-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-12-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-09-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2019-12-23 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------

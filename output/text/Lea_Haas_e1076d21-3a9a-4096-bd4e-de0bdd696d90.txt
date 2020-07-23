@@ -1,0 +1,399 @@
+Lea Haas
+========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 51
+Birth Date:          1968-10-20
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-06-17[STOPPED] : Camila 28 Day Pack
+  2015-09-20[STOPPED] : Acetaminophen 21.7 MG/ML / Dextromethorphan Hydrobromide 1 MG/ML / doxylamine succinate 0.417 MG/ML Oral Solution for Acute bronchitis (disorder)
+  2015-07-03[STOPPED] : Camila 28 Day Pack
+  2015-01-13[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2015-01-13[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2014-11-11[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Cystitis
+  2014-11-11[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Cystitis
+  2014-11-09[CURRENT] : ferrous sulfate 325 MG Oral Tablet
+  2012-07-18[STOPPED] : Jolivette 28 Day Pack
+  2011-07-16[STOPPED] : Mirena 52 MG Intrauterine System
+  2010-07-21[STOPPED] : Natazia 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-11-15 - 2018-11-22 : Viral sinusitis (disorder)
+  2015-09-20 - 2015-09-27 : Acute bronchitis (disorder)
+  2014-12-16 -            : Recurrent urinary tract infection
+  2014-12-16 - 2015-01-20 : Escherichia coli urinary tract infection
+  2014-11-09 -            : Anemia (disorder)
+  2014-11-09 -            : Prediabetes
+  2014-10-09 - 2014-11-18 : Cystitis
+  2013-09-15 - 2014-04-13 : Normal pregnancy
+  2010-09-08 - 2010-10-08 : Injury of tendon of the rotator cuff of shoulder
+  2003-01-05 -            : Body mass index 30+ - obesity (finding)
+  2002-08-25 -            : Miscarriage in first trimester
+  1995-07-16 -            : History of cardiac arrest (situation)
+  1995-07-16 -            : Cardiac Arrest
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2015-09-20[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2015-01-13[STOPPED] : Urinary tract infection care
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2014-11-11[STOPPED] : Urinary tract infection care
+                         Reason: Cystitis
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2014-11-09[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2013-09-15[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2010-09-08[STOPPED] : Physical therapy procedure
+                         Reason: Injury of tendon of the rotator cuff of shoulder
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-10-27 : Basic Metabolic Panel
+           - Glucose                                  89.5 mg/dL
+           - Urea Nitrogen                            16.7 mg/dL
+           - Creatinine                               1.4 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   137.9 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 104.9 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+  2018-10-21 : Lipid Panel
+           - Total Cholesterol                        194.6 mg/dL
+           - Triglycerides                            128.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      104.0 mg/dL
+           - High Density Lipoprotein Cholesterol     64.9 mg/dL
+  2018-10-21 : Basic Metabolic Panel
+           - Glucose                                  86.4 mg/dL
+           - Urea Nitrogen                            15.2 mg/dL
+           - Creatinine                               0.8 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   141.7 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 103.7 mmol/L
+           - Carbon Dioxide                           24.8 mmol/L
+  2016-11-13 : Basic Metabolic Panel
+           - Glucose                                  70.2 mg/dL
+           - Urea Nitrogen                            9.8 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   141.5 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 101.1 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+  2015-09-27 : Basic Metabolic Panel
+           - Glucose                                  88.4 mg/dL
+           - Urea Nitrogen                            19.3 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   143.8 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           20.9 mmol/L
+  2014-11-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood    33.6 %
+           - WBC Auto (Bld) [#/Vol]                   6.8 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   5.3 10*6/uL
+           - MCV [Entitic volume] by Automated count  80.7 fL
+           - MCH [Entitic mass] by Automated count    29.5 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 42.7 fL
+           - Platelets [#/volume] in Blood by Automated count 447.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 232.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2014-11-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+           - MCV [Entitic volume] by Automated count  94.1 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+           - Platelets [#/volume] in Blood by Automated count 330.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 347.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2014-11-09 : Lipid Panel
+           - Total Cholesterol                        199.7 mg/dL
+           - Triglycerides                            108.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      100.2 mg/dL
+           - High Density Lipoprotein Cholesterol     77.9 mg/dL
+  2010-10-31 : Lipid Panel
+           - Total Cholesterol                        183.3 mg/dL
+           - Triglycerides                            122.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      80.6 mg/dL
+           - High Density Lipoprotein Cholesterol     78.3 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-10-27 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2019-10-27 : Tobacco smoking status NHIS              Never smoker 
+  2019-10-27 : Carbon Dioxide                           26.4 mmol/L
+  2019-10-27 : Chloride                                 104.9 mmol/L
+  2019-10-27 : Potassium                                5.1 mmol/L
+  2019-10-27 : Sodium                                   137.9 mmol/L
+  2019-10-27 : Calcium                                  9.5 mg/dL
+  2019-10-27 : Creatinine                               1.4 mg/dL
+  2019-10-27 : Urea Nitrogen                            16.7 mg/dL
+  2019-10-27 : Glucose                                  89.5 mg/dL
+  2019-10-27 : Respiratory rate                         13.0 /min
+  2019-10-27 : Heart rate                               75.0 /min
+  2019-10-27 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2019-10-27 : Body Mass Index                          30.5 kg/m2
+  2019-10-27 : Body Weight                              77.0 kg
+  2019-10-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-10-27 : Body Height                              158.8 cm
+  2018-10-21 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2018-10-21 : Tobacco smoking status NHIS              Never smoker 
+  2018-10-21 : High Density Lipoprotein Cholesterol     64.9 mg/dL
+  2018-10-21 : Low Density Lipoprotein Cholesterol      104.0 mg/dL
+  2018-10-21 : Triglycerides                            128.4 mg/dL
+  2018-10-21 : Total Cholesterol                        194.6 mg/dL
+  2018-10-21 : Carbon Dioxide                           24.8 mmol/L
+  2018-10-21 : Chloride                                 103.7 mmol/L
+  2018-10-21 : Potassium                                5.0 mmol/L
+  2018-10-21 : Sodium                                   141.7 mmol/L
+  2018-10-21 : Calcium                                  10.1 mg/dL
+  2018-10-21 : Creatinine                               0.8 mg/dL
+  2018-10-21 : Urea Nitrogen                            15.2 mg/dL
+  2018-10-21 : Glucose                                  86.4 mg/dL
+  2018-10-21 : Respiratory rate                         15.0 /min
+  2018-10-21 : Heart rate                               69.0 /min
+  2018-10-21 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2018-10-21 : Body Mass Index                          30.5 kg/m2
+  2018-10-21 : Body Weight                              77.0 kg
+  2018-10-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2018-10-21 : Body Height                              158.8 cm
+  2016-11-13 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  2016-11-13 : Tobacco smoking status NHIS              Never smoker 
+  2016-11-13 : Carbon Dioxide                           27.0 mmol/L
+  2016-11-13 : Chloride                                 101.1 mmol/L
+  2016-11-13 : Potassium                                3.9 mmol/L
+  2016-11-13 : Sodium                                   141.5 mmol/L
+  2016-11-13 : Calcium                                  9.1 mg/dL
+  2016-11-13 : Creatinine                               1.1 mg/dL
+  2016-11-13 : Urea Nitrogen                            9.8 mg/dL
+  2016-11-13 : Glucose                                  70.2 mg/dL
+  2016-11-13 : Respiratory rate                         14.0 /min
+  2016-11-13 : Heart rate                               75.0 /min
+  2016-11-13 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2016-11-13 : Body Mass Index                          30.5 kg/m2
+  2016-11-13 : Body Weight                              77.0 kg
+  2016-11-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-11-13 : Body Height                              158.8 cm
+  2015-09-27 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2015-09-27 : Tobacco smoking status NHIS              Never smoker 
+  2015-09-27 : Carbon Dioxide                           20.9 mmol/L
+  2015-09-27 : Chloride                                 106.8 mmol/L
+  2015-09-27 : Potassium                                3.9 mmol/L
+  2015-09-27 : Sodium                                   143.8 mmol/L
+  2015-09-27 : Calcium                                  8.6 mg/dL
+  2015-09-27 : Creatinine                               0.9 mg/dL
+  2015-09-27 : Urea Nitrogen                            19.3 mg/dL
+  2015-09-27 : Glucose                                  88.4 mg/dL
+  2015-09-27 : Respiratory rate                         15.0 /min
+  2015-09-27 : Heart rate                               94.0 /min
+  2015-09-27 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  106.0 mm[Hg]
+  2015-09-27 : Body Mass Index                          30.5 kg/m2
+  2015-09-27 : Body Weight                              77.0 kg
+  2015-09-27 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2015-09-27 : Body Height                              158.8 cm
+  2014-11-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.9 fL
+  2014-11-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 232.0 fL
+  2014-11-09 : Platelets [#/volume] in Blood by Automated count 447.8 10*3/uL
+  2014-11-09 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 42.7 fL
+  2014-11-09 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2014-11-09 : MCH [Entitic mass] by Automated count    29.5 pg
+  2014-11-09 : MCV [Entitic volume] by Automated count  80.7 fL
+  2014-11-09 : RBC Auto (Bld) [#/Vol]                   5.3 10*6/uL
+  2014-11-09 : WBC Auto (Bld) [#/Vol]                   6.8 10*3/uL
+  2014-11-09 : Hematocrit [Volume Fraction] of Blood    33.6 %
+  2014-11-09 : Hemoglobin [Mass/volume] in Blood        11.9 g/dL
+  2014-11-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2014-11-09 : Tobacco smoking status NHIS              Never smoker 
+  2014-11-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  2014-11-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 347.7 fL
+  2014-11-09 : Platelets [#/volume] in Blood by Automated count 330.1 10*3/uL
+  2014-11-09 : Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+  2014-11-09 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  2014-11-09 : MCH [Entitic mass] by Automated count    31.3 pg
+  2014-11-09 : MCV [Entitic volume] by Automated count  94.1 fL
+  2014-11-09 : Hematocrit [Volume Fraction] of Blood by Automated count 40.2 %
+  2014-11-09 : Hemoglobin [Mass/volume] in Blood        13.7 g/dL
+  2014-11-09 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2014-11-09 : Leukocytes [#/volume] in Blood by Automated count 6.5 10*3/uL
+  2014-11-09 : High Density Lipoprotein Cholesterol     77.9 mg/dL
+  2014-11-09 : Low Density Lipoprotein Cholesterol      100.2 mg/dL
+  2014-11-09 : Triglycerides                            108.2 mg/dL
+  2014-11-09 : Total Cholesterol                        199.7 mg/dL
+  2014-11-09 : Respiratory rate                         15.0 /min
+  2014-11-09 : Heart rate                               98.0 /min
+  2014-11-09 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  2014-11-09 : Body Mass Index                          30.5 kg/m2
+  2014-11-09 : Body Weight                              77.0 kg
+  2014-11-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2014-11-09 : Body Height                              158.8 cm
+  2012-11-04 : Tobacco smoking status NHIS              Never smoker 
+  2012-11-04 : Respiratory rate                         14.0 /min
+  2012-11-04 : Heart rate                               92.0 /min
+  2012-11-04 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2012-11-04 : Body Mass Index                          30.5 kg/m2
+  2012-11-04 : Body Weight                              77.0 kg
+  2012-11-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2012-11-04 : Body Height                              158.8 cm
+  2010-10-31 : Tobacco smoking status NHIS              Never smoker 
+  2010-10-31 : High Density Lipoprotein Cholesterol     78.3 mg/dL
+  2010-10-31 : Low Density Lipoprotein Cholesterol      80.6 mg/dL
+  2010-10-31 : Triglycerides                            122.2 mg/dL
+  2010-10-31 : Total Cholesterol                        183.3 mg/dL
+  2010-10-31 : Respiratory rate                         15.0 /min
+  2010-10-31 : Heart rate                               99.0 /min
+  2010-10-31 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2010-10-31 : Body Mass Index                          30.0 kg/m2
+  2010-10-31 : Body Weight                              75.6 kg
+  2010-10-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2010-10-31 : Body Height                              158.8 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-10-27 : Medication Reconciliation (procedure)
+  2018-10-21 : Medication Reconciliation (procedure)
+  2016-11-13 : Medication Reconciliation (procedure)
+  2015-09-27 : Medication Reconciliation (procedure)
+  2015-09-20 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2014-11-09 : Brief general examination (procedure)
+  2014-11-09 : Medication Reconciliation (procedure)
+  2014-11-09 : Review of systems (procedure)
+  2014-11-09 : Peripheral blood smear interpretation
+  2014-05-25 : Depression screening
+  2014-05-25 : Physical examination following birth
+  2014-04-13 : Childbirth for Normal pregnancy
+  2014-04-13 : Medical induction of labor for Normal pregnancy
+  2014-03-30 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-03-30 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-03-02 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-02 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-02 : Urine screening for glucose for Normal pregnancy
+  2014-02-02 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-02-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-01-05 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-12-08 : Auscultation of the fetal heart for Normal pregnancy
+  2013-12-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-10 : Auscultation of the fetal heart for Normal pregnancy
+  2013-11-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-10 : Alpha-fetoprotein test for Normal pregnancy
+  2013-11-10 : Fetal anatomy study for Normal pregnancy
+  2013-10-13 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-10-13 : Auscultation of the fetal heart for Normal pregnancy
+  2013-10-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-09-15 : Physical examination of mother for Normal pregnancy
+  2013-09-15 : Urine protein test for Normal pregnancy
+  2013-09-15 : Skin test for tuberculosis for Normal pregnancy
+  2013-09-15 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-09-15 : Rubella screening for Normal pregnancy
+  2013-09-15 : Hepatitis C antibody test for Normal pregnancy
+  2013-09-15 : Urine screening test for diabetes for Normal pregnancy
+  2013-09-15 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-09-15 : Urine culture for Normal pregnancy
+  2013-09-15 : Syphilis infection test for Normal pregnancy
+  2013-09-15 : Gonorrhea infection test for Normal pregnancy
+  2013-09-15 : Chlamydia antigen test for Normal pregnancy
+  2013-09-15 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-09-15 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-09-15 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-09-15 : Blood typing, RH typing for Normal pregnancy
+  2013-09-15 : Auscultation of the fetal heart for Normal pregnancy
+  2013-09-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-09-15 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-09-15 : Standard pregnancy test for Normal pregnancy
+  2013-07-21 : Removal of intrauterine device
+  2011-07-18 : Insertion of intrauterine contraceptive device
+  2010-10-31 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-10-27 : Td (adult) preservative free
+  2019-10-27 : Influenza, seasonal, injectable, preservative free
+  2019-10-27 : zoster
+  2018-10-21 : Influenza, seasonal, injectable, preservative free
+  2018-10-21 : zoster
+  2016-11-13 : Influenza, seasonal, injectable, preservative free
+  2015-09-27 : Influenza, seasonal, injectable, preservative free
+  2014-11-09 : Influenza, seasonal, injectable, preservative free
+  2012-11-04 : Influenza, seasonal, injectable, preservative free
+  2010-10-31 : Hep A, adult
+  2010-10-31 : Td (adult) preservative free
+  2010-10-31 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-10-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-11-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2018-10-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-06-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-11-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-09-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-09-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+2015-07-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-12-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Escherichia coli urinary tract infection
+2014-11-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Anemia (disorder)
+2014-11-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-10-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Cystitis
+2014-05-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-04-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-03-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-03-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-02-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-01-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-12-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-11-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-10-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-09-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-07-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-11-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-07-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-07-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-07-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-10-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-10-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Injury of tendon of the rotator cuff of shoulder
+2010-09-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Injury of tendon of the rotator cuff of shoulder
+2010-07-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2003-01-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2002-08-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+1995-07-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1983-04-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

@@ -1,0 +1,151 @@
+Elena Bender
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 DECEASED
+Birth Date:          1910-10-02
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1911-03-12[CURRENT] : Diazepam 5 MG Oral Tablet
+  1910-10-02[STOPPED] : Carbamazepine[Tegretol]
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1910-10-02 -            : Epilepsy
+  1910-10-02 -            : History of single seizure (situation)
+  1910-10-02 -            : Seizure disorder
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  1912-02-04 : U.S. standard certificate of death - 2003 revision
+           - Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1910-10-02 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.7 %
+           - MCV [Entitic volume] by Automated count  84.3 fL
+           - MCH [Entitic mass] by Automated count    27.4 pg
+           - MCHC [Mass/volume] by Automated count    35.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+           - Platelets [#/volume] in Blood by Automated count 346.2 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 228.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1912-02-04 : Cause of Death [US Standard Certificate of Death] Sudden Cardiac Death 
+  1911-12-10 : Tobacco smoking status NHIS              Never smoker 
+  1911-12-10 : Respiratory rate                         13.0 /min
+  1911-12-10 : Heart rate                               83.0 /min
+  1911-12-10 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  1911-12-10 : Head Occipital-frontal circumference     45.4 cm
+  1911-12-10 : Weight-for-length Per age and sex        90.8 %
+  1911-12-10 : Body Weight                              11.0 kg
+  1911-12-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1911-12-10 : Body Height                              75.7 cm
+  1911-09-10 : Tobacco smoking status NHIS              Never smoker 
+  1911-09-10 : Respiratory rate                         16.0 /min
+  1911-09-10 : Heart rate                               74.0 /min
+  1911-09-10 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  118.0 mm[Hg]
+  1911-09-10 : Head Occipital-frontal circumference     44.5 cm
+  1911-09-10 : Weight-for-length Per age and sex        92.0 %
+  1911-09-10 : Body Weight                              10.1 kg
+  1911-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1911-09-10 : Body Height                              72.3 cm
+  1911-06-11 : Tobacco smoking status NHIS              Never smoker 
+  1911-06-11 : Respiratory rate                         12.0 /min
+  1911-06-11 : Heart rate                               65.0 /min
+  1911-06-11 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  103.0 mm[Hg]
+  1911-06-11 : Head Occipital-frontal circumference     43.4 cm
+  1911-06-11 : Weight-for-length Per age and sex        90.8 %
+  1911-06-11 : Body Weight                              9.0 kg
+  1911-06-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1911-06-11 : Body Height                              68.4 cm
+  1911-03-12 : Tobacco smoking status NHIS              Never smoker 
+  1911-03-12 : Respiratory rate                         16.0 /min
+  1911-03-12 : Heart rate                               100.0 /min
+  1911-03-12 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  1911-03-12 : Head Occipital-frontal circumference     41.7 cm
+  1911-03-12 : Weight-for-length Per age and sex        79.0 %
+  1911-03-12 : Body Weight                              7.5 kg
+  1911-03-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1911-03-12 : Body Height                              63.6 cm
+  1911-01-08 : Tobacco smoking status NHIS              Never smoker 
+  1911-01-08 : Respiratory rate                         15.0 /min
+  1911-01-08 : Heart rate                               89.0 /min
+  1911-01-08 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  1911-01-08 : Head Occipital-frontal circumference     40.1 cm
+  1911-01-08 : Weight-for-length Per age and sex        78.0 %
+  1911-01-08 : Body Weight                              6.4 kg
+  1911-01-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1911-01-08 : Body Height                              59.7 cm
+  1910-11-06 : Tobacco smoking status NHIS              Never smoker 
+  1910-11-06 : Respiratory rate                         14.0 /min
+  1910-11-06 : Heart rate                               79.0 /min
+  1910-11-06 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  135.0 mm[Hg]
+  1910-11-06 : Head Occipital-frontal circumference     37.5 cm
+  1910-11-06 : Weight-for-length Per age and sex        67.7 %
+  1910-11-06 : Body Weight                              4.9 kg
+  1910-11-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1910-11-06 : Body Height                              54.6 cm
+  1910-10-02 : Tobacco smoking status NHIS              Never smoker 
+  1910-10-02 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.0 fL
+  1910-10-02 : Platelet distribution width [Entitic volume] in Blood by Automated count 228.0 fL
+  1910-10-02 : Platelets [#/volume] in Blood by Automated count 346.2 10*3/uL
+  1910-10-02 : Erythrocyte distribution width [Entitic volume] by Automated count 44.4 fL
+  1910-10-02 : MCHC [Mass/volume] by Automated count    35.3 g/dL
+  1910-10-02 : MCH [Entitic mass] by Automated count    27.4 pg
+  1910-10-02 : MCV [Entitic volume] by Automated count  84.3 fL
+  1910-10-02 : Hematocrit [Volume Fraction] of Blood by Automated count 47.7 %
+  1910-10-02 : Hemoglobin [Mass/volume] in Blood        15.7 g/dL
+  1910-10-02 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  1910-10-02 : Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+  1910-10-02 : Respiratory rate                         14.0 /min
+  1910-10-02 : Heart rate                               88.0 /min
+  1910-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 88.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  1910-10-02 : Head Occipital-frontal circumference     34.2 cm
+  1910-10-02 : Weight-for-length Per age and sex        83.5 %
+  1910-10-02 : Body Weight                              4.1 kg
+  1910-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1910-10-02 : Body Height                              51.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1911-09-10 : Medication Reconciliation (procedure)
+  1911-03-12 : Medication Reconciliation (procedure)
+  1910-10-02 : Medication Reconciliation (procedure)
+  1910-10-02 : Seizure Count Cerebral Cortex Electroencephalogram (EEG)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1912-02-04 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1911-12-10 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1911-09-10 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1911-06-11 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1911-03-12 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1911-01-08 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1910-11-06 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+1910-10-02 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig : Encounter for Seizure disorder
+1910-10-02 (Dr. Jette Lux) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

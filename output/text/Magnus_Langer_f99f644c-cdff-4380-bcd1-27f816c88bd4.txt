@@ -1,0 +1,160 @@
+Magnus Langer
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 38
+Birth Date:          1982-06-23
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-10-19 - 2019-11-01 : Acute viral pharyngitis (disorder)
+  2015-01-30 - 2015-02-13 : Viral sinusitis (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-09-11 : Lipid Panel
+           - Total Cholesterol                        165.9 mg/dL
+           - Triglycerides                            101.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      82.6 mg/dL
+           - High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2016-09-07 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+           - MCV [Entitic volume] by Automated count  80.5 fL
+           - MCH [Entitic mass] by Automated count    28.4 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+           - Platelets [#/volume] in Blood by Automated count 267.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 418.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2016-09-07 : Lipid Panel
+           - Total Cholesterol                        169.2 mg/dL
+           - Triglycerides                            125.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      68.5 mg/dL
+           - High Density Lipoprotein Cholesterol     75.6 mg/dL
+  2013-09-04 : Lipid Panel
+           - Total Cholesterol                        184.2 mg/dL
+           - Triglycerides                            115.7 mg/dL
+           - Low Density Lipoprotein Cholesterol      100.1 mg/dL
+           - High Density Lipoprotein Cholesterol     61.0 mg/dL
+  2010-09-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+           - MCV [Entitic volume] by Automated count  89.2 fL
+           - MCH [Entitic mass] by Automated count    31.3 pg
+           - MCHC [Mass/volume] by Automated count    35.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+           - Platelets [#/volume] in Blood by Automated count 269.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 458.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-10-19 : Body temperature                         37.4 Cel
+  2019-09-11 : Tobacco smoking status NHIS              Never smoker 
+  2019-09-11 : High Density Lipoprotein Cholesterol     62.9 mg/dL
+  2019-09-11 : Low Density Lipoprotein Cholesterol      82.6 mg/dL
+  2019-09-11 : Triglycerides                            101.9 mg/dL
+  2019-09-11 : Total Cholesterol                        165.9 mg/dL
+  2019-09-11 : Respiratory rate                         15.0 /min
+  2019-09-11 : Heart rate                               98.0 /min
+  2019-09-11 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  2019-09-11 : Body Mass Index                          30.0 kg/m2
+  2019-09-11 : Body Weight                              90.2 kg
+  2019-09-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-09-11 : Body Height                              173.5 cm
+  2016-09-07 : Tobacco smoking status NHIS              Never smoker 
+  2016-09-07 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.7 fL
+  2016-09-07 : Platelet distribution width [Entitic volume] in Blood by Automated count 418.3 fL
+  2016-09-07 : Platelets [#/volume] in Blood by Automated count 267.5 10*3/uL
+  2016-09-07 : Erythrocyte distribution width [Entitic volume] by Automated count 45.2 fL
+  2016-09-07 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  2016-09-07 : MCH [Entitic mass] by Automated count    28.4 pg
+  2016-09-07 : MCV [Entitic volume] by Automated count  80.5 fL
+  2016-09-07 : Hematocrit [Volume Fraction] of Blood by Automated count 44.3 %
+  2016-09-07 : Hemoglobin [Mass/volume] in Blood        15.5 g/dL
+  2016-09-07 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2016-09-07 : Leukocytes [#/volume] in Blood by Automated count 4.8 10*3/uL
+  2016-09-07 : High Density Lipoprotein Cholesterol     75.6 mg/dL
+  2016-09-07 : Low Density Lipoprotein Cholesterol      68.5 mg/dL
+  2016-09-07 : Triglycerides                            125.6 mg/dL
+  2016-09-07 : Total Cholesterol                        169.2 mg/dL
+  2016-09-07 : Respiratory rate                         12.0 /min
+  2016-09-07 : Heart rate                               99.0 /min
+  2016-09-07 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2016-09-07 : Body Mass Index                          28.5 kg/m2
+  2016-09-07 : Body Weight                              85.8 kg
+  2016-09-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-09-07 : Body Height                              173.5 cm
+  2013-09-04 : Tobacco smoking status NHIS              Never smoker 
+  2013-09-04 : High Density Lipoprotein Cholesterol     61.0 mg/dL
+  2013-09-04 : Low Density Lipoprotein Cholesterol      100.1 mg/dL
+  2013-09-04 : Triglycerides                            115.7 mg/dL
+  2013-09-04 : Total Cholesterol                        184.2 mg/dL
+  2013-09-04 : Respiratory rate                         14.0 /min
+  2013-09-04 : Heart rate                               88.0 /min
+  2013-09-04 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2013-09-04 : Body Mass Index                          26.7 kg/m2
+  2013-09-04 : Body Weight                              80.4 kg
+  2013-09-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2013-09-04 : Body Height                              173.5 cm
+  2010-09-01 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.8 fL
+  2010-09-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 458.8 fL
+  2010-09-01 : Platelets [#/volume] in Blood by Automated count 269.4 10*3/uL
+  2010-09-01 : Erythrocyte distribution width [Entitic volume] by Automated count 41.0 fL
+  2010-09-01 : MCHC [Mass/volume] by Automated count    35.9 g/dL
+  2010-09-01 : MCH [Entitic mass] by Automated count    31.3 pg
+  2010-09-01 : MCV [Entitic volume] by Automated count  89.2 fL
+  2010-09-01 : Hematocrit [Volume Fraction] of Blood by Automated count 45.1 %
+  2010-09-01 : Hemoglobin [Mass/volume] in Blood        14.5 g/dL
+  2010-09-01 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2010-09-01 : Leukocytes [#/volume] in Blood by Automated count 10.5 10*3/uL
+  2010-09-01 : Respiratory rate                         15.0 /min
+  2010-09-01 : Heart rate                               60.0 /min
+  2010-09-01 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2010-09-01 : Body Mass Index                          25.1 kg/m2
+  2010-09-01 : Body Weight                              75.5 kg
+  2010-09-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-09-01 : Body Height                              173.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2016-09-07 : Medication Reconciliation (procedure)
+  2013-09-04 : Medication Reconciliation (procedure)
+  2010-09-01 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-09-11 : Influenza, seasonal, injectable, preservative free
+  2016-09-07 : Influenza, seasonal, injectable, preservative free
+  2013-09-04 : Td (adult) preservative free
+  2013-09-04 : Influenza, seasonal, injectable, preservative free
+  2010-09-01 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2019-10-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2019-09-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-09-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-01-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2013-09-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2010-09-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

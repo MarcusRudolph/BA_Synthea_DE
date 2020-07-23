@@ -1,0 +1,312 @@
+Werner Schütze
+==========ü===
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 25
+Birth Date:          1994-08-03
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2019-05-08[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2019-01-28[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2018-11-01[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2018-09-04[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2018-07-08[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2018-03-19[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2018-02-03[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2017-10-01[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2017-08-11[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2017-01-01[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2016-11-03[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2016-09-09[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2016-08-03[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2016-05-14[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2016-03-31[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2016-02-02[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2015-08-29[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2015-07-16[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-05-26[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-03-15[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-01-07[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2014-11-10[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2014-08-09[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2014-05-15[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2014-03-02[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2013-12-20[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2013-12-07[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2013-09-14[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2013-03-21[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2012-10-24[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2012-09-10[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2012-06-23[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2012-05-17[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2012-03-06[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2011-12-18[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2011-10-05[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2011-08-22[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2011-06-02[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2010-11-20[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2010-05-30[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2016-11-03 - 2016-12-01 : Sprain of ankle
+  2016-09-07 - 2016-09-14 : Viral sinusitis (disorder)
+  2014-01-20 - 2014-01-31 : Acute viral pharyngitis (disorder)
+  2013-12-07 - 2013-12-21 : Acute bronchitis (disorder)
+  2009-05-29 -            : Chronic pain
+  2009-03-09 -            : Chronic intractable migraine without aura
+  2008-09-05 -            : Impacted molars
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2016-11-03[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2013-12-07[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+--------------------------------------------------------------------------------
+REPORTS:
+  2016-10-05 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 45.0 %
+           - MCV [Entitic volume] by Automated count  91.5 fL
+           - MCH [Entitic mass] by Automated count    28.8 pg
+           - MCHC [Mass/volume] by Automated count    33.0 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+           - Platelets [#/volume] in Blood by Automated count 360.4 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 270.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2010-09-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 43.3 %
+           - MCV [Entitic volume] by Automated count  92.9 fL
+           - MCH [Entitic mass] by Automated count    27.3 pg
+           - MCHC [Mass/volume] by Automated count    33.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+           - Platelets [#/volume] in Blood by Automated count 311.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 247.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-10-09 : Tobacco smoking status NHIS              Never smoker 
+  2019-10-09 : Respiratory rate                         12.0 /min
+  2019-10-09 : Heart rate                               100.0 /min
+  2019-10-09 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2019-10-09 : Body Mass Index                          28.7 kg/m2
+  2019-10-09 : Body Weight                              86.2 kg
+  2019-10-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2019-10-09 : Body Height                              173.3 cm
+  2019-07-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-05-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2019-01-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2018-11-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2018-09-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2018-07-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2018-03-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2018-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2017-10-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2017-08-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2017-01-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2016-10-05 : Tobacco smoking status NHIS              Never smoker 
+  2016-10-05 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.2 fL
+  2016-10-05 : Platelet distribution width [Entitic volume] in Blood by Automated count 270.9 fL
+  2016-10-05 : Platelets [#/volume] in Blood by Automated count 360.4 10*3/uL
+  2016-10-05 : Erythrocyte distribution width [Entitic volume] by Automated count 40.6 fL
+  2016-10-05 : MCHC [Mass/volume] by Automated count    33.0 g/dL
+  2016-10-05 : MCH [Entitic mass] by Automated count    28.8 pg
+  2016-10-05 : MCV [Entitic volume] by Automated count  91.5 fL
+  2016-10-05 : Hematocrit [Volume Fraction] of Blood by Automated count 45.0 %
+  2016-10-05 : Hemoglobin [Mass/volume] in Blood        16.8 g/dL
+  2016-10-05 : Erythrocytes [#/volume] in Blood by Automated count 4.3 10*6/uL
+  2016-10-05 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2016-10-05 : Respiratory rate                         13.0 /min
+  2016-10-05 : Heart rate                               62.0 /min
+  2016-10-05 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2016-10-05 : Body Mass Index                          27.4 kg/m2
+  2016-10-05 : Body Weight                              82.2 kg
+  2016-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-10-05 : Body Height                              173.3 cm
+  2016-09-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2016-08-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2016-05-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2016-03-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2016-02-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2015-08-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2015-07-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2015-05-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2015-03-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2015-01-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2014-11-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2014-08-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2014-05-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-03-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2014-01-20 : Body temperature                         37.5 Cel
+  2013-12-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2013-10-02 : Tobacco smoking status NHIS              Never smoker 
+  2013-10-02 : Respiratory rate                         14.0 /min
+  2013-10-02 : Heart rate                               92.0 /min
+  2013-10-02 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  2013-10-02 : Body mass index (BMI) [Percentile] Per age and gender 79.3 %
+  2013-10-02 : Body Mass Index                          25.5 kg/m2
+  2013-10-02 : Body Weight                              76.3 kg
+  2013-10-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-10-02 : Body Height                              173.1 cm
+  2013-09-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2013-03-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2012-10-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2012-09-26 : Tobacco smoking status NHIS              Never smoker 
+  2012-09-26 : Respiratory rate                         14.0 /min
+  2012-09-26 : Heart rate                               74.0 /min
+  2012-09-26 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  2012-09-26 : Body mass index (BMI) [Percentile] Per age and gender 68.5 %
+  2012-09-26 : Body Mass Index                          23.5 kg/m2
+  2012-09-26 : Body Weight                              70.0 kg
+  2012-09-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-09-26 : Body Height                              172.7 cm
+  2012-09-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2012-06-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2012-05-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2012-03-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2011-12-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2011-10-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2011-09-21 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-21 : Respiratory rate                         14.0 /min
+  2011-09-21 : Heart rate                               66.0 /min
+  2011-09-21 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  131.0 mm[Hg]
+  2011-09-21 : Body mass index (BMI) [Percentile] Per age and gender 80.4 %
+  2011-09-21 : Body Mass Index                          24.2 kg/m2
+  2011-09-21 : Body Weight                              71.5 kg
+  2011-09-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2011-09-21 : Body Height                              171.8 cm
+  2011-08-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2011-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2010-11-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2010-09-15 : Tobacco smoking status NHIS              Never smoker 
+  2010-09-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.6 fL
+  2010-09-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 247.8 fL
+  2010-09-15 : Platelets [#/volume] in Blood by Automated count 311.8 10*3/uL
+  2010-09-15 : Erythrocyte distribution width [Entitic volume] by Automated count 40.9 fL
+  2010-09-15 : MCHC [Mass/volume] by Automated count    33.5 g/dL
+  2010-09-15 : MCH [Entitic mass] by Automated count    27.3 pg
+  2010-09-15 : MCV [Entitic volume] by Automated count  92.9 fL
+  2010-09-15 : Hematocrit [Volume Fraction] of Blood by Automated count 43.3 %
+  2010-09-15 : Hemoglobin [Mass/volume] in Blood        16.3 g/dL
+  2010-09-15 : Erythrocytes [#/volume] in Blood by Automated count 3.9 10*6/uL
+  2010-09-15 : Leukocytes [#/volume] in Blood by Automated count 5.3 10*3/uL
+  2010-09-15 : Respiratory rate                         14.0 /min
+  2010-09-15 : Heart rate                               73.0 /min
+  2010-09-15 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  123.0 mm[Hg]
+  2010-09-15 : Body mass index (BMI) [Percentile] Per age and gender 89.9 %
+  2010-09-15 : Body Mass Index                          25.4 kg/m2
+  2010-09-15 : Body Weight                              73.6 kg
+  2010-09-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2010-09-15 : Body Height                              170.1 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2019-10-09 : Medication Reconciliation (procedure)
+  2018-09-04 : Extraction of wisdom tooth
+  2016-09-09 : Extraction of wisdom tooth
+  2015-05-26 : Extraction of wisdom tooth
+  2014-11-10 : Extraction of wisdom tooth
+  2013-12-07 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2012-10-24 : Extraction of wisdom tooth
+  2011-08-22 : Extraction of wisdom tooth
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-10-09 : Influenza, seasonal, injectable, preservative free
+  2016-10-05 : meningococcal MCV4P
+  2016-10-05 : Hep B, adult
+  2016-10-05 : Td (adult) preservative free
+  2016-10-05 : Influenza, seasonal, injectable, preservative free
+  2013-10-02 : Influenza, seasonal, injectable, preservative free
+  2012-09-26 : Influenza, seasonal, injectable, preservative free
+  2011-09-21 : Influenza, seasonal, injectable, preservative free
+  2010-09-15 : meningococcal MCV4P
+  2010-09-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-06-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-05-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2020-01-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-12-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-11-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-10-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-10-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-09-13 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-08-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-07-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-05-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2019-01-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2018-11-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2018-09-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2018-07-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2018-03-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2018-02-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2017-10-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2017-08-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2017-01-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2016-11-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-10-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-09-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2016-09-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2016-08-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2016-05-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2016-03-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2016-02-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2015-08-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2015-07-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2015-05-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2015-03-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2015-01-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2014-11-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2014-08-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2014-05-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2014-03-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2014-01-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2013-12-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2013-12-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute bronchitis (disorder)
+2013-10-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-09-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2013-03-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2012-10-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2012-09-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-09-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2012-06-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2012-05-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2012-03-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2011-12-18 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2011-10-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2011-09-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-08-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2011-06-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2010-11-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2010-09-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-05-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+2009-05-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic pain
+2009-03-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Chronic intractable migraine without aura
+2008-09-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

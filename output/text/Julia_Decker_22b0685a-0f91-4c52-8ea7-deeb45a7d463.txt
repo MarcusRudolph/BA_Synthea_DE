@@ -1,0 +1,764 @@
+Julia Decker
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 30
+Birth Date:          1989-11-04
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1992-12-03 -            : Allergy to tree pollen
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-05-02[CURRENT] : Liletta 52 MG Intrauterine System
+  2020-03-07[CURRENT] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2019-03-02[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2018-02-24[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2017-02-18[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2016-06-02[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2016-03-01[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2016-02-13[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2015-10-30[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-09-16[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-08-10[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2015-05-05[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2015-03-29[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2015-02-22[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2015-02-07[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2014-07-31[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2014-04-25[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2014-02-01[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2014-01-22[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2013-11-25[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2013-08-12[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2013-05-07[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2013-03-24[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2013-02-15[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2013-01-26[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2012-12-05[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2012-09-25[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  2012-07-26[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2012-06-05[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2012-03-16[STOPPED] : Acetaminophen 325 MG / Oxycodone Hydrochloride 5 MG Oral Tablet
+  2012-01-21[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2011-12-10[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2011-11-16[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2011-08-28[STOPPED] : Acetaminophen 300 MG / HYDROcodone Bitartrate 5 MG Oral Tablet
+  2011-01-15[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2010-12-17[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2010-09-25[STOPPED] : NuvaRing 0.12/0.015 MG per 24HR 21 Day Vaginal Ring
+  2010-08-16[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2010-08-16[STOPPED] : Abuse-Deterrent 12 HR Oxycodone Hydrochloride 15 MG Extended Release Oral Tablet
+  2010-01-09[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2009-09-30[STOPPED] : Jolivette 28 Day Pack
+  2009-01-03[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  2008-03-28[STOPPED] : amLODIPine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet for Hypertension
+  1992-12-03[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1992-11-24[CURRENT] : Loratadine 5 MG Chewable Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-08-10 - 2020-03-21 : Normal pregnancy
+  2019-03-23 - 2019-04-13 : Normal pregnancy
+  2019-02-25 -            : Drug overdose
+  2017-09-30 - 2018-05-05 : Normal pregnancy
+  2017-06-10 - 2017-06-24 : Normal pregnancy
+  2017-02-28 - 2017-03-07 : Acute viral pharyngitis (disorder)
+  2016-06-18 - 2017-01-21 : Normal pregnancy
+  2015-11-21 - 2015-12-04 : Acute viral pharyngitis (disorder)
+  2015-02-22 - 2015-03-01 : Acute bronchitis (disorder)
+  2013-07-13 - 2014-02-22 : Normal pregnancy
+  2013-05-07 - 2013-05-21 : Viral sinusitis (disorder)
+  2012-09-25 - 2012-10-09 : Sprain of ankle
+  2012-06-02 - 2013-01-05 : Normal pregnancy
+  2012-02-11 - 2012-02-25 : Normal pregnancy
+  2011-11-16 - 2011-11-30 : Sprain of ankle
+  2010-08-16 - 2010-10-22 : Injury of medial collateral ligament of knee
+  2007-12-29 -            : Hypertension
+  2004-12-10 -            : Impacted molars
+  2004-04-27 -            : Chronic pain
+  2003-12-08 -            : Chronic intractable migraine without aura
+  1992-11-10 -            : Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-08-10[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2019-02-25[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+  2017-09-30[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2016-06-18[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2015-02-22[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2013-07-13[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2012-09-25[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2012-06-02[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2011-11-16[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of ankle
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2010-08-16[STOPPED] : Physical therapy procedure
+                         Reason: Injury of medial collateral ligament of knee
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2007-12-29[CURRENT] : Lifestyle education regarding hypertension
+                         Reason: Hypertension
+                         Activity: Prescribed activity/exercise education
+                         Activity: Counseling about alcohol consumption
+                         Activity: Dietary approaches to stop hypertension diet
+                         Activity: Smoking cessation education
+  1992-12-03[CURRENT] : Self-care interventions (procedure)
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-03-07 : Lipid Panel
+           - Total Cholesterol                        182.0 mg/dL
+           - Triglycerides                            136.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      78.0 mg/dL
+           - High Density Lipoprotein Cholesterol     76.6 mg/dL
+  2016-02-13 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+           - MCV [Entitic volume] by Automated count  85.6 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+           - Platelets [#/volume] in Blood by Automated count 237.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 297.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2011-01-15 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+           - MCV [Entitic volume] by Automated count  91.4 fL
+           - MCH [Entitic mass] by Automated count    32.9 pg
+           - MCHC [Mass/volume] by Automated count    35.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+           - Platelets [#/volume] in Blood by Automated count 159.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 351.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-03-07 : Tobacco smoking status NHIS              Former smoker 
+  2020-03-07 : High Density Lipoprotein Cholesterol     76.6 mg/dL
+  2020-03-07 : Low Density Lipoprotein Cholesterol      78.0 mg/dL
+  2020-03-07 : Triglycerides                            136.6 mg/dL
+  2020-03-07 : Total Cholesterol                        182.0 mg/dL
+  2020-03-07 : Respiratory rate                         15.0 /min
+  2020-03-07 : Heart rate                               72.0 /min
+  2020-03-07 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  113.0 mm[Hg]
+  2020-03-07 : Body Mass Index                          30.0 kg/m2
+  2020-03-07 : Body Weight                              61.4 kg
+  2020-03-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2020-03-07 : Body Height                              143.2 cm
+  2019-05-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-03-02 : Tobacco smoking status NHIS              Former smoker 
+  2019-03-02 : Respiratory rate                         16.0 /min
+  2019-03-02 : Heart rate                               63.0 /min
+  2019-03-02 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2019-03-02 : Body Mass Index                          29.2 kg/m2
+  2019-03-02 : Body Weight                              59.8 kg
+  2019-03-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2019-03-02 : Body Height                              143.2 cm
+  2018-02-24 : Tobacco smoking status NHIS              Former smoker 
+  2018-02-24 : Respiratory rate                         14.0 /min
+  2018-02-24 : Heart rate                               82.0 /min
+  2018-02-24 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  111.0 mm[Hg]
+  2018-02-24 : Body Mass Index                          28.5 kg/m2
+  2018-02-24 : Body Weight                              58.4 kg
+  2018-02-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2018-02-24 : Body Height                              143.2 cm
+  2017-02-28 : Body temperature                         37.1 Cel
+  2017-02-18 : Tobacco smoking status NHIS              Former smoker 
+  2017-02-18 : Respiratory rate                         13.0 /min
+  2017-02-18 : Heart rate                               86.0 /min
+  2017-02-18 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2017-02-18 : Body Mass Index                          27.6 kg/m2
+  2017-02-18 : Body Weight                              56.6 kg
+  2017-02-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2017-02-18 : Body Height                              143.2 cm
+  2016-06-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2016-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2016-02-13 : Tobacco smoking status NHIS              Former smoker 
+  2016-02-13 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.9 fL
+  2016-02-13 : Platelet distribution width [Entitic volume] in Blood by Automated count 297.0 fL
+  2016-02-13 : Platelets [#/volume] in Blood by Automated count 237.9 10*3/uL
+  2016-02-13 : Erythrocyte distribution width [Entitic volume] by Automated count 40.5 fL
+  2016-02-13 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2016-02-13 : MCH [Entitic mass] by Automated count    32.2 pg
+  2016-02-13 : MCV [Entitic volume] by Automated count  85.6 fL
+  2016-02-13 : Hematocrit [Volume Fraction] of Blood by Automated count 48.2 %
+  2016-02-13 : Hemoglobin [Mass/volume] in Blood        14.9 g/dL
+  2016-02-13 : Erythrocytes [#/volume] in Blood by Automated count 5.1 10*6/uL
+  2016-02-13 : Leukocytes [#/volume] in Blood by Automated count 10.2 10*3/uL
+  2016-02-13 : Respiratory rate                         15.0 /min
+  2016-02-13 : Heart rate                               67.0 /min
+  2016-02-13 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  120.0 mm[Hg]
+  2016-02-13 : Body Mass Index                          26.7 kg/m2
+  2016-02-13 : Body Weight                              54.7 kg
+  2016-02-13 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-02-13 : Body Height                              143.2 cm
+  2015-11-21 : Body temperature                         37.7 Cel
+  2015-10-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 8.0 {score}
+  2015-09-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2015-08-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2015-05-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2015-03-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 9.0 {score}
+  2015-02-07 : Tobacco smoking status NHIS              Former smoker 
+  2015-02-07 : Respiratory rate                         13.0 /min
+  2015-02-07 : Heart rate                               63.0 /min
+  2015-02-07 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2015-02-07 : Body Mass Index                          26.0 kg/m2
+  2015-02-07 : Body Weight                              53.2 kg
+  2015-02-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-02-07 : Body Height                              143.2 cm
+  2014-07-31 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2014-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2014-02-01 : Tobacco smoking status NHIS              Former smoker 
+  2014-02-01 : Respiratory rate                         15.0 /min
+  2014-02-01 : Heart rate                               88.0 /min
+  2014-02-01 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2014-02-01 : Body Mass Index                          25.5 kg/m2
+  2014-02-01 : Body Weight                              52.2 kg
+  2014-02-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-02-01 : Body Height                              143.2 cm
+  2014-01-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2013-11-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2013-08-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-05-07 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2013-03-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2013-02-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2013-01-26 : Tobacco smoking status NHIS              Former smoker 
+  2013-01-26 : Respiratory rate                         15.0 /min
+  2013-01-26 : Heart rate                               65.0 /min
+  2013-01-26 : Blood Pressure
+           - Diastolic Blood Pressure                 86.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2013-01-26 : Body Mass Index                          24.5 kg/m2
+  2013-01-26 : Body Weight                              50.3 kg
+  2013-01-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2013-01-26 : Body Height                              143.2 cm
+  2012-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2012-07-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+  2012-06-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2012-03-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+  2012-01-21 : Tobacco smoking status NHIS              Former smoker 
+  2012-01-21 : Respiratory rate                         16.0 /min
+  2012-01-21 : Heart rate                               73.0 /min
+  2012-01-21 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  2012-01-21 : Body Mass Index                          23.9 kg/m2
+  2012-01-21 : Body Weight                              49.0 kg
+  2012-01-21 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2012-01-21 : Body Height                              143.2 cm
+  2011-12-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2011-08-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2011-01-15 : Tobacco smoking status NHIS              Former smoker 
+  2011-01-15 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.4 fL
+  2011-01-15 : Platelet distribution width [Entitic volume] in Blood by Automated count 351.3 fL
+  2011-01-15 : Platelets [#/volume] in Blood by Automated count 159.8 10*3/uL
+  2011-01-15 : Erythrocyte distribution width [Entitic volume] by Automated count 43.7 fL
+  2011-01-15 : MCHC [Mass/volume] by Automated count    35.1 g/dL
+  2011-01-15 : MCH [Entitic mass] by Automated count    32.9 pg
+  2011-01-15 : MCV [Entitic volume] by Automated count  91.4 fL
+  2011-01-15 : Hematocrit [Volume Fraction] of Blood by Automated count 38.3 %
+  2011-01-15 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2011-01-15 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2011-01-15 : Leukocytes [#/volume] in Blood by Automated count 7.2 10*3/uL
+  2011-01-15 : Respiratory rate                         14.0 /min
+  2011-01-15 : Heart rate                               97.0 /min
+  2011-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2011-01-15 : Body Mass Index                          23.2 kg/m2
+  2011-01-15 : Body Weight                              47.6 kg
+  2011-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2011-01-15 : Body Height                              143.2 cm
+  2010-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 6.0 {score}
+  2010-08-16 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 5.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-05-04 : Insertion of intrauterine contraceptive device
+  2020-05-02 : Depression screening
+  2020-05-02 : Physical examination following birth
+  2020-03-21 : Childbirth for Normal pregnancy
+  2020-03-21 : Episiotomy for Normal pregnancy
+  2020-03-14 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-03-07 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-22 : Auscultation of the fetal heart for Normal pregnancy
+  2020-02-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-22 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2020-01-25 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-28 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-28 : Urine screening for glucose for Normal pregnancy
+  2019-12-28 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2019-12-28 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-11-30 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-02 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-05 : Auscultation of the fetal heart for Normal pregnancy
+  2019-10-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-05 : Alpha-fetoprotein test for Normal pregnancy
+  2019-10-05 : Fetal anatomy study for Normal pregnancy
+  2019-09-07 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2019-09-07 : Auscultation of the fetal heart for Normal pregnancy
+  2019-09-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-08-10 : Physical examination of mother for Normal pregnancy
+  2019-08-10 : Urine protein test for Normal pregnancy
+  2019-08-10 : Skin test for tuberculosis for Normal pregnancy
+  2019-08-10 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-08-10 : Rubella screening for Normal pregnancy
+  2019-08-10 : Hepatitis C antibody test for Normal pregnancy
+  2019-08-10 : Urine screening test for diabetes for Normal pregnancy
+  2019-08-10 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-08-10 : Urine culture for Normal pregnancy
+  2019-08-10 : Syphilis infection test for Normal pregnancy
+  2019-08-10 : Gonorrhea infection test for Normal pregnancy
+  2019-08-10 : Chlamydia antigen test for Normal pregnancy
+  2019-08-10 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-08-10 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-08-10 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-08-10 : Blood typing, RH typing for Normal pregnancy
+  2019-08-10 : Auscultation of the fetal heart for Normal pregnancy
+  2019-08-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-08-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-08-10 : Standard pregnancy test for Normal pregnancy
+  2019-04-13 : Depression screening for Normal pregnancy
+  2019-04-13 : Physical exam following abortion for Normal pregnancy
+  2019-04-13 : Pregnancy termination care for Normal pregnancy
+  2019-04-06 : Induced termination of pregnancy for Normal pregnancy
+  2019-04-06 : Counseling for termination of pregnancy for Normal pregnancy
+  2019-03-23 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-03-23 : Standard pregnancy test for Normal pregnancy
+  2019-03-02 : Medication Reconciliation (procedure)
+  2018-06-16 : Depression screening
+  2018-06-16 : Physical examination following birth
+  2018-05-05 : Childbirth for Normal pregnancy
+  2018-05-05 : Epidural anesthesia for Normal pregnancy
+  2018-04-28 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-14 : Auscultation of the fetal heart for Normal pregnancy
+  2018-04-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-04-14 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2018-03-17 : Auscultation of the fetal heart for Normal pregnancy
+  2018-03-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-17 : Auscultation of the fetal heart for Normal pregnancy
+  2018-02-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2018-02-17 : Urine screening for glucose for Normal pregnancy
+  2018-02-17 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2018-02-17 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2018-01-20 : Auscultation of the fetal heart for Normal pregnancy
+  2018-01-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-12-23 : Auscultation of the fetal heart for Normal pregnancy
+  2017-12-23 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-11-25 : Auscultation of the fetal heart for Normal pregnancy
+  2017-11-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-11-25 : Alpha-fetoprotein test for Normal pregnancy
+  2017-11-25 : Fetal anatomy study for Normal pregnancy
+  2017-10-28 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2017-10-28 : Auscultation of the fetal heart for Normal pregnancy
+  2017-10-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-30 : Physical examination of mother for Normal pregnancy
+  2017-09-30 : Urine protein test for Normal pregnancy
+  2017-09-30 : Skin test for tuberculosis for Normal pregnancy
+  2017-09-30 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2017-09-30 : Rubella screening for Normal pregnancy
+  2017-09-30 : Hepatitis C antibody test for Normal pregnancy
+  2017-09-30 : Urine screening test for diabetes for Normal pregnancy
+  2017-09-30 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2017-09-30 : Urine culture for Normal pregnancy
+  2017-09-30 : Syphilis infection test for Normal pregnancy
+  2017-09-30 : Gonorrhea infection test for Normal pregnancy
+  2017-09-30 : Chlamydia antigen test for Normal pregnancy
+  2017-09-30 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2017-09-30 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2017-09-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2017-09-30 : Blood typing, RH typing for Normal pregnancy
+  2017-09-30 : Auscultation of the fetal heart for Normal pregnancy
+  2017-09-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2017-09-30 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-09-30 : Standard pregnancy test for Normal pregnancy
+  2017-06-24 : Depression screening for Normal pregnancy
+  2017-06-24 : Physical exam following abortion for Normal pregnancy
+  2017-06-24 : Pregnancy termination care for Normal pregnancy
+  2017-06-17 : Induced termination of pregnancy for Normal pregnancy
+  2017-06-17 : Counseling for termination of pregnancy for Normal pregnancy
+  2017-06-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2017-06-10 : Standard pregnancy test for Normal pregnancy
+  2017-02-28 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2017-03-04 : Depression screening
+  2017-03-04 : Physical examination following birth
+  2017-02-18 : Medication Reconciliation (procedure)
+  2017-01-21 : Childbirth for Normal pregnancy
+  2017-01-21 : Epidural anesthesia for Normal pregnancy
+  2017-01-14 : Auscultation of the fetal heart for Normal pregnancy
+  2017-01-14 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-12-31 : Auscultation of the fetal heart for Normal pregnancy
+  2016-12-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-12-31 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2016-12-03 : Auscultation of the fetal heart for Normal pregnancy
+  2016-12-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-05 : Auscultation of the fetal heart for Normal pregnancy
+  2016-11-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-11-05 : Urine screening for glucose for Normal pregnancy
+  2016-11-05 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2016-11-05 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-10-08 : Auscultation of the fetal heart for Normal pregnancy
+  2016-10-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-09-10 : Auscultation of the fetal heart for Normal pregnancy
+  2016-09-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-08-13 : Auscultation of the fetal heart for Normal pregnancy
+  2016-08-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-08-13 : Alpha-fetoprotein test for Normal pregnancy
+  2016-08-13 : Fetal anatomy study for Normal pregnancy
+  2016-07-16 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2016-07-16 : Auscultation of the fetal heart for Normal pregnancy
+  2016-07-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-18 : Physical examination of mother for Normal pregnancy
+  2016-06-18 : Urine protein test for Normal pregnancy
+  2016-06-18 : Skin test for tuberculosis for Normal pregnancy
+  2016-06-18 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2016-06-18 : Rubella screening for Normal pregnancy
+  2016-06-18 : Hepatitis C antibody test for Normal pregnancy
+  2016-06-18 : Urine screening test for diabetes for Normal pregnancy
+  2016-06-18 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2016-06-18 : Urine culture for Normal pregnancy
+  2016-06-18 : Syphilis infection test for Normal pregnancy
+  2016-06-18 : Gonorrhea infection test for Normal pregnancy
+  2016-06-18 : Chlamydia antigen test for Normal pregnancy
+  2016-06-18 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2016-06-18 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2016-06-18 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2016-06-18 : Blood typing, RH typing for Normal pregnancy
+  2016-06-18 : Auscultation of the fetal heart for Normal pregnancy
+  2016-06-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2016-06-18 : Ultrasound scan for fetal viability for Normal pregnancy
+  2016-06-18 : Standard pregnancy test for Normal pregnancy
+  2016-03-01 : Extraction of wisdom tooth
+  2015-09-16 : Extraction of wisdom tooth
+  2015-08-10 : Extraction of wisdom tooth
+  2015-02-22 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  2014-04-25 : Extraction of wisdom tooth
+  2014-04-05 : Depression screening
+  2014-04-05 : Physical examination following birth
+  2014-02-22 : Childbirth for Normal pregnancy
+  2014-02-22 : Episiotomy for Normal pregnancy
+  2014-02-15 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-08 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-25 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-01-25 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-01-22 : Extraction of wisdom tooth
+  2013-12-28 : Auscultation of the fetal heart for Normal pregnancy
+  2013-12-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-30 : Auscultation of the fetal heart for Normal pregnancy
+  2013-11-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-30 : Urine screening for glucose for Normal pregnancy
+  2013-11-30 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2013-11-30 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-11-25 : Extraction of wisdom tooth
+  2013-11-02 : Auscultation of the fetal heart for Normal pregnancy
+  2013-11-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-10-05 : Auscultation of the fetal heart for Normal pregnancy
+  2013-10-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-09-07 : Auscultation of the fetal heart for Normal pregnancy
+  2013-09-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-09-07 : Alpha-fetoprotein test for Normal pregnancy
+  2013-09-07 : Fetal anatomy study for Normal pregnancy
+  2013-08-12 : Extraction of wisdom tooth
+  2013-08-10 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-08-10 : Auscultation of the fetal heart for Normal pregnancy
+  2013-08-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-07-13 : Physical examination of mother for Normal pregnancy
+  2013-07-13 : Urine protein test for Normal pregnancy
+  2013-07-13 : Skin test for tuberculosis for Normal pregnancy
+  2013-07-13 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-07-13 : Rubella screening for Normal pregnancy
+  2013-07-13 : Hepatitis C antibody test for Normal pregnancy
+  2013-07-13 : Urine screening test for diabetes for Normal pregnancy
+  2013-07-13 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-07-13 : Urine culture for Normal pregnancy
+  2013-07-13 : Syphilis infection test for Normal pregnancy
+  2013-07-13 : Gonorrhea infection test for Normal pregnancy
+  2013-07-13 : Chlamydia antigen test for Normal pregnancy
+  2013-07-13 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-07-13 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-07-13 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-07-13 : Blood typing, RH typing for Normal pregnancy
+  2013-07-13 : Auscultation of the fetal heart for Normal pregnancy
+  2013-07-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-07-13 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-07-13 : Standard pregnancy test for Normal pregnancy
+  2013-05-07 : Extraction of wisdom tooth
+  2013-02-16 : Depression screening
+  2013-02-16 : Physical examination following birth
+  2013-02-15 : Extraction of wisdom tooth
+  2013-01-05 : Childbirth for Normal pregnancy
+  2013-01-05 : Episiotomy for Normal pregnancy
+  2012-12-29 : Auscultation of the fetal heart for Normal pregnancy
+  2012-12-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-15 : Auscultation of the fetal heart for Normal pregnancy
+  2012-12-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-15 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2012-12-05 : Extraction of wisdom tooth
+  2012-11-17 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-17 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-20 : Auscultation of the fetal heart for Normal pregnancy
+  2012-10-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-20 : Urine screening for glucose for Normal pregnancy
+  2012-10-20 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-10-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-09-22 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-22 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-08-25 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-28 : Auscultation of the fetal heart for Normal pregnancy
+  2012-07-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-07-28 : Alpha-fetoprotein test for Normal pregnancy
+  2012-07-28 : Fetal anatomy study for Normal pregnancy
+  2012-07-26 : Extraction of wisdom tooth
+  2012-06-30 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-06-30 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-02 : Physical examination of mother for Normal pregnancy
+  2012-06-02 : Urine protein test for Normal pregnancy
+  2012-06-02 : Skin test for tuberculosis for Normal pregnancy
+  2012-06-02 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-06-02 : Rubella screening for Normal pregnancy
+  2012-06-02 : Hepatitis C antibody test for Normal pregnancy
+  2012-06-02 : Urine screening test for diabetes for Normal pregnancy
+  2012-06-02 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-06-02 : Urine culture for Normal pregnancy
+  2012-06-02 : Syphilis infection test for Normal pregnancy
+  2012-06-02 : Gonorrhea infection test for Normal pregnancy
+  2012-06-02 : Chlamydia antigen test for Normal pregnancy
+  2012-06-02 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-06-02 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-06-02 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-06-02 : Blood typing, RH typing for Normal pregnancy
+  2012-06-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-06-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-06-02 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-06-02 : Standard pregnancy test for Normal pregnancy
+  2012-02-25 : Depression screening for Normal pregnancy
+  2012-02-25 : Physical exam following abortion for Normal pregnancy
+  2012-02-25 : Pregnancy termination care for Normal pregnancy
+  2012-02-18 : Induced termination of pregnancy for Normal pregnancy
+  2012-02-18 : Counseling for termination of pregnancy for Normal pregnancy
+  2012-02-11 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-02-11 : Standard pregnancy test for Normal pregnancy
+  2011-12-10 : Extraction of wisdom tooth
+  2011-08-28 : Extraction of wisdom tooth
+  2010-08-23 : Surgical manipulation of joint of knee for Injury of medial collateral ligament of knee
+  2010-08-16 : Knee X-ray
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-03-07 : Influenza, seasonal, injectable, preservative free
+  2019-03-02 : Influenza, seasonal, injectable, preservative free
+  2018-02-24 : Influenza, seasonal, injectable, preservative free
+  2017-02-18 : Influenza, seasonal, injectable, preservative free
+  2016-02-13 : Influenza, seasonal, injectable, preservative free
+  2015-02-07 : Influenza, seasonal, injectable, preservative free
+  2014-02-01 : Influenza, seasonal, injectable, preservative free
+  2013-01-26 : Influenza, seasonal, injectable, preservative free
+  2012-01-21 : Hep B, adult
+  2012-01-21 : Influenza, seasonal, injectable, preservative free
+  2011-01-15 : meningococcal MCV4P
+  2011-01-15 : Hep B, adult
+  2011-01-15 : Td (adult) preservative free
+  2011-01-15 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-05-17 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2020-05-04 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2020-05-02 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2020-05-02 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2020-04-17 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2020-03-21 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-03-18 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2020-03-14 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-03-07 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-03-07 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2020-02-22 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-02-17 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2020-01-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-12-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-11-30 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-11-02 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-10-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-09-07 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-08-10 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-05-13 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2019-04-13 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-04-06 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-03-23 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-02-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2019-03-02 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2019-01-12 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2018-12-13 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2018-10-09 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2018-06-16 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2018-05-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2018-04-29 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2018-04-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2018-04-14 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2018-03-30 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2018-03-17 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2018-02-24 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2018-02-17 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2018-01-20 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-12-23 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-12-13 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2017-11-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-11-13 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2017-10-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-10-14 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2017-09-30 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-07-20 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2017-06-24 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-06-17 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-06-10 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-03-11 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2017-02-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2017-03-04 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2017-02-18 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2017-01-21 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2017-01-14 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-12-31 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-12-03 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-11-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-10-08 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-09-10 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-08-13 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-07-16 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-06-18 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2016-06-02 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2016-03-01 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2016-02-13 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2015-11-21 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute viral pharyngitis (disorder)
+2015-10-30 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2015-09-16 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-08-10 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2015-05-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2015-03-29 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2015-03-07 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2015-02-22 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+2015-02-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2015-02-07 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2014-07-31 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2014-04-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2014-04-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2014-02-22 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-02-15 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-02-08 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-02-01 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2014-01-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-01-22 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2013-12-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-11-30 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-11-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2013-11-02 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-10-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-09-07 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-08-12 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2013-08-10 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-07-13 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-05-07 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2013-05-07 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2013-03-24 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2013-02-16 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2013-02-15 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2013-01-26 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2013-01-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-12-29 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-12-15 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-12-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2012-11-17 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-10-20 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-09-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2012-09-22 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-08-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-07-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-07-26 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2012-06-30 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-06-05 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2012-06-02 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-03-16 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+2012-02-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-02-18 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-02-11 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-01-21 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2011-12-10 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2011-11-16 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2011-08-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2011-01-15 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2010-12-17 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2010-09-25 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2010-08-23 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Injury of medial collateral ligament of knee
+2010-08-16 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2010-08-16 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2010-01-09 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2009-09-30 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2009-01-03 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2008-03-28 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2007-12-29 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+2004-12-10 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+2004-04-27 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+2003-12-08 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+1992-12-03 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden
+1992-11-10 (Dr. Antonio Buschmann) : Encounter at Universitaetsklinikum Dresden : Encounter for Perennial allergic rhinitis
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2010-08-16 : Digital Radiography, Knee
+--------------------------------------------------------------------------------

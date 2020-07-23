@@ -1,0 +1,308 @@
+Laura Naumann
+=============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 31
+Birth Date:          1989-02-14
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-04-21[CURRENT] : Etonogestrel 68 MG Drug Implant
+  2017-11-24[STOPPED] : 1 ML medroxyprogesterone acetate 150 MG/ML Injection
+  2016-11-29[STOPPED] : Trinessa 28 Day Pack
+  2015-12-05[STOPPED] : Levora 0.15/30 28 Day Pack
+  2014-12-10[STOPPED] : Camila 28 Day Pack
+  2013-12-15[STOPPED] : Jolivette 28 Day Pack
+  2013-03-08[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Escherichia coli urinary tract infection
+  2013-03-08[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Escherichia coli urinary tract infection
+  2011-12-26[STOPPED] : Trinessa 28 Day Pack
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2020-04-28 -            : Body mass index 30+ - obesity (finding)
+  2019-08-06 - 2020-03-10 : Normal pregnancy
+  2018-11-10 - 2018-11-17 : Acute viral pharyngitis (disorder)
+  2013-02-08 - 2013-03-15 : Escherichia coli urinary tract infection
+  2011-12-27 - 2012-01-10 : Viral sinusitis (disorder)
+  2011-03-29 - 2011-11-01 : Normal pregnancy
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-08-06[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-03-08[STOPPED] : Urinary tract infection care
+                         Reason: Escherichia coli urinary tract infection
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2011-03-29[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-04-28 : Lipid Panel
+           - Total Cholesterol                        181.2 mg/dL
+           - Triglycerides                            122.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.4 mg/dL
+           - High Density Lipoprotein Cholesterol     70.2 mg/dL
+  2017-04-25 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+           - MCV [Entitic volume] by Automated count  94.3 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+           - Platelets [#/volume] in Blood by Automated count 216.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 248.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2011-04-19 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.4 %
+           - MCV [Entitic volume] by Automated count  91.8 fL
+           - MCH [Entitic mass] by Automated count    28.0 pg
+           - MCHC [Mass/volume] by Automated count    35.5 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+           - Platelets [#/volume] in Blood by Automated count 295.7 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 473.7 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-04-28 : Tobacco smoking status NHIS              Never smoker 
+  2020-04-28 : High Density Lipoprotein Cholesterol     70.2 mg/dL
+  2020-04-28 : Low Density Lipoprotein Cholesterol      86.4 mg/dL
+  2020-04-28 : Triglycerides                            122.8 mg/dL
+  2020-04-28 : Total Cholesterol                        181.2 mg/dL
+  2020-04-28 : Respiratory rate                         15.0 /min
+  2020-04-28 : Heart rate                               67.0 /min
+  2020-04-28 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  2020-04-28 : Body Mass Index                          30.0 kg/m2
+  2020-04-28 : Body Weight                              73.1 kg
+  2020-04-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2020-04-28 : Body Height                              156.0 cm
+  2018-11-10 : Body temperature                         38.0 Cel
+  2017-04-25 : Tobacco smoking status NHIS              Never smoker 
+  2017-04-25 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.2 fL
+  2017-04-25 : Platelet distribution width [Entitic volume] in Blood by Automated count 248.0 fL
+  2017-04-25 : Platelets [#/volume] in Blood by Automated count 216.1 10*3/uL
+  2017-04-25 : Erythrocyte distribution width [Entitic volume] by Automated count 41.1 fL
+  2017-04-25 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2017-04-25 : MCH [Entitic mass] by Automated count    32.2 pg
+  2017-04-25 : MCV [Entitic volume] by Automated count  94.3 fL
+  2017-04-25 : Hematocrit [Volume Fraction] of Blood by Automated count 44.8 %
+  2017-04-25 : Hemoglobin [Mass/volume] in Blood        12.9 g/dL
+  2017-04-25 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2017-04-25 : Leukocytes [#/volume] in Blood by Automated count 9.6 10*3/uL
+  2017-04-25 : Respiratory rate                         14.0 /min
+  2017-04-25 : Heart rate                               89.0 /min
+  2017-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2017-04-25 : Body Mass Index                          28.8 kg/m2
+  2017-04-25 : Body Weight                              70.2 kg
+  2017-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2017-04-25 : Body Height                              156.0 cm
+  2014-04-22 : Tobacco smoking status NHIS              Never smoker 
+  2014-04-22 : Respiratory rate                         15.0 /min
+  2014-04-22 : Heart rate                               96.0 /min
+  2014-04-22 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2014-04-22 : Body Mass Index                          27.4 kg/m2
+  2014-04-22 : Body Weight                              66.7 kg
+  2014-04-22 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-04-22 : Body Height                              156.0 cm
+  2011-04-19 : Tobacco smoking status NHIS              Never smoker 
+  2011-04-19 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2011-04-19 : Platelet distribution width [Entitic volume] in Blood by Automated count 473.7 fL
+  2011-04-19 : Platelets [#/volume] in Blood by Automated count 295.7 10*3/uL
+  2011-04-19 : Erythrocyte distribution width [Entitic volume] by Automated count 42.1 fL
+  2011-04-19 : MCHC [Mass/volume] by Automated count    35.5 g/dL
+  2011-04-19 : MCH [Entitic mass] by Automated count    28.0 pg
+  2011-04-19 : MCV [Entitic volume] by Automated count  91.8 fL
+  2011-04-19 : Hematocrit [Volume Fraction] of Blood by Automated count 39.4 %
+  2011-04-19 : Hemoglobin [Mass/volume] in Blood        12.8 g/dL
+  2011-04-19 : Erythrocytes [#/volume] in Blood by Automated count 4.5 10*6/uL
+  2011-04-19 : Leukocytes [#/volume] in Blood by Automated count 3.6 10*3/uL
+  2011-04-19 : Respiratory rate                         14.0 /min
+  2011-04-19 : Heart rate                               64.0 /min
+  2011-04-19 : Blood Pressure
+           - Diastolic Blood Pressure                 70.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  2011-04-19 : Body Mass Index                          25.6 kg/m2
+  2011-04-19 : Body Weight                              62.3 kg
+  2011-04-19 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-04-19 : Body Height                              156.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-04-21 : Insertion of subcutaneous contraceptive
+  2020-04-21 : Depression screening
+  2020-04-21 : Physical examination following birth
+  2020-03-10 : Childbirth for Normal pregnancy
+  2020-03-10 : Epidural anesthesia for Normal pregnancy
+  2020-03-03 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-18 : Auscultation of the fetal heart for Normal pregnancy
+  2020-02-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-18 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2020-01-21 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-24 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-12-24 : Urine screening for glucose for Normal pregnancy
+  2019-12-24 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2019-12-24 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-11-26 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-29 : Auscultation of the fetal heart for Normal pregnancy
+  2019-10-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-01 : Auscultation of the fetal heart for Normal pregnancy
+  2019-10-01 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-01 : Alpha-fetoprotein test for Normal pregnancy
+  2019-10-01 : Fetal anatomy study for Normal pregnancy
+  2019-09-03 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2019-09-03 : Auscultation of the fetal heart for Normal pregnancy
+  2019-09-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-08-06 : Physical examination of mother for Normal pregnancy
+  2019-08-06 : Urine protein test for Normal pregnancy
+  2019-08-06 : Skin test for tuberculosis for Normal pregnancy
+  2019-08-06 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-08-06 : Rubella screening for Normal pregnancy
+  2019-08-06 : Hepatitis C antibody test for Normal pregnancy
+  2019-08-06 : Urine screening test for diabetes for Normal pregnancy
+  2019-08-06 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-08-06 : Urine culture for Normal pregnancy
+  2019-08-06 : Syphilis infection test for Normal pregnancy
+  2019-08-06 : Gonorrhea infection test for Normal pregnancy
+  2019-08-06 : Chlamydia antigen test for Normal pregnancy
+  2019-08-06 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-08-06 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-08-06 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-08-06 : Blood typing, RH typing for Normal pregnancy
+  2019-08-06 : Auscultation of the fetal heart for Normal pregnancy
+  2019-08-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-08-06 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-08-06 : Standard pregnancy test for Normal pregnancy
+  2019-06-04 : Intramuscular injection
+  2019-03-05 : Intramuscular injection
+  2018-12-04 : Intramuscular injection
+  2018-09-04 : Intramuscular injection
+  2018-06-05 : Intramuscular injection
+  2018-03-06 : Intramuscular injection
+  2017-11-24 : Intramuscular injection
+  2011-12-13 : Depression screening
+  2011-12-13 : Physical examination following birth
+  2011-11-01 : Childbirth for Normal pregnancy
+  2011-11-01 : Epidural anesthesia for Normal pregnancy
+  2011-10-25 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-11 : Auscultation of the fetal heart for Normal pregnancy
+  2011-10-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-10-11 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2011-09-13 : Auscultation of the fetal heart for Normal pregnancy
+  2011-09-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-08-16 : Auscultation of the fetal heart for Normal pregnancy
+  2011-08-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-08-16 : Urine screening for glucose for Normal pregnancy
+  2011-08-16 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2011-08-16 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-07-19 : Auscultation of the fetal heart for Normal pregnancy
+  2011-07-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-06-21 : Auscultation of the fetal heart for Normal pregnancy
+  2011-06-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-05-24 : Auscultation of the fetal heart for Normal pregnancy
+  2011-05-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-05-24 : Alpha-fetoprotein test for Normal pregnancy
+  2011-05-24 : Fetal anatomy study for Normal pregnancy
+  2011-04-26 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2011-04-26 : Auscultation of the fetal heart for Normal pregnancy
+  2011-04-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-04-19 : Medication Reconciliation (procedure)
+  2011-03-29 : Physical examination of mother for Normal pregnancy
+  2011-03-29 : Urine protein test for Normal pregnancy
+  2011-03-29 : Skin test for tuberculosis for Normal pregnancy
+  2011-03-29 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2011-03-29 : Rubella screening for Normal pregnancy
+  2011-03-29 : Hepatitis C antibody test for Normal pregnancy
+  2011-03-29 : Urine screening test for diabetes for Normal pregnancy
+  2011-03-29 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2011-03-29 : Urine culture for Normal pregnancy
+  2011-03-29 : Syphilis infection test for Normal pregnancy
+  2011-03-29 : Gonorrhea infection test for Normal pregnancy
+  2011-03-29 : Chlamydia antigen test for Normal pregnancy
+  2011-03-29 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2011-03-29 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2011-03-29 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2011-03-29 : Blood typing, RH typing for Normal pregnancy
+  2011-03-29 : Auscultation of the fetal heart for Normal pregnancy
+  2011-03-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2011-03-29 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-03-29 : Standard pregnancy test for Normal pregnancy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-04-28 : Td (adult) preservative free
+  2020-04-28 : Influenza, seasonal, injectable, preservative free
+  2017-04-25 : Influenza, seasonal, injectable, preservative free
+  2014-04-22 : Influenza, seasonal, injectable, preservative free
+  2011-04-19 : meningococcal MCV4P
+  2011-04-19 : Hep B, adult
+  2011-04-19 : Td (adult) preservative free
+  2011-04-19 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-04-28 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2020-04-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2020-04-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2020-03-10 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2020-03-03 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2020-02-18 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2020-01-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2019-12-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2019-11-26 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2019-10-29 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2019-10-01 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2019-09-03 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2019-08-06 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2019-06-04 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2019-03-05 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-12-04 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-11-10 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Acute viral pharyngitis (disorder)
+2018-09-04 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-06-05 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2018-03-06 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2017-11-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2017-04-25 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2016-11-29 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2015-12-05 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2014-12-10 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2014-04-22 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2013-12-15 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2013-02-08 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Escherichia coli urinary tract infection
+2011-12-26 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2011-12-27 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Viral sinusitis (disorder)
+2011-12-13 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2011-11-01 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-10-25 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-10-11 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-09-13 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-08-16 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-07-19 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-06-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-05-24 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-04-26 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+2011-04-19 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+2011-03-29 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Normal pregnancy
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

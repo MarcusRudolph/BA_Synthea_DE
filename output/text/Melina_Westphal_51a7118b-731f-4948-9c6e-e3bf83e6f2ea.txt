@@ -1,0 +1,632 @@
+Melina Westphal
+===============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              F
+Age:                 40
+Birth Date:          1980-07-18
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2020-05-06[CURRENT] : 168 HR Ethinyl Estradiol 0.00146 MG/HR / norelgestromin 0.00625 MG/HR Transdermal System
+  2019-01-23[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  2018-08-12[STOPPED] : Phenazopyridine hydrochloride 100 MG Oral Tablet for Cystitis
+  2018-08-12[STOPPED] : Nitrofurantoin 5 MG/ML Oral Suspension for Cystitis
+  2018-05-17[STOPPED] : Errin 28 Day Pack
+  2016-12-04[STOPPED] : Naproxen sodium 220 MG Oral Tablet
+  2013-08-24[STOPPED] : Acetaminophen 325 MG Oral Tablet
+  2012-05-12[STOPPED] : Mirena 52 MG Intrauterine System
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2019-08-16 - 2020-03-20 : Normal pregnancy
+  2019-01-23 - 2019-02-06 : Acute bronchitis (disorder)
+  2019-01-02 - 2019-01-09 : Viral sinusitis (disorder)
+  2018-07-09 - 2018-08-19 : Cystitis
+  2016-12-04 - 2017-03-04 : Fracture of clavicle
+  2015-03-13 - 2015-04-03 : Antepartum eclampsia
+  2014-08-29 - 2015-04-03 : Normal pregnancy
+  2014-04-04 - 2014-04-18 : Antepartum eclampsia
+  2013-09-20 - 2014-04-18 : Normal pregnancy
+  2013-08-24 - 2013-09-21 : Sprain of wrist
+  2012-08-10 - 2013-02-22 : Normal pregnancy
+  2011-09-30 -            : Anemia (disorder)
+  2011-09-30 -            : Prediabetes
+  2011-09-09 - 2011-09-23 : Fetus with unknown complication
+  2011-09-09 -            : Miscarriage in first trimester
+  2011-09-09 - 2011-09-23 : Normal pregnancy
+  1999-08-13 -            : Drug overdose
+  1997-09-05 -            : Body mass index 30+ - obesity (finding)
+  1995-05-01 -            : Impacted molars
+  1995-01-12 -            : Chronic intractable migraine without aura
+  1994-08-21 -            : Chronic pain
+  1984-07-17 -            : Malignant neoplasm of breast (disorder)
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2019-08-16[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2019-01-23[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  2018-08-12[STOPPED] : Urinary tract infection care
+                         Reason: Cystitis
+                         Activity: Discussion about hygiene
+                         Activity: Urine screening
+  2016-12-04[STOPPED] : Fracture care
+                         Reason: Fracture of clavicle
+                         Activity: Recommendation to rest
+                         Activity: Physical activity target light exercise
+  2014-08-29[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-09-20[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2013-08-24[STOPPED] : Physical therapy procedure
+                         Reason: Sprain of wrist
+                         Activity: Rest, ice, compression and elevation treatment programme
+                         Activity: Stretching exercises
+  2012-08-10[STOPPED] : Routine antenatal care
+                         Reason: Normal pregnancy
+                         Activity: Antenatal education
+                         Activity: Antenatal risk assessment
+                         Activity: Antenatal blood tests
+  2011-09-30[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  2009-01-19[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1999-08-13[CURRENT] : Care plan (record artifact)
+                         Reason: Drug overdose
+                         Activity: Drug addiction counseling
+                         Activity: Drug detoxification
+                         Activity: Drug addiction therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2019-02-08 : Basic Metabolic Panel
+           - Glucose                                  77.2 mg/dL
+           - Urea Nitrogen                            12.7 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   137.7 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 106.4 mmol/L
+           - Carbon Dioxide                           26.4 mmol/L
+  2017-10-06 : Lipid Panel
+           - Total Cholesterol                        182.8 mg/dL
+           - Triglycerides                            148.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.9 mg/dL
+           - High Density Lipoprotein Cholesterol     64.2 mg/dL
+  2017-10-06 : Basic Metabolic Panel
+           - Glucose                                  87.6 mg/dL
+           - Urea Nitrogen                            18.5 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   140.9 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 108.0 mmol/L
+           - Carbon Dioxide                           24.4 mmol/L
+  2014-10-03 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+           - MCV [Entitic volume] by Automated count  86.3 fL
+           - MCH [Entitic mass] by Automated count    29.0 pg
+           - MCHC [Mass/volume] by Automated count    35.2 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+           - Platelets [#/volume] in Blood by Automated count 241.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 398.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2014-10-03 : Lipid Panel
+           - Total Cholesterol                        190.1 mg/dL
+           - Triglycerides                            126.2 mg/dL
+           - Low Density Lipoprotein Cholesterol      101.4 mg/dL
+           - High Density Lipoprotein Cholesterol     63.5 mg/dL
+  2014-10-03 : Basic Metabolic Panel
+           - Glucose                                  87.0 mg/dL
+           - Urea Nitrogen                            9.9 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   139.7 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 101.3 mmol/L
+           - Carbon Dioxide                           24.9 mmol/L
+  2011-09-30 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.6 g/dL
+           - Hematocrit [Volume Fraction] of Blood    33.3 %
+           - WBC Auto (Bld) [#/Vol]                   5.6 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   4.0 10*6/uL
+           - MCV [Entitic volume] by Automated count  89.2 fL
+           - MCH [Entitic mass] by Automated count    32.7 pg
+           - MCHC [Mass/volume] by Automated count    33.7 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 430.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 329.9 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2011-09-30 : Lipid Panel
+           - Total Cholesterol                        177.6 mg/dL
+           - Triglycerides                            145.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      86.9 mg/dL
+           - High Density Lipoprotein Cholesterol     61.7 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2019-02-08 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2019-02-08 : Tobacco smoking status NHIS              Never smoker 
+  2019-02-08 : Carbon Dioxide                           26.4 mmol/L
+  2019-02-08 : Chloride                                 106.4 mmol/L
+  2019-02-08 : Potassium                                5.1 mmol/L
+  2019-02-08 : Sodium                                   137.7 mmol/L
+  2019-02-08 : Calcium                                  8.6 mg/dL
+  2019-02-08 : Creatinine                               0.9 mg/dL
+  2019-02-08 : Urea Nitrogen                            12.7 mg/dL
+  2019-02-08 : Glucose                                  77.2 mg/dL
+  2019-02-08 : Respiratory rate                         15.0 /min
+  2019-02-08 : Heart rate                               68.0 /min
+  2019-02-08 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  109.0 mm[Hg]
+  2019-02-08 : Body Mass Index                          32.2 kg/m2
+  2019-02-08 : Body Weight                              74.4 kg
+  2019-02-08 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2019-02-08 : Body Height                              152.0 cm
+  2017-10-06 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2017-10-06 : Tobacco smoking status NHIS              Never smoker 
+  2017-10-06 : High Density Lipoprotein Cholesterol     64.2 mg/dL
+  2017-10-06 : Low Density Lipoprotein Cholesterol      88.9 mg/dL
+  2017-10-06 : Triglycerides                            148.6 mg/dL
+  2017-10-06 : Total Cholesterol                        182.8 mg/dL
+  2017-10-06 : Carbon Dioxide                           24.4 mmol/L
+  2017-10-06 : Chloride                                 108.0 mmol/L
+  2017-10-06 : Potassium                                4.6 mmol/L
+  2017-10-06 : Sodium                                   140.9 mmol/L
+  2017-10-06 : Calcium                                  9.1 mg/dL
+  2017-10-06 : Creatinine                               0.9 mg/dL
+  2017-10-06 : Urea Nitrogen                            18.5 mg/dL
+  2017-10-06 : Glucose                                  87.6 mg/dL
+  2017-10-06 : Respiratory rate                         14.0 /min
+  2017-10-06 : Heart rate                               63.0 /min
+  2017-10-06 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2017-10-06 : Body Mass Index                          32.2 kg/m2
+  2017-10-06 : Body Weight                              74.4 kg
+  2017-10-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2017-10-06 : Body Height                              152.0 cm
+  2014-10-03 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2014-10-03 : Tobacco smoking status NHIS              Never smoker 
+  2014-10-03 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.7 fL
+  2014-10-03 : Platelet distribution width [Entitic volume] in Blood by Automated count 398.9 fL
+  2014-10-03 : Platelets [#/volume] in Blood by Automated count 241.6 10*3/uL
+  2014-10-03 : Erythrocyte distribution width [Entitic volume] by Automated count 42.5 fL
+  2014-10-03 : MCHC [Mass/volume] by Automated count    35.2 g/dL
+  2014-10-03 : MCH [Entitic mass] by Automated count    29.0 pg
+  2014-10-03 : MCV [Entitic volume] by Automated count  86.3 fL
+  2014-10-03 : Hematocrit [Volume Fraction] of Blood by Automated count 39.8 %
+  2014-10-03 : Hemoglobin [Mass/volume] in Blood        13.5 g/dL
+  2014-10-03 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  2014-10-03 : Leukocytes [#/volume] in Blood by Automated count 9.8 10*3/uL
+  2014-10-03 : High Density Lipoprotein Cholesterol     63.5 mg/dL
+  2014-10-03 : Low Density Lipoprotein Cholesterol      101.4 mg/dL
+  2014-10-03 : Triglycerides                            126.2 mg/dL
+  2014-10-03 : Total Cholesterol                        190.1 mg/dL
+  2014-10-03 : Carbon Dioxide                           24.9 mmol/L
+  2014-10-03 : Chloride                                 101.3 mmol/L
+  2014-10-03 : Potassium                                5.0 mmol/L
+  2014-10-03 : Sodium                                   139.7 mmol/L
+  2014-10-03 : Calcium                                  9.9 mg/dL
+  2014-10-03 : Creatinine                               0.9 mg/dL
+  2014-10-03 : Urea Nitrogen                            9.9 mg/dL
+  2014-10-03 : Glucose                                  87.0 mg/dL
+  2014-10-03 : Respiratory rate                         12.0 /min
+  2014-10-03 : Heart rate                               79.0 /min
+  2014-10-03 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  2014-10-03 : Body Mass Index                          32.2 kg/m2
+  2014-10-03 : Body Weight                              74.4 kg
+  2014-10-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-10-03 : Body Height                              152.0 cm
+  2011-09-30 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2011-09-30 : Platelet distribution width [Entitic volume] in Blood by Automated count 329.9 fL
+  2011-09-30 : Platelets [#/volume] in Blood by Automated count 430.8 10*3/uL
+  2011-09-30 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 45.1 fL
+  2011-09-30 : MCHC [Mass/volume] by Automated count    33.7 g/dL
+  2011-09-30 : MCH [Entitic mass] by Automated count    32.7 pg
+  2011-09-30 : MCV [Entitic volume] by Automated count  89.2 fL
+  2011-09-30 : RBC Auto (Bld) [#/Vol]                   4.0 10*6/uL
+  2011-09-30 : WBC Auto (Bld) [#/Vol]                   5.6 10*3/uL
+  2011-09-30 : Hematocrit [Volume Fraction] of Blood    33.3 %
+  2011-09-30 : Hemoglobin [Mass/volume] in Blood        11.6 g/dL
+  2011-09-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2011-09-30 : Tobacco smoking status NHIS              Never smoker 
+  2011-09-30 : High Density Lipoprotein Cholesterol     61.7 mg/dL
+  2011-09-30 : Low Density Lipoprotein Cholesterol      86.9 mg/dL
+  2011-09-30 : Triglycerides                            145.4 mg/dL
+  2011-09-30 : Total Cholesterol                        177.6 mg/dL
+  2011-09-30 : Respiratory rate                         12.0 /min
+  2011-09-30 : Heart rate                               66.0 /min
+  2011-09-30 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  114.0 mm[Hg]
+  2011-09-30 : Body Mass Index                          30.9 kg/m2
+  2011-09-30 : Body Weight                              71.3 kg
+  2011-09-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2011-09-30 : Body Height                              152.0 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2020-05-01 : Depression screening
+  2020-05-01 : Physical examination following birth
+  2020-03-20 : Childbirth for Normal pregnancy
+  2020-03-13 : Auscultation of the fetal heart for Normal pregnancy
+  2020-03-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-24 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2020-02-24 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2020-02-28 : Auscultation of the fetal heart for Normal pregnancy
+  2020-02-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-02-28 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2020-01-31 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-31 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-01-03 : Auscultation of the fetal heart for Normal pregnancy
+  2020-01-03 : Evaluation of uterine fundal height for Normal pregnancy
+  2020-01-03 : Urine screening for glucose for Normal pregnancy
+  2020-01-03 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2020-01-03 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-12-06 : Auscultation of the fetal heart for Normal pregnancy
+  2019-12-06 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-11-08 : Auscultation of the fetal heart for Normal pregnancy
+  2019-11-08 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-11 : Auscultation of the fetal heart for Normal pregnancy
+  2019-10-11 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-10-11 : Alpha-fetoprotein test for Normal pregnancy
+  2019-10-11 : Fetal anatomy study for Normal pregnancy
+  2019-09-13 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2019-09-13 : Auscultation of the fetal heart for Normal pregnancy
+  2019-09-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-08-16 : Physical examination of mother for Normal pregnancy
+  2019-08-16 : Urine protein test for Normal pregnancy
+  2019-08-16 : Skin test for tuberculosis for Normal pregnancy
+  2019-08-16 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2019-08-16 : Rubella screening for Normal pregnancy
+  2019-08-16 : Hepatitis C antibody test for Normal pregnancy
+  2019-08-16 : Urine screening test for diabetes for Normal pregnancy
+  2019-08-16 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2019-08-16 : Urine culture for Normal pregnancy
+  2019-08-16 : Syphilis infection test for Normal pregnancy
+  2019-08-16 : Gonorrhea infection test for Normal pregnancy
+  2019-08-16 : Chlamydia antigen test for Normal pregnancy
+  2019-08-16 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2019-08-16 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2019-08-16 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2019-08-16 : Blood typing, RH typing for Normal pregnancy
+  2019-08-16 : Auscultation of the fetal heart for Normal pregnancy
+  2019-08-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2019-08-16 : Ultrasound scan for fetal viability for Normal pregnancy
+  2019-08-16 : Standard pregnancy test for Normal pregnancy
+  2019-06-21 : Removal of intrauterine device
+  2019-03-31 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2019-03-31 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2019-01-23 : Measurement of respiratory function (procedure) for Acute bronchitis (disorder)
+  2018-04-05 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2018-04-05 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2017-10-06 : Medication Reconciliation (procedure)
+  2017-04-10 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2017-04-10 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2016-12-04 : Admission to orthopedic department for Fracture of clavicle
+  2016-12-04 : Clavicle X-ray
+  2016-05-21 : Insertion of intrauterine contraceptive device
+  2016-04-15 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2016-04-15 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2015-05-21 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2015-05-21 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2015-05-15 : Depression screening
+  2015-05-15 : Physical examination following birth
+  2015-04-03 : Childbirth for Normal pregnancy
+  2015-04-03 : Epidural anesthesia for Normal pregnancy
+  2015-03-27 : Auscultation of the fetal heart for Normal pregnancy
+  2015-03-27 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-03-13 : Auscultation of the fetal heart for Normal pregnancy
+  2015-03-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-03-13 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2015-02-13 : Auscultation of the fetal heart for Normal pregnancy
+  2015-02-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-01-16 : Auscultation of the fetal heart for Normal pregnancy
+  2015-01-16 : Evaluation of uterine fundal height for Normal pregnancy
+  2015-01-16 : Urine screening for glucose for Normal pregnancy
+  2015-01-16 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2015-01-16 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-12-19 : Auscultation of the fetal heart for Normal pregnancy
+  2014-12-19 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-11-21 : Auscultation of the fetal heart for Normal pregnancy
+  2014-11-21 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-24 : Auscultation of the fetal heart for Normal pregnancy
+  2014-10-24 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-10-24 : Alpha-fetoprotein test for Normal pregnancy
+  2014-10-24 : Fetal anatomy study for Normal pregnancy
+  2014-10-03 : Medication Reconciliation (procedure)
+  2014-09-26 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2014-09-26 : Auscultation of the fetal heart for Normal pregnancy
+  2014-09-26 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-08-29 : Physical examination of mother for Normal pregnancy
+  2014-08-29 : Urine protein test for Normal pregnancy
+  2014-08-29 : Skin test for tuberculosis for Normal pregnancy
+  2014-08-29 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2014-08-29 : Rubella screening for Normal pregnancy
+  2014-08-29 : Hepatitis C antibody test for Normal pregnancy
+  2014-08-29 : Urine screening test for diabetes for Normal pregnancy
+  2014-08-29 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2014-08-29 : Urine culture for Normal pregnancy
+  2014-08-29 : Syphilis infection test for Normal pregnancy
+  2014-08-29 : Gonorrhea infection test for Normal pregnancy
+  2014-08-29 : Chlamydia antigen test for Normal pregnancy
+  2014-08-29 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2014-08-29 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2014-08-29 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-08-29 : Blood typing, RH typing for Normal pregnancy
+  2014-08-29 : Auscultation of the fetal heart for Normal pregnancy
+  2014-08-29 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-08-29 : Ultrasound scan for fetal viability for Normal pregnancy
+  2014-08-29 : Standard pregnancy test for Normal pregnancy
+  2014-05-26 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2014-05-26 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2014-05-30 : Depression screening
+  2014-05-30 : Physical examination following birth
+  2014-04-18 : Childbirth for Normal pregnancy
+  2014-04-04 : Auscultation of the fetal heart for Normal pregnancy
+  2014-04-04 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-04-04 : Streptococcus pneumoniae group B antigen test for Normal pregnancy
+  2014-03-07 : Auscultation of the fetal heart for Normal pregnancy
+  2014-03-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-07 : Auscultation of the fetal heart for Normal pregnancy
+  2014-02-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2014-02-07 : Urine screening for glucose for Normal pregnancy
+  2014-02-07 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2014-02-07 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2014-01-10 : Auscultation of the fetal heart for Normal pregnancy
+  2014-01-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-12-13 : Auscultation of the fetal heart for Normal pregnancy
+  2013-12-13 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-15 : Auscultation of the fetal heart for Normal pregnancy
+  2013-11-15 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-11-15 : Alpha-fetoprotein test for Normal pregnancy
+  2013-11-15 : Fetal anatomy study for Normal pregnancy
+  2013-10-18 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2013-10-18 : Auscultation of the fetal heart for Normal pregnancy
+  2013-10-18 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-09-20 : Physical examination of mother for Normal pregnancy
+  2013-09-20 : Urine protein test for Normal pregnancy
+  2013-09-20 : Skin test for tuberculosis for Normal pregnancy
+  2013-09-20 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2013-09-20 : Rubella screening for Normal pregnancy
+  2013-09-20 : Hepatitis C antibody test for Normal pregnancy
+  2013-09-20 : Urine screening test for diabetes for Normal pregnancy
+  2013-09-20 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2013-09-20 : Urine culture for Normal pregnancy
+  2013-09-20 : Syphilis infection test for Normal pregnancy
+  2013-09-20 : Gonorrhea infection test for Normal pregnancy
+  2013-09-20 : Chlamydia antigen test for Normal pregnancy
+  2013-09-20 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2013-09-20 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2013-09-20 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2013-09-20 : Blood typing, RH typing for Normal pregnancy
+  2013-09-20 : Auscultation of the fetal heart for Normal pregnancy
+  2013-09-20 : Evaluation of uterine fundal height for Normal pregnancy
+  2013-09-20 : Ultrasound scan for fetal viability for Normal pregnancy
+  2013-09-20 : Standard pregnancy test for Normal pregnancy
+  2013-05-31 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2013-05-31 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2013-04-05 : Depression screening
+  2013-04-05 : Physical examination following birth
+  2013-02-22 : Premature birth of newborn for Normal pregnancy
+  2013-01-25 : Auscultation of the fetal heart for Normal pregnancy
+  2013-01-25 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-28 : Auscultation of the fetal heart for Normal pregnancy
+  2012-12-28 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-12-28 : Urine screening for glucose for Normal pregnancy
+  2012-12-28 : Vaccination for diphtheria, pertussis, and tetanus for Normal pregnancy
+  2012-12-28 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-11-30 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-30 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-11-02 : Auscultation of the fetal heart for Normal pregnancy
+  2012-11-02 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-05 : Auscultation of the fetal heart for Normal pregnancy
+  2012-10-05 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-10-05 : Alpha-fetoprotein test for Normal pregnancy
+  2012-10-05 : Fetal anatomy study for Normal pregnancy
+  2012-09-07 : Screening for chromosomal aneuploidy in prenatal amniotic fluid for Normal pregnancy
+  2012-09-07 : Auscultation of the fetal heart for Normal pregnancy
+  2012-09-07 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-08-10 : Physical examination of mother for Normal pregnancy
+  2012-08-10 : Urine protein test for Normal pregnancy
+  2012-08-10 : Skin test for tuberculosis for Normal pregnancy
+  2012-08-10 : Measurement of Varicella-zoster virus antibody for Normal pregnancy
+  2012-08-10 : Rubella screening for Normal pregnancy
+  2012-08-10 : Hepatitis C antibody test for Normal pregnancy
+  2012-08-10 : Urine screening test for diabetes for Normal pregnancy
+  2012-08-10 : Cytopathology procedure, preparation of smear, genital source for Normal pregnancy
+  2012-08-10 : Urine culture for Normal pregnancy
+  2012-08-10 : Syphilis infection test for Normal pregnancy
+  2012-08-10 : Gonorrhea infection test for Normal pregnancy
+  2012-08-10 : Chlamydia antigen test for Normal pregnancy
+  2012-08-10 : Human immunodeficiency virus antigen test for Normal pregnancy
+  2012-08-10 : Hepatitis B Surface Antigen Measurement for Normal pregnancy
+  2012-08-10 : Hemoglobin / Hematocrit / Platelet count for Normal pregnancy
+  2012-08-10 : Blood typing, RH typing for Normal pregnancy
+  2012-08-10 : Auscultation of the fetal heart for Normal pregnancy
+  2012-08-10 : Evaluation of uterine fundal height for Normal pregnancy
+  2012-08-10 : Ultrasound scan for fetal viability for Normal pregnancy
+  2012-08-10 : Standard pregnancy test for Normal pregnancy
+  2012-07-05 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2012-07-05 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2012-06-15 : Removal of intrauterine device
+  2012-05-15 : Insertion of intrauterine contraceptive device
+  2011-09-30 : Brief general examination (procedure)
+  2011-09-30 : Medication Reconciliation (procedure)
+  2011-09-30 : Review of systems (procedure)
+  2011-09-30 : Peripheral blood smear interpretation
+  2011-09-30 : Medication Reconciliation (procedure)
+  2011-09-23 : Depression screening for Normal pregnancy
+  2011-09-23 : Physical examination for Normal pregnancy
+  2011-09-09 : Ultrasound scan for fetal viability for Normal pregnancy
+  2011-09-09 : Standard pregnancy test for Normal pregnancy
+  2011-07-11 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2011-07-11 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+  2010-08-15 : Bone density scan (procedure) for Malignant neoplasm of breast (disorder)
+  2010-08-15 : Mammography (procedure) for Malignant neoplasm of breast (disorder)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2019-02-08 : Influenza, seasonal, injectable, preservative free
+  2019-02-01 : Influenza, seasonal, injectable, preservative free
+  2017-10-06 : Influenza, seasonal, injectable, preservative free
+  2014-10-03 : Influenza, seasonal, injectable, preservative free
+  2011-09-30 : Td (adult) preservative free
+  2011-09-30 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-05-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-05-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2020-03-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-03-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-02-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2020-02-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2020-02-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2020-02-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-01-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2020-01-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-12-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-12-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-11-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-11-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-10-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-10-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-09-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2019-09-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-08-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2019-06-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-03-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2019-03-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2019-03-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2019-02-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-02-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2019-01-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+2019-01-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Viral sinusitis (disorder)
+2018-07-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Cystitis
+2018-05-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-05-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2018-04-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2018-04-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2018-04-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2017-12-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2017-10-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-07-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2017-05-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2017-04-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2017-04-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2017-04-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2017-03-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Fracture of clavicle
+2016-12-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-07-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-05-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-05-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2016-04-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2016-04-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2016-04-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2015-09-06 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-08-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-07-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-06-08 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-05-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2015-05-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2015-05-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2015-05-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-04-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-03-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2015-03-27 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-03-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-02-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-02-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2015-01-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2015-01-16 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-12-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-12-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-11-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-11-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-10-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-10-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-10-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-09-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-08-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-05-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2014-05-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2014-05-26 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2014-05-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-04-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-04-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-03-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-03-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-02-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2014-02-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2014-01-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-12-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-11-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-10-18 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-10-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-09-20 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-09-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-08-24 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-05-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2013-05-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2013-05-31 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2013-04-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2013-02-22 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2013-01-25 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-12-28 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-11-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-11-02 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-10-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-09-07 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-08-10 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2012-07-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2012-07-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2012-07-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2012-06-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-05-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-05-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2012-03-29 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2012-01-03 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-12-04 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-09-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Anemia (disorder)
+2011-09-30 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+2011-09-23 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Fetus with unknown complication
+2011-09-09 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Normal pregnancy
+2011-07-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2011-07-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2011-07-11 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2010-11-14 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+2010-08-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2010-08-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2010-08-15 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Malignant neoplasm of breast (disorder)
+2009-01-19 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Acute bronchitis (disorder)
+1999-08-13 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Drug overdose
+1997-09-05 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+1995-05-01 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Impacted molars
+1995-01-12 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic intractable migraine without aura
+1994-08-21 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden : Encounter for Chronic pain
+1984-07-17 (Dr. Josefin Hammer) : Encounter at Universitaetsklinikum Dresden
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  2016-12-04 : Digital Radiography, Clavicle
+--------------------------------------------------------------------------------

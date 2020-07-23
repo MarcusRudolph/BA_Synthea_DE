@@ -1,0 +1,266 @@
+Andrej Muth
+===========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 24
+Birth Date:          1995-12-28
+Marital Status:      S
+--------------------------------------------------------------------------------
+ALLERGIES:
+  1997-01-04 -            : Shellfish allergy
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-02-07[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+  2012-05-02[STOPPED] : predniSONE 5 MG Oral Tablet
+  1997-01-04[CURRENT] : NDA020800 0.3 ML Epinephrine 1 MG/ML Auto-Injector
+  1997-01-04[CURRENT] : Fexofenadine hydrochloride 30 MG Oral Tablet
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-02-07 - 2018-02-18 : Streptococcal sore throat (disorder)
+  2017-03-03 - 2017-03-11 : Acute viral pharyngitis (disorder)
+  2012-05-02 - 2012-05-02 : Acute allergic reaction
+--------------------------------------------------------------------------------
+CARE PLANS:
+  2009-01-01[STOPPED] : Allergic disorder monitoring
+                         Activity: Hyposensitization to allergens (procedure)
+  1996-12-22[CURRENT] : Self-care interventions (procedure)
+                         Activity: Food allergy diet
+                         Activity: Allergy education
+                         Activity: Allergy education
+--------------------------------------------------------------------------------
+REPORTS:
+  2018-03-01 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+           - MCV [Entitic volume] by Automated count  87.2 fL
+           - MCH [Entitic mass] by Automated count    29.7 pg
+           - MCHC [Mass/volume] by Automated count    33.3 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+           - Platelets [#/volume] in Blood by Automated count 224.5 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 423.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2012-02-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+           - MCV [Entitic volume] by Automated count  90.0 fL
+           - MCH [Entitic mass] by Automated count    32.2 pg
+           - MCHC [Mass/volume] by Automated count    34.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+           - Platelets [#/volume] in Blood by Automated count 400.8 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 403.0 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2018-03-01 : Tobacco smoking status NHIS              Never smoker 
+  2018-03-01 : Platelet mean volume [Entitic volume] in Blood by Automated count 9.8 fL
+  2018-03-01 : Platelet distribution width [Entitic volume] in Blood by Automated count 423.5 fL
+  2018-03-01 : Platelets [#/volume] in Blood by Automated count 224.5 10*3/uL
+  2018-03-01 : Erythrocyte distribution width [Entitic volume] by Automated count 42.4 fL
+  2018-03-01 : MCHC [Mass/volume] by Automated count    33.3 g/dL
+  2018-03-01 : MCH [Entitic mass] by Automated count    29.7 pg
+  2018-03-01 : MCV [Entitic volume] by Automated count  87.2 fL
+  2018-03-01 : Hematocrit [Volume Fraction] of Blood by Automated count 47.3 %
+  2018-03-01 : Hemoglobin [Mass/volume] in Blood        15.1 g/dL
+  2018-03-01 : Erythrocytes [#/volume] in Blood by Automated count 4.6 10*6/uL
+  2018-03-01 : Leukocytes [#/volume] in Blood by Automated count 9.4 10*3/uL
+  2018-03-01 : Respiratory rate                         16.0 /min
+  2018-03-01 : Heart rate                               86.0 /min
+  2018-03-01 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2018-03-01 : Body Mass Index                          25.6 kg/m2
+  2018-03-01 : Body Weight                              83.4 kg
+  2018-03-01 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-03-01 : Body Height                              180.6 cm
+  2018-02-07 : Body temperature                         37.6 Cel
+  2017-03-03 : Body temperature                         37.5 Cel
+  2015-02-26 : Tobacco smoking status NHIS              Never smoker 
+  2015-02-26 : Respiratory rate                         15.0 /min
+  2015-02-26 : Heart rate                               85.0 /min
+  2015-02-26 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2015-02-26 : Body mass index (BMI) [Percentile] Per age and gender 76.3 %
+  2015-02-26 : Body Mass Index                          25.0 kg/m2
+  2015-02-26 : Body Weight                              81.4 kg
+  2015-02-26 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2015-02-26 : Body Height                              180.4 cm
+  2014-02-20 : Tobacco smoking status NHIS              Never smoker 
+  2014-02-20 : Respiratory rate                         16.0 /min
+  2014-02-20 : Heart rate                               70.0 /min
+  2014-02-20 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  126.0 mm[Hg]
+  2014-02-20 : Body mass index (BMI) [Percentile] Per age and gender 85.2 %
+  2014-02-20 : Body Mass Index                          25.8 kg/m2
+  2014-02-20 : Body Weight                              83.4 kg
+  2014-02-20 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2014-02-20 : Body Height                              180.0 cm
+  2013-02-14 : Tobacco smoking status NHIS              Never smoker 
+  2013-02-14 : Respiratory rate                         15.0 /min
+  2013-02-14 : Heart rate                               66.0 /min
+  2013-02-14 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  136.0 mm[Hg]
+  2013-02-14 : Body mass index (BMI) [Percentile] Per age and gender 85.4 %
+  2013-02-14 : Body Mass Index                          25.1 kg/m2
+  2013-02-14 : Body Weight                              80.6 kg
+  2013-02-14 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-02-14 : Body Height                              179.2 cm
+  2012-07-05 : Latex IgE Ab in Serum                    0.0 kU/L
+  2012-07-05 : Honey bee IgE Ab in Serum                0.0 kU/L
+  2012-07-05 : Cladosporium herbarum IgE Ab in Serum    0.3 kU/L
+  2012-07-05 : American house dust mite IgE Ab in Serum 0.0 kU/L
+  2012-07-05 : Cat dander IgE Ab in Serum               0.2 kU/L
+  2012-07-05 : Common Ragweed IgE Ab in Serum           0.3 kU/L
+  2012-07-05 : White oak IgE Ab in Serum                0.1 kU/L
+  2012-07-05 : Cow milk IgE Ab in Serum                 0.0 kU/L
+  2012-07-05 : Soybean IgE Ab in Serum                  0.2 kU/L
+  2012-07-05 : Egg white IgE Ab in Serum                0.2 kU/L
+  2012-07-05 : Wheat IgE Ab in Serum                    0.2 kU/L
+  2012-07-05 : Shrimp IgE Ab in Serum                   42.1 kU/L
+  2012-07-05 : Codfish IgE Ab in Serum                  0.2 kU/L
+  2012-07-05 : Walnut IgE Ab in Serum                   0.3 kU/L
+  2012-07-05 : Peanut IgE Ab in Serum                   0.3 kU/L
+  2012-02-09 : Tobacco smoking status NHIS              Never smoker 
+  2012-02-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.0 fL
+  2012-02-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 403.0 fL
+  2012-02-09 : Platelets [#/volume] in Blood by Automated count 400.8 10*3/uL
+  2012-02-09 : Erythrocyte distribution width [Entitic volume] by Automated count 44.5 fL
+  2012-02-09 : MCHC [Mass/volume] by Automated count    34.8 g/dL
+  2012-02-09 : MCH [Entitic mass] by Automated count    32.2 pg
+  2012-02-09 : MCV [Entitic volume] by Automated count  90.0 fL
+  2012-02-09 : Hematocrit [Volume Fraction] of Blood by Automated count 49.2 %
+  2012-02-09 : Hemoglobin [Mass/volume] in Blood        16.4 g/dL
+  2012-02-09 : Erythrocytes [#/volume] in Blood by Automated count 4.2 10*6/uL
+  2012-02-09 : Leukocytes [#/volume] in Blood by Automated count 6.7 10*3/uL
+  2012-02-09 : Respiratory rate                         16.0 /min
+  2012-02-09 : Heart rate                               95.0 /min
+  2012-02-09 : Blood Pressure
+           - Diastolic Blood Pressure                 73.0 mm[Hg]
+           - Systolic Blood Pressure                  107.0 mm[Hg]
+  2012-02-09 : Body mass index (BMI) [Percentile] Per age and gender 91.4 %
+  2012-02-09 : Body Mass Index                          25.9 kg/m2
+  2012-02-09 : Body Weight                              81.8 kg
+  2012-02-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2012-02-09 : Body Height                              177.7 cm
+  2011-02-03 : Tobacco smoking status NHIS              Never smoker 
+  2011-02-03 : Respiratory rate                         13.0 /min
+  2011-02-03 : Heart rate                               76.0 /min
+  2011-02-03 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  125.0 mm[Hg]
+  2011-02-03 : Body mass index (BMI) [Percentile] Per age and gender 94.0 %
+  2011-02-03 : Body Mass Index                          26.3 kg/m2
+  2011-02-03 : Body Weight                              80.1 kg
+  2011-02-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2011-02-03 : Body Height                              174.5 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2018-03-01 : Medication Reconciliation (procedure)
+  2018-02-07 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2012-07-05 : Allergy screening test
+  2012-06-14 : Subcutaneous immunotherapy
+  2012-05-24 : Subcutaneous immunotherapy
+  2012-05-02 : Injection of adrenaline
+  2012-05-03 : Subcutaneous immunotherapy
+  2012-04-12 : Subcutaneous immunotherapy
+  2012-03-22 : Subcutaneous immunotherapy
+  2012-03-01 : Subcutaneous immunotherapy
+  2012-02-09 : Subcutaneous immunotherapy
+  2012-01-19 : Subcutaneous immunotherapy
+  2011-12-29 : Subcutaneous immunotherapy
+  2011-12-08 : Subcutaneous immunotherapy
+  2011-11-17 : Subcutaneous immunotherapy
+  2011-10-27 : Subcutaneous immunotherapy
+  2011-10-06 : Subcutaneous immunotherapy
+  2011-09-15 : Subcutaneous immunotherapy
+  2011-08-25 : Subcutaneous immunotherapy
+  2011-08-04 : Subcutaneous immunotherapy
+  2011-07-14 : Subcutaneous immunotherapy
+  2011-06-23 : Subcutaneous immunotherapy
+  2011-06-02 : Subcutaneous immunotherapy
+  2011-05-12 : Subcutaneous immunotherapy
+  2011-04-21 : Subcutaneous immunotherapy
+  2011-03-31 : Subcutaneous immunotherapy
+  2011-03-10 : Subcutaneous immunotherapy
+  2011-02-17 : Subcutaneous immunotherapy
+  2011-02-03 : Medication Reconciliation (procedure)
+  2011-01-27 : Subcutaneous immunotherapy
+  2011-01-06 : Subcutaneous immunotherapy
+  2010-12-16 : Subcutaneous immunotherapy
+  2010-11-25 : Subcutaneous immunotherapy
+  2010-11-04 : Subcutaneous immunotherapy
+  2010-10-14 : Subcutaneous immunotherapy
+  2010-09-23 : Subcutaneous immunotherapy
+  2010-09-02 : Subcutaneous immunotherapy
+  2010-08-12 : Subcutaneous immunotherapy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2018-03-01 : meningococcal MCV4P
+  2018-03-01 : Hep B, adult
+  2018-03-01 : Td (adult) preservative free
+  2018-03-01 : Influenza, seasonal, injectable, preservative free
+  2015-02-26 : Influenza, seasonal, injectable, preservative free
+  2014-02-20 : Influenza, seasonal, injectable, preservative free
+  2013-02-14 : Influenza, seasonal, injectable, preservative free
+  2012-02-09 : meningococcal MCV4P
+  2012-02-09 : Influenza, seasonal, injectable, preservative free
+  2011-02-03 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2018-03-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-02-07 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Streptococcal sore throat (disorder)
+2017-03-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2015-02-26 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-02-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-02-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-07-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-06-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-05-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-05-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-05-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-05-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-04-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-03-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-03-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-02-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-02-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-01-19 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-12-29 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-12-08 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-11-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-10-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-10-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-09-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-08-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-08-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-07-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-06-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-06-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-05-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-04-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-03-31 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-03-10 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-02-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-02-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-01-27 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-01-06 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-12-16 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-11-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-11-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-10-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-09-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-09-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-08-12 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2009-01-01 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1997-01-04 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1996-12-22 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

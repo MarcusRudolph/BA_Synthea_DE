@@ -1,0 +1,442 @@
+Axel Kober
+==========
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 78
+Birth Date:          1941-08-06
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  2018-02-20[STOPPED] : Amoxicillin 250 MG / Clavulanate 125 MG Oral Tablet for Viral sinusitis (disorder)
+  2012-12-24[STOPPED] : Penicillin V Potassium 500 MG Oral Tablet for Streptococcal sore throat (disorder)
+--------------------------------------------------------------------------------
+CONDITIONS:
+  2018-02-20 - 2018-02-27 : Viral sinusitis (disorder)
+  2013-01-17 - 2013-02-07 : Viral sinusitis (disorder)
+  2012-12-24 - 2013-01-05 : Streptococcal sore throat (disorder)
+  2012-08-14 - 2012-08-23 : Acute viral pharyngitis (disorder)
+  2011-08-02 - 2012-09-25 : Polyp of colon
+  2003-12-21 -            : Impacted molars
+  1960-10-05 -            : Anemia (disorder)
+  1959-09-30 -            : Prediabetes
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1959-09-30[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+--------------------------------------------------------------------------------
+REPORTS:
+  2020-01-15 : Basic Metabolic Panel
+           - Glucose                                  75.3 mg/dL
+           - Urea Nitrogen                            17.7 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  9.2 mg/dL
+           - Sodium                                   138.0 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 102.0 mmol/L
+           - Carbon Dioxide                           22.0 mmol/L
+  2019-01-09 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 39.1 %
+           - MCV [Entitic volume] by Automated count  83.9 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    34.1 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+           - Platelets [#/volume] in Blood by Automated count 189.1 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 381.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2019-01-09 : Lipid Panel
+           - Total Cholesterol                        189.8 mg/dL
+           - Triglycerides                            120.8 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.8 mg/dL
+           - High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2019-01-09 : Basic Metabolic Panel
+           - Glucose                                  81.4 mg/dL
+           - Urea Nitrogen                            10.9 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  8.8 mg/dL
+           - Sodium                                   137.5 mmol/L
+           - Potassium                                3.9 mmol/L
+           - Chloride                                 105.4 mmol/L
+           - Carbon Dioxide                           23.9 mmol/L
+  2018-01-03 : Basic Metabolic Panel
+           - Glucose                                  67.0 mg/dL
+           - Urea Nitrogen                            12.2 mg/dL
+           - Creatinine                               0.9 mg/dL
+           - Calcium                                  8.9 mg/dL
+           - Sodium                                   140.2 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 106.4 mmol/L
+           - Carbon Dioxide                           28.9 mmol/L
+  2016-12-28 : Basic Metabolic Panel
+           - Glucose                                  86.2 mg/dL
+           - Urea Nitrogen                            12.8 mg/dL
+           - Creatinine                               1.2 mg/dL
+           - Calcium                                  9.9 mg/dL
+           - Sodium                                   141.4 mmol/L
+           - Potassium                                5.0 mmol/L
+           - Chloride                                 110.7 mmol/L
+           - Carbon Dioxide                           20.6 mmol/L
+  2015-12-23 : Lipid Panel
+           - Total Cholesterol                        185.8 mg/dL
+           - Triglycerides                            144.6 mg/dL
+           - Low Density Lipoprotein Cholesterol      88.0 mg/dL
+           - High Density Lipoprotein Cholesterol     69.0 mg/dL
+  2015-12-23 : Basic Metabolic Panel
+           - Glucose                                  66.7 mg/dL
+           - Urea Nitrogen                            7.5 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   138.8 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 109.0 mmol/L
+           - Carbon Dioxide                           25.8 mmol/L
+  2014-12-17 : Basic Metabolic Panel
+           - Glucose                                  78.8 mg/dL
+           - Urea Nitrogen                            17.1 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   143.8 mmol/L
+           - Potassium                                4.3 mmol/L
+           - Chloride                                 109.8 mmol/L
+           - Carbon Dioxide                           27.0 mmol/L
+  2013-12-11 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+           - MCV [Entitic volume] by Automated count  85.7 fL
+           - MCH [Entitic mass] by Automated count    31.9 pg
+           - MCHC [Mass/volume] by Automated count    33.8 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+           - Platelets [#/volume] in Blood by Automated count 153.3 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 482.8 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2013-12-11 : Basic Metabolic Panel
+           - Glucose                                  79.0 mg/dL
+           - Urea Nitrogen                            12.1 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  8.7 mg/dL
+           - Sodium                                   139.4 mmol/L
+           - Potassium                                4.6 mmol/L
+           - Chloride                                 107.0 mmol/L
+           - Carbon Dioxide                           27.5 mmol/L
+  2012-12-05 : Lipid Panel
+           - Total Cholesterol                        198.8 mg/dL
+           - Triglycerides                            133.9 mg/dL
+           - Low Density Lipoprotein Cholesterol      99.8 mg/dL
+           - High Density Lipoprotein Cholesterol     72.2 mg/dL
+  2012-12-05 : Basic Metabolic Panel
+           - Glucose                                  70.4 mg/dL
+           - Urea Nitrogen                            18.3 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.1 mg/dL
+           - Sodium                                   140.9 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 107.6 mmol/L
+           - Carbon Dioxide                           20.5 mmol/L
+  2011-11-30 : Basic Metabolic Panel
+           - Glucose                                  72.7 mg/dL
+           - Urea Nitrogen                            15.8 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  10.1 mg/dL
+           - Sodium                                   143.2 mmol/L
+           - Potassium                                5.1 mmol/L
+           - Chloride                                 102.7 mmol/L
+           - Carbon Dioxide                           26.3 mmol/L
+  2010-11-24 : Basic Metabolic Panel
+           - Glucose                                  71.0 mg/dL
+           - Urea Nitrogen                            10.4 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   137.6 mmol/L
+           - Potassium                                3.8 mmol/L
+           - Chloride                                 101.8 mmol/L
+           - Carbon Dioxide                           26.2 mmol/L
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  2020-01-15 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2020-01-15 : Tobacco smoking status NHIS              Former smoker 
+  2020-01-15 : Carbon Dioxide                           22.0 mmol/L
+  2020-01-15 : Chloride                                 102.0 mmol/L
+  2020-01-15 : Potassium                                4.8 mmol/L
+  2020-01-15 : Sodium                                   138.0 mmol/L
+  2020-01-15 : Calcium                                  9.2 mg/dL
+  2020-01-15 : Creatinine                               0.9 mg/dL
+  2020-01-15 : Urea Nitrogen                            17.7 mg/dL
+  2020-01-15 : Glucose                                  75.3 mg/dL
+  2020-01-15 : Respiratory rate                         14.0 /min
+  2020-01-15 : Heart rate                               92.0 /min
+  2020-01-15 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2020-01-15 : Body Mass Index                          28.0 kg/m2
+  2020-01-15 : Body Weight                              104.7 kg
+  2020-01-15 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2020-01-15 : Body Height                              193.3 cm
+  2019-01-09 : Hemoglobin A1c/Hemoglobin.total in Blood 5.8 %
+  2019-01-09 : Tobacco smoking status NHIS              Former smoker 
+  2019-01-09 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.9 fL
+  2019-01-09 : Platelet distribution width [Entitic volume] in Blood by Automated count 381.8 fL
+  2019-01-09 : Platelets [#/volume] in Blood by Automated count 189.1 10*3/uL
+  2019-01-09 : Erythrocyte distribution width [Entitic volume] by Automated count 45.6 fL
+  2019-01-09 : MCHC [Mass/volume] by Automated count    34.1 g/dL
+  2019-01-09 : MCH [Entitic mass] by Automated count    27.1 pg
+  2019-01-09 : MCV [Entitic volume] by Automated count  83.9 fL
+  2019-01-09 : Hematocrit [Volume Fraction] of Blood by Automated count 39.1 %
+  2019-01-09 : Hemoglobin [Mass/volume] in Blood        12.5 g/dL
+  2019-01-09 : Erythrocytes [#/volume] in Blood by Automated count 5.2 10*6/uL
+  2019-01-09 : Leukocytes [#/volume] in Blood by Automated count 6.2 10*3/uL
+  2019-01-09 : High Density Lipoprotein Cholesterol     65.9 mg/dL
+  2019-01-09 : Low Density Lipoprotein Cholesterol      99.8 mg/dL
+  2019-01-09 : Triglycerides                            120.8 mg/dL
+  2019-01-09 : Total Cholesterol                        189.8 mg/dL
+  2019-01-09 : Carbon Dioxide                           23.9 mmol/L
+  2019-01-09 : Chloride                                 105.4 mmol/L
+  2019-01-09 : Potassium                                3.9 mmol/L
+  2019-01-09 : Sodium                                   137.5 mmol/L
+  2019-01-09 : Calcium                                  8.8 mg/dL
+  2019-01-09 : Creatinine                               1.1 mg/dL
+  2019-01-09 : Urea Nitrogen                            10.9 mg/dL
+  2019-01-09 : Glucose                                  81.4 mg/dL
+  2019-01-09 : Respiratory rate                         15.0 /min
+  2019-01-09 : Heart rate                               61.0 /min
+  2019-01-09 : Blood Pressure
+           - Diastolic Blood Pressure                 71.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2019-01-09 : Body Mass Index                          28.0 kg/m2
+  2019-01-09 : Body Weight                              104.7 kg
+  2019-01-09 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  2019-01-09 : Body Height                              193.3 cm
+  2018-01-03 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2018-01-03 : Tobacco smoking status NHIS              Former smoker 
+  2018-01-03 : Carbon Dioxide                           28.9 mmol/L
+  2018-01-03 : Chloride                                 106.4 mmol/L
+  2018-01-03 : Potassium                                5.2 mmol/L
+  2018-01-03 : Sodium                                   140.2 mmol/L
+  2018-01-03 : Calcium                                  8.9 mg/dL
+  2018-01-03 : Creatinine                               0.9 mg/dL
+  2018-01-03 : Urea Nitrogen                            12.2 mg/dL
+  2018-01-03 : Glucose                                  67.0 mg/dL
+  2018-01-03 : Respiratory rate                         12.0 /min
+  2018-01-03 : Heart rate                               98.0 /min
+  2018-01-03 : Blood Pressure
+           - Diastolic Blood Pressure                 89.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2018-01-03 : Body Mass Index                          28.0 kg/m2
+  2018-01-03 : Body Weight                              104.7 kg
+  2018-01-03 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  2018-01-03 : Body Height                              193.3 cm
+  2016-12-28 : Hemoglobin A1c/Hemoglobin.total in Blood 5.9 %
+  2016-12-28 : Tobacco smoking status NHIS              Former smoker 
+  2016-12-28 : Carbon Dioxide                           20.6 mmol/L
+  2016-12-28 : Chloride                                 110.7 mmol/L
+  2016-12-28 : Potassium                                5.0 mmol/L
+  2016-12-28 : Sodium                                   141.4 mmol/L
+  2016-12-28 : Calcium                                  9.9 mg/dL
+  2016-12-28 : Creatinine                               1.2 mg/dL
+  2016-12-28 : Urea Nitrogen                            12.8 mg/dL
+  2016-12-28 : Glucose                                  86.2 mg/dL
+  2016-12-28 : Respiratory rate                         13.0 /min
+  2016-12-28 : Heart rate                               65.0 /min
+  2016-12-28 : Blood Pressure
+           - Diastolic Blood Pressure                 83.0 mm[Hg]
+           - Systolic Blood Pressure                  115.0 mm[Hg]
+  2016-12-28 : Body Mass Index                          28.0 kg/m2
+  2016-12-28 : Body Weight                              104.7 kg
+  2016-12-28 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2016-12-28 : Body Height                              193.3 cm
+  2015-12-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2015-12-23 : Tobacco smoking status NHIS              Former smoker 
+  2015-12-23 : High Density Lipoprotein Cholesterol     69.0 mg/dL
+  2015-12-23 : Low Density Lipoprotein Cholesterol      88.0 mg/dL
+  2015-12-23 : Triglycerides                            144.6 mg/dL
+  2015-12-23 : Total Cholesterol                        185.8 mg/dL
+  2015-12-23 : Carbon Dioxide                           25.8 mmol/L
+  2015-12-23 : Chloride                                 109.0 mmol/L
+  2015-12-23 : Potassium                                4.6 mmol/L
+  2015-12-23 : Sodium                                   138.8 mmol/L
+  2015-12-23 : Calcium                                  9.0 mg/dL
+  2015-12-23 : Creatinine                               1.0 mg/dL
+  2015-12-23 : Urea Nitrogen                            7.5 mg/dL
+  2015-12-23 : Glucose                                  66.7 mg/dL
+  2015-12-23 : Respiratory rate                         13.0 /min
+  2015-12-23 : Heart rate                               86.0 /min
+  2015-12-23 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  2015-12-23 : Body Mass Index                          28.0 kg/m2
+  2015-12-23 : Body Weight                              104.7 kg
+  2015-12-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2015-12-23 : Body Height                              193.3 cm
+  2014-12-17 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  2014-12-17 : Tobacco smoking status NHIS              Former smoker 
+  2014-12-17 : Carbon Dioxide                           27.0 mmol/L
+  2014-12-17 : Chloride                                 109.8 mmol/L
+  2014-12-17 : Potassium                                4.3 mmol/L
+  2014-12-17 : Sodium                                   143.8 mmol/L
+  2014-12-17 : Calcium                                  9.4 mg/dL
+  2014-12-17 : Creatinine                               1.0 mg/dL
+  2014-12-17 : Urea Nitrogen                            17.1 mg/dL
+  2014-12-17 : Glucose                                  78.8 mg/dL
+  2014-12-17 : Respiratory rate                         16.0 /min
+  2014-12-17 : Heart rate                               91.0 /min
+  2014-12-17 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  2014-12-17 : Body Mass Index                          28.0 kg/m2
+  2014-12-17 : Body Weight                              104.7 kg
+  2014-12-17 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2014-12-17 : Body Height                              193.3 cm
+  2013-12-11 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  2013-12-11 : Tobacco smoking status NHIS              Former smoker 
+  2013-12-11 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.3 fL
+  2013-12-11 : Platelet distribution width [Entitic volume] in Blood by Automated count 482.8 fL
+  2013-12-11 : Platelets [#/volume] in Blood by Automated count 153.3 10*3/uL
+  2013-12-11 : Erythrocyte distribution width [Entitic volume] by Automated count 45.1 fL
+  2013-12-11 : MCHC [Mass/volume] by Automated count    33.8 g/dL
+  2013-12-11 : MCH [Entitic mass] by Automated count    31.9 pg
+  2013-12-11 : MCV [Entitic volume] by Automated count  85.7 fL
+  2013-12-11 : Hematocrit [Volume Fraction] of Blood by Automated count 48.0 %
+  2013-12-11 : Hemoglobin [Mass/volume] in Blood        13.9 g/dL
+  2013-12-11 : Erythrocytes [#/volume] in Blood by Automated count 5.3 10*6/uL
+  2013-12-11 : Leukocytes [#/volume] in Blood by Automated count 5.2 10*3/uL
+  2013-12-11 : Carbon Dioxide                           27.5 mmol/L
+  2013-12-11 : Chloride                                 107.0 mmol/L
+  2013-12-11 : Potassium                                4.6 mmol/L
+  2013-12-11 : Sodium                                   139.4 mmol/L
+  2013-12-11 : Calcium                                  8.7 mg/dL
+  2013-12-11 : Creatinine                               1.0 mg/dL
+  2013-12-11 : Urea Nitrogen                            12.1 mg/dL
+  2013-12-11 : Glucose                                  79.0 mg/dL
+  2013-12-11 : Respiratory rate                         14.0 /min
+  2013-12-11 : Heart rate                               71.0 /min
+  2013-12-11 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  128.0 mm[Hg]
+  2013-12-11 : Body Mass Index                          28.0 kg/m2
+  2013-12-11 : Body Weight                              104.7 kg
+  2013-12-11 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2013-12-11 : Body Height                              193.3 cm
+  2012-12-24 : Body temperature                         37.6 Cel
+  2012-12-05 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2012-12-05 : Tobacco smoking status NHIS              Former smoker 
+  2012-12-05 : High Density Lipoprotein Cholesterol     72.2 mg/dL
+  2012-12-05 : Low Density Lipoprotein Cholesterol      99.8 mg/dL
+  2012-12-05 : Triglycerides                            133.9 mg/dL
+  2012-12-05 : Total Cholesterol                        198.8 mg/dL
+  2012-12-05 : Carbon Dioxide                           20.5 mmol/L
+  2012-12-05 : Chloride                                 107.6 mmol/L
+  2012-12-05 : Potassium                                5.1 mmol/L
+  2012-12-05 : Sodium                                   140.9 mmol/L
+  2012-12-05 : Calcium                                  9.1 mg/dL
+  2012-12-05 : Creatinine                               1.0 mg/dL
+  2012-12-05 : Urea Nitrogen                            18.3 mg/dL
+  2012-12-05 : Glucose                                  70.4 mg/dL
+  2012-12-05 : Respiratory rate                         13.0 /min
+  2012-12-05 : Heart rate                               97.0 /min
+  2012-12-05 : Blood Pressure
+           - Diastolic Blood Pressure                 81.0 mm[Hg]
+           - Systolic Blood Pressure                  116.0 mm[Hg]
+  2012-12-05 : Body Mass Index                          28.0 kg/m2
+  2012-12-05 : Body Weight                              104.7 kg
+  2012-12-05 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  2012-12-05 : Body Height                              193.3 cm
+  2012-08-14 : Body temperature                         37.5 Cel
+  2011-11-30 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  2011-11-30 : Tobacco smoking status NHIS              Former smoker 
+  2011-11-30 : Carbon Dioxide                           26.3 mmol/L
+  2011-11-30 : Chloride                                 102.7 mmol/L
+  2011-11-30 : Potassium                                5.1 mmol/L
+  2011-11-30 : Sodium                                   143.2 mmol/L
+  2011-11-30 : Calcium                                  10.1 mg/dL
+  2011-11-30 : Creatinine                               1.0 mg/dL
+  2011-11-30 : Urea Nitrogen                            15.8 mg/dL
+  2011-11-30 : Glucose                                  72.7 mg/dL
+  2011-11-30 : Respiratory rate                         15.0 /min
+  2011-11-30 : Heart rate                               62.0 /min
+  2011-11-30 : Blood Pressure
+           - Diastolic Blood Pressure                 78.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  2011-11-30 : Body Mass Index                          28.0 kg/m2
+  2011-11-30 : Body Weight                              104.7 kg
+  2011-11-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  2011-11-30 : Body Height                              193.3 cm
+  2011-08-02 : Hemoglobin.gastrointestinal [Presence] in Stool by Immunologic method 22.3 ng/mL
+  2011-08-02 : Polyp size greatest dimension by CAP cancer protocols 5.8 mm
+  2010-11-24 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  2010-11-24 : Tobacco smoking status NHIS              Former smoker 
+  2010-11-24 : Carbon Dioxide                           26.2 mmol/L
+  2010-11-24 : Chloride                                 101.8 mmol/L
+  2010-11-24 : Potassium                                3.8 mmol/L
+  2010-11-24 : Sodium                                   137.6 mmol/L
+  2010-11-24 : Calcium                                  8.6 mg/dL
+  2010-11-24 : Creatinine                               1.0 mg/dL
+  2010-11-24 : Urea Nitrogen                            10.4 mg/dL
+  2010-11-24 : Glucose                                  71.0 mg/dL
+  2010-11-24 : Respiratory rate                         13.0 /min
+  2010-11-24 : Heart rate                               90.0 /min
+  2010-11-24 : Blood Pressure
+           - Diastolic Blood Pressure                 75.0 mm[Hg]
+           - Systolic Blood Pressure                  117.0 mm[Hg]
+  2010-11-24 : Body Mass Index                          28.0 kg/m2
+  2010-11-24 : Body Weight                              104.7 kg
+  2010-11-24 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  2010-11-24 : Body Height                              193.3 cm
+--------------------------------------------------------------------------------
+PROCEDURES:
+  2017-09-24 : Colonoscopy
+  2012-12-24 : Throat culture (procedure) for Streptococcal sore throat (disorder)
+  2012-12-05 : Medication Reconciliation (procedure)
+  2012-09-25 : Colonoscopy
+  2012-08-14 : Throat culture (procedure) for Acute viral pharyngitis (disorder)
+  2011-11-30 : Medication Reconciliation (procedure)
+  2011-08-02 : Rectal polypectomy for Polyp of colon
+  2011-08-02 : Screening for occult blood in feces (procedure) for Polyp of colon
+  2011-08-02 : Colonoscopy
+  2010-11-24 : Medication Reconciliation (procedure)
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  2020-01-15 : Influenza, seasonal, injectable, preservative free
+  2019-01-09 : Influenza, seasonal, injectable, preservative free
+  2018-01-03 : Influenza, seasonal, injectable, preservative free
+  2016-12-28 : Influenza, seasonal, injectable, preservative free
+  2015-12-23 : Influenza, seasonal, injectable, preservative free
+  2014-12-17 : Influenza, seasonal, injectable, preservative free
+  2013-12-11 : Influenza, seasonal, injectable, preservative free
+  2012-12-05 : Td (adult) preservative free
+  2012-12-05 : Influenza, seasonal, injectable, preservative free
+  2011-11-30 : Influenza, seasonal, injectable, preservative free
+  2010-11-24 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+2020-01-15 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2019-01-09 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2018-02-20 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2018-01-03 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2017-09-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2016-12-28 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2015-12-23 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2014-12-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-12-11 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2013-01-17 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Viral sinusitis (disorder)
+2012-12-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Streptococcal sore throat (disorder)
+2012-12-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-09-25 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2012-08-14 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Acute viral pharyngitis (disorder)
+2011-11-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2011-08-02 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2010-11-24 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+2003-12-21 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig : Encounter for Impacted molars
+1960-10-05 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+1959-09-30 (Dr. Lea Cremer) : Encounter at Universitaetsklinikum Leipzig
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+--------------------------------------------------------------------------------

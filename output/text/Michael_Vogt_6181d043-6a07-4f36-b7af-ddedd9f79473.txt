@@ -1,0 +1,532 @@
+Michael Vogt
+============
+Race:                White
+Ethnicity:           Non-Hispanic
+Gender:              M
+Age:                 DECEASED
+Birth Date:          1941-04-24
+Marital Status:      M
+--------------------------------------------------------------------------------
+ALLERGIES:
+No Known Allergies
+--------------------------------------------------------------------------------
+MEDICATIONS:
+  1999-10-27[CURRENT] : 10 ML Furosemide 10 MG/ML Injection for Chronic congestive heart failure (disorder)
+  1998-03-14[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1995-08-10[STOPPED] : Acetaminophen 325 MG Oral Tablet for Acute bronchitis (disorder)
+  1995-05-21[CURRENT] : Furosemide 40 MG Oral Tablet for Chronic congestive heart failure (disorder)
+  1995-05-21[CURRENT] : 24 HR metoprolol succinate 100 MG Extended Release Oral Tablet [Toprol] for Chronic congestive heart failure (disorder)
+  1991-07-31[STOPPED] : Ibuprofen 200 MG Oral Tablet
+  1990-04-12[STOPPED] : Allopurinol 100 MG Oral Tablet for Gout
+  1990-04-12[STOPPED] : Colchicine 0.6 MG Oral Tablet for Gout
+--------------------------------------------------------------------------------
+CONDITIONS:
+  1998-03-14 - 1998-03-28 : Acute bronchitis (disorder)
+  1996-05-23 -            : Anemia (disorder)
+  1995-08-10 - 1995-08-17 : Acute bronchitis (disorder)
+  1995-04-30 -            : Chronic congestive heart failure (disorder)
+  1994-05-12 -            : Prediabetes
+  1991-07-31 - 1991-08-14 : Laceration of thigh
+  1990-04-12 -            : Gout
+--------------------------------------------------------------------------------
+CARE PLANS:
+  1999-10-27[CURRENT] : Inpatient care plan (record artifact)
+                         Activity: Cardiac care (regime/therapy)
+                         Activity: Low sodium diet (finding)
+  1998-03-14[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1995-08-10[STOPPED] : Respiratory therapy
+                         Reason: Acute bronchitis (disorder)
+                         Activity: Recommendation to avoid exercise
+                         Activity: Deep breathing and coughing exercises
+  1995-05-21[CURRENT] : Heart failure self management plan
+                         Reason: Chronic congestive heart failure (disorder)
+                         Reason: Chronic congestive heart failure (disorder)
+                         Reason: Chronic congestive heart failure (disorder)
+                         Reason: Chronic congestive heart failure (disorder)
+                         Activity: low salt diet education
+                         Activity: physical exercise
+  1994-05-12[CURRENT] : Diabetes self management plan
+                         Reason: Prediabetes
+                         Activity: Diabetic diet
+                         Activity: Exercise therapy
+  1991-07-31[STOPPED] : Wound care
+                         Reason: Laceration of thigh
+                         Activity: Dressing change management
+                         Activity: Behavior to prevent infection
+  1990-04-12[CURRENT] : Musculoskeletal care
+                         Reason: Gout
+                         Activity: Physical exercises
+                         Activity: Ice therapy
+                         Activity: Healthy diet
+--------------------------------------------------------------------------------
+REPORTS:
+  1999-10-27 : Basic Metabolic Panel
+           - Glucose                                  96.2 mg/dL
+           - Urea Nitrogen                            14.5 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   138.7 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           21.3 mmol/L
+  1999-10-27 : Comprehensive metabolic 2000 panel - Serum or Plasma
+           - Glucose                                  96.2 mg/dL
+           - Urea Nitrogen                            14.5 mg/dL
+           - Creatinine                               1.1 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   138.7 mmol/L
+           - Potassium                                4.0 mmol/L
+           - Chloride                                 106.8 mmol/L
+           - Carbon Dioxide                           21.3 mmol/L
+           - Glomerular filtration rate/1.73 sq M.predicted 22.8 mL/min
+           - Protein [Mass/volume] in Serum or Plasma 72.5 g/dL
+           - Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+           - Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+           - Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+           - Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 137.3 U/L
+           - Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 45.8 U/L
+           - Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.0 U/L
+  1999-06-10 : Basic Metabolic Panel
+           - Glucose                                  69.2 mg/dL
+           - Urea Nitrogen                            17.9 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.0 mg/dL
+           - Sodium                                   139.1 mmol/L
+           - Potassium                                4.7 mmol/L
+           - Chloride                                 101.5 mmol/L
+           - Carbon Dioxide                           28.9 mmol/L
+  1999-04-30 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       34.1 %
+  1998-06-04 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+           - MCV [Entitic volume] by Automated count  89.6 fL
+           - MCH [Entitic mass] by Automated count    27.1 pg
+           - MCHC [Mass/volume] by Automated count    34.9 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+           - Platelets [#/volume] in Blood by Automated count 338.6 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 317.2 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  1998-06-04 : Basic Metabolic Panel
+           - Glucose                                  67.0 mg/dL
+           - Urea Nitrogen                            12.9 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   140.0 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 101.5 mmol/L
+           - Carbon Dioxide                           23.4 mmol/L
+  1998-05-05 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       38.0 %
+  1998-04-02 : Basic Metabolic Panel
+           - Glucose                                  78.4 mg/dL
+           - Urea Nitrogen                            12.9 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  8.6 mg/dL
+           - Sodium                                   143.5 mmol/L
+           - Potassium                                4.8 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           21.9 mmol/L
+  1997-05-29 : Lipid Panel
+           - Total Cholesterol                        184.0 mg/dL
+           - Triglycerides                            105.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      92.9 mg/dL
+           - High Density Lipoprotein Cholesterol     70.1 mg/dL
+  1997-05-29 : Basic Metabolic Panel
+           - Glucose                                  93.4 mg/dL
+           - Urea Nitrogen                            8.2 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   138.4 mmol/L
+           - Potassium                                4.4 mmol/L
+           - Chloride                                 109.5 mmol/L
+           - Carbon Dioxide                           28.8 mmol/L
+  1996-11-10 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       43.3 %
+  1996-05-23 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+           - Hematocrit [Volume Fraction] of Blood    33.1 %
+           - WBC Auto (Bld) [#/Vol]                   6.2 10*3/uL
+           - RBC Auto (Bld) [#/Vol]                   4.3 10*6/uL
+           - MCV [Entitic volume] by Automated count  93.7 fL
+           - MCH [Entitic mass] by Automated count    27.2 pg
+           - MCHC [Mass/volume] by Automated count    35.6 g/dL
+           - RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 40.0 fL
+           - Platelets [#/volume] in Blood by Automated count 248.9 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 386.3 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  1996-05-23 : Basic Metabolic Panel
+           - Glucose                                  71.1 mg/dL
+           - Urea Nitrogen                            16.8 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.4 mg/dL
+           - Sodium                                   142.3 mmol/L
+           - Potassium                                4.9 mmol/L
+           - Chloride                                 108.6 mmol/L
+           - Carbon Dioxide                           22.2 mmol/L
+  1995-05-21 : Heartfailure Tracking Panel
+           - Left ventricular Ejection fraction       31.3 %
+  1995-05-18 : Basic Metabolic Panel
+           - Glucose                                  79.4 mg/dL
+           - Urea Nitrogen                            10.4 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.8 mg/dL
+           - Sodium                                   143.2 mmol/L
+           - Potassium                                4.5 mmol/L
+           - Chloride                                 107.5 mmol/L
+           - Carbon Dioxide                           25.6 mmol/L
+  1995-04-30 : Basic Metabolic Panel
+           - Glucose                                  85.0 mg/dL
+           - Urea Nitrogen                            14.7 mg/dL
+           - Creatinine                               1.0 mg/dL
+           - Calcium                                  9.5 mg/dL
+           - Sodium                                   139.8 mmol/L
+           - Potassium                                5.2 mmol/L
+           - Chloride                                 101.7 mmol/L
+           - Carbon Dioxide                           24.1 mmol/L
+  1994-05-12 : Lipid Panel
+           - Total Cholesterol                        194.7 mg/dL
+           - Triglycerides                            103.5 mg/dL
+           - Low Density Lipoprotein Cholesterol      96.2 mg/dL
+           - High Density Lipoprotein Cholesterol     77.8 mg/dL
+  1993-05-06 : Complete blood count (hemogram) panel - Blood by Automated count
+           - Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+           - Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+           - Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+           - Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+           - MCV [Entitic volume] by Automated count  92.7 fL
+           - MCH [Entitic mass] by Automated count    32.1 pg
+           - MCHC [Mass/volume] by Automated count    35.4 g/dL
+           - Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+           - Platelets [#/volume] in Blood by Automated count 179.0 10*3/uL
+           - Platelet distribution width [Entitic volume] in Blood by Automated count 479.5 fL
+           - Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  1991-04-25 : Lipid Panel
+           - Total Cholesterol                        179.5 mg/dL
+           - Triglycerides                            114.4 mg/dL
+           - Low Density Lipoprotein Cholesterol      85.8 mg/dL
+           - High Density Lipoprotein Cholesterol     70.8 mg/dL
+--------------------------------------------------------------------------------
+OBSERVATIONS:
+  1999-10-27 : Carbon Dioxide                           21.3 mmol/L
+  1999-10-27 : Chloride                                 106.8 mmol/L
+  1999-10-27 : Potassium                                4.0 mmol/L
+  1999-10-27 : Sodium                                   138.7 mmol/L
+  1999-10-27 : Calcium                                  9.4 mg/dL
+  1999-10-27 : Creatinine                               1.1 mg/dL
+  1999-10-27 : Urea Nitrogen                            14.5 mg/dL
+  1999-10-27 : Glucose                                  96.2 mg/dL
+  1999-10-27 : Oxygen saturation in Arterial blood      72.4 %
+  1999-10-27 : Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma 33.0 U/L
+  1999-10-27 : Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma 45.8 U/L
+  1999-10-27 : Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma 137.3 U/L
+  1999-10-27 : Bilirubin.total [Mass/volume] in Serum or Plasma 0.7 mg/dL
+  1999-10-27 : Globulin [Mass/volume] in Serum by calculation 2.1 g/L
+  1999-10-27 : Albumin [Mass/volume] in Serum or Plasma 3.8 g/dL
+  1999-10-27 : Protein [Mass/volume] in Serum or Plasma 72.5 g/dL
+  1999-10-27 : Glomerular filtration rate/1.73 sq M.predicted 22.8 mL/min
+  1999-10-27 : Carbon Dioxide                           21.3 mmol/L
+  1999-10-27 : Chloride                                 106.8 mmol/L
+  1999-10-27 : Potassium                                4.0 mmol/L
+  1999-10-27 : Sodium                                   138.7 mmol/L
+  1999-10-27 : Calcium                                  9.4 mg/dL
+  1999-10-27 : Creatinine                               1.1 mg/dL
+  1999-10-27 : Urea Nitrogen                            14.5 mg/dL
+  1999-10-27 : Glucose                                  96.2 mg/dL
+  1999-06-10 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  1999-06-10 : Tobacco smoking status NHIS              Never smoker 
+  1999-06-10 : Carbon Dioxide                           28.9 mmol/L
+  1999-06-10 : Chloride                                 101.5 mmol/L
+  1999-06-10 : Potassium                                4.7 mmol/L
+  1999-06-10 : Sodium                                   139.1 mmol/L
+  1999-06-10 : Calcium                                  9.0 mg/dL
+  1999-06-10 : Creatinine                               1.0 mg/dL
+  1999-06-10 : Urea Nitrogen                            17.9 mg/dL
+  1999-06-10 : Glucose                                  69.2 mg/dL
+  1999-06-10 : Respiratory rate                         16.0 /min
+  1999-06-10 : Heart rate                               90.0 /min
+  1999-06-10 : Blood Pressure
+           - Diastolic Blood Pressure                 77.0 mm[Hg]
+           - Systolic Blood Pressure                  108.0 mm[Hg]
+  1999-06-10 : Body Mass Index                          27.8 kg/m2
+  1999-06-10 : Body Weight                              86.4 kg
+  1999-06-10 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 0.0 {score}
+  1999-06-10 : Body Height                              176.3 cm
+  1999-04-30 : Left ventricular Ejection fraction       34.1 %
+  1999-04-30 : Left ventricular Ejection fraction       34.2 %
+  1998-06-04 : Hemoglobin A1c/Hemoglobin.total in Blood 6.1 %
+  1998-06-04 : Tobacco smoking status NHIS              Never smoker 
+  1998-06-04 : Platelet mean volume [Entitic volume] in Blood by Automated count 12.1 fL
+  1998-06-04 : Platelet distribution width [Entitic volume] in Blood by Automated count 317.2 fL
+  1998-06-04 : Platelets [#/volume] in Blood by Automated count 338.6 10*3/uL
+  1998-06-04 : Erythrocyte distribution width [Entitic volume] by Automated count 45.4 fL
+  1998-06-04 : MCHC [Mass/volume] by Automated count    34.9 g/dL
+  1998-06-04 : MCH [Entitic mass] by Automated count    27.1 pg
+  1998-06-04 : MCV [Entitic volume] by Automated count  89.6 fL
+  1998-06-04 : Hematocrit [Volume Fraction] of Blood by Automated count 41.5 %
+  1998-06-04 : Hemoglobin [Mass/volume] in Blood        14.0 g/dL
+  1998-06-04 : Erythrocytes [#/volume] in Blood by Automated count 4.0 10*6/uL
+  1998-06-04 : Leukocytes [#/volume] in Blood by Automated count 10.0 10*3/uL
+  1998-06-04 : Carbon Dioxide                           23.4 mmol/L
+  1998-06-04 : Chloride                                 101.5 mmol/L
+  1998-06-04 : Potassium                                4.5 mmol/L
+  1998-06-04 : Sodium                                   140.0 mmol/L
+  1998-06-04 : Calcium                                  9.8 mg/dL
+  1998-06-04 : Creatinine                               1.0 mg/dL
+  1998-06-04 : Urea Nitrogen                            12.9 mg/dL
+  1998-06-04 : Glucose                                  67.0 mg/dL
+  1998-06-04 : Respiratory rate                         14.0 /min
+  1998-06-04 : Heart rate                               60.0 /min
+  1998-06-04 : Blood Pressure
+           - Diastolic Blood Pressure                 82.0 mm[Hg]
+           - Systolic Blood Pressure                  112.0 mm[Hg]
+  1998-06-04 : Body Mass Index                          27.8 kg/m2
+  1998-06-04 : Body Weight                              86.4 kg
+  1998-06-04 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1998-06-04 : Body Height                              176.3 cm
+  1998-05-05 : Left ventricular Ejection fraction       38.0 %
+  1998-05-05 : Left ventricular Ejection fraction       35.0 %
+  1998-04-02 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  1998-04-02 : Tobacco smoking status NHIS              Never smoker 
+  1998-04-02 : Carbon Dioxide                           21.9 mmol/L
+  1998-04-02 : Chloride                                 109.5 mmol/L
+  1998-04-02 : Potassium                                4.8 mmol/L
+  1998-04-02 : Sodium                                   143.5 mmol/L
+  1998-04-02 : Calcium                                  8.6 mg/dL
+  1998-04-02 : Creatinine                               1.0 mg/dL
+  1998-04-02 : Urea Nitrogen                            12.9 mg/dL
+  1998-04-02 : Glucose                                  78.4 mg/dL
+  1998-04-02 : Respiratory rate                         14.0 /min
+  1998-04-02 : Heart rate                               86.0 /min
+  1998-04-02 : Blood Pressure
+           - Diastolic Blood Pressure                 72.0 mm[Hg]
+           - Systolic Blood Pressure                  121.0 mm[Hg]
+  1998-04-02 : Body Mass Index                          27.8 kg/m2
+  1998-04-02 : Body Weight                              86.4 kg
+  1998-04-02 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1998-04-02 : Body Height                              176.3 cm
+  1997-05-29 : Hemoglobin A1c/Hemoglobin.total in Blood 6.2 %
+  1997-05-29 : Tobacco smoking status NHIS              Never smoker 
+  1997-05-29 : High Density Lipoprotein Cholesterol     70.1 mg/dL
+  1997-05-29 : Low Density Lipoprotein Cholesterol      92.9 mg/dL
+  1997-05-29 : Triglycerides                            105.4 mg/dL
+  1997-05-29 : Total Cholesterol                        184.0 mg/dL
+  1997-05-29 : Carbon Dioxide                           28.8 mmol/L
+  1997-05-29 : Chloride                                 109.5 mmol/L
+  1997-05-29 : Potassium                                4.4 mmol/L
+  1997-05-29 : Sodium                                   138.4 mmol/L
+  1997-05-29 : Calcium                                  9.5 mg/dL
+  1997-05-29 : Creatinine                               1.0 mg/dL
+  1997-05-29 : Urea Nitrogen                            8.2 mg/dL
+  1997-05-29 : Glucose                                  93.4 mg/dL
+  1997-05-29 : Respiratory rate                         12.0 /min
+  1997-05-29 : Heart rate                               65.0 /min
+  1997-05-29 : Blood Pressure
+           - Diastolic Blood Pressure                 76.0 mm[Hg]
+           - Systolic Blood Pressure                  104.0 mm[Hg]
+  1997-05-29 : Body Mass Index                          27.8 kg/m2
+  1997-05-29 : Body Weight                              86.4 kg
+  1997-05-29 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 4.0 {score}
+  1997-05-29 : Body Height                              176.3 cm
+  1996-11-10 : Left ventricular Ejection fraction       43.3 %
+  1996-11-10 : Left ventricular Ejection fraction       38.9 %
+  1996-05-23 : Platelet mean volume [Entitic volume] in Blood by Automated count 11.1 fL
+  1996-05-23 : Platelet distribution width [Entitic volume] in Blood by Automated count 386.3 fL
+  1996-05-23 : Platelets [#/volume] in Blood by Automated count 248.9 10*3/uL
+  1996-05-23 : RDW - Erythrocyte distribution width Auto (RBC) [Entitic vol] 40.0 fL
+  1996-05-23 : MCHC [Mass/volume] by Automated count    35.6 g/dL
+  1996-05-23 : MCH [Entitic mass] by Automated count    27.2 pg
+  1996-05-23 : MCV [Entitic volume] by Automated count  93.7 fL
+  1996-05-23 : RBC Auto (Bld) [#/Vol]                   4.3 10*6/uL
+  1996-05-23 : WBC Auto (Bld) [#/Vol]                   6.2 10*3/uL
+  1996-05-23 : Hematocrit [Volume Fraction] of Blood    33.1 %
+  1996-05-23 : Hemoglobin [Mass/volume] in Blood        11.2 g/dL
+  1996-05-23 : Hemoglobin A1c/Hemoglobin.total in Blood 6.0 %
+  1996-05-23 : Tobacco smoking status NHIS              Never smoker 
+  1996-05-23 : Carbon Dioxide                           22.2 mmol/L
+  1996-05-23 : Chloride                                 108.6 mmol/L
+  1996-05-23 : Potassium                                4.9 mmol/L
+  1996-05-23 : Sodium                                   142.3 mmol/L
+  1996-05-23 : Calcium                                  9.4 mg/dL
+  1996-05-23 : Creatinine                               1.0 mg/dL
+  1996-05-23 : Urea Nitrogen                            16.8 mg/dL
+  1996-05-23 : Glucose                                  71.1 mg/dL
+  1996-05-23 : Respiratory rate                         14.0 /min
+  1996-05-23 : Heart rate                               75.0 /min
+  1996-05-23 : Blood Pressure
+           - Diastolic Blood Pressure                 79.0 mm[Hg]
+           - Systolic Blood Pressure                  119.0 mm[Hg]
+  1996-05-23 : Body Mass Index                          27.8 kg/m2
+  1996-05-23 : Body Weight                              86.4 kg
+  1996-05-23 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1996-05-23 : Body Height                              176.3 cm
+  1995-05-21 : Left ventricular Ejection fraction       31.3 %
+  1995-05-21 : Left ventricular Ejection fraction       32.2 %
+  1995-05-18 : Hemoglobin A1c/Hemoglobin.total in Blood 6.4 %
+  1995-05-18 : Tobacco smoking status NHIS              Never smoker 
+  1995-05-18 : Carbon Dioxide                           25.6 mmol/L
+  1995-05-18 : Chloride                                 107.5 mmol/L
+  1995-05-18 : Potassium                                4.5 mmol/L
+  1995-05-18 : Sodium                                   143.2 mmol/L
+  1995-05-18 : Calcium                                  9.8 mg/dL
+  1995-05-18 : Creatinine                               1.0 mg/dL
+  1995-05-18 : Urea Nitrogen                            10.4 mg/dL
+  1995-05-18 : Glucose                                  79.4 mg/dL
+  1995-05-18 : Respiratory rate                         12.0 /min
+  1995-05-18 : Heart rate                               66.0 /min
+  1995-05-18 : Blood Pressure
+           - Diastolic Blood Pressure                 84.0 mm[Hg]
+           - Systolic Blood Pressure                  129.0 mm[Hg]
+  1995-05-18 : Body Mass Index                          27.8 kg/m2
+  1995-05-18 : Body Weight                              86.4 kg
+  1995-05-18 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1995-05-18 : Body Height                              176.3 cm
+  1995-04-30 : Carbon Dioxide                           24.1 mmol/L
+  1995-04-30 : Chloride                                 101.7 mmol/L
+  1995-04-30 : Potassium                                5.2 mmol/L
+  1995-04-30 : Sodium                                   139.8 mmol/L
+  1995-04-30 : Calcium                                  9.5 mg/dL
+  1995-04-30 : Creatinine                               1.0 mg/dL
+  1995-04-30 : Urea Nitrogen                            14.7 mg/dL
+  1995-04-30 : Glucose                                  85.0 mg/dL
+  1995-04-30 : NT-proBNP                                954.0 pg/mL
+  1994-05-12 : Hemoglobin A1c/Hemoglobin.total in Blood 6.3 %
+  1994-05-12 : Tobacco smoking status NHIS              Never smoker 
+  1994-05-12 : High Density Lipoprotein Cholesterol     77.8 mg/dL
+  1994-05-12 : Low Density Lipoprotein Cholesterol      96.2 mg/dL
+  1994-05-12 : Triglycerides                            103.5 mg/dL
+  1994-05-12 : Total Cholesterol                        194.7 mg/dL
+  1994-05-12 : Respiratory rate                         13.0 /min
+  1994-05-12 : Heart rate                               77.0 /min
+  1994-05-12 : Blood Pressure
+           - Diastolic Blood Pressure                 87.0 mm[Hg]
+           - Systolic Blood Pressure                  124.0 mm[Hg]
+  1994-05-12 : Body Mass Index                          27.8 kg/m2
+  1994-05-12 : Body Weight                              86.4 kg
+  1994-05-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1994-05-12 : Body Height                              176.3 cm
+  1993-05-06 : Tobacco smoking status NHIS              Never smoker 
+  1993-05-06 : Platelet mean volume [Entitic volume] in Blood by Automated count 10.6 fL
+  1993-05-06 : Platelet distribution width [Entitic volume] in Blood by Automated count 479.5 fL
+  1993-05-06 : Platelets [#/volume] in Blood by Automated count 179.0 10*3/uL
+  1993-05-06 : Erythrocyte distribution width [Entitic volume] by Automated count 45.9 fL
+  1993-05-06 : MCHC [Mass/volume] by Automated count    35.4 g/dL
+  1993-05-06 : MCH [Entitic mass] by Automated count    32.1 pg
+  1993-05-06 : MCV [Entitic volume] by Automated count  92.7 fL
+  1993-05-06 : Hematocrit [Volume Fraction] of Blood by Automated count 47.8 %
+  1993-05-06 : Hemoglobin [Mass/volume] in Blood        15.3 g/dL
+  1993-05-06 : Erythrocytes [#/volume] in Blood by Automated count 4.8 10*6/uL
+  1993-05-06 : Leukocytes [#/volume] in Blood by Automated count 10.1 10*3/uL
+  1993-05-06 : Respiratory rate                         14.0 /min
+  1993-05-06 : Heart rate                               74.0 /min
+  1993-05-06 : Blood Pressure
+           - Diastolic Blood Pressure                 74.0 mm[Hg]
+           - Systolic Blood Pressure                  110.0 mm[Hg]
+  1993-05-06 : Body Mass Index                          27.8 kg/m2
+  1993-05-06 : Body Weight                              86.4 kg
+  1993-05-06 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 3.0 {score}
+  1993-05-06 : Body Height                              176.3 cm
+  1992-04-30 : Tobacco smoking status NHIS              Never smoker 
+  1992-04-30 : Respiratory rate                         13.0 /min
+  1992-04-30 : Heart rate                               62.0 /min
+  1992-04-30 : Blood Pressure
+           - Diastolic Blood Pressure                 80.0 mm[Hg]
+           - Systolic Blood Pressure                  122.0 mm[Hg]
+  1992-04-30 : Body Mass Index                          27.8 kg/m2
+  1992-04-30 : Body Weight                              86.4 kg
+  1992-04-30 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 1.0 {score}
+  1992-04-30 : Body Height                              176.3 cm
+  1991-04-25 : Tobacco smoking status NHIS              Never smoker 
+  1991-04-25 : High Density Lipoprotein Cholesterol     70.8 mg/dL
+  1991-04-25 : Low Density Lipoprotein Cholesterol      85.8 mg/dL
+  1991-04-25 : Triglycerides                            114.4 mg/dL
+  1991-04-25 : Total Cholesterol                        179.5 mg/dL
+  1991-04-25 : Respiratory rate                         13.0 /min
+  1991-04-25 : Heart rate                               89.0 /min
+  1991-04-25 : Blood Pressure
+           - Diastolic Blood Pressure                 85.0 mm[Hg]
+           - Systolic Blood Pressure                  102.0 mm[Hg]
+  1991-04-25 : Body Mass Index                          27.8 kg/m2
+  1991-04-25 : Body Weight                              86.4 kg
+  1991-04-25 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 2.0 {score}
+  1991-04-25 : Body Height                              176.3 cm
+  1990-04-12 : Pain severity - 0-10 verbal numeric rating [Score] - Reported 7.0 {score}
+--------------------------------------------------------------------------------
+PROCEDURES:
+  1999-10-27 : Plain chest X-ray
+  1999-10-27 : Transthoracic echocardiography
+  1999-10-27 : Plain chest X-ray (procedure)
+  1999-06-10 : Medication Reconciliation (procedure)
+  1999-04-30 : Transthoracic three dimensional ultrasonography of heart (procedure)
+  1998-05-05 : Transthoracic three dimensional ultrasonography of heart (procedure)
+  1998-04-02 : Medication Reconciliation (procedure)
+  1998-03-14 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  1996-11-10 : Transthoracic three dimensional ultrasonography of heart (procedure)
+  1996-05-23 : Brief general examination (procedure)
+  1996-05-23 : Medication Reconciliation (procedure)
+  1996-05-23 : Review of systems (procedure)
+  1996-05-23 : Peripheral blood smear interpretation
+  1996-04-23 : Colonoscopy
+  1995-08-10 : Sputum examination (procedure) for Acute bronchitis (disorder)
+  1995-05-21 : Transthoracic three dimensional ultrasonography of heart (procedure)
+  1995-05-18 : Medication Reconciliation (procedure)
+  1994-05-12 : Medication Reconciliation (procedure)
+  1992-04-30 : Medication Reconciliation (procedure)
+  1991-07-31 : Suture open wound for Laceration of thigh
+  1991-04-25 : Medication Reconciliation (procedure)
+  1991-04-25 : Colonoscopy
+--------------------------------------------------------------------------------
+IMMUNIZATIONS:
+  1999-06-10 : Influenza, seasonal, injectable, preservative free
+  1998-03-25 : Influenza, seasonal, injectable, preservative free
+  1997-05-29 : Influenza, seasonal, injectable, preservative free
+  1996-05-23 : Influenza, seasonal, injectable, preservative free
+  1995-05-18 : Influenza, seasonal, injectable, preservative free
+  1994-05-12 : Influenza, seasonal, injectable, preservative free
+  1993-05-06 : Influenza, seasonal, injectable, preservative free
+  1992-04-30 : Td (adult) preservative free
+  1992-04-30 : Influenza, seasonal, injectable, preservative free
+  1991-04-25 : Influenza, seasonal, injectable, preservative free
+--------------------------------------------------------------------------------
+ENCOUNTERS:
+1999-10-27 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Chronic congestive heart failure (disorder)
+1999-10-27 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Chronic congestive heart failure (disorder)
+1999-06-10 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1999-04-30 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Chronic congestive heart failure (disorder)
+1998-06-04 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1998-05-05 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Chronic congestive heart failure (disorder)
+1998-04-02 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1998-03-25 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1998-03-14 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Acute bronchitis (disorder)
+1997-05-29 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1996-11-10 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Chronic congestive heart failure (disorder)
+1996-05-23 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Anemia (disorder)
+1996-05-23 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1996-04-23 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1995-08-17 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1995-08-10 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Acute bronchitis (disorder)
+1995-05-21 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Chronic congestive heart failure (disorder)
+1995-05-18 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1995-04-30 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Chronic congestive heart failure (disorder)
+1994-05-12 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1993-05-06 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1992-04-30 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1991-07-31 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1991-04-25 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1991-04-25 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden
+1990-04-12 (Dr. Emmi Wiedemann) : Encounter at Universitaetsklinikum Carl Gustav Carus Dresden : Encounter for Gout
+--------------------------------------------------------------------------------
+IMAGING STUDIES:
+  1999-10-27 : Digital Radiography, Thoracic structure
+  1999-10-27 : Ultrasound, Thoracic
+  1999-10-27 : Computed Radiography, Thoracic structure (body structure)
+  1999-04-30 : Ultrasound, thoracic
+  1998-05-05 : Ultrasound, thoracic
+  1996-11-10 : Ultrasound, thoracic
+  1995-05-21 : Ultrasound, thoracic
+--------------------------------------------------------------------------------
