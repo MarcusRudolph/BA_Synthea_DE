@@ -1,0 +1,2 @@
+,id,name,adress,city,state_headquartered,zip,phone,states_covered,services_covered,deductible,default_coinsurance,default_copay,monthly_premium,ownership
+0,10001,AOK Plus,Sternplatz 7,Dresden,SN,01067,0800 1059000,"SN, TH",*,0,0.0,0,0,Government
