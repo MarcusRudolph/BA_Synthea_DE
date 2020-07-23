@@ -18,7 +18,7 @@ Beispiele für das Ausführen von Synthea zur Erzeugung deutscher Patienten:
 ./run_synthea Sachsen "Leipzig"  
 ./run_synthea Sachsen "Dresden" -p 10  
   
-Bitte beachten: da der Quellcode teilweise verändert wurde, kann es zu Fehlern kommen beim generieren amerikanischer Patienten.
+Bitte beachten: da der Quellcode teilweise verändert wurde, kann es zu Fehlern kommen beim generieren amerikanischer Patienten.  
 Falls Fehler beim build auftreten kann evtl. den Befehl 'gradle build check test --debug' helfen. 
 
 ## mögliche Verbesserungen ##
