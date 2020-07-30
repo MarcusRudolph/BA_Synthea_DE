@@ -3,7 +3,7 @@
 ## Hinweis ##
 Der Synthea_DE Ordner enthält die Konfigurationsdateien um mit Synthea deutsche Daten generieren zu können. Derzeit sind lediglich die Städte Leipzig und Dresden vorhanden, weitere Städte und Bundesländer können jedoch nach der Anleitung [hier](https://github.com/synthetichealth/synthea/wiki/Other-Areas) ersetzt oder ergänzt werden.
 
-Da diese Anpassungen im Rahmen meiner Bachelorarbeit stattfanden, stelle ich die Arbeit hier ebenfalls zur Verfügung.  
+Da diese Anpassungen im Rahmen meiner Bachelorarbeit stattfanden, stelle ich die Arbeit in Zukunft hier ebenfalls zur Verfügung.  
 
 Im Output/Fhir Ordner befinden sich bereits ca. 100 Patienten die testweise im Fhir R4 Standard erzeugt wurden.  
 
