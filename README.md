@@ -9,10 +9,10 @@ Im Output/Fhir Ordner befinden sich bereits ca. 100 Patienten die testweise im F
 
 
 ## Nutzung ##
-Syntheas Ressourcenordner synthea\src\main kann durch diesen main Ordner hier ersetzt werden.  
+Syntheas Ressourcenordner *synthea\src\main* kann durch diesen main Ordner hier ersetzt werden.  
 Die synthea.properties Datei kann dann noch nach Wunsch angepasst werden.  
 Kompilieren Sie den Code und anschließend können deutsche Patienten generiert werden.  
-Auch nach wenn der build fehlschlägt (Aufgrund der Java Tests) können mit 'run_synthea Sachsen ...' Patienten erzeugt werden.
+Auch nach wenn der build fehlschlägt (Aufgrund der Java Tests) können mit *run_synthea Sachsen ...* Patienten erzeugt werden.
 
 Eine allgemeine Anleitung ist für Synthea [hier](https://github.com/synthetichealth/synthea/wiki/Developer-Setup-and-Running) zu finden. 
 
