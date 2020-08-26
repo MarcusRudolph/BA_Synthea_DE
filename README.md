@@ -12,7 +12,7 @@ Im Output/Fhir Ordner befinden sich bereits ca. 100 Patienten die testweise im F
 Syntheas Ressourcenordner *synthea\src\main* kann durch diesen main Ordner hier ersetzt werden.  
 Die synthea.properties Datei kann dann noch nach Wunsch angepasst werden.  
 Kompilieren Sie den Code und anschließend können deutsche Patienten generiert werden.  
-Auch nach wenn der build fehlschlägt (Aufgrund der Java Tests) können mit *run_synthea Sachsen ...* Patienten erzeugt werden.
+Auch nach wenn der build fehlschlägt (Aufgrund der Java Tests) können mit *run_synthea Sachsen ...* Patienten erzeugt werden.  
 
 Eine allgemeine Anleitung ist für Synthea [hier](https://github.com/synthetichealth/synthea/wiki/Developer-Setup-and-Running) zu finden. 
 
@@ -23,7 +23,7 @@ Beispiele für das Ausführen von Synthea zur Erzeugung deutscher Patienten:
   
 Bitte beachten: da der Quellcode teilweise verändert wurde,  
 kann es zu Fehlern kommen beim generieren amerikanischer Patienten.  
-Falls Fehler beim build auftreten kann evtl. der Befehl 'gradle build check test --debug' helfen. 
+Falls Fehler beim build auftreten kann evtl. der Befehl 'gradle build check test --debug' helfen.  
 Achten Sie auch darauf dass Sie kompatible Java und Gradle Versionen nutzen.
 
 ## mögliche Verbesserungen ##
